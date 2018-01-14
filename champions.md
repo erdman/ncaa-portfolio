@@ -1,4 +1,4 @@
-### NCAA Portfolio Hall of Champions
+# NCAA Portfolio Hall of Champions
 
 Year | Champion
 ---- | --------
