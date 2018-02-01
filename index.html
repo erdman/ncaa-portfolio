@@ -11,7 +11,8 @@
     <!-- Custom styles for this template -->
     <link href="starter-template.css" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css">
+
     <style type="text/css">
         #resize_wrapper {
             position: absolute;
@@ -21,9 +22,6 @@
             bottom: 1em;
         }
     </style>
-<!--
-    <title>Hello, world!</title>
--->
   </head>
   <body>
 
@@ -68,8 +66,10 @@
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" id='search'>
+<!--
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+-->
         </form>
       </div>
     </nav>
@@ -88,7 +88,7 @@
 
 
         <div id="resize_wrapper">
-            <table id="example" class="display nowrap" cellspacing="0" width="100%">
+            <table id="example" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
                 <thead>
                     <tr>
                         <th>Name</th>
@@ -524,7 +524,7 @@
                         <td>Hermione Butler</td>
                         <td>Regional Director</td>
                         <td>London</td>
-                        <td>47</td>
+                        <td>7</td>
                         <td>2011/03/21</td>
                         <td>$356,250</td>
                     </tr>
@@ -540,7 +540,7 @@
                         <td>Jonas Alexander</td>
                         <td>Developer</td>
                         <td>San Francisco</td>
-                        <td>30</td>
+                        <td>3</td>
                         <td>2010/07/14</td>
                         <td>$86,500</td>
                     </tr>
@@ -548,7 +548,7 @@
                         <td>Shad Decker</td>
                         <td>Regional Director</td>
                         <td>Edinburgh</td>
-                        <td>51</td>
+                        <td>1</td>
                         <td>2008/11/13</td>
                         <td>$183,000</td>
                     </tr>
@@ -583,17 +583,23 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
     <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
     <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/plug-ins/1.10.16/features/scrollResize/dataTables.scrollResize.min.js"></script>
     <script type="text/javascript" charset="utf-8">
         $(document).ready( function () {
             // DataTables initialisation
             var table = $('#example').DataTable( {
+                "dom": 'lrtip',         <!-- removes the native search input box-->
                 scrollResize: true,
                 scrollX: true,
                 scrollY: 100,
                 scrollCollapse: true,
                 paging: false,
                 lengthChange: false
+            } );
+            <!-- wire up the search box in template header  -->
+            $('#search').on( 'keyup', function () {
+                table.search( this.value ).draw();
             } );
         } );
     </script>
