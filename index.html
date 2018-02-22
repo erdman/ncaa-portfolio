@@ -13,16 +13,61 @@
 
     <!-- Custom styles for the large space filling tables, taken from an example on datatables.net -->
     <style type="text/css">
-        #resize_wrapper {
+        #leaderboard_div {
             position: absolute;
-            top: 5em;
+            top: 3em;
             left: 1em;
             right: 1em;
             bottom: 1em;
         }
+<!--
+        #Champions {
+            position: absolute;
+            top: 3em;
+            left: 1em;
+            right: 1em;
+            bottom: 1em;
+        }
+-->
     </style>
   </head>
   <body>
+    <div>
+
+      <ul class="nav nav-pills nav-justified">
+        <li class="nav-item">
+            <a class="navbar-brand" href="#">NCAAportfolio.com</a>
+        </li>
+        <li class="nav-item">
+            <a class='nav-link active' data-toggle="tab" href="#leaderboard_div">Leaderboard</a>
+        </li>
+        <li class="nav-item">
+            <a class='nav-link' data-toggle="tab" href="#Summary">Summary</a>
+        </li>
+        <li class="nav-item">
+            <a class='nav-link' data-toggle="tab" href="#Details">Details</a>
+        </li>
+        <li class="nav-item">
+            <a class='nav-link' data-toggle="tab" href="#Champions">Champions</a>
+        </li>
+        <li class="nav-item">
+<!--
+          <a class="nav-link" data-toggle="tab" href="#Year">Year</a>
+-->
+          <select class="nav-link" style="float: right; background-color: white">
+            <option>2017</option>
+            <option>2016</option>
+          </select>
+        </li>
+        <li class="nav-item">
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" id='search'>
+            </form>
+        </li>
+      </ul>
+
+    </div>
+<!--
     <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #007ac3;">
       <a class="navbar-brand" href="#">NCAAportfolio.com</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -63,10 +108,62 @@
         </form>
       </div>
     </nav>
+-->
 
-    <main role="main" class="container">
-        <div id="resize_wrapper">
-            <table id="example" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
+    <main role="main" class="tab-content">
+        <div id="Summary" class="tab-pane fade">
+            <h3>Menu 1</h3>
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div id="Details" class="tab-pane fade">
+            <h3>Menu 2</h3>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+        </div>
+        <div id="Champions" class="tab-pane fade">
+            <table id="champions_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>Champion</th>
+                     </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>2017</td>
+                        <td>Travis Erdman</td>
+                    </tr>
+                    <tr>
+                        <td>2016</td>
+                        <td>Jason Kopka</td>
+                    </tr>
+                    <tr>
+                        <td>2015</td>
+                        <td>Travis Erdman</td>
+                    </tr>
+                    <tr>
+                        <td>2014</td>
+                        <td>Steve Schubert</td>
+                    </tr>
+                    <tr>
+                        <td>2013</td>
+                        <td>TJ Nolan</td>
+                    </tr>
+                    <tr>
+                        <td>2012</td>
+                        <td>Tony Andronaco</td>
+                    </tr>
+                    <tr>
+                        <td>2011</td>
+                        <td>TJ Nolan</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+
+        <div id="leaderboard_div" class="tab-pane active fade in" >
+            <table id="leaderboard_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
                 <thead>
                     <tr>
                         <th>Name</th>
@@ -566,7 +663,7 @@
     <script type="text/javascript" charset="utf-8">
         $(document).ready( function () {
             // DataTables initialisation
-            var table = $('#example').DataTable( {
+            var table = $('table').DataTable( {
                 "dom": 'lrtip',         <!-- removes the native search input box-->
                 scrollResize: true,
                 scrollX: true,
