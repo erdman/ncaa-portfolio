@@ -111,15 +111,37 @@
 -->
 
     <main role="main" class="tab-content">
-        <div id="Summary" class="tab-pane fade">
+        <div id="Summary" class="tab-pane fade in">
             <h3>Menu 1</h3>
             <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
-        <div id="Details" class="tab-pane fade">
-            <h3>Menu 2</h3>
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+        <div id="Details" class="tab-pane fade in">
+            <table id="example_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Rank</th>
+                        <th>AWAY</th>
+                        <th>Score</th>
+                        <th>Rank</th>
+                        <th>HOME</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Date</th>
+                        <th>Rank</th>
+                        <th>AWAY</th>
+                        <th>Score</th>
+                        <th>Rank</th>
+                        <th>HOME</th>
+                        <th>Score</th>
+                    </tr>
+                </tfoot>
+            </table>
         </div>
-        <div id="Champions" class="tab-pane fade">
+        <div id="Champions" class="tab-pane fade in">
             <table id="champions_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
                 <thead>
                     <tr>
@@ -162,7 +184,7 @@
             </table>
         </div>
 
-        <div id="leaderboard_div" class="tab-pane active fade in" >
+        <div id="leaderboard_div" class="tab-pane active fade in show" >
             <table id="leaderboard_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
                 <thead>
                     <tr>
@@ -653,7 +675,10 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<!--
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+-->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
@@ -663,7 +688,8 @@
     <script type="text/javascript" charset="utf-8">
         $(document).ready( function () {
             // DataTables initialisation
-            var table = $('table').DataTable( {
+            var table = $('#leaderboard_table').DataTable( {
+            //~ $('table').DataTable( {
                 "dom": 'lrtip',         <!-- removes the native search input box-->
                 scrollResize: true,
                 scrollX: true,
@@ -674,8 +700,54 @@
             } );
             <!-- wire up the search box in template header  -->
             $('#search').on( 'keyup', function () {
-                table.search( this.value ).draw();
+                <!-- set table variable to the active/displayed table on page -->
+                //~ table.search( this.value ).draw();
+                $($.fn.dataTable.tables(true)).DataTable().search( this.value ).draw();
             } );
+            <!-- load game results json from data.ncaa.com -->
+            var games, portfolios;
+            //~ $.getJSON(  'json/2017/201701.json',
+            //~ $('a[data-toggle="tab"]').on('shown.bs.tab', function(e){
+            $.getJSON(  'json/2017.json',
+                        function (data) {
+                            games = data;
+                            // process games into displayable data
+                            console.log(games);
+                            $('#example_table').DataTable( {
+                                data: games,
+                                columns: [
+                                    { "data": "startDate" },
+                                    { "data": "away.teamRank" },
+                                    { "data": "away.nameRaw" },
+                                    { "data": "away.currentScore" },
+                                    { "data": "home.teamRank" },
+                                    { "data": "home.nameRaw" },
+                                    { "data": "home.currentScore" }
+                                    ],
+                                "dom": 'lrtip',         <!-- removes the native search input box-->
+                                //~ scrollResize: true,
+                                scrollX: true,
+                                scrollY: 750,  //100,
+                                scrollCollapse: true,
+                                paging: false,
+                                lengthChange: false
+                                //~ retrieve: true
+                            });
+                        }
+            );
+            //~ });
+            //~ $.("selector").click(function(event) {
+                //~ });
+            //~ $('a[data-toggle="tab"]').on('shown.bs.tab', function(e){
+                //~ $($.fn.dataTable.tables(true)).DataTable()
+                    //~ .columns.adjust()
+                    //~ .fixedColumns().relayout()
+                    //~ .draw()
+                    //~ ;
+            //~ });
+            $(document).on('shown.bs.tab', 'a[data-toggle="tab"]', function (e) {
+                $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+            });
         } );
     </script>
   </body>
