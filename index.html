@@ -690,8 +690,11 @@
             return score;
         }
 
+        //~ function displaySchool(school) {
+            //~ return `${school.name} (${
 
-        let games = [], portfolios = [], schools = {};
+
+        let games = [], portfolios = [];
         const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];
         const year = 2017;
 
@@ -714,7 +717,7 @@
         loaders.push(
             $.getJSON('json/fbs-2017.json')
             .then(function (data) {
-                fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: cur }; }, {});  //convert array to object indexed by names
+                fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[], points: 0 } }; }, {});  //convert array to object indexed by names
                 fbs_name_set = new Set(data.map(x => x.name));
             })
         );
@@ -747,7 +750,7 @@
             console.log('when...then');
             console.log(games.length);
             console.log(games);
-            console.log(fbs);
+            //~ console.log(fbs);
             console.log(fbs_name_set);
             console.log(new_years_six);
             console.log(portfolios);
@@ -764,29 +767,23 @@
 
                 if (game.gameState === 'final') {
                     if (fbs_name_set.has(game.away.nameRaw)) {
-                        if (! schools.hasOwnProperty(game.away.nameRaw)) {
-                            schools[game.away.nameRaw] = {games : [], points: 0};
-                        }
                         let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
                         score.date = game.startDate;
                         score.score_string = game.score_string;
-                        schools[game.away.nameRaw].games.push(score);
-                        schools[game.away.nameRaw].points += score.total;
+                        fbs[game.away.nameRaw].games.push(score);
+                        fbs[game.away.nameRaw].points += score.total;
                     }
 
                     if (fbs_name_set.has(game.home.nameRaw)) {
-                        if (! schools.hasOwnProperty(game.home.nameRaw)) {
-                            schools[game.home.nameRaw] = {games : [], points: 0};
-                        }
                         let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
                         score.date = game.startDate;
                         score.score_string = game.score_string;
-                        schools[game.home.nameRaw].games.push(score);
-                        schools[game.home.nameRaw].points += score.total;
+                        fbs[game.home.nameRaw].games.push(score);
+                        fbs[game.home.nameRaw].points += score.total;
                     }
                 }
             });
-            console.log(schools);
+            console.log(fbs);
 
             $('#details_table').DataTable( {
                 data: games.filter(game => game.gameState === 'final'),
@@ -805,12 +802,12 @@
             });
 
             $('#summary_table').DataTable( {
-                data: Object.keys(schools).map(function (school) { return { 'name': school,
-                                                                            'conference': fbs[school].conference,
-                                                                            'weeklies': schools[school].games.map(score => score.total),
-                                                                            'points': schools[school].points,
-                                                                            'units':  fbs[school].units,
-                                                                            'points-per':  schools[school].points / fbs[school].units
+                data: Object.keys(fbs).map(function (school) { return { 'name': school,
+                                                                        'conference': fbs[school].conference,
+                                                                        'weeklies': fbs[school].games.map(score => score.total),
+                                                                        'points': fbs[school].points,
+                                                                        'units':  fbs[school].units,
+                                                                        'points-per':  fbs[school].points / fbs[school].units
                                                                             };
                                                                  }
                                                ),
