@@ -76,7 +76,7 @@
 
     <main role="main" class="tab-content">
         <div id="Summary" class="tab-pane fade in">
-            <table id="summary_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
+            <table id="summary_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <tfoot>
                     <tr>
                         <th>Name</th>
@@ -105,7 +105,16 @@
             </table>
         </div>
         <div id="Details" class="tab-pane fade in">
-            <table id="details_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
+            <table id="details_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
+                <tfoot>
+                    <tr>
+<!--
+                        <th style="text-align:right"></th>
+-->
+                        <th></th>
+                    </tr>
+                </tfoot>
+<!--
                 <tfoot>
                     <tr>
                         <th>Date</th>
@@ -113,10 +122,11 @@
                         <th>Result</th>
                      </tr>
                 </tfoot>
+-->
             </table>
         </div>
         <div id="Champions" class="tab-pane fade in">
-            <table id="champions_table" class="display nowrap table table-striped table-bordered" cellspacing="0" width="100%">
+            <table id="champions_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <thead>
                     <tr>
                         <th>Year</th>
@@ -159,7 +169,7 @@
         </div>
 
         <div id="leaderboard_div" class="tab-pane active fade in show" >
-            <table id="leaderboard_table" class="display table table-striped table-bordered" cellspacing="0" width="100%"></table>
+            <table id="leaderboard_table" class="display table table-hover table-bordered" cellspacing="0" width="100%"></table>
         </div>
 
 
@@ -200,10 +210,14 @@
             let score = {win: win_points[hero.currentScore > villain.currentScore][VILLAIN_FBS],
                          blowout: VILLAIN_FBS && (hero.currentScore - villain.currentScore >= 30) ? 2 : 0,
                          shutout: VILLAIN_FBS && villain.currentScore === 0 ? 4 : 0,
-                         top25: top25_points[hero.currentScore > villain.currentScore][heroRank < villainRank][hero.currentScore > villain.currentScore && villainRank === 26 ? 0 : Math.abs(heroRank - villainRank)],
-                         bowl:  (game.week === 16 && !new_years_six.championships.has(game.id) ? 10 : 0) +
-                                (new_years_six.playoffs.has(game.id) ? 6 : 0) +
-                                (new_years_six.new_years_fours.has(game.id) ? 3 : 0)
+                         top25:   top25_points[hero.currentScore > villain.currentScore][heroRank < villainRank][hero.currentScore > villain.currentScore && villainRank === 26 ? 0 : Math.abs(heroRank - villainRank)],
+                         bowl:    (game.week === 16 && !new_years_six.championships.has(game.id) ? 10 : 0) +
+                                  (new_years_six.playoffs.has(game.id) ? 6 : 0) +
+                                  (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
+                         score_string:  game.score_string,
+                         week:          game.week,
+                         startDate:     game.startDate,
+                         win_loss_record: hero.description
             };
             score.total = score.win + score.blowout + score.shutout + score.top25 + score.bowl;
             return score;
@@ -286,16 +300,12 @@
                 if (game.gameState === 'final') {
                     if (fbs_name_set.has(game.away.nameRaw)) {
                         let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
-                        score.date = game.startDate;
-                        score.score_string = game.score_string;
                         fbs[game.away.nameRaw].games.push(score);
                         fbs[game.away.nameRaw].points += score.total;
                     }
 
                     if (fbs_name_set.has(game.home.nameRaw)) {
                         let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
-                        score.date = game.startDate;
-                        score.score_string = game.score_string;
                         fbs[game.home.nameRaw].games.push(score);
                         fbs[game.home.nameRaw].points += score.total;
                     }
@@ -327,12 +337,21 @@
                 lengthChange: false
             });
 
+            let details_team = "Stanford";
+
             $('#details_table').DataTable( {
-                data: games.filter(game => game.gameState === 'final'),
+                data: details_team === "" ? games.filter(game => game.gameState === 'final') : fbs[details_team].games,
                 columns: [
                     { "data": "startDate", "title": "Date" },
                     { "data": "week", "title": "Week" },
-                    { "data": "score_string", "title": "Result" }
+                    { "data": "score_string", "title": "Result" },
+                    { "data": "win_loss_record", "title": "W-L", className: "text-right" },
+                    { "data": "win", "title": "Win", className: "text-right" },
+                    { "data": "blowout", "title": "Blowout", className: "text-right" },
+                    { "data": "shutout", "title": "Shutout", className: "text-right" },
+                    { "data": "top25", "title": "Top 25", className: "text-right" },
+                    { "data": "bowl", "title": "Bowl", className: "text-right" },
+                    { "data": "total", "title": "Total", className: "text-right" }
                     ],
                 "dom": 'lrtip',         <!-- removes the native search input box-->
                 scrollResize: true,
@@ -340,7 +359,18 @@
                 scrollY: 100,
                 scrollCollapse: true,
                 paging: false,
-                lengthChange: false
+                lengthChange: false,
+                "footerCallback": function ( row, data, start, end, display ) {
+
+                    let total = this.api()
+                        .column( 8, { page: 'current'} )
+                        .data()
+                        .reduce( function (a, b) {
+                            return a + b;
+                        }, 0 );
+
+                    $( this.api().column( 8 ).footer() ).html(total);
+                }
             });
 
             $('#summary_table').DataTable( {
@@ -393,7 +423,7 @@
                 //~ table.search( this.value ).draw();
                 $($.fn.dataTable.tables(true)).DataTable().search( this.value ).draw();
             } );
-            <!-- adjust and redraw each tab's table when the tab is toggled (?) -->
+            <!-- adjust and redraw each tabs table when the tab is toggled (?) -->
             $(document).on('shown.bs.tab', 'a[data-toggle="tab"]', function (e) {
                 $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust().draw();
             });
