@@ -52,7 +52,19 @@
             <a class='nav-link' data-toggle="tab" href="#Summary">Summary</a>
         </li>
         <li class="nav-item">
+<!--
             <a class='nav-link' data-toggle="tab" href="#Details">Details</a>
+-->
+<!--
+<select onchange="if (this.value) window.location.href=this.value">
+    <option value="">Pick one:</option>
+    <option value="/foo">Foo</option>
+    <option value="/bar">Bar</option>
+</select>
+https://stackoverflow.com/a/5150421
+-->
+
+          <select class="nav-link" data-toggle="tab" href="#Details" id="details"></select>
         </li>
         <li class="nav-item">
             <a class='nav-link' data-toggle="tab" href="#Champions">Champions</a>
@@ -253,6 +265,7 @@
             .then(function (data) {
                 fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[], points: 0 } }; }, {});  //convert array to object indexed by names
                 fbs_name_set = new Set(data.map(x => x.name));
+                fbs_name_set.forEach(school => $("#details").append($("<option />").text(school)));  // add FBS schol names into details dropdown menu
             })
         );
 
@@ -337,7 +350,7 @@
                 lengthChange: false
             });
 
-            let details_team = "Stanford";
+            let details_team = "Air Force";
 
             $('#details_table').DataTable( {
                 data: details_team === "" ? games.filter(game => game.gameState === 'final') : fbs[details_team].games,
@@ -427,6 +440,17 @@
             $(document).on('shown.bs.tab', 'a[data-toggle="tab"]', function (e) {
                 $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust().draw();
             });
+
+            // update data in details table when dropdown is changed
+            $("#details").change(function() {
+                let details_team = $(this).find(":selected").text();
+                // clear data from details_table, reload with new selection, and redraw
+                let datatable = $( "#details_table" ).DataTable();
+                datatable.clear();  // .draw();
+                datatable.rows.add(fbs[details_team].games);
+                datatable.draw();   // columns.adjust().draw();
+            });
+
         } );
     </script>
   </body>
