@@ -52,19 +52,11 @@
             <a class='nav-link' data-toggle="tab" href="#Summary">Summary</a>
         </li>
         <li class="nav-item">
-<!--
-            <a class='nav-link' data-toggle="tab" href="#Details">Details</a>
--->
-<!--
-<select onchange="if (this.value) window.location.href=this.value">
-    <option value="">Pick one:</option>
-    <option value="/foo">Foo</option>
-    <option value="/bar">Bar</option>
-</select>
-https://stackoverflow.com/a/5150421
--->
-          <a class='nav-link' data-toggle="tab" href="#Details">Details</a>
-
+          <a class='nav-link' data-toggle="tab" href="#Details">
+              <select style="background-color: white" id="details">
+                <option disabled selected>Details</option>
+              </select>
+          </a>
         </li>
         <li class="nav-item">
             <a class='nav-link' data-toggle="tab" href="#Champions">Champions</a>
@@ -74,7 +66,8 @@ https://stackoverflow.com/a/5150421
           <a class="nav-link" data-toggle="tab" href="#Year">Year</a>
 -->
           <select class="nav-link" style="float: right; background-color: white">
-            <option>2017</option>
+            <option>2018</option>
+            <option selected>2017</option>
             <option>2016</option>
           </select>
         </li>
@@ -119,7 +112,6 @@ https://stackoverflow.com/a/5150421
             </table>
         </div>
         <div id="Details" class="tab-pane fade in">
-            <select class="nav-link" data-toggle="tab" href="#Details" id="details"></select>
             <table id="details_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <tfoot>
                     <tr>
@@ -135,15 +127,6 @@ https://stackoverflow.com/a/5150421
                         <th style="text-align:right">Total</th>
                     </tr>
                 </tfoot>
-<!--
-                <tfoot>
-                    <tr>
-                        <th>Date</th>
-                        <th>Week</th>
-                        <th>Result</th>
-                     </tr>
-                </tfoot>
--->
             </table>
         </div>
         <div id="Champions" class="tab-pane fade in">
