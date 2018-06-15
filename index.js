@@ -32,6 +32,8 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
     return score;
 }
 
+const nullGame = {win:null, blowout:null, shutout:null, top25:null, bowl:null, score_string:null, week: null, startDate:null, win_loss_record:null, total:null};
+
 function displaySchool(school) {
     return `${school.name} (${school.points} / ${school.units})`
 }
@@ -45,7 +47,7 @@ let loaders = weeks.map(function (week) {
     return $.getJSON(`json/${year}/${year}${week.toString().padStart(2,'0')}.json`)
         .then(function (data) {
             games.push(...data.map(function (game) {
-                game.week = week;
+                game.week = parseInt(week,10);
                 return game;
             }));
         }, function () { // in case of error (ie file not found), just return as resolved ala https://stackoverflow.com/a/30219952
@@ -109,18 +111,31 @@ $.when(...loaders
 
         if (game.gameState === 'final') {
             if (fbs_name_set.has(game.away.nameRaw)) {
+                while (fbs[game.away.nameRaw].games.slice(-1)[0] && fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
+                    fbs[game.away.nameRaw].games.push({...nullGame, week: fbs[game.away.nameRaw].games.slice(-1)[0].week + 1});
+                }
                 let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
                 fbs[game.away.nameRaw].games.push(score);
                 fbs[game.away.nameRaw].points += score.total;
             }
 
             if (fbs_name_set.has(game.home.nameRaw)) {
+                while (fbs[game.home.nameRaw].games.slice(-1)[0] && fbs[game.home.nameRaw].games.slice(-1)[0].week < game.week - 1) {
+                    fbs[game.home.nameRaw].games.push({...nullGame, week: fbs[game.home.nameRaw].games.slice(-1)[0].week + 1});
+                }
                 let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
                 fbs[game.home.nameRaw].games.push(score);
                 fbs[game.home.nameRaw].points += score.total;
             }
         }
     });
+    // add a Week 0 nullGame for all teams WITHOUT two Week 1 games, so everything is aligned correctly in summary page
+    Object.keys(fbs).map(function(key, index) {
+        while (fbs[key].games[1].week !== 1 && fbs[key].games[1].week !== null) {
+            fbs[key].games.unshift(nullGame);
+        }
+    });
+
     console.log(fbs);
     portfolios.forEach(function (portfolio) {
         portfolio.points = portfolio.schools.map(school => fbs[school].points).reduce((a,b) => a + b);
@@ -152,8 +167,8 @@ $.when(...loaders
     $('#details_table').DataTable( {
         data: details_team === "" ? games.filter(game => game.gameState === 'final') : fbs[details_team].games,
         columns: [
-            { "data": "startDate", "title": "Date" },
             { "data": "week", "title": "Week" },
+            { "data": "startDate", "title": "Date" },
             { "data": "score_string", "title": "Result" },
             { "data": "win_loss_record", "title": "W-L", className: "text-right" },
             { "data": "win", "title": "Win", className: "text-right" },
@@ -173,13 +188,13 @@ $.when(...loaders
         "footerCallback": function ( row, data, start, end, display ) {
 
             let total = this.api()
-                .column( 8, { page: 'current'} )
+                .column( 9, { page: 'current'} )
                 .data()
                 .reduce( function (a, b) {
                     return a + b;
                 }, 0 );
 
-            $( this.api().column( 8 ).footer() ).html(total);
+            $( this.api().column( 9 ).footer() ).html(total);
         }
     });
 
@@ -196,22 +211,24 @@ $.when(...loaders
         columns: [
             { "data": "name", "title": "Name" },
             { "data": "conference", "title": "Conference" },
-            { "data": "weeklies.0", "title": "1", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.1", "title": "2", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.2", "title": "3", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.3", "title": "4", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.4", "title": "5", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.5", "title": "6", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.6", "title": "7", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.7", "title": "8", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.8", "title": "9", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.9", "title": "10", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.10", "title": "11", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.11", "title": "12", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.12", "title": "13", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.13", "title": "14", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.14", "title": "15", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.15", "title": "16", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.0", "title": "Pre", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.1", "title": "1", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.2", "title": "2", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.3", "title": "3", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.4", "title": "4", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.5", "title": "5", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.6", "title": "6", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.7", "title": "7", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.8", "title": "8", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.9", "title": "9", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.10", "title": "10", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.11", "title": "11", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.12", "title": "12", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.13", "title": "13", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.14", "title": "14", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.15", "title": "15", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.16", "title": "Bowl", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.17", "title": "NCG", className: "text-right", "defaultContent": "" },
             { "data": "points", "title": "Total", className: "text-right" },
             { "data": "units", "title": "Units", className: "text-right" },
             { "data": "points-per", "title": "Points / Unit", className: "text-right", render: $.fn.dataTable.render.number( ',', '.', 2 ) }
