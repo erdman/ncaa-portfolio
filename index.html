@@ -62,6 +62,9 @@
             <a class='nav-link' data-toggle="tab" href="#Champions">Champions</a>
         </li>
         <li class="nav-item">
+            <a class='nav-link' data-toggle="tab" href="#Rules">Scoring Rules</a>
+        </li>
+        <li class="nav-item">
 <!--
           <a class="nav-link" data-toggle="tab" href="#Year">Year</a>
 -->
@@ -129,45 +132,147 @@
                 </tfoot>
             </table>
         </div>
-        <div id="Champions" class="tab-pane fade in">
+        <div id="Champions" class="tab-pane fade in container mt-3">
             <table id="champions_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <thead>
                     <tr>
-                        <th>Year</th>
+                        <th style="text-align:center">Year</th>
                         <th>Champion</th>
                      </tr>
                 </thead>
 
                 <tbody>
                     <tr>
-                        <td>2017</td>
+                        <td style="text-align:center">2017</td>
                         <td>Travis Erdman</td>
                     </tr>
                     <tr>
-                        <td>2016</td>
+                        <td style="text-align:center">2016</td>
                         <td>Jason Kopka</td>
                     </tr>
                     <tr>
-                        <td>2015</td>
+                        <td style="text-align:center">2015</td>
                         <td>Travis Erdman</td>
                     </tr>
                     <tr>
-                        <td>2014</td>
+                        <td style="text-align:center">2014</td>
                         <td>Steve Schubert</td>
                     </tr>
                     <tr>
-                        <td>2013</td>
+                        <td style="text-align:center">2013</td>
                         <td>TJ Nolan</td>
                     </tr>
                     <tr>
-                        <td>2012</td>
+                        <td style="text-align:center">2012</td>
                         <td>Tony Andronaco</td>
                     </tr>
                     <tr>
-                        <td>2011</td>
+                        <td style="text-align:center">2011</td>
                         <td>TJ Nolan</td>
                     </tr>
 
+                </tbody>
+            </table>
+        </div>
+
+        <div id="Rules" class="tab-pane fade in container mt-3">
+            <table id="rules_table" class="display nowrap table table-hover table-bordered table-sm" cellspacing="0" align="center">
+                <tbody>
+                    <tr>
+                        <td>Win vs FBS team (any game -- regular season, conference championships, bowls, playoffs)</td>
+                        <td>10</td>
+                    </tr>
+                    <tr>
+                        <td>Blowout (win by 30 points or more) vs FBS team</td>
+                        <td>+2</td>
+                    </tr>
+                    <tr>
+                        <td>Shutout vs FBS team</td>
+                        <td>+4</td>
+                    </tr>
+                    <tr>
+                        <td>Beat a top-25 team as the favorite:</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 15-24 ranks (e.g. #1 beats #25)</td>
+                        <td>+2</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 5-14 ranks (e.g. #2 beats #16)</td>
+                        <td>+3</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 1-4 ranks (e.g. #5 beats #9)</td>
+                        <td>+4</td>
+                    </tr>
+
+                    <tr>
+                        <td>Beat a top-25 team as the underdog:</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 1-4 ranks (e.g. #23 beats #19)</td>
+                        <td>+5</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 5-14 ranks (e.g. unranked beats #12)</td>
+                        <td>+6</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 15-24 ranks (e.g. #25 beats #10)</td>
+                        <td>+8</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 25 ranks (i.e. unranked beats #1)</td>
+                        <td>+10</td>
+                    </tr>
+
+                    <tr>
+                        <td>Your top-25 team suffers an upset:</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 1-9 ranks (e.g. #17 upset by unranked)</td>
+                        <td>-1</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 10-14 ranks (e.g. #11 upset by #25)</td>
+                        <td>-2</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 15-20 ranks (e.g. #3 upset by #23)</td>
+                        <td>-3</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">by 21-25 ranks (i.e. #1 upset by #22)</td>
+                        <td>-5</td>
+                    </tr>
+
+                    <tr>
+                        <td>Don't play FCS teams, but if you do, don't lose!</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">Win vs FCS team</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">Lose to an FCS team</td>
+                        <td>-10</td>
+                    </tr>
+
+                    <tr>
+                        <td>Bowl game bonuses:</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">Bowl game invite</td>
+                        <td>10</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">"New Year's Six" bowl game invite</td>
+                        <td>+3</td>
+                    </tr>
+                    <tr>
+                        <td class="pl-5">College Football Playoff semifinal bowl game invite</td>
+                        <td>+3</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
