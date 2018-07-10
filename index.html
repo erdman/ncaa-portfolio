@@ -49,12 +49,12 @@
             <a class='nav-link active' data-toggle="tab" href="#leaderboard_div">Leaderboard</a>
         </li>
         <li class="nav-item">
-            <a class='nav-link' data-toggle="tab" href="#Summary">Summary</a>
+            <a class='nav-link' data-toggle="tab" href="#Summary">Team Summaries</a>
         </li>
         <li class="nav-item">
           <a class='nav-link' data-toggle="tab" href="#Details">
               <select style="background-color: white" id="details">
-                <option disabled selected>Details</option>
+                <option disabled selected>Team Details</option>
               </select>
           </a>
         </li>
@@ -65,13 +65,10 @@
             <a class='nav-link' data-toggle="tab" href="#Rules">Scoring Rules</a>
         </li>
         <li class="nav-item">
-<!--
-          <a class="nav-link" data-toggle="tab" href="#Year">Year</a>
--->
-          <select class="nav-link" style="float: right; background-color: white">
+          <select class="nav-link" style="float: right; background-color: white" id="year">
             <option>2018</option>
-            <option selected>2017</option>
-            <option>2016</option>
+            <option>2017</option>
+            <option selected>2016</option>
           </select>
         </li>
         <li class="nav-item">
@@ -89,7 +86,7 @@
                     <tr>
                         <th>Name</th>
                         <th>Conference</th>
-                        <th>Pre</th>
+                        <th>Zero</th>
                         <th>1</th>
                         <th>2</th>
                         <th>3</th>
@@ -242,7 +239,7 @@
                         <td>-3</td>
                     </tr>
                     <tr>
-                        <td class="pl-5">by 21-25 ranks (i.e. #1 upset by #22)</td>
+                        <td class="pl-5">by 21-25 ranks (e.g. #1 upset by #22)</td>
                         <td>-5</td>
                     </tr>
 

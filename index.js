@@ -13,10 +13,10 @@ const top25_points = {true:  {false: [0,5,5,5,5,6,6,6,6,6,6,6,6,6,6,8,8,8,8,8,8,
                       false: {false: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],  true: [0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-2,-2,-2,-2,-2,-3,-3,-3,-3,-3,-3,-5,-5,-5,-5,-5]}
 };
 function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
-    let heroRank = hero.teamRank > 0 ? hero.teamRank : 26;
-    let villainRank = villain.teamRank > 0 ? villain.teamRank : 26;
-    let VILLAIN_FBS = fbs_name_set.has(villain.nameRaw);
-    let score = {win: win_points[hero.currentScore > villain.currentScore][VILLAIN_FBS],
+    const heroRank = hero.teamRank > 0 ? hero.teamRank : 26;
+    const villainRank = villain.teamRank > 0 ? villain.teamRank : 26;
+    const VILLAIN_FBS = fbs_name_set.has(villain.nameRaw);
+    const score = {win: win_points[hero.currentScore > villain.currentScore][VILLAIN_FBS],
                  blowout: VILLAIN_FBS && (hero.currentScore - villain.currentScore >= 30) ? 2 : 0,
                  shutout: VILLAIN_FBS && villain.currentScore === 0 ? 4 : 0,
                  top25:   top25_points[hero.currentScore > villain.currentScore][heroRank < villainRank][hero.currentScore > villain.currentScore && villainRank === 26 ? 0 : Math.abs(heroRank - villainRank)],
@@ -41,56 +41,59 @@ function displaySchool(school) {
 
 let games = [], portfolios = [];
 const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];
-const year = 2017;
-
-let loaders = weeks.map(function (week) {
-    return $.getJSON(`json/${year}/${year}${week.toString().padStart(2,'0')}.json`)
-        .then(function (data) {
-            games.push(...data.map(function (game) {
-                game.week = parseInt(week,10);
-                return game;
-            }));
-        }, function () { // in case of error (ie file not found), just return as resolved ala https://stackoverflow.com/a/30219952
-            return $.Deferred().resolve({}).promise();
-        }
-    );
-});
-
-
 let fbs, fbs_name_set, new_years_six = {};
 
-loaders.push(
-    $.getJSON('json/fbs-2017.json')
-    .then(function (data) {
-        fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[], points: 0 } }; }, {});  //convert array to object indexed by names
-        fbs_name_set = new Set(data.map(x => x.name));
-        fbs_name_set.forEach(school => $("#details").append($("<option />").text(school)));  // add FBS schol names into details dropdown menu
-    })
-);
 
-loaders.push(
-    $.getJSON('json/new-years-six.json')
-    .then(function (data) {
-        Object.keys(data).forEach(function(key) {
-            new_years_six[key] = new Set(data[key]);
-        });
-    })
-);
+function load_data() {
+    const year =  $("#year").find(":selected").text();
 
-loaders.push(
-    $.getJSON('json/portfolios-2017.json')
-    .then(function (data) {
-        portfolios.push(...data.map(function (item) {
-            let result = {'name': item.Name};
-            delete item.Name;
-            result.schools = Object.values(item).filter(x => x.length > 0);
-            return result;
-        }));
-    })
-);
+    let loaders = weeks.map(function (week) {
+        return $.getJSON(`json/${year}/${year}${week.toString().padStart(2,'0')}.json`)
+            .then(function (data) {
+                games.push(...data.map(function (game) {
+                    game.week = parseInt(week,10);
+                    return game;
+                }));
+            }, function () { // in case of error (ie file not found), just return as resolved ala https://stackoverflow.com/a/30219952
+                return $.Deferred().resolve({}).promise();
+            }
+        );
+    });
 
+    loaders.push(
+        $.getJSON(`json/fbs-${year}.json`)
+        .then(function (data) {
+            fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[], points: 0 } }; }, {});  //convert array to object indexed by names
+            fbs_name_set = new Set(data.map(x => x.name));
+            fbs_name_set.forEach(school => $("#details").append($("<option />").text(school)));  // add FBS schol names into details dropdown menu
+        })
+    );
 
-$.when(...loaders
+    loaders.push(
+        $.getJSON(`json/new-years-six-${year}.json`)
+        .then(function (data) {
+            Object.keys(data).forEach(function(key) {
+                new_years_six[key] = new Set(data[key]);
+            });
+        })
+    );
+
+    loaders.push(
+        $.getJSON(`json/portfolios-${year}.json`)
+        .then(function (data) {
+            portfolios.push(...data.map(function (item) {
+                let result = {'name': item.Name};
+                delete item.Name;
+                result.schools = Object.values(item).filter(x => x.length > 0);
+                return result;
+            }));
+        })
+    );
+
+    return loaders;
+}
+
+$.when(...load_data()
 ).then(function () {
     games.sort((a, b) => a.startDate.localeCompare(b.startDate));
     console.log('when...then');
@@ -138,6 +141,7 @@ $.when(...loaders
 
     console.log(fbs);
     portfolios.forEach(function (portfolio) {
+        console.log(portfolio.schools);
         portfolio.points = portfolio.schools.map(school => fbs[school].points).reduce((a,b) => a + b);
         portfolio.schools.sort((a,b) => fbs[b].points - fbs[a].points);
     });
@@ -165,7 +169,7 @@ $.when(...loaders
     let details_team = "Air Force";
 
     $('#details_table').DataTable( {
-        data: details_team === "" ? games.filter(game => game.gameState === 'final') : fbs[details_team].games,
+        data: fbs[details_team].games,
         columns: [
             { "data": "week", "title": "Week" },
             { "data": "startDate", "title": "Date" },
@@ -211,7 +215,7 @@ $.when(...loaders
         columns: [
             { "data": "name", "title": "Name" },
             { "data": "conference", "title": "Conference" },
-            { "data": "weeklies.0", "title": "Pre", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.0", "title": "Zero", className: "text-right", "defaultContent": "" },
             { "data": "weeklies.1", "title": "1", className: "text-right", "defaultContent": "" },
             { "data": "weeklies.2", "title": "2", className: "text-right", "defaultContent": "" },
             { "data": "weeklies.3", "title": "3", className: "text-right", "defaultContent": "" },
@@ -243,15 +247,20 @@ $.when(...loaders
     });
 });
 
+function updateDataTable(tablename, rowdata) {
+    const datatable = $(tablename).DataTable();
+    datatable.clear();  // .draw();
+    datatable.rows.add(rowdata);
+    datatable.draw();   // columns.adjust().draw();
+}
+
 $(document).ready( function () {
-    <!-- wire up the search box in template header  -->
+    // wire up the search box in template header
     $('#search').on( 'keyup', function () {
-        <!-- set table variable to the active/displayed table on page -->
-        //~ table.search( this.value ).draw();
         $($.fn.dataTable.tables(true)).DataTable().search( this.value ).draw();
     } );
 
-    <!-- adjust and redraw each tabs table when the tab is toggled (?) -->
+    // adjust and redraw each tabs table when the tab is toggled (?)
     $(document).on('shown.bs.tab', 'a[data-toggle="tab"]', function (e) {
         $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust().draw();
     });
@@ -259,11 +268,33 @@ $(document).ready( function () {
     // update data in details table when dropdown is changed
     $("#details").change(function() {
         let details_team = $(this).find(":selected").text();
-        // clear data from details_table, reload with new selection, and redraw
-        let datatable = $( "#details_table" ).DataTable();
-        datatable.clear();  // .draw();
-        datatable.rows.add(fbs[details_team].games);
-        datatable.draw();   // columns.adjust().draw();
+        updateDataTable("#details_table", fbs[details_team].games);
+    });
+
+    $("#year").change(function() {
+        const year = $(this).find(":selected").text();
+        console.log(year);
+        // load data
+        let portfolios = [];
+        let fbs = {};
+        delete fbs.games;
+        // calc derivative data structures -- portfolios and fbs
+
+        // update leaderboard with new data
+        updateDataTable("#leaderboard_table", portfolios);
+        // update Team Summaries with new data
+        updateDataTable("#summary_table", Object.keys(fbs).map(function (school) { return { 'name': school,
+                                                                'conference': fbs[school].conference,
+                                                                'weeklies': fbs[school].games.map(score => score.total),
+                                                                'points': fbs[school].points,
+                                                                'units':  fbs[school].units,
+                                                                'points-per':  fbs[school].points / fbs[school].units
+                                                                    };
+                                                         }
+                                       )
+        );
+        // update Team Details with new data
+        updateDataTable("#details_table", fbs[details_team].games);
     });
 
 } );
