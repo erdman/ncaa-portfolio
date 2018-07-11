@@ -13,7 +13,7 @@
 
     <!-- Custom styles for the large space filling tables, taken from an example on datatables.net -->
     <style type="text/css">
-        #leaderboard_div {
+        #Leaderboard {
             position: absolute;
             top: 3em;
             left: 1em;
@@ -46,7 +46,7 @@
             <a class="navbar-brand" href="#">NCAAportfolio.com</a>
         </li>
         <li class="nav-item">
-            <a class='nav-link active' data-toggle="tab" href="#leaderboard_div">Leaderboard</a>
+            <a class='nav-link active' data-toggle="tab" href="#Leaderboard">Leaderboard</a>
         </li>
         <li class="nav-item">
             <a class='nav-link' data-toggle="tab" href="#Summary">Team Summaries</a>
@@ -67,8 +67,8 @@
         <li class="nav-item">
           <select class="nav-link" style="float: right; background-color: white" id="year">
             <option>2018</option>
-            <option>2017</option>
-            <option selected>2016</option>
+            <option selected>2017</option>
+            <option>2016</option>
           </select>
         </li>
         <li class="nav-item">
@@ -80,6 +80,11 @@
     </div>
 
     <main role="main" class="tab-content">
+
+        <div id="Leaderboard" class="tab-pane active fade in show" >
+            <table id="leaderboard_table" class="display table table-hover table-bordered" cellspacing="0" width="100%"></table>
+        </div>
+
         <div id="Summary" class="tab-pane fade in">
             <table id="summary_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <tfoot>
@@ -111,6 +116,7 @@
                 </tfoot>
             </table>
         </div>
+
         <div id="Details" class="tab-pane fade in">
             <table id="details_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <tfoot>
@@ -129,6 +135,7 @@
                 </tfoot>
             </table>
         </div>
+
         <div id="Champions" class="tab-pane fade in container mt-3">
             <table id="champions_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <thead>
@@ -274,15 +281,7 @@
             </table>
         </div>
 
-        <div id="leaderboard_div" class="tab-pane active fade in show" >
-            <table id="leaderboard_table" class="display table table-hover table-bordered" cellspacing="0" width="100%"></table>
-        </div>
-
-
-
-    </main> <!-- /.container -->
-
-    <!-- Optional JavaScript -->
+    </main>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <!--
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
