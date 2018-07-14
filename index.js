@@ -38,14 +38,15 @@ function displaySchool(school) {
     return `${school.name} (${school.points} / ${school.units})`
 }
 
-
-let games = [], portfolios = [];
 const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];
+let games = [], portfolios = [];
 let fbs, fbs_name_set, new_years_six = {};
 
 
-function load_data() {
+function start_loaders() {
     const year =  $("#year").find(":selected").text();
+    games = [], portfolios = [];
+    fbs, fbs_name_set, new_years_six = {};
 
     let loaders = weeks.map(function (week) {
         return $.getJSON(`json/${year}/${year}${week.toString().padStart(2,'0')}.json`)
@@ -93,71 +94,84 @@ function load_data() {
     return loaders;
 }
 
-$.when(...load_data()
-).then(function () {
-    games.sort((a, b) => a.startDate.localeCompare(b.startDate));
-    console.log('when...then');
-    console.log(games.length);
-    console.log(games);
-    console.log(fbs_name_set);
-    console.log(new_years_six);
-    games.forEach(function(game) {
-        // parse JSON integers and trim name strings
-        game.home.teamRank = parseInt(game.home.teamRank, 10);
-        game.home.currentScore = parseInt(game.home.currentScore, 10);
-        game.home.nameRaw = game.home.nameRaw.trim();
-        game.away.teamRank = parseInt(game.away.teamRank, 10);
-        game.away.currentScore = parseInt(game.away.currentScore, 10);
-        game.away.nameRaw = game.away.nameRaw.trim();
-        game.id = parseInt(game.id, 10);
-        game.score_string = stringifyGame(game);
+function load_data(publish_continuation) {
+    $.when(...start_loaders()
+    ).then(function () {
+        games.sort((a, b) => a.startDate.localeCompare(b.startDate));
+        console.log('when...then');
+        console.log(games.length);
+        console.log(games);
+        console.log(fbs_name_set);
+        console.log(new_years_six);
+        games.forEach(function(game) {
+            // parse JSON integers and trim name strings
+            game.home.teamRank = parseInt(game.home.teamRank, 10);
+            game.home.currentScore = parseInt(game.home.currentScore, 10);
+            game.home.nameRaw = game.home.nameRaw.trim();
+            game.away.teamRank = parseInt(game.away.teamRank, 10);
+            game.away.currentScore = parseInt(game.away.currentScore, 10);
+            game.away.nameRaw = game.away.nameRaw.trim();
+            game.id = parseInt(game.id, 10);
+            game.score_string = stringifyGame(game);
 
-        if (game.gameState === 'final') {
-            if (fbs_name_set.has(game.away.nameRaw)) {
-                while (fbs[game.away.nameRaw].games.slice(-1)[0] && fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
-                    fbs[game.away.nameRaw].games.push({...nullGame, week: fbs[game.away.nameRaw].games.slice(-1)[0].week + 1});
+            if (game.gameState === 'final') {
+                if (fbs_name_set.has(game.away.nameRaw)) {
+                    while (fbs[game.away.nameRaw].games.slice(-1)[0] && fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
+                        fbs[game.away.nameRaw].games.push({...nullGame, week: fbs[game.away.nameRaw].games.slice(-1)[0].week + 1});
+                    }
+                    let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
+                    fbs[game.away.nameRaw].games.push(score);
+                    fbs[game.away.nameRaw].points += score.total;
                 }
-                let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
-                fbs[game.away.nameRaw].games.push(score);
-                fbs[game.away.nameRaw].points += score.total;
-            }
 
-            if (fbs_name_set.has(game.home.nameRaw)) {
-                while (fbs[game.home.nameRaw].games.slice(-1)[0] && fbs[game.home.nameRaw].games.slice(-1)[0].week < game.week - 1) {
-                    fbs[game.home.nameRaw].games.push({...nullGame, week: fbs[game.home.nameRaw].games.slice(-1)[0].week + 1});
+                if (fbs_name_set.has(game.home.nameRaw)) {
+                    while (fbs[game.home.nameRaw].games.slice(-1)[0] && fbs[game.home.nameRaw].games.slice(-1)[0].week < game.week - 1) {
+                        fbs[game.home.nameRaw].games.push({...nullGame, week: fbs[game.home.nameRaw].games.slice(-1)[0].week + 1});
+                    }
+                    let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
+                    fbs[game.home.nameRaw].games.push(score);
+                    fbs[game.home.nameRaw].points += score.total;
                 }
-                let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
-                fbs[game.home.nameRaw].games.push(score);
-                fbs[game.home.nameRaw].points += score.total;
             }
-        }
-    });
-    // add a Week 0 nullGame for all teams WITHOUT two Week 1 games, so everything is aligned correctly in summary page
-    Object.keys(fbs).map(function(key, index) {
-        while (fbs[key].games[1].week !== 1 && fbs[key].games[1].week !== null) {
-            fbs[key].games.unshift(nullGame);
-        }
-    });
+        });
+        // add a Week 0 nullGame for all teams WITHOUT two Week 1 games, so everything is aligned correctly in summary page
+        Object.keys(fbs).map(function(key, index) {
+            while (fbs[key].games[1].week !== 1 && fbs[key].games[1].week !== null) {
+                fbs[key].games.unshift(nullGame);
+            }
+        });
 
-    console.log(fbs);
-    portfolios.forEach(function (portfolio) {
-        console.log(portfolio.schools);
-        portfolio.points = portfolio.schools.map(school => fbs[school].points).reduce((a,b) => a + b);
-        portfolio.schools.sort((a,b) => fbs[b].points - fbs[a].points);
+        //~ console.log(fbs);
+
+        const year = $('#year').find(":selected").text();
+
+        portfolios.forEach(function (portfolio) {
+            portfolio.score = {points: portfolio.schools.map(school => fbs[school].points).reduce((a,b) => a + b), units: portfolio.schools.map(school => fbs[school].units).reduce((a,b) => a + b)};
+            portfolio.schools.sort((a,b) => fbs[b].points - fbs[a].points);
+            portfolio.schools = portfolio.schools.map(function(school) { return {school:school, year:year, points:fbs[school].points, units:fbs[school].units};});
+        });
+        portfolios.sort((a,b) => b.score.points - a.score.points);
+        portfolios.forEach((portfolio, index) => {portfolio.rank = index + 1;});
+        //~ console.log(portfolios);
+
+        globaldata[year] = {fbs, portfolios};
+        publish_continuation();
     });
-    portfolios.sort((a,b) => b.points - a.points);
-    portfolios.forEach((portfolio, index) => {portfolio.rank = index + 1;});
-    console.log(portfolios);
+}
+
+function establish_datatables() {
+    const year = $('#year').find(":selected").text();
+    const {fbs, portfolios} = globaldata[year];
 
     $('#leaderboard_table').DataTable( {
         data: portfolios,
         columns: [
             { "data": "rank", "title": "Rank", className: "text-center" },
             { "data": "name", "title": "Name" },
-            { "data": "schools", "title": "Portfolio", "render": li => li.map(school => `${school} (${fbs[school].points} / ${fbs[school].units})`).join(', ') },
-            { "data": "points", "title": "Totals", "render": (data, type, row) => `${data} / ${row.schools.reduce((acc,school) => acc + fbs[school].units, 0)}` }
+            { "data": "schools", "title": "Portfolio", "render": li => li.map(school => `<a href=#Details/${school.year}/${encodeURI(school.school)}>${school.school}</a> (${school.points} / ${school.units})`).join(', ') },
+            { "data": "score", "title": "Totals", "render": (data, type, row) => `${data.points} / ${data.units}` }
             ],
-        "dom": 'lrtip',         <!-- removes the native search input box-->
+        "dom": 'lrtip',         // removes the native search input box
         scrollResize: true,
         scrollX: true,
         scrollY: 100,
@@ -166,10 +180,8 @@ $.when(...load_data()
         lengthChange: false
     });
 
-    let details_team = "Air Force";
-
     $('#details_table').DataTable( {
-        data: fbs[details_team].games,
+        // no data load until dropdown is selected ... data: fbs[details_team].games,
         columns: [
             { "data": "week", "title": "Week" },
             { "data": "startDate", "title": "Date" },
@@ -203,7 +215,7 @@ $.when(...load_data()
     });
 
     $('#summary_table').DataTable( {
-        data: Object.keys(fbs).map(function (school) { return { 'name': school,
+        data: Object.keys(fbs).map(function (school) { return { 'name': `<a href=#Details/${year}/${encodeURI(school)}>${school}</a>`,
                                                                 'conference': fbs[school].conference,
                                                                 'weeklies': fbs[school].games.map(score => score.total),
                                                                 'points': fbs[school].points,
@@ -245,7 +257,7 @@ $.when(...load_data()
         paging: false,
         lengthChange: false
     });
-});
+}
 
 function updateDataTable(tablename, rowdata) {
     const datatable = $(tablename).DataTable();
@@ -253,6 +265,31 @@ function updateDataTable(tablename, rowdata) {
     datatable.rows.add(rowdata);
     datatable.draw();   // columns.adjust().draw();
 }
+
+function reloadDataTable() {
+    const year = $('#year').find(":selected").text();
+    const {fbs, portfolios} = globaldata[year];
+    // update leaderboard with new data
+    updateDataTable("#leaderboard_table", portfolios);
+    // update Team Summaries with new data
+    updateDataTable("#summary_table", Object.keys(fbs).map(function (school) { return { 'name': `<a href=#Details/${year}/${encodeURI(school)}>${school}</a>`,
+                                                            'conference': fbs[school].conference,
+                                                            'weeklies': fbs[school].games.map(score => score.total),
+                                                            'points': fbs[school].points,
+                                                            'units':  fbs[school].units,
+                                                            'points-per':  fbs[school].points / fbs[school].units
+                                                                };
+                                                     }
+                                   )
+    );
+    // update Team Details with new data
+    const details_team = $('#details').find(":selected").text();
+    updateDataTable("#details_table", fbs.hasOwnProperty(details_team) ? fbs[details_team].games : []);
+}
+
+
+var globaldata = {};
+load_data(establish_datatables);
 
 $(document).ready( function () {
     // wire up the search box in template header
@@ -263,38 +300,66 @@ $(document).ready( function () {
     // adjust and redraw each tabs table when the tab is toggled (?)
     $(document).on('shown.bs.tab', 'a[data-toggle="tab"]', function (e) {
         $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust().draw();
+        const year = '#Leaderboard #Summary #Details'.includes(e.target.hash) ?  $('#year').find(":selected").text() : '';
+        const details_selection = $('#details').find(":selected").text();
+        const school = e.target.hash === '#Details' && details_selection !== 'Team Details' ? encodeURI(details_selection) : '';
+        window.location.hash = [e.target.hash, year, school].filter(Boolean).join('/');
+        console.log(e.target.hash, year, school, 'hash set');
     });
 
     // update data in details table when dropdown is changed
     $("#details").change(function() {
-        let details_team = $(this).find(":selected").text();
-        updateDataTable("#details_table", fbs[details_team].games);
+        const year = $('#year').find(":selected").text();
+        const details_team = $('#details').find(":selected").text();
+        updateDataTable("#details_table", details_team ? globaldata[year].fbs[details_team].games : []);
+        window.location.hash = ['#Details', year, encodeURI(details_team)].filter(Boolean).join('/');
     });
 
     $("#year").change(function() {
-        const year = $(this).find(":selected").text();
-        console.log(year);
-        // load data
-        let portfolios = [];
-        let fbs = {};
-        delete fbs.games;
-        // calc derivative data structures -- portfolios and fbs
-
-        // update leaderboard with new data
-        updateDataTable("#leaderboard_table", portfolios);
-        // update Team Summaries with new data
-        updateDataTable("#summary_table", Object.keys(fbs).map(function (school) { return { 'name': school,
-                                                                'conference': fbs[school].conference,
-                                                                'weeklies': fbs[school].games.map(score => score.total),
-                                                                'points': fbs[school].points,
-                                                                'units':  fbs[school].units,
-                                                                'points-per':  fbs[school].points / fbs[school].units
-                                                                    };
-                                                         }
-                                       )
-        );
-        // update Team Details with new data
-        updateDataTable("#details_table", fbs[details_team].games);
+        const year = $('#year').find(":selected").text();
+        if (globaldata.hasOwnProperty(year)) {
+            console.log('hasOwnProperty');
+            reloadDataTable();
+        } else {
+            console.log('new year -- load_data()');
+            load_data(reloadDataTable);
+        }
+        const [route, _, school] = window.location.hash.replace('#', '').split('/');
+        window.location.hash = [route, year, school].filter(Boolean).join('/');
     });
 
+    $(window).on('hashchange', function () {
+      const [route, year, school] = window.location.hash.replace('#', '').split('/');
+      // load year data here if not already loaded
+      if (year && year !== $("#year").find(":selected").text()) {
+          $("#year").val(year).change();
+      }
+      $(window).trigger(`route:${route}`, [year, decodeURI(school)]);
+    });
+
+    $(window).on('route:Leaderboard', function (route, year, school) {
+      // show view, hide others, etc.
+      $('a[href="#Leaderboard"]').trigger('click');
+    });
+
+    $(window).on('route:Summary', function (route, year, school) {
+      // show view, hide others, etc.
+      $('a[href="#Summary"]').trigger('click');
+    });
+
+    $(window).on('route:Details', function (route, year, school) {
+      // show view, hide others, etc.
+      $("#details").val(school).change();
+      $('a[href="#Details"]').trigger('click');
+    });
+
+    $(window).on('route:Champions', function (route, year, school) {
+      // show view, hide others, etc.
+      $('a[href="#Champions"]').trigger('click');
+    });
+
+    $(window).on('route:Rules', function (route, year, school) {
+      // show view, hide others, etc.
+      $('a[href="#Rules"]').trigger('click');
+    });
 } );
