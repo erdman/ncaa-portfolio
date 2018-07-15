@@ -66,7 +66,6 @@ function start_loaders() {
         .then(function (data) {
             fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[], points: 0 } }; }, {});  //convert array to object indexed by names
             fbs_name_set = new Set(data.map(x => x.name));
-            fbs_name_set.forEach(school => $("#details").append($("<option />").text(school)));  // add FBS schol names into details dropdown menu
         })
     );
 
@@ -154,14 +153,23 @@ function load_data(publish_continuation) {
         portfolios.forEach((portfolio, index) => {portfolio.rank = index + 1;});
         //~ console.log(portfolios);
 
-        globaldata[year] = {fbs, portfolios};
+        globaldata[year] = {fbs, portfolios, fbs_name_set};
         publish_continuation();
     });
 }
 
+function set_details_dropdown_options(fbs_name_set) {
+    console.log('repop team details dropdown');
+    const old_selection = $("#details").find(":selected").text();
+    $("#details").empty().append("<option disabled>Team Details</option>");
+    fbs_name_set.forEach(school => $("#details").append($("<option />").text(school)));  // add FBS schol names into details dropdown menu
+    $("#details").val(fbs_name_set.has(old_selection) ? old_selection : "Team Details");
+}
+
 function establish_datatables() {
     const year = $('#year').find(":selected").text();
-    const {fbs, portfolios} = globaldata[year];
+    const {fbs, portfolios, fbs_name_set} = globaldata[year];
+    set_details_dropdown_options(fbs_name_set);
 
     $('#leaderboard_table').DataTable( {
         data: portfolios,
@@ -268,7 +276,7 @@ function updateDataTable(tablename, rowdata) {
 
 function reloadDataTable() {
     const year = $('#year').find(":selected").text();
-    const {fbs, portfolios} = globaldata[year];
+    const {fbs, portfolios, fbs_name_set} = globaldata[year];
     // update leaderboard with new data
     updateDataTable("#leaderboard_table", portfolios);
     // update Team Summaries with new data
@@ -282,9 +290,9 @@ function reloadDataTable() {
                                                      }
                                    )
     );
-    // update Team Details with new data
-    const details_team = $('#details').find(":selected").text();
-    updateDataTable("#details_table", fbs.hasOwnProperty(details_team) ? fbs[details_team].games : []);
+    // update Team Details dropdown with new set of fbs names
+    set_details_dropdown_options(fbs_name_set);
+
 }
 
 
@@ -329,6 +337,7 @@ $(document).ready( function () {
     });
 
     $(window).on('hashchange', function () {
+      console.log('hashchange triggered');
       const [route, year, school] = window.location.hash.replace('#', '').split('/');
       // load year data here if not already loaded
       if (year && year !== $("#year").find(":selected").text()) {
