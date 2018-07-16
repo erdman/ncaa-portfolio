@@ -33,11 +33,6 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
 }
 
 const nullGame = {win:null, blowout:null, shutout:null, top25:null, bowl:null, score_string:null, week: null, startDate:null, win_loss_record:null, total:null};
-
-function displaySchool(school) {
-    return `${school.name} (${school.points} / ${school.units})`
-}
-
 const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];
 let games = [], portfolios = [];
 let fbs, fbs_name_set, new_years_six = {};
@@ -94,7 +89,7 @@ function start_loaders() {
 }
 
 function load_data(publish_continuation) {
-    $.when(...start_loaders()
+    return $.when(...start_loaders()
     ).then(function () {
         games.sort((a, b) => a.startDate.localeCompare(b.startDate));
         console.log('when...then');
@@ -325,15 +320,19 @@ $(document).ready( function () {
 
     $("#year").change(function() {
         const year = $('#year').find(":selected").text();
+        var promise = null;
         if (globaldata.hasOwnProperty(year)) {
             console.log('hasOwnProperty');
             reloadDataTable();
         } else {
             console.log('new year -- load_data()');
-            load_data(reloadDataTable);
+            promise = load_data(reloadDataTable);
         }
-        const [route, _, school] = window.location.hash.replace('#', '').split('/');
-        window.location.hash = [route, year, school].filter(Boolean).join('/');
+        // don't change the hash until data has finished loading
+        $.when(promise).then(function() {
+            const [route, _, school] = window.location.hash.replace('#', '').split('/');
+            window.location.hash = [route, year, school].filter(Boolean).join('/');
+        });
     });
 
     $(window).on('hashchange', function () {
