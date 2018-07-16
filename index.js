@@ -57,7 +57,7 @@ function start_loaders() {
     });
 
     loaders.push(
-        $.getJSON(`json/fbs-${year}.json`)
+        $.getJSON(`json/${year}/fbs-${year}.json`)
         .then(function (data) {
             fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[], points: 0 } }; }, {});  //convert array to object indexed by names
             fbs_name_set = new Set(data.map(x => x.name));
@@ -65,7 +65,7 @@ function start_loaders() {
     );
 
     loaders.push(
-        $.getJSON(`json/new-years-six-${year}.json`)
+        $.getJSON(`json/${year}/new-years-six-${year}.json`)
         .then(function (data) {
             Object.keys(data).forEach(function(key) {
                 new_years_six[key] = new Set(data[key]);
@@ -74,7 +74,7 @@ function start_loaders() {
     );
 
     loaders.push(
-        $.getJSON(`json/portfolios-${year}.json`)
+        $.getJSON(`json/${year}/portfolios-${year}.json`)
         .then(function (data) {
             portfolios.push(...data.map(function (item) {
                 let result = {'name': item.Name};
@@ -130,7 +130,7 @@ function load_data(publish_continuation) {
         });
         // add a Week 0 nullGame for all teams WITHOUT two Week 1 games, so everything is aligned correctly in summary page
         Object.keys(fbs).map(function(key, index) {
-            while (fbs[key].games[1].week !== 1 && fbs[key].games[1].week !== null) {
+            while (fbs[key].games.length < 2 || (fbs[key].games[1].week !== 1 && fbs[key].games[1].week !== null)) {
                 fbs[key].games.unshift(nullGame);
             }
         });
@@ -287,12 +287,14 @@ function reloadDataTable() {
     );
     // update Team Details dropdown with new set of fbs names
     set_details_dropdown_options(fbs_name_set);
-
 }
 
 
-var globaldata = {};
-load_data(establish_datatables);
+let globaldata = {};
+window.location.hash = window.location.hash || "#Leaderboard/2017";  // sets hash to default if no hash given
+$("#year").val(window.location.hash.split('/')[1] || '2017');        // sets year dropdown to value in hash or default if no year hash given
+console.log('intial hash: ', window.location.hash);
+let promise = load_data(establish_datatables);
 
 $(document).ready( function () {
     // wire up the search box in template header
@@ -320,7 +322,7 @@ $(document).ready( function () {
 
     $("#year").change(function() {
         const year = $('#year').find(":selected").text();
-        var promise = null;
+        let promise = null;
         if (globaldata.hasOwnProperty(year)) {
             console.log('hasOwnProperty');
             reloadDataTable();
@@ -329,7 +331,7 @@ $(document).ready( function () {
             promise = load_data(reloadDataTable);
         }
         // don't change the hash until data has finished loading
-        $.when(promise).then(function() {
+        return $.when(promise).then(function() {
             const [route, _, school] = window.location.hash.replace('#', '').split('/');
             window.location.hash = [route, year, school].filter(Boolean).join('/');
         });
@@ -337,12 +339,13 @@ $(document).ready( function () {
 
     $(window).on('hashchange', function () {
       console.log('hashchange triggered');
+      let promise = null;
       const [route, year, school] = window.location.hash.replace('#', '').split('/');
       // load year data here if not already loaded
       if (year && year !== $("#year").find(":selected").text()) {
-          $("#year").val(year).change();
+          promise = $("#year").val(year).change();
       }
-      $(window).trigger(`route:${route}`, [year, decodeURI(school)]);
+      $.when(promise).then(function() {$(window).trigger(`route:${route}`, [year, decodeURI(school)]);});
     });
 
     $(window).on('route:Leaderboard', function (route, year, school) {
@@ -370,4 +373,7 @@ $(document).ready( function () {
       // show view, hide others, etc.
       $('a[href="#Rules"]').trigger('click');
     });
+
+    // go to initial hash on page load
+    $.when(promise).then(function () { console.log('triggering hashchange on page load'); $(window).trigger('hashchange'); });
 } );
