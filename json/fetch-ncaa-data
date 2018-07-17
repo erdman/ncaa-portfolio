@@ -1,0 +1,38 @@
+#!/bin/bash
+
+# Usage:
+# first command line argument for shell script is YEAR, second command line argument is WEEK, where 16 is postseason bowl games ("P") and 00 is all weeks
+# ./fetch-ncaa-data YEAR WEEK
+# ./fetch-ncaa-data 2017 3  #fetch week 3 in 2017 game data
+# ./fetch-ncaa-data 2017 16 #fetch postseason bowlgames 2017 game data
+# ./fetch-ncaa-data 2017 0  # fetch all weeks in 2017
+
+set -e
+
+function download() {
+    local YEAR=$1
+    local WEEK=$2
+    wget http://data.ncaa.com/sites/default/files/data/scoreboard/football/fbs/"$YEAR"/"$WEEK"/scoreboard.json -O - | grep gameinfo.json | tr -d '"' | wget --base https://data.ncaa.com -i - -O - | jq -s '.' > "$YEAR"/"$YEAR$WEEK".json
+}
+
+YEAR=$(printf %04d $1)
+WEEK=$(printf %02d $2)
+
+mkdir -p "$YEAR"
+
+if [ $WEEK = 16 ]
+then
+    WEEK='P'
+fi
+
+if [ $WEEK = 00 ]
+then
+    for WEEK in {{01..15},'P'}
+    do
+#        echo $WEEK
+        download $YEAR $WEEK
+    done
+else
+    download $YEAR $WEEK
+fi
+

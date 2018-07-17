@@ -1,0 +1,5471 @@
+[
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-16T19:32:58.825-05:00"
+    },
+    "status": {
+      "yardline": "TRY15",
+      "distance": "12",
+      "down": "2",
+      "possession": "Troy"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/troy-north-texas/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/troy-north-texas/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/troy-north-texas/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/troy-north-texas/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/troy-north-texas/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/16/troy-north-texas/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "15",
+        "7",
+        "21",
+        "7"
+      ],
+      "currentScore": "50",
+      "description": "11-2",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/t/troy.70.png",
+      "name": "<a href='/schools/troy'>Troy</a>",
+      "nameRaw": "Troy",
+      "nameSeo": "troy",
+      "shortname": "TROY",
+      "color": "#872434",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_Sun_Belt",
+            "athleticDept": "TroyAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#trojans"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "13",
+        "3",
+        "7"
+      ],
+      "currentScore": "30",
+      "description": "9-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/n/north-texas.70.png",
+      "name": "<a href='/schools/north-texas'>North Texas</a>",
+      "nameRaw": "North Texas",
+      "nameSeo": "north-texas",
+      "shortname": "NO TEX",
+      "color": "#00622e",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_Sun_Belt",
+            "sport": "MeanGreenFB",
+            "athleticDept": "MeanGreenSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#meangreen"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:20",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/16/1804708/1513464903714-NEW_ORLEANS_BOWL_THUMB1920.jpg_1804708_1_640x360.jpg",
+        "description": "The Troy Trojans force 5 turnovers in the R+L Carriers New Orleans Bowl and come up with a win over North Texas, 50-30.",
+        "type": "highlights",
+        "title": "Troy thumps North Texas in the Big Easy",
+        "url": "video/football/2017-12-16/fbs-football-north-texas-troy-new-orleans-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/16/troy-north-texas",
+    "highlightsUrl": "",
+    "startTime": "1:00 PM ET",
+    "startDateDisplay": "Dec. 16",
+    "startDate": "2017-12-16",
+    "gameState": "final",
+    "conference": "all-conf conference-usa sun-belt",
+    "updatedTimestamp": "2017-12-17 01:05:34",
+    "lastUpdated": "1513490700",
+    "id": "2663702",
+    "startTimeEpoch": "1513447200",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Mercedes-Benz Superdome, New Orleans, LA",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/16/troy-north-texas"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-16T19:09:04.973-05:00"
+    },
+    "status": {
+      "yardline": "GST19",
+      "distance": "11",
+      "down": "2",
+      "possession": "Georgia State"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/western-ky-georgia-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/western-ky-georgia-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/western-ky-georgia-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/western-ky-georgia-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/western-ky-georgia-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/16/western-ky-georgia-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "3",
+        "0",
+        "7"
+      ],
+      "currentScore": "17",
+      "description": "6-7",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/w/western-ky.70.png",
+      "name": "<a href='/schools/western-ky'>Western Ky.</a>",
+      "nameRaw": "Western Ky.",
+      "nameSeo": "western-ky",
+      "shortname": "W KY",
+      "color": "#d41a00",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_Sun_Belt",
+            "sport": "WKUFootball",
+            "athleticDept": "WKUSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#wku"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "10",
+        "3",
+        "7",
+        "7"
+      ],
+      "currentScore": "27",
+      "description": "7-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/g/georgia-st.70.png",
+      "name": "<a href='/schools/georgia-st'>Georgia State</a>",
+      "nameRaw": "Georgia State",
+      "nameSeo": "georgia-st",
+      "shortname": "GA ST",
+      "color": "#74a4cc",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_CAAFootball",
+            "athleticDept": "GSUPanthers",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": []
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/16/western-ky-georgia-st",
+    "highlightsUrl": "",
+    "startTime": "2:30 PM ET",
+    "startDateDisplay": "Dec. 16",
+    "startDate": "2017-12-16",
+    "gameState": "final",
+    "conference": "all-conf sun-belt conference-usa",
+    "updatedTimestamp": "2017-12-17 01:05:34",
+    "lastUpdated": "1513490700",
+    "id": "2663711",
+    "startTimeEpoch": "1513452600",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Camping World Stadium, Orlando, FL",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/16/western-ky-georgia-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-16T20:20:05.97-05:00"
+    },
+    "status": {
+      "yardline": "ORE46",
+      "distance": "12",
+      "down": "3",
+      "possession": "Boise State"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/boise-st-oregon/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/boise-st-oregon/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/boise-st-oregon/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/boise-st-oregon/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/boise-st-oregon/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/16/boise-st-oregon/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "14",
+        "10",
+        "7",
+        "7"
+      ],
+      "currentScore": "38",
+      "description": "11-3",
+      "teamRank": "25",
+      "iconURL": "/sites/default/files/images/logos/schools/b/boise-st.70.png",
+      "name": "<a href='/schools/boise-st'>Boise State</a>",
+      "nameRaw": "Boise State",
+      "nameSeo": "boise-st",
+      "shortname": "BOISE",
+      "color": "#0033a1",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "TheMWC",
+            "sport": "BroncoSportsFB",
+            "athleticDept": "BroncoSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#boisestate"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "14",
+        "0",
+        "14"
+      ],
+      "currentScore": "28",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/o/oregon.70.png",
+      "name": "<a href='/schools/oregon'>Oregon</a>",
+      "nameRaw": "Oregon",
+      "nameSeo": "oregon",
+      "shortname": "OREGN",
+      "color": "#004F27",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "athleticDept": "GoDucks",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#ducksfootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/16/boise-st-oregon",
+    "highlightsUrl": "",
+    "startTime": "3:30 PM ET",
+    "startDateDisplay": "Dec. 16",
+    "startDate": "2017-12-16",
+    "gameState": "final",
+    "conference": "all-conf top-25 pac-12 mountain-west",
+    "updatedTimestamp": "2017-12-17 01:05:34",
+    "lastUpdated": "1513490700",
+    "id": "2663728",
+    "startTimeEpoch": "1513456200",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Sam Boyd Stadium, Las Vegas, NV",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/16/boise-st-oregon"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-17T12:35:53.689-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/marshall-colorado-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/marshall-colorado-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/marshall-colorado-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/marshall-colorado-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/marshall-colorado-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/16/marshall-colorado-st/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "21",
+        "10",
+        "0"
+      ],
+      "currentScore": "31",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/m/marshall.70.png",
+      "name": "<a href='/schools/marshall'>Marshall</a>",
+      "nameRaw": "Marshall",
+      "nameSeo": "marshall",
+      "shortname": "MARSH",
+      "color": "#11461b",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "athleticDept": "Herd_Zone",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#marshallu"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "14",
+        "0",
+        "14"
+      ],
+      "currentScore": "28",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/c/colorado-st.70.png",
+      "name": "<a href='/schools/colorado-st'>Colorado State</a>",
+      "nameRaw": "Colorado State",
+      "nameSeo": "colorado-st",
+      "shortname": "CO ST",
+      "color": "#005643",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "TheMWC",
+            "sport": "CSUFootball",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#CSURams"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:58",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/17/1804982/1513476238165-MarshallKing.jpg_1804982_1_640x360.jpg",
+        "description": "The Thundering Herd take down the Rams 31-28 moving Marshall to its 6th consecutive bowl win, the longest active stream in the FBS. Tyler King marked the longest run in the history of the Gildan New Mexico Bowl.",
+        "type": "highlights",
+        "title": "The Thundering Herd marks the longest bowl win streak in the FBS",
+        "url": "video/football/2017-12-16/fbs-gildan-new-mexico-bowl-marshall-colorado-state-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/16/marshall-colorado-st",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/16/marshall-colorado-st",
+    "contestName": "",
+    "location": "Dreamstyle Stadium, Albuquerque, NM",
+    "startTime": "4:30 PM ET",
+    "startDateDisplay": "Dec. 16",
+    "startDate": "2017-12-16",
+    "gameState": "final",
+    "conference": "all-conf mountain-west conference-usa",
+    "updatedTimestamp": "2017-12-17 12:35:53",
+    "lastUpdated": "1513532100",
+    "id": "2663734",
+    "startTimeEpoch": "1513459800",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "4TH AND 13",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-18T13:43:51.184-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/middle-tenn-arkansas-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/middle-tenn-arkansas-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/middle-tenn-arkansas-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/middle-tenn-arkansas-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/16/middle-tenn-arkansas-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/16/middle-tenn-arkansas-st/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "14",
+        "7",
+        "7"
+      ],
+      "currentScore": "35",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/m/middle-tenn.70.png",
+      "name": "<a href='/schools/middle-tenn'>Middle Tenn.</a>",
+      "nameRaw": "Middle Tenn.",
+      "nameSeo": "middle-tenn",
+      "shortname": "MIDTEN",
+      "color": "#0047aa",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_Sun_Belt",
+            "athleticDept": "MTAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#goBlueRaiders"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "3",
+        "7",
+        "7",
+        "13"
+      ],
+      "currentScore": "30",
+      "description": "7-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/arkansas-st.70.png",
+      "name": "<a href='/schools/arkansas-st'>Arkansas State</a>",
+      "nameRaw": "Arkansas State",
+      "nameSeo": "arkansas-st",
+      "shortname": "ARK ST",
+      "color": "#c7202a",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_Sun_Belt",
+            "athleticDept": "AStateRedWolves",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#RedWolves"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:02:00",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/17/1805550/1513490757468-middle_ten_thumb.jpg_1805550_1_640x360.jpg",
+        "description": "Middle Tennessee led the majority of the way,  but had to hold off several Arkansas State comebacks to win the Raycom Media Camellia Bowl 35-30.",
+        "type": "highlights",
+        "title": "Middle Tennessee holds off multiple Arkansas State comebacks",
+        "url": "video/football/2017-12-16/fbs-football-middle-tennessee-arkansas-state-raycom-media-camellia-bowl"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/16/middle-tenn-arkansas-st",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/16/middle-tenn-arkansas-st",
+    "contestName": "",
+    "location": "Cramton Bowl, Montgomery, AL",
+    "startTime": "8:00 PM ET",
+    "startDateDisplay": "Dec. 16",
+    "startDate": "2017-12-16",
+    "gameState": "final",
+    "conference": "all-conf sun-belt conference-usa",
+    "updatedTimestamp": "2017-12-18 13:43:51",
+    "lastUpdated": "1513622580",
+    "id": "2663735",
+    "startTimeEpoch": "1513472400",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "4TH AND 19",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-20T05:55:57.027-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/19/akron-fla-atlantic/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "3",
+        "0",
+        "0"
+      ],
+      "currentScore": "3",
+      "description": "7-7",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/akron.70.png",
+      "name": "<a href='/schools/akron'>Akron</a>",
+      "nameRaw": "Akron",
+      "nameSeo": "akron",
+      "shortname": "AKRON",
+      "color": "#00285e",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "MACSports",
+            "athleticDept": "GoZipsUpdates",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gozips"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "14",
+        "15",
+        "14"
+      ],
+      "currentScore": "50",
+      "description": "11-3",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/f/fla-atlantic.70.png",
+      "name": "<a href='/schools/fla-atlantic'>Florida Atlantic</a>",
+      "nameRaw": "Florida Atlantic",
+      "nameSeo": "fla-atlantic",
+      "shortname": "FAU",
+      "color": "#002D62",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_Sun_Belt",
+            "athleticDept": "FAUOwlAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#faufootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:48",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/20/1811543/1513744481186-FAU_Thumb.jpg_1811543_1_640x360.jpg",
+        "description": "FAU easily handles Akron in the Cheribundi Tart Cherry Boca Raton Bowl with a 50-3 victory. Jason Driskel led the Owls with 270 passing yards and 4 total touchdowns while Devin Singletary contributed with 124 rushing yards and three scores.",
+        "type": "highlights",
+        "title": "Jason Driskel and FAU dominate Akron in Boca Raton Bowl",
+        "url": "video/football/2017-12-19/fbs-football-florida-atlantic-akron-boca-raton-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/19/akron-fla-atlantic",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/19/akron-fla-atlantic",
+    "contestName": "",
+    "location": "FAU Stadium, Boca Raton, FL",
+    "startTime": "7:00 PM ET",
+    "startDateDisplay": "Dec. 19",
+    "startDate": "2017-12-19",
+    "gameState": "final",
+    "conference": "all-conf conference-usa mid-american",
+    "updatedTimestamp": "2017-12-20 05:55:57",
+    "lastUpdated": "1513767300",
+    "id": "2663732",
+    "startTimeEpoch": "1513728000",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "1ST AND 10",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-21T13:28:31.292-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/20/louisiana-tech-smu/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/20/louisiana-tech-smu/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/20/louisiana-tech-smu/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/20/louisiana-tech-smu/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/20/louisiana-tech-smu/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/20/louisiana-tech-smu/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "21",
+        "21",
+        "6",
+        "3"
+      ],
+      "currentScore": "51",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/l/louisiana-tech.70.png",
+      "name": "<a href='/schools/louisiana-tech'>Louisiana Tech</a>",
+      "nameRaw": "Louisiana Tech",
+      "nameSeo": "louisiana-tech",
+      "shortname": "LATECH",
+      "color": "#002596",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "WACSports",
+            "sport": "LATechFB",
+            "athleticDept": "LATechSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#latech"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "3",
+        "7",
+        "0",
+        "0"
+      ],
+      "currentScore": "10",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/s/smu.70.png",
+      "name": "<a href='/schools/smu'>SMU</a>",
+      "nameRaw": "SMU",
+      "nameSeo": "smu",
+      "shortname": "SMU",
+      "color": "#e51932",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "sport": "SMU_Football",
+            "athleticDept": "SMUMustangs",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#SMU"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:19",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/21/1813991/1513832562646-FRISCO-BOWL-THUMB.jpg_1813991_1_640x360.jpg",
+        "description": "Hopes were high in the DXL Frisco Bowl for SMU&#039;s new head coach Sonny Dykes in his first game against Louisiana Tech, but costly turnovers and an electric Bulldog offense led to the 51-10 Tech to win.",
+        "type": "highlights",
+        "title": "Turnovers the name of the game in Frisco",
+        "url": "video/football/2017-12-20/fbs-frisco-bowl-louisiana-tech-smu-highlight"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/20/louisiana-tech-smu",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/20/louisiana-tech-smu",
+    "contestName": "",
+    "location": "Toyota Stadium, Frisco, TX",
+    "startTime": "8:00 PM ET",
+    "startDateDisplay": "Dec. 20",
+    "startDate": "2017-12-20",
+    "gameState": "final",
+    "conference": "all-conf american-athletic conference-usa",
+    "updatedTimestamp": "2017-12-21 13:28:31",
+    "lastUpdated": "1513880880",
+    "id": "2663726",
+    "startTimeEpoch": "1513818000",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "4TH AND GOAL",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-22T11:08:54.879-05:00"
+    },
+    "status": {
+      "yardline": "FIU48",
+      "distance": "9",
+      "down": "4",
+      "possession": "Temple"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/21/temple-fiu/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/21/temple-fiu/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/21/temple-fiu/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/21/temple-fiu/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/21/temple-fiu/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/21/temple-fiu/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "7",
+        "7",
+        "14"
+      ],
+      "currentScore": "28",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/t/temple.70.png",
+      "name": "<a href='/schools/temple'>Temple</a>",
+      "nameRaw": "Temple",
+      "nameSeo": "temple",
+      "shortname": "TEMPLE",
+      "color": "#9e1b32",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "BigEastFB",
+            "athleticDept": "Owlsports_com",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#templefootball"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "0",
+        "3",
+        "0"
+      ],
+      "currentScore": "3",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/f/fiu.70.png",
+      "name": "<a href='/schools/fiu'>FIU</a>",
+      "nameRaw": "FIU",
+      "nameSeo": "fiu",
+      "shortname": "FIU",
+      "color": "#c79d1f",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "The_Sun_Belt",
+            "sport": "FIUFootball",
+            "athleticDept": "FIUAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#FIUFootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:27",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/22/1816398/1513919683437-Nutile.jpg_1816398_1_640x360.jpg",
+        "description": "Temple entered its 3rd consecutive bowl as the winningest senior class in school history and would go home victorious in the Bad Boy Mowers Gasparilla Bowl defeating FIU 28-3.",
+        "type": "highlights",
+        "title": "Temple's winningest senior class in school history secures bowl win, 28-3",
+        "url": "video/football/2017-12-21/fbs-football-florida-international-temple-bad-boy-mowers-gasparilla-bowl"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/21/temple-fiu",
+    "highlightsUrl": "",
+    "startTime": "8:00 PM ET",
+    "startDateDisplay": "Dec. 21",
+    "startDate": "2017-12-21",
+    "gameState": "final",
+    "conference": "all-conf conference-usa american-athletic",
+    "updatedTimestamp": "2017-12-22 16:05:34",
+    "lastUpdated": "1513976700",
+    "id": "2663736",
+    "startTimeEpoch": "1513904400",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Tropicana Field, St. Petersburg, FL",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/21/temple-fiu"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-22T16:36:55.674-05:00"
+    },
+    "status": {
+      "yardline": "OHI4",
+      "distance": "3",
+      "down": "4",
+      "possession": "UAB"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/uab-ohio/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/uab-ohio/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/uab-ohio/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/uab-ohio/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/uab-ohio/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/22/uab-ohio/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "3",
+        "3",
+        "0"
+      ],
+      "currentScore": "6",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/u/uab.70.png",
+      "name": "<a href='/schools/uab'>UAB</a>",
+      "nameRaw": "UAB",
+      "nameSeo": "uab",
+      "shortname": "UAB",
+      "color": "#007c60",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "athleticDept": "UABathletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#goblazers"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "13",
+        "14",
+        "14",
+        "0"
+      ],
+      "currentScore": "41",
+      "description": "9-4",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/o/ohio.70.png",
+      "name": "<a href='/schools/ohio'>Ohio</a>",
+      "nameRaw": "Ohio",
+      "nameSeo": "ohio",
+      "shortname": "OHIO",
+      "color": "#336633",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "MACSports",
+            "athleticDept": "OhioBobcats",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#ohiobobcats"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:20",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/22/1817392/1513978272478-BROWNTHUMB.jpg_1817392_1_640x360.jpg",
+        "description": "Ohio comes away with a dominate 41-6 win over UAB during the Popeyes Bahamas Bowl. Dorian Brown led the offense with 4 rushing touchdowns tying the Bahamas Bowl record.",
+        "type": "highlights",
+        "title": "Ohio ties Bahamas Bowl touchdown record",
+        "url": "video/football/2017-12-22/fbs-football-alabama-birmingham-ohio-popeyes-bahamas-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/22/uab-ohio",
+    "highlightsUrl": "",
+    "startTime": "12:30 PM ET",
+    "startDateDisplay": "Dec. 22",
+    "startDate": "2017-12-22",
+    "gameState": "final",
+    "conference": "all-conf mid-american conference-usa",
+    "updatedTimestamp": "2017-12-22 23:05:34",
+    "lastUpdated": "1514001900",
+    "id": "2663682",
+    "startTimeEpoch": "1513963800",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Thomas Robinson Stadium, Nassau, ",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/22/uab-ohio"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-22T20:16:03.955-05:00"
+    },
+    "status": {
+      "yardline": "WYO28",
+      "distance": "10",
+      "down": "3",
+      "possession": "Wyoming"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/central-mich-wyoming/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/central-mich-wyoming/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/central-mich-wyoming/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/central-mich-wyoming/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/22/central-mich-wyoming/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/22/central-mich-wyoming/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "0",
+        "7",
+        "0"
+      ],
+      "currentScore": "14",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/c/central-mich.70.png",
+      "name": "<a href='/schools/central-mich'>Cent. Michigan</a>",
+      "nameRaw": "Cent. Michigan",
+      "nameSeo": "central-mich",
+      "shortname": "C MICH",
+      "color": "#630237",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "MACSports",
+            "sport": "CMU_Football",
+            "athleticDept": "CMUAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#CMUChippewas"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "21",
+        "6",
+        "3",
+        "7"
+      ],
+      "currentScore": "37",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/w/wyoming.70.png",
+      "name": "<a href='/schools/wyoming'>Wyoming</a>",
+      "nameRaw": "Wyoming",
+      "nameSeo": "wyoming",
+      "shortname": "WYO",
+      "color": "#f6c028",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "TheMWC",
+            "athleticDept": "wyoathletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#cowboys"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:37",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/23/1817730/1513990836031-gatoradedumpWyoming-2.jpg_1817730_1_640x360.jpg",
+        "description": "Wyoming wins its first bowl since 2009 in a 37-14 victory over Central Michigan. The Cowboys&#039; defense held the Chippewas to 18 total rushing yards and forced a school-record eight turnovers.",
+        "type": "highlights",
+        "title": "Wyoming forces a school record 8 turnovers",
+        "url": "video/football/2017-12-22/fbs-football-central-michigan-wyoming-famous-idaho-potato-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/22/central-mich-wyoming",
+    "highlightsUrl": "",
+    "startTime": "4:00 PM ET",
+    "startDateDisplay": "Dec. 22",
+    "startDate": "2017-12-22",
+    "gameState": "final",
+    "conference": "all-conf mountain-west mid-american",
+    "updatedTimestamp": "2017-12-22 23:05:34",
+    "lastUpdated": "1514001900",
+    "id": "2663719",
+    "startTimeEpoch": "1513976400",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Albertsons Stadium, Boise, ID",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/22/central-mich-wyoming"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-23T23:05:49.739-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/texas-tech-south-fla/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/texas-tech-south-fla/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/texas-tech-south-fla/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/texas-tech-south-fla/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/texas-tech-south-fla/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/23/texas-tech-south-fla/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "10",
+        "0",
+        "14",
+        "10"
+      ],
+      "currentScore": "34",
+      "description": "6-7",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/t/texas-tech.70.png",
+      "name": "<a href='/schools/texas-tech'>Texas Tech</a>",
+      "nameRaw": "Texas Tech",
+      "nameSeo": "texas-tech",
+      "shortname": "TXTECH",
+      "color": "#CC0000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "athleticDept": "TechAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#redraiders"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "3",
+        "7",
+        "7",
+        "21"
+      ],
+      "currentScore": "38",
+      "description": "10-2",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/s/south-fla.70.png",
+      "name": "<a href='/schools/south-fla'>South Florida</a>",
+      "nameRaw": "South Florida",
+      "nameSeo": "south-fla",
+      "shortname": "USF",
+      "color": "#006747",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "BigEastFB",
+            "sport": "USFFootball",
+            "athleticDept": "USFAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#bulls"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:59",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/23/1819132/1514065582255-birmingham_bowl_thumb1920_v2.jpg_1819132_1_640x360.jpg",
+        "description": "South Florida scores a touchdown with just 16 seconds left to defeat Texas Tech 38-34 in the Birmingham Bowl. USF&#039;s Quinton Flowers threw for 311 yards and 4 touchdowns while rushing for 106 yards and 1 touchdown.",
+        "type": "highlights",
+        "title": "South Florida beats Texas Tech in a Thriller",
+        "url": "video/football/2017-12-23/fbs-football-south-florida-texas-tech-birmingham-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/23/texas-tech-south-fla",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/23/texas-tech-south-fla",
+    "contestName": "",
+    "location": "Legion Field, Birmingham, AL",
+    "startTime": "12:00 PM ET",
+    "startDateDisplay": "Dec. 23",
+    "startDate": "2017-12-23",
+    "gameState": "final",
+    "conference": "all-conf american-athletic big-12",
+    "updatedTimestamp": "2017-12-23 23:05:49",
+    "lastUpdated": "1514088300",
+    "id": "2663720",
+    "startTimeEpoch": "1514048400",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "1ST AND 10",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-23T20:51:24.514-05:00"
+    },
+    "status": {
+      "yardline": "SDSU2",
+      "distance": "",
+      "down": "",
+      "possession": "Army West Point"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/san-diego-st-army/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/san-diego-st-army/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/san-diego-st-army/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/san-diego-st-army/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/san-diego-st-army/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/23/san-diego-st-army/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "14",
+        "7",
+        "7"
+      ],
+      "currentScore": "35",
+      "description": "10-3",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/s/san-diego-st.70.png",
+      "name": "<a href='/schools/san-diego-st'>San Diego State</a>",
+      "nameRaw": "San Diego State",
+      "nameSeo": "san-diego-st",
+      "shortname": "SDSU",
+      "color": "#A81933",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "TheMWC",
+            "athleticDept": "GoAztecs",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#Aztecs"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "14",
+        "0",
+        "21"
+      ],
+      "currentScore": "42",
+      "description": "10-3",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/army.70.png",
+      "name": "<a href='/schools/army'>Army West Point</a>",
+      "nameRaw": "Army West Point",
+      "nameSeo": "army",
+      "shortname": "ARMY",
+      "color": "#ccb284",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "sport": "TheArmyTeam",
+            "athleticDept": "ArmyAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#armyfootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:59",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/24/1819255/1514075597626-ARMED_FORCES_BOWL_THUMB1920.jpg_1819255_1_640x360.jpg",
+        "description": "Army and San Diego State combine for nearly 700 rushing yards in the Lockheed Martin Armed Forces Bowl, but it&#039;s the Black Knights that come out on top 42-35.",
+        "type": "highlights",
+        "title": "Army beats San Diego State with late 2-Point Conversion",
+        "url": "video/football/2017-12-23/fbs-football-san-diego-state-army-armed-forces-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/23/san-diego-st-army",
+    "highlightsUrl": "",
+    "startTime": "3:30 PM ET",
+    "startDateDisplay": "Dec. 23",
+    "startDate": "2017-12-23",
+    "gameState": "final",
+    "conference": "all-conf fbs-independent mountain-west",
+    "updatedTimestamp": "2017-12-23 23:05:34",
+    "lastUpdated": "1514088300",
+    "id": "2663733",
+    "startTimeEpoch": "1514061000",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Amon G. Carter Stadium, Fort Worth, TX",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/23/san-diego-st-army"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-24T09:28:38.673-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/appalachian-st-toledo/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/appalachian-st-toledo/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/appalachian-st-toledo/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/appalachian-st-toledo/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/23/appalachian-st-toledo/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/23/appalachian-st-toledo/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "13",
+        "7",
+        "7"
+      ],
+      "currentScore": "34",
+      "description": "9-4",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/appalachian-st.70.png",
+      "name": "<a href='/schools/appalachian-st'>Appalachian St.</a>",
+      "nameRaw": "Appalachian St.",
+      "nameSeo": "appalachian-st",
+      "shortname": "APP ST",
+      "color": "#d6ac00",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SoConSports",
+            "athleticDept": "GoASU",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": []
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "currentScore": "0",
+      "description": "11-3",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/t/toledo.70.png",
+      "name": "<a href='/schools/toledo'>Toledo</a>",
+      "nameRaw": "Toledo",
+      "nameSeo": "toledo",
+      "shortname": "TOLEDO",
+      "color": "#0e2144",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "MACSports",
+            "athleticDept": "UTRocketsDotCom",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gorockets"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:27",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/24/1819835/1514086211584-MOORETHUMB.jpg_1819835_1_640x360.jpg",
+        "description": "Appalachian State shuts out Toledo with a 34-0 win in the Dollar General Bowl. Jalin Moore ushered in three Mountaineer touchdowns on 125 rushing yards.",
+        "type": "highlights",
+        "title": "App State hands Toledo its first shut out since 2009",
+        "url": "video/football/2017-12-23/fbs-football-appalachian-state-toledo-dollar-general-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/23/appalachian-st-toledo",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/23/appalachian-st-toledo",
+    "contestName": "",
+    "location": "Ladd-Peebles Stadium, Mobile, AL",
+    "startTime": "7:00 PM ET",
+    "startDateDisplay": "Dec. 23",
+    "startDate": "2017-12-23",
+    "gameState": "final",
+    "conference": "all-conf mid-american sun-belt",
+    "updatedTimestamp": "2017-12-24 09:28:38",
+    "lastUpdated": "1514125680",
+    "id": "2663706",
+    "startTimeEpoch": "1514073600",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "4TH AND 11",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-25T02:03:05.781-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/24/fresno-st-houston/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/24/fresno-st-houston/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/24/fresno-st-houston/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/24/fresno-st-houston/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/24/fresno-st-houston/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/24/fresno-st-houston/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "13",
+        "7",
+        "13"
+      ],
+      "currentScore": "33",
+      "description": "10-4",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/f/fresno-st.70.png",
+      "name": "<a href='/schools/fresno-st'>Fresno State</a>",
+      "nameRaw": "Fresno State",
+      "nameSeo": "fresno-st",
+      "shortname": "FRESNO",
+      "color": "#005495",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "TheMWC",
+            "athleticDept": "FSAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#fresnostate"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "3",
+        "10",
+        "7"
+      ],
+      "currentScore": "27",
+      "description": "7-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/h/houston.70.png",
+      "name": "<a href='/schools/houston'>Houston</a>",
+      "nameRaw": "Houston",
+      "nameSeo": "houston",
+      "shortname": "HOU",
+      "color": "#CC0000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "sport": "UHCougarFB",
+            "athleticDept": "UHCougarSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gocougs"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/24/fresno-st-houston",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/24/fresno-st-houston",
+    "contestName": "",
+    "location": "Hawaiian Tel Federal Credit Union Field , Honolulu, HI",
+    "startTime": "8:30 PM ET",
+    "startDateDisplay": "Dec. 24",
+    "startDate": "2017-12-24",
+    "gameState": "final",
+    "conference": "all-conf american-athletic mountain-west",
+    "updatedTimestamp": "2017-12-25 02:03:05",
+    "lastUpdated": "1514185380",
+    "id": "2663721",
+    "startTimeEpoch": "1514165400",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "4TH AND 17",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-26T21:05:45.728-05:00"
+    },
+    "status": {
+      "yardline": "UTH27",
+      "distance": "8",
+      "down": "4",
+      "possession": "Utah"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/utah-west-virginia/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/utah-west-virginia/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/utah-west-virginia/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/utah-west-virginia/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/utah-west-virginia/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/26/utah-west-virginia/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "10",
+        "0",
+        "13"
+      ],
+      "currentScore": "30",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/u/utah.70.png",
+      "name": "<a href='/schools/utah'>Utah</a>",
+      "nameRaw": "Utah",
+      "nameSeo": "utah",
+      "shortname": "UTAH",
+      "color": "#cc0000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "sport": "Utah_Football",
+            "athleticDept": "utahathletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#utahutes"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "3",
+        "3",
+        "8"
+      ],
+      "currentScore": "14",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/w/west-virginia.70.png",
+      "name": "<a href='/schools/west-virginia'>West Virginia</a>",
+      "nameRaw": "West Virginia",
+      "nameSeo": "west-virginia",
+      "shortname": "WVU",
+      "color": "#00447c",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "sport": "WVUfootball",
+            "athleticDept": "WVUSportsBuzz",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#wvu"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:45",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/27/1822742/1514332868279-heart_of_dallas_thumb.jpg_1822742_1_640x360.jpg",
+        "description": "Utah went up early and never looked back to take the Zaxby&#039;s Heart of Dallas Bowl, 30-14. Utah&#039;s offense, led by Zack Moss&#039; 150 yards, ran all over a Mountaineer team that has been hampered by injuries all season.",
+        "type": "highlights",
+        "title": "West Virginia can't stop high-powered Utes offense",
+        "url": "video/football/2017-12-26/fbs-football-utah-west-virginia-heart-dallas-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/26/utah-west-virginia",
+    "highlightsUrl": "",
+    "startTime": "1:30 PM ET",
+    "startDateDisplay": "Dec. 26",
+    "startDate": "2017-12-26",
+    "gameState": "final",
+    "conference": "all-conf big-12 pac-12",
+    "updatedTimestamp": "2017-12-27 01:05:36",
+    "lastUpdated": "1514354700",
+    "id": "2663731",
+    "startTimeEpoch": "1514313000",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Cotton Bowl, Dallas, TX",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/26/utah-west-virginia"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-26T21:44:02.985-05:00"
+    },
+    "status": {
+      "yardline": "NIL36",
+      "distance": "8",
+      "down": "3",
+      "possession": "Duke"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/duke-northern-ill/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/duke-northern-ill/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/duke-northern-ill/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/duke-northern-ill/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/duke-northern-ill/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/26/duke-northern-ill/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "14",
+        "12",
+        "7",
+        "3"
+      ],
+      "currentScore": "36",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/d/duke.70.png",
+      "name": "<a href='/schools/duke'>Duke</a>",
+      "nameRaw": "Duke",
+      "nameSeo": "duke",
+      "shortname": "DUKE",
+      "color": "#00529b",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "sport": "Duke_FB",
+            "athleticDept": "Duke_ATHLETICS",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#dukefootball"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "14",
+        "0",
+        "0"
+      ],
+      "currentScore": "14",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/n/northern-ill.70.png",
+      "name": "<a href='/schools/northern-ill'>Northern Ill.</a>",
+      "nameRaw": "Northern Ill.",
+      "nameSeo": "northern-ill",
+      "shortname": "NIU",
+      "color": "#b42836",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "MACSports",
+            "athleticDept": "NIUAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#NIUfootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:57",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/27/1823043/1514340912746-QUICK_LANE_THUMB.jpg_1823043_1_640x360.jpg",
+        "description": "Duke got out to a 14-0 lead early and squashed a potential comeback by Northern Illinois to win the Quick Lane Bowl, 36-14. Quarterback Daniel Jones threw for two touchdown passes and added another on the ground to lead the Blue Devils.",
+        "type": "highlights",
+        "title": "Duke makes fast work of Northern Illinois in the Quick Lane Bowl",
+        "url": "video/football/2017-12-26/fbs-football-duke-northern-illinois-quick-lane-bowl"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/26/duke-northern-ill",
+    "highlightsUrl": "",
+    "startTime": "5:15 PM ET",
+    "startDateDisplay": "Dec. 26",
+    "startDate": "2017-12-26",
+    "gameState": "final",
+    "conference": "all-conf mid-american atlantic-coast",
+    "updatedTimestamp": "2017-12-27 17:05:34",
+    "lastUpdated": "1514412300",
+    "id": "2663722",
+    "startTimeEpoch": "1514326500",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Ford Field, Detroit, MI",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/26/duke-northern-ill"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-27T01:17:05.987-05:00"
+    },
+    "status": {
+      "yardline": "UCLA31",
+      "distance": "11",
+      "down": "2",
+      "possession": "Kansas St."
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/kansas-st-ucla/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/kansas-st-ucla/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/kansas-st-ucla/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/kansas-st-ucla/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/26/kansas-st-ucla/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/26/kansas-st-ucla/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "0",
+        "14",
+        "14"
+      ],
+      "currentScore": "35",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/k/kansas-st.70.png",
+      "name": "<a href='/schools/kansas-st'>Kansas St.</a>",
+      "nameRaw": "Kansas St.",
+      "nameSeo": "kansas-st",
+      "shortname": "KAN ST",
+      "color": "#502d7f",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "sport": "kstate_gameday",
+            "athleticDept": "kstatesports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#KansasState"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "3",
+        "14",
+        "0",
+        "0"
+      ],
+      "currentScore": "17",
+      "description": "6-7",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/u/ucla.70.png",
+      "name": "<a href='/schools/ucla'>UCLA</a>",
+      "nameRaw": "UCLA",
+      "nameSeo": "ucla",
+      "shortname": "UCLA",
+      "color": "#0072cf",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "sport": "footballUCLA",
+            "athleticDept": "UCLAAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#uclafootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/26/kansas-st-ucla",
+    "highlightsUrl": "",
+    "startTime": "9:00 PM ET",
+    "startDateDisplay": "Dec. 26",
+    "startDate": "2017-12-26",
+    "gameState": "final",
+    "conference": "all-conf pac-12 big-12",
+    "updatedTimestamp": "2017-12-27 17:05:34",
+    "lastUpdated": "1514412300",
+    "id": "2663725",
+    "startTimeEpoch": "1514340000",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Chase Field, Phoenix, AZ",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/26/kansas-st-ucla"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-27T20:31:32.315-05:00"
+    },
+    "status": {
+      "yardline": "USM5",
+      "distance": "1",
+      "down": "4",
+      "possession": "Florida State"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/southern-miss-florida-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/southern-miss-florida-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/southern-miss-florida-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/southern-miss-florida-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/southern-miss-florida-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/27/southern-miss-florida-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "6",
+        "0",
+        "7",
+        "0"
+      ],
+      "currentScore": "13",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/s/southern-miss.70.png",
+      "name": "<a href='/schools/southern-miss'>Southern Miss</a>",
+      "nameRaw": "Southern Miss",
+      "nameSeo": "southern-miss",
+      "shortname": "S MISS",
+      "color": "#f0bc28",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "athleticDept": "USMGoldenEagles",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#goldeneagles"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "16",
+        "10",
+        "9"
+      ],
+      "currentScore": "42",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/f/florida-st.70.png",
+      "name": "<a href='/schools/florida-st'>Florida State</a>",
+      "nameRaw": "Florida State",
+      "nameSeo": "florida-st",
+      "shortname": "FSU",
+      "color": "#540115",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "sport": "FSU_Football",
+            "athleticDept": "Seminoles_com",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#noles"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:53",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/27/1824400/1514415084115-fsu_independence_thumb.jpg_1824400_1_640x360.jpg",
+        "description": "Florida State defeated Southern Miss in the Walk On&#039;s Independence Bowl, score-score. James Blackman was the catalyst for the Seminole offense, 262 total yards and 4 touchdowns.",
+        "type": "highlights",
+        "title": "Seminoles overpower the Golden Eagles in a 42-13 victory",
+        "url": "video/football/2017-12-27/fbs-football-southern-miss-florida-state-independence-bowl"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/27/southern-miss-florida-st",
+    "highlightsUrl": "",
+    "startTime": "1:30 PM ET",
+    "startDateDisplay": "Dec. 27",
+    "startDate": "2017-12-27",
+    "gameState": "final",
+    "conference": "all-conf atlantic-coast conference-usa",
+    "updatedTimestamp": "2017-12-28 01:05:34",
+    "lastUpdated": "1514441100",
+    "id": "2663729",
+    "startTimeEpoch": "1514399400",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Independence Stadium, Shreveport, LA",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/27/southern-miss-florida-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-28T04:05:49.909-05:00"
+    },
+    "status": {
+      "yardline": "BC14",
+      "distance": "10",
+      "down": "1",
+      "possession": "Iowa"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/iowa-boston-college/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/iowa-boston-college/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/iowa-boston-college/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/iowa-boston-college/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/iowa-boston-college/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/27/iowa-boston-college/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "3",
+        "7",
+        "7",
+        "10"
+      ],
+      "currentScore": "27",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/i/iowa.70.png",
+      "name": "<a href='/schools/iowa'>Iowa</a>",
+      "nameRaw": "Iowa",
+      "nameSeo": "iowa",
+      "shortname": "IOWA",
+      "color": "#141414",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "sport": "HawkeyeFootball",
+            "athleticDept": "TheIowaHawkeyes",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#hawkeyes"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "10",
+        "0",
+        "3"
+      ],
+      "currentScore": "20",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/b/boston-college.70.png",
+      "name": "<a href='/schools/boston-college'>Boston College</a>",
+      "nameRaw": "Boston College",
+      "nameSeo": "boston-college",
+      "shortname": "BC",
+      "color": "#98002e",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "sport": "bceaglesfball",
+            "athleticDept": "BCSportsNews",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#bceagles"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:02:03",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/28/1824813/1514427077581-iowa_pinstripe_thumb.jpg_1824813_1_640x360.jpg",
+        "description": "In a game where neither team led by more than a touchdown, Iowa outlasted Boston College to win the New Era Pinstripe Bowl, 27-20. Iowa&#039;s defense forced three turnovers as Kirk Ferentz moved into a tie with Hayden Fry as Iowa&#039;s leader in all time wins.",
+        "type": "highlights",
+        "title": "Turnovers the key to Iowa's thrilling 27-20 Pinstripe Bowl victory",
+        "url": "video/football/2017-12-27/fbs-football-iowa-boston-college-pinstripe-bowl"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/27/iowa-boston-college",
+    "highlightsUrl": "",
+    "startTime": "5:15 PM ET",
+    "startDateDisplay": "Dec. 27",
+    "startDate": "2017-12-27",
+    "gameState": "final",
+    "conference": "all-conf atlantic-coast big-ten",
+    "updatedTimestamp": "2017-12-28 17:05:34",
+    "lastUpdated": "1514498700",
+    "id": "2663709",
+    "startTimeEpoch": "1514412900",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Yankee Stadium, Bronx, NY",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/27/iowa-boston-college"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-28T01:43:07.978-05:00"
+    },
+    "status": {
+      "yardline": "PUR33",
+      "distance": "13",
+      "down": "4",
+      "possession": "Purdue"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/arizona-purdue/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/arizona-purdue/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/arizona-purdue/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/arizona-purdue/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/arizona-purdue/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/27/arizona-purdue/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "14",
+        "0",
+        "14",
+        "7"
+      ],
+      "currentScore": "35",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/arizona.70.png",
+      "name": "<a href='/schools/arizona'>Arizona</a>",
+      "nameRaw": "Arizona",
+      "nameSeo": "arizona",
+      "shortname": "ARIZ",
+      "color": "#003366",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "athleticDept": "AZATHLETICS",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#arizonawildcats"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "14",
+        "17",
+        "0",
+        "7"
+      ],
+      "currentScore": "38",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/p/purdue.70.png",
+      "name": "<a href='/schools/purdue'>Purdue</a>",
+      "nameRaw": "Purdue",
+      "nameSeo": "purdue",
+      "shortname": "PURDUE",
+      "color": "#141414",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "sport": "BoilerFootball",
+            "athleticDept": "PurdueSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#boilermakers"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/27/arizona-purdue",
+    "highlightsUrl": "",
+    "startTime": "8:30 PM ET",
+    "startDateDisplay": "Dec. 27",
+    "startDate": "2017-12-27",
+    "gameState": "final",
+    "conference": "all-conf big-ten pac-12",
+    "updatedTimestamp": "2017-12-28 17:05:34",
+    "lastUpdated": "1514498700",
+    "id": "2663724",
+    "startTimeEpoch": "1514424600",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/27/arizona-purdue"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-28T01:35:06.922-05:00"
+    },
+    "status": {
+      "yardline": "TEX23",
+      "distance": "15",
+      "down": "2",
+      "possession": "Texas"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/texas-missouri/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/texas-missouri/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/texas-missouri/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/texas-missouri/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/27/texas-missouri/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/27/texas-missouri/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "14",
+        "7",
+        "2",
+        "10"
+      ],
+      "currentScore": "33",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/t/texas.70.png",
+      "name": "<a href='/schools/texas'>Texas</a>",
+      "nameRaw": "Texas",
+      "nameSeo": "texas",
+      "shortname": "TEXAS",
+      "color": "#CC5500",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "sport": "MBTexasFootball",
+            "athleticDept": "TexasSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#hookem"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "7",
+        "9",
+        "0"
+      ],
+      "currentScore": "16",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/m/missouri.70.png",
+      "name": "<a href='/schools/missouri'>Missouri</a>",
+      "nameRaw": "Missouri",
+      "nameSeo": "missouri",
+      "shortname": "MIZZOU",
+      "color": "#F1B82D",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "mizzoufootball",
+            "athleticDept": "mutigersdotcom",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#mizzou"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/27/texas-missouri",
+    "highlightsUrl": "",
+    "startTime": "9:00 PM ET",
+    "startDateDisplay": "Dec. 27",
+    "startDate": "2017-12-27",
+    "gameState": "final",
+    "conference": "all-conf southeastern big-12",
+    "updatedTimestamp": "2017-12-28 17:05:34",
+    "lastUpdated": "1514498700",
+    "id": "2663723",
+    "startTimeEpoch": "1514426400",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "NRG Stadium, Houston, TX",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/27/texas-missouri"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-28T19:59:35.839-05:00"
+    },
+    "status": {
+      "yardline": "NAV48",
+      "distance": "10",
+      "down": "1",
+      "possession": "Virginia"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-navy/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-navy/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-navy/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-navy/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-navy/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/28/virginia-navy/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "0",
+        "0",
+        "0"
+      ],
+      "currentScore": "7",
+      "description": "6-7",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/v/virginia.70.png",
+      "name": "<a href='/schools/virginia'>Virginia</a>",
+      "nameRaw": "Virginia",
+      "nameSeo": "virginia",
+      "shortname": "UVA",
+      "color": "#002147",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "athleticDept": "VirginiaSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#UVAFootball"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "14",
+        "14",
+        "14",
+        "7"
+      ],
+      "currentScore": "49",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/n/navy.70.png",
+      "name": "<a href='/schools/navy'>Navy</a>",
+      "nameRaw": "Navy",
+      "nameSeo": "navy",
+      "shortname": "NAVY",
+      "color": "#333366",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "sport": "USNAFootball",
+            "athleticDept": "NavyAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#navyfootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:58",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/28/1826354/1514504540670-navy_military_bowl_thumb.jpg_1826354_1_640x360.jpg",
+        "description": "After giving up a touchdown on the first play of the game, Navy dominated the rest of the Northrop Grumman Military Bowl, 49-7. Malcolm Perry led the Midshipmen with 114 yards on the ground while Zach Abey added five touchdowns on the day.",
+        "type": "highlights",
+        "title": "Navy wins the Military Bowl without completing a single pass",
+        "url": "video/football/2017-12-28/fbs-football-virginia-navy-military-bowl"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/28/virginia-navy",
+    "highlightsUrl": "",
+    "startTime": "1:30 PM ET",
+    "startDateDisplay": "Dec. 28",
+    "startDate": "2017-12-28",
+    "gameState": "final",
+    "conference": "all-conf american-athletic atlantic-coast",
+    "updatedTimestamp": "2017-12-29 02:05:34",
+    "lastUpdated": "1514531100",
+    "id": "2663714",
+    "startTimeEpoch": "1514485800",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Navy-Marine Corps Memorial Stadium, Annapolis, MD",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/28/virginia-navy"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-28T23:14:21.275-05:00"
+    },
+    "status": {
+      "yardline": "OKS23",
+      "distance": "14",
+      "down": "2",
+      "possession": "Oklahoma State"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-tech-oklahoma-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-tech-oklahoma-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-tech-oklahoma-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-tech-oklahoma-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/virginia-tech-oklahoma-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/28/virginia-tech-oklahoma-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "0",
+        "7",
+        "7"
+      ],
+      "currentScore": "21",
+      "description": "9-4",
+      "teamRank": "22",
+      "iconURL": "/sites/default/files/images/logos/schools/v/virginia-tech.70.png",
+      "name": "<a href='/schools/virginia-tech'>Virginia Tech</a>",
+      "nameRaw": "Virginia Tech",
+      "nameSeo": "virginia-tech",
+      "shortname": "VATECH",
+      "color": "#660000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "sport": "VT_Football",
+            "athleticDept": "hokiesports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#hokies"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "3",
+        "10",
+        "14",
+        "3"
+      ],
+      "currentScore": "30",
+      "description": "10-3",
+      "teamRank": "19",
+      "iconURL": "/sites/default/files/images/logos/schools/o/oklahoma-st.70.png",
+      "name": "<a href='/schools/oklahoma-st'>Oklahoma State</a>",
+      "nameRaw": "Oklahoma State",
+      "nameSeo": "oklahoma-st",
+      "shortname": "OKLAST",
+      "color": "#FF6600",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "sport": "CowboyFB",
+            "athleticDept": "OSUAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#okstate"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:51",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/29/1826782/1514516834454-USATSI_10501831.jpg_1826782_1_640x360.jpg",
+        "description": "Both teams were looking to finish off the year with a 10 win season and the Cowboys came out on top as Oklahoma State took down Virginia Tech in the Camping World Bowl. Mason Rudolph finished off his career as a Cowboy with 351 passing yards and 2 touchdowns in a 30-21 victory.",
+        "type": "highlights",
+        "title": "Mason Rudolph lights it up in his final game",
+        "url": "video/football/2017-12-28/fbs-camping-world-bowl-virginia-tech-oklahoma-state-highlight"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/28/virginia-tech-oklahoma-st",
+    "highlightsUrl": "",
+    "startTime": "5:15 PM ET",
+    "startDateDisplay": "Dec. 28",
+    "startDate": "2017-12-28",
+    "gameState": "final",
+    "conference": "all-conf top-25 big-12 atlantic-coast",
+    "updatedTimestamp": "2017-12-29 02:05:34",
+    "lastUpdated": "1514531100",
+    "id": "2663712",
+    "startTimeEpoch": "1514499300",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Camping World Stadium, Orlando, FL",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/28/virginia-tech-oklahoma-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-30T03:45:14.282-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/stanford-tcu/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/stanford-tcu/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/stanford-tcu/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/stanford-tcu/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/stanford-tcu/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/28/stanford-tcu/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "14",
+        "7",
+        "10",
+        "6"
+      ],
+      "currentScore": "37",
+      "description": "9-5",
+      "teamRank": "13",
+      "iconURL": "/sites/default/files/images/logos/schools/s/stanford.70.png",
+      "name": "<a href='/schools/stanford'>Stanford</a>",
+      "nameRaw": "Stanford",
+      "nameSeo": "stanford",
+      "shortname": "STAN",
+      "color": "#8C1515",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "sport": "StanfordFball",
+            "athleticDept": "suathletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#stanfordfootball"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "3",
+        "7",
+        "13",
+        "16"
+      ],
+      "currentScore": "39",
+      "description": "11-3",
+      "teamRank": "15",
+      "iconURL": "/sites/default/files/images/logos/schools/t/tcu.70.png",
+      "name": "<a href='/schools/tcu'>TCU</a>",
+      "nameRaw": "TCU",
+      "nameSeo": "tcu",
+      "shortname": "TCU",
+      "color": "#34297a",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "sport": "TCUFootball",
+            "athleticDept": "TCU_Athletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gofrogs"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:02:03",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/29/1827138/1514529330939-USATSI_10502481.jpg_1827138_1_640x360.jpg",
+        "description": "Back in 2015 the Horned Frogs came back from being down 31 against Oregon in the Alamo Bowl. This time they were down 18 against Stanford but they still completed the comeback at the same venue. Kenny Hill led the way with 314 passing yards and 4 total touchdowns to beat the Cardinal 39-37.",
+        "type": "highlights",
+        "title": "The Horned Frogs are the comeback kings of the Alamo Bowl",
+        "url": "video/football/2017-12-28/fbs-alamo-bowl-stanford-tcu-highlight"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/28/stanford-tcu",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/28/stanford-tcu",
+    "contestName": "",
+    "location": "Alamodome, San Antonio, TX",
+    "startTime": "9:00 PM ET",
+    "startDateDisplay": "Dec. 28",
+    "startDate": "2017-12-28",
+    "gameState": "final",
+    "conference": "all-conf top-25 big-12 pac-12",
+    "updatedTimestamp": "2017-12-30 03:45:14",
+    "lastUpdated": "1514623500",
+    "id": "2663715",
+    "startTimeEpoch": "1514512800",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "4TH AND 19",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-29T12:03:25.001-05:00"
+    },
+    "status": {
+      "yardline": "MSU49",
+      "distance": "1",
+      "down": "2",
+      "possession": "Washington St."
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/washington-st-michigan-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/washington-st-michigan-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/washington-st-michigan-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/washington-st-michigan-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/28/washington-st-michigan-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/28/washington-st-michigan-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "3",
+        "0",
+        "7",
+        "7"
+      ],
+      "currentScore": "17",
+      "description": "9-4",
+      "teamRank": "18",
+      "iconURL": "/sites/default/files/images/logos/schools/w/washington-st.70.png",
+      "name": "<a href='/schools/washington-st'>Washington St.</a>",
+      "nameRaw": "Washington St.",
+      "nameSeo": "washington-st",
+      "shortname": "WASHST",
+      "color": "#981e32",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "athleticDept": "WSUCougars_com",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gocougs"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "21",
+        "14",
+        "7"
+      ],
+      "currentScore": "42",
+      "description": "10-3",
+      "teamRank": "16",
+      "iconURL": "/sites/default/files/images/logos/schools/m/michigan-st.70.png",
+      "name": "<a href='/schools/michigan-st'>Mich. St. </a>",
+      "nameRaw": "Mich. St. ",
+      "nameSeo": "michigan-st",
+      "shortname": "MICHST",
+      "color": "#18453B",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "sport": "MSU_Football",
+            "athleticDept": "MSU_Athletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#spartans"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/28/washington-st-michigan-st",
+    "highlightsUrl": "",
+    "startTime": "9:00 PM ET",
+    "startDateDisplay": "Dec. 28",
+    "startDate": "2017-12-28",
+    "gameState": "final",
+    "conference": "all-conf top-25 big-ten pac-12",
+    "updatedTimestamp": "2017-12-29 19:05:34",
+    "lastUpdated": "1514592300",
+    "id": "2663716",
+    "startTimeEpoch": "1514512800",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Qualcomm Stadium, San Diego, CA",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/28/washington-st-michigan-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-30T03:43:04.131-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/wake-forest-texas-am/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/wake-forest-texas-am/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/wake-forest-texas-am/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/wake-forest-texas-am/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/wake-forest-texas-am/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/29/wake-forest-texas-am/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "17",
+        "21",
+        "3",
+        "14"
+      ],
+      "currentScore": "55",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/w/wake-forest.70.png",
+      "name": "<a href='/schools/wake-forest'>Wake Forest</a>",
+      "nameRaw": "Wake Forest",
+      "nameSeo": "wake-forest",
+      "shortname": "WAKE",
+      "color": "#141414",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "sport": "Wake_FB",
+            "athleticDept": "WFUSports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#wakeforest"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "14",
+        "14",
+        "14",
+        "10"
+      ],
+      "currentScore": "52",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/t/texas-am.70.png",
+      "name": "<a href='/schools/texas-am'>Texas A&M</a>",
+      "nameRaw": "Texas A&M",
+      "nameSeo": "texas-am",
+      "shortname": "TX A&M",
+      "color": "#500000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "AggieFootball",
+            "athleticDept": "AggieAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gigem"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:02:00",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/29/1828145/1514590399392-BelkBowl.jpg_1828145_1_640x360.jpg",
+        "description": "Wake Forest came out on top 55-52 over Texas A&amp;M in a record setting game for plays (191), yards (1,260), and points (107). Quarterback John Wolford had 400 yards passing for 4 touchdowns in his finale as a Demon Deacon.",
+        "type": "highlights",
+        "title": "Wake Forest squeaks out the win in record setting Belk Bowl",
+        "url": "video/football/2017-12-29/fbs-football-wake-forest-texas-am-belk-bowl-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/29/wake-forest-texas-am",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2017/12/29/wake-forest-texas-am",
+    "contestName": "",
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "startTime": "1:00 PM ET",
+    "startDateDisplay": "Dec. 29",
+    "startDate": "2017-12-29",
+    "gameState": "final",
+    "conference": "all-conf southeastern atlantic-coast",
+    "updatedTimestamp": "2017-12-30 03:43:04",
+    "lastUpdated": "1514623380",
+    "id": "2663707",
+    "startTimeEpoch": "1514570400",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "2ND AND 11",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-29T20:04:09.039-05:00"
+    },
+    "status": {
+      "yardline": "NCST24",
+      "distance": "14",
+      "down": "4",
+      "possession": "NC State"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/north-carolina-st-arizona-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/north-carolina-st-arizona-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/north-carolina-st-arizona-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/north-carolina-st-arizona-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/north-carolina-st-arizona-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/29/north-carolina-st-arizona-st/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "21",
+        "3",
+        "21"
+      ],
+      "currentScore": "52",
+      "description": "9-4",
+      "teamRank": "24",
+      "iconURL": "/sites/default/files/images/logos/schools/n/north-carolina-st.70.png",
+      "name": "<a href='/schools/north-carolina-st'>NC State</a>",
+      "nameRaw": "NC State",
+      "nameSeo": "north-carolina-st",
+      "shortname": "NC ST",
+      "color": "#CC0000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "sport": "PackFootball",
+            "athleticDept": "PackAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#wolfpack"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "10",
+        "0",
+        "21"
+      ],
+      "currentScore": "31",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/arizona-st.70.png",
+      "name": "<a href='/schools/arizona-st'>Arizona St.</a>",
+      "nameRaw": "Arizona St.",
+      "nameSeo": "arizona-st",
+      "shortname": "AZ ST",
+      "color": "#8b2346",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "sport": "FootballASU",
+            "athleticDept": "SparkyArizonaSt",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#sundevils"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/29/north-carolina-st-arizona-st",
+    "highlightsUrl": "",
+    "startTime": "3:00 PM ET",
+    "startDateDisplay": "Dec. 29",
+    "startDate": "2017-12-29",
+    "gameState": "final",
+    "conference": "all-conf top-25 pac-12 atlantic-coast",
+    "updatedTimestamp": "2017-12-30 01:05:34",
+    "lastUpdated": "1514613900",
+    "id": "2663727",
+    "startTimeEpoch": "1514577600",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Sun Bowl Stadium, El Paso, TX",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/29/north-carolina-st-arizona-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-30T03:35:05.607-05:00"
+    },
+    "status": {
+      "yardline": "NW24",
+      "distance": "11",
+      "down": "2",
+      "possession": "Northwestern"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/northwestern-kentucky/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/northwestern-kentucky/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/northwestern-kentucky/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/northwestern-kentucky/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/northwestern-kentucky/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/29/northwestern-kentucky/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "3",
+        "14",
+        "0",
+        "7"
+      ],
+      "currentScore": "24",
+      "description": "10-3",
+      "teamRank": "21",
+      "iconURL": "/sites/default/files/images/logos/schools/n/northwestern.70.png",
+      "name": "<a href='/schools/northwestern'>Northwestern</a>",
+      "nameRaw": "Northwestern",
+      "nameSeo": "northwestern",
+      "shortname": "NWSTRN",
+      "color": "#512698",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "sport": "NUFBFamily",
+            "athleticDept": "@NU_Sports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#northwestern"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "0",
+        "7",
+        "9"
+      ],
+      "currentScore": "23",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/k/kentucky.70.png",
+      "name": "<a href='/schools/kentucky'>Kentucky</a>",
+      "nameRaw": "Kentucky",
+      "nameSeo": "kentucky",
+      "shortname": "UK",
+      "color": "#005DAA",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "UKFootball",
+            "athleticDept": "UKAthleticsNews",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#ukwildcats"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:51",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/30/1828443/1514599690499-JustinJackson.jpg_1828443_1_640x360.jpg",
+        "description": "After an injury-plagued first half, Northwestern prevails to a 24-23 win over Kentucky. Justin Jackson led the offensive charge with 157 rushing yards and 2 touchdowns.",
+        "type": "highlights",
+        "title": "Music City Bowl winner crowned on final play",
+        "url": "video/football/2017-12-29/fbs-football-northwestern-kentucky-franklin-american-mortgage-music-city"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/29/northwestern-kentucky",
+    "highlightsUrl": "",
+    "startTime": "4:30 PM ET",
+    "startDateDisplay": "Dec. 29",
+    "startDate": "2017-12-29",
+    "gameState": "final",
+    "conference": "all-conf top-25 southeastern big-ten",
+    "updatedTimestamp": "2017-12-30 16:05:34",
+    "lastUpdated": "1514667900",
+    "id": "2663713",
+    "startTimeEpoch": "1514583000",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Nissan Stadium, Nashville, TN",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/29/northwestern-kentucky"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-29T23:22:09.928-05:00"
+    },
+    "status": {
+      "yardline": "UTS2",
+      "distance": "",
+      "down": "",
+      "possession": "New Mexico St."
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/utah-st-new-mexico-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/utah-st-new-mexico-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/utah-st-new-mexico-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/utah-st-new-mexico-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/utah-st-new-mexico-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/29/utah-st-new-mexico-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "6",
+        "0",
+        "7",
+        "0"
+      ],
+      "currentScore": "20",
+      "description": "6-7",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/u/utah-st.70.png",
+      "name": "<a href='/schools/utah-st'>Utah State</a>",
+      "nameRaw": "Utah State",
+      "nameSeo": "utah-st",
+      "shortname": "UT ST",
+      "color": "#00264a",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "WACSports",
+            "sport": "USUFootball",
+            "athleticDept": "USUAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#aggies"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "10",
+        "3",
+        "0",
+        "7",
+        "6"
+      ],
+      "currentScore": "26",
+      "description": "7-6",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/n/new-mexico-st.70.png",
+      "name": "<a href='/schools/new-mexico-st'>New Mexico St.</a>",
+      "nameRaw": "New Mexico St.",
+      "nameSeo": "new-mexico-st",
+      "shortname": "NM ST",
+      "color": "#882345",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "WACSports",
+            "athleticDept": "NMStateAggies",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#NMSU"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "OT"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/29/utah-st-new-mexico-st",
+    "highlightsUrl": "",
+    "startTime": "5:30 PM ET",
+    "startDateDisplay": "Dec. 29",
+    "startDate": "2017-12-29",
+    "gameState": "final",
+    "conference": "all-conf sun-belt mountain-west",
+    "updatedTimestamp": "2017-12-30 16:05:34",
+    "lastUpdated": "1514667900",
+    "id": "2663730",
+    "startTimeEpoch": "1514586600",
+    "currentPeriod": "",
+    "finalMessage": "Final (OT)",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Arizona Stadium, Tucson, AZ",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/29/utah-st-new-mexico-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-30T01:47:01.915-05:00"
+    },
+    "status": {
+      "yardline": "OSU16",
+      "distance": "12",
+      "down": "2",
+      "possession": "Ohio St. "
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/southern-california-ohio-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/southern-california-ohio-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/southern-california-ohio-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/southern-california-ohio-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/29/southern-california-ohio-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/29/southern-california-ohio-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "7",
+        "0",
+        "0"
+      ],
+      "currentScore": "7",
+      "description": "11-3",
+      "teamRank": "8",
+      "iconURL": "/sites/default/files/images/logos/schools/s/southern-california.70.png",
+      "name": "<a href='/schools/southern-california'>USC</a>",
+      "nameRaw": "USC",
+      "nameSeo": "southern-california",
+      "shortname": "USC",
+      "color": "#990000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "athleticDept": "USC_Athletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#usctrojans"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "17",
+        "0",
+        "0"
+      ],
+      "currentScore": "24",
+      "description": "12-2",
+      "teamRank": "5",
+      "iconURL": "/sites/default/files/images/logos/schools/o/ohio-st.70.png",
+      "name": "<a href='/schools/ohio-st'>Ohio St. </a>",
+      "nameRaw": "Ohio St. ",
+      "nameSeo": "ohio-st",
+      "shortname": "OHIOST",
+      "color": "#990000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "athleticDept": "Brutus_Buckeye",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#buckeyes"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/29/southern-california-ohio-st",
+    "highlightsUrl": "",
+    "startTime": "8:30 PM ET",
+    "startDateDisplay": "Dec. 29",
+    "startDate": "2017-12-29",
+    "gameState": "final",
+    "conference": "all-conf top-25 big-ten pac-12",
+    "updatedTimestamp": "2017-12-30 20:07:43",
+    "lastUpdated": "1514682420",
+    "id": "2663701",
+    "startTimeEpoch": "1514597400",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "AT&T Stadium, Arlington, TX",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/29/southern-california-ohio-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-30T19:16:54.816-05:00"
+    },
+    "status": {
+      "yardline": "LOU41",
+      "distance": "15",
+      "down": "3",
+      "possession": "Louisville"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/louisville-mississippi-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/louisville-mississippi-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/louisville-mississippi-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/louisville-mississippi-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/louisville-mississippi-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/30/louisville-mississippi-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "14",
+        "3",
+        "3"
+      ],
+      "currentScore": "27",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/l/louisville.70.png",
+      "name": "<a href='/schools/louisville'>Louisville</a>",
+      "nameRaw": "Louisville",
+      "nameSeo": "louisville",
+      "shortname": "LOUIS",
+      "color": "#AD0000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "BigEastFB",
+            "sport": "UofLFootball",
+            "athleticDept": "UofLsports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#cardstrong"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "14",
+        "3",
+        "0",
+        "14"
+      ],
+      "currentScore": "31",
+      "description": "9-4",
+      "teamRank": "23",
+      "iconURL": "/sites/default/files/images/logos/schools/m/mississippi-st.70.png",
+      "name": "<a href='/schools/mississippi-st'>Mississippi St.</a>",
+      "nameRaw": "Mississippi St.",
+      "nameSeo": "mississippi-st",
+      "shortname": "MISSST",
+      "color": "#660000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "mstateFB",
+            "athleticDept": "bulldognewsfeed",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#hailstate"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:02:01",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/30/1829548/1514669845350-USATSI_10506225.jpg_1829548_1_640x360.jpg",
+        "description": "Interim Coach Greg Knox and freshman quarterback Keytaon Thompson lead the Bulldogs to a victory over Louisville in the Taxslayer bowl. Thomson ran for 148 yards and 3 touchdowns on the day while Mark McLaurin picked off Lamar Jackson 3 times to solidify the Bulldogs 31-27 victory.",
+        "type": "highlights",
+        "title": "Mark McLaurin picks off Lamar Jackson 3 times in the Taxslayer Bowl",
+        "url": "video/football/2017-12-30/fbs-taxslayer-bowl-louisville-mississippi-state-highlight"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/30/louisville-mississippi-st",
+    "highlightsUrl": "",
+    "startTime": "12:00 PM ET",
+    "startDateDisplay": "Dec. 30",
+    "startDate": "2017-12-30",
+    "gameState": "final",
+    "conference": "all-conf top-25 southeastern atlantic-coast",
+    "updatedTimestamp": "2017-12-31 03:06:42",
+    "lastUpdated": "1514707560",
+    "id": "2663718",
+    "startTimeEpoch": "1514653200",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "EverBank Field, Jacksonville, FL",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/30/louisville-mississippi-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-30T17:37:08.521-05:00"
+    },
+    "status": {
+      "yardline": "ISU37",
+      "distance": "25",
+      "down": "4",
+      "possession": "Iowa State"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/iowa-st-memphis/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/iowa-st-memphis/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/iowa-st-memphis/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/iowa-st-memphis/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/iowa-st-memphis/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/30/iowa-st-memphis/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "7",
+        "7",
+        "0"
+      ],
+      "currentScore": "21",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/i/iowa-st.70.png",
+      "name": "<a href='/schools/iowa-st'>Iowa State</a>",
+      "nameRaw": "Iowa State",
+      "nameSeo": "iowa-st",
+      "shortname": "IOWAST",
+      "color": "#A71930",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "sport": "CycloneFB",
+            "athleticDept": "CycloneATH",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#iowastate"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "7",
+        "3",
+        "10",
+        "0"
+      ],
+      "currentScore": "20",
+      "description": "10-3",
+      "teamRank": "20",
+      "iconURL": "/sites/default/files/images/logos/schools/m/memphis.70.png",
+      "name": "<a href='/schools/memphis'>Memphis</a>",
+      "nameRaw": "Memphis",
+      "nameSeo": "memphis",
+      "shortname": "MEM",
+      "color": "#0A1691",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "athleticDept": "TigersMedia",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#memphistigers"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:01:56",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2017/12/30/1829556/1514670834137-USATSI_10506154.jpg_1829556_1_640x360.jpg",
+        "description": "Despite turning the ball over on the 1 yard-line late in the game, Iowa State held on in the last moments of the game to beat Memphis 21-20 in the Liberty Bowl. Kyle Kempt lead the Cyclones with 314 passing yards and 2 touchdowns.",
+        "type": "highlights",
+        "title": "Iowa State holds on in final moments of the Liberty Bowl",
+        "url": "video/football/2017-12-30/fbs-liberty-bowl-iowa-state-memphis-highlight"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/30/iowa-st-memphis",
+    "highlightsUrl": "",
+    "startTime": "12:30 PM ET",
+    "startDateDisplay": "Dec. 30",
+    "startDate": "2017-12-30",
+    "gameState": "final",
+    "conference": "all-conf top-25 american-athletic big-12",
+    "updatedTimestamp": "2017-12-31 03:06:42",
+    "lastUpdated": "1514707560",
+    "id": "2663717",
+    "startTimeEpoch": "1514655000",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Liberty Bowl Memorial Stadium, Memphis, TN",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/30/iowa-st-memphis"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-30T20:11:49.169-05:00"
+    },
+    "status": {
+      "yardline": "PSU46",
+      "distance": "12",
+      "down": "2",
+      "possession": "Penn St."
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/washington-penn-st/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/washington-penn-st/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/washington-penn-st/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/washington-penn-st/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/washington-penn-st/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/30/washington-penn-st/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "14",
+        "7",
+        "7"
+      ],
+      "currentScore": "28",
+      "description": "10-3",
+      "teamRank": "11",
+      "iconURL": "/sites/default/files/images/logos/schools/w/washington.70.png",
+      "name": "<a href='/schools/washington'>Washington</a>",
+      "nameRaw": "Washington",
+      "nameSeo": "washington",
+      "shortname": "WASH",
+      "color": "#39275B",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "pac12",
+            "sport": "UW_Football",
+            "athleticDept": "UWAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#huskyfootball"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "14",
+        "14",
+        "7",
+        "0"
+      ],
+      "currentScore": "35",
+      "description": "11-2",
+      "teamRank": "9",
+      "iconURL": "/sites/default/files/images/logos/schools/p/penn-st.70.png",
+      "name": "<a href='/schools/penn-st'>Penn St.</a>",
+      "nameRaw": "Penn St.",
+      "nameSeo": "penn-st",
+      "shortname": "PENNST",
+      "color": "#002147",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "sport": "PennStateFball",
+            "athleticDept": "GoPSUsports1",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#nittanylions"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/30/washington-penn-st",
+    "highlightsUrl": "",
+    "startTime": "4:00 PM ET",
+    "startDateDisplay": "Dec. 30",
+    "startDate": "2017-12-30",
+    "gameState": "final",
+    "conference": "all-conf top-25 big-ten pac-12",
+    "updatedTimestamp": "2017-12-31 03:06:42",
+    "lastUpdated": "1514707560",
+    "id": "2663703",
+    "startTimeEpoch": "1514667600",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "University of Phoenix Stadium, Glendale, AZ",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/30/washington-penn-st"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2017-12-31T00:08:58.41-05:00"
+    },
+    "status": {
+      "yardline": "MFL32",
+      "distance": "13",
+      "down": "3",
+      "possession": "Wisconsin"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/wisconsin-miami-fl/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/wisconsin-miami-fl/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/wisconsin-miami-fl/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/wisconsin-miami-fl/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2017/12/30/wisconsin-miami-fl/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/30/wisconsin-miami-fl/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "3",
+        "21",
+        "3",
+        "7"
+      ],
+      "currentScore": "34",
+      "description": "13-1",
+      "teamRank": "6",
+      "iconURL": "/sites/default/files/images/logos/schools/w/wisconsin.70.png",
+      "name": "<a href='/schools/wisconsin'>Wisconsin</a>",
+      "nameRaw": "Wisconsin",
+      "nameSeo": "wisconsin",
+      "shortname": "WISC",
+      "color": "#be0f34",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "sport": "BadgerFootball",
+            "athleticDept": "UWBadgersdotcom",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#badgers"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "14",
+        "0",
+        "7",
+        "3"
+      ],
+      "currentScore": "24",
+      "description": "10-3",
+      "teamRank": "10",
+      "iconURL": "/sites/default/files/images/logos/schools/m/miami-fl.70.png",
+      "name": "<a href='/schools/miami-fl'>Miami (Fla.)</a>",
+      "nameRaw": "Miami (Fla.)",
+      "nameSeo": "miami-fl",
+      "shortname": "MIAMI",
+      "color": "#005030",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "athleticDept": "hurricanesports",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#canes"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2017/12/30/wisconsin-miami-fl",
+    "highlightsUrl": "",
+    "startTime": "8:00 PM ET",
+    "startDateDisplay": "Dec. 30",
+    "startDate": "2017-12-30",
+    "gameState": "final",
+    "conference": "all-conf top-25 atlantic-coast big-ten",
+    "updatedTimestamp": "2017-12-31 03:06:42",
+    "lastUpdated": "1514707560",
+    "id": "2663705",
+    "startTimeEpoch": "1514682000",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "contestName": "",
+    "url": "/game/football/fbs/2017/12/30/wisconsin-miami-fl"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2018-01-03T10:17:41.274-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/michigan-south-carolina/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/michigan-south-carolina/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/michigan-south-carolina/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/michigan-south-carolina/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/michigan-south-carolina/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/01/01/michigan-south-carolina/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "6",
+        "3",
+        "10",
+        "0"
+      ],
+      "currentScore": "19",
+      "description": "8-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/m/michigan.70.png",
+      "name": "<a href='/schools/michigan'>Michigan</a>",
+      "nameRaw": "Michigan",
+      "nameSeo": "michigan",
+      "shortname": "MICH",
+      "color": "#003976",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "B1Gfootball",
+            "sport": "umichfootball",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#goblue"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "3",
+        "13",
+        "10"
+      ],
+      "currentScore": "26",
+      "description": "9-4",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/s/south-carolina.70.png",
+      "name": "<a href='/schools/south-carolina'>South Carolina</a>",
+      "nameRaw": "South Carolina",
+      "nameSeo": "south-carolina",
+      "shortname": "S CAR",
+      "color": "#73000A",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "GamecockFB",
+            "athleticDept": "GamecocksOnline",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gamecocks"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:02:03",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2018/01/01/1832311/1514841398206-USATSI_10511481.jpg_1832311_1_640x360.jpg",
+        "description": "South Carolina comes back from being down 16 to take care of Michigan in the Outback Bowl. The Gamecocks forced 5 turnovers late in the second half to solidify their 26-19 victory.",
+        "type": "highlights",
+        "title": "Michigan miscues sink Wolverines",
+        "url": "video/football/2018-01-01/fbs-outback-bowl-michigan-south-carolina-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/01/01/michigan-south-carolina",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2018/01/01/michigan-south-carolina",
+    "contestName": "",
+    "location": "Raymond James Stadium, Tampa, FL",
+    "startTime": "12:00 PM ET",
+    "startDateDisplay": "Jan. 1",
+    "startDate": "2018-01-01",
+    "gameState": "final",
+    "conference": "all-conf southeastern big-ten",
+    "updatedTimestamp": "2018-01-03 10:17:41",
+    "lastUpdated": "1514992620",
+    "id": "2663710",
+    "startTimeEpoch": "1514826000",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "2ND AND 12",
+    "timeclock": "",
+    "network_logo": ""
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2018-01-01T17:22:28.698-05:00"
+    },
+    "status": {
+      "yardline": "UCF15",
+      "distance": "15",
+      "down": "2",
+      "possession": "UCF"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/ucf-auburn/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/ucf-auburn/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/ucf-auburn/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/ucf-auburn/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/ucf-auburn/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/01/01/ucf-auburn/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "13",
+        "7",
+        "14"
+      ],
+      "currentScore": "34",
+      "description": "13-0",
+      "teamRank": "12",
+      "iconURL": "/sites/default/files/images/logos/schools/u/ucf.70.png",
+      "name": "<a href='/schools/ucf'>UCF</a>",
+      "nameRaw": "UCF",
+      "nameSeo": "ucf",
+      "shortname": "UCF",
+      "color": "#bba378",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "sport": "UCF_Football",
+            "athleticDept": "UCFAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#goknights"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "3",
+        "3",
+        "14",
+        "7"
+      ],
+      "currentScore": "27",
+      "description": "10-4",
+      "teamRank": "7",
+      "iconURL": "/sites/default/files/images/logos/schools/a/auburn.70.png",
+      "name": "<a href='/schools/auburn'>Auburn</a>",
+      "nameRaw": "Auburn",
+      "nameSeo": "auburn",
+      "shortname": "AUBURN",
+      "color": "#f58025",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "FootballAU",
+            "athleticDept": "AUAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#gotigers"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [
+      {
+        "duration": "00:02:02",
+        "expires": "",
+        "thumbnail": "https://ht.cdn.turner.com/ncaa/big/2018/01/01/1832350/1514844163126-Stidham_Sacks.jpg_1832350_1_640x360.jpg",
+        "description": "UCF secures a storybook ending to its undefeated season beating Auburn 34-27 in the Chick-fil-A Peach Bowl. The Knights defense helped shut down the Tigers with 5 sacks in the first half.",
+        "type": "highlights",
+        "title": "UCF remains the only undefeated team in the FBS",
+        "url": "video/football/2018-01-01/fbs-peach-bowl-auburn-ucf-highlights"
+      }
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/01/01/ucf-auburn",
+    "highlightsUrl": "",
+    "startTime": "12:30 PM ET",
+    "startDateDisplay": "Jan. 1",
+    "startDate": "2018-01-01",
+    "gameState": "final",
+    "conference": "all-conf top-25 southeastern american-athletic",
+    "updatedTimestamp": "2018-01-02 04:05:34",
+    "lastUpdated": "1514883900",
+    "id": "2663704",
+    "startTimeEpoch": "1514827800",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "contestName": "",
+    "url": "/game/football/fbs/2018/01/01/ucf-auburn"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2018-01-01T17:28:04.943-05:00"
+    },
+    "status": {
+      "yardline": "LSU31",
+      "distance": "12",
+      "down": "2",
+      "possession": "Notre Dame"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/notre-dame-lsu/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/notre-dame-lsu/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/notre-dame-lsu/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/notre-dame-lsu/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/notre-dame-lsu/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/01/01/notre-dame-lsu/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "3",
+        "3",
+        "15"
+      ],
+      "currentScore": "21",
+      "description": "10-3",
+      "teamRank": "14",
+      "iconURL": "/sites/default/files/images/logos/schools/n/notre-dame.70.png",
+      "name": "<a href='/schools/notre-dame'>Notre Dame</a>",
+      "nameRaw": "Notre Dame",
+      "nameSeo": "notre-dame",
+      "shortname": "N DAME",
+      "color": "#002b5c",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "athleticDept": "FightingIrish",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#fightingirish"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "0",
+        "7",
+        "10"
+      ],
+      "currentScore": "17",
+      "description": "9-4",
+      "teamRank": "17",
+      "iconURL": "/sites/default/files/images/logos/schools/l/lsu.70.png",
+      "name": "<a href='/schools/lsu'>LSU</a>",
+      "nameRaw": "LSU",
+      "nameSeo": "lsu",
+      "shortname": "LSU",
+      "color": "#461D7C",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "LSUfball",
+            "athleticDept": "LSUsportsNEWS",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#geauxtigers"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/01/01/notre-dame-lsu",
+    "highlightsUrl": "",
+    "startTime": "1:00 PM ET",
+    "startDateDisplay": "Jan. 1",
+    "startDate": "2018-01-01",
+    "gameState": "final",
+    "conference": "all-conf top-25 southeastern fbs-independent",
+    "updatedTimestamp": "2018-01-02 04:05:34",
+    "lastUpdated": "1514883900",
+    "id": "2663708",
+    "startTimeEpoch": "1514829600",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Camping World Stadium, Orlando, FL",
+    "contestName": "",
+    "url": "/game/football/fbs/2018/01/01/notre-dame-lsu"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2018-01-01T21:55:02.959-05:00"
+    },
+    "status": {
+      "yardline": "OKL2",
+      "distance": "",
+      "down": "",
+      "possession": "Georgia"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/georgia-oklahoma/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/georgia-oklahoma/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/georgia-oklahoma/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/georgia-oklahoma/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/georgia-oklahoma/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/01/01/georgia-oklahoma/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "10",
+        "14",
+        "14",
+        "3",
+        "6"
+      ],
+      "currentScore": "54",
+      "description": "13-1",
+      "teamRank": "3",
+      "iconURL": "/sites/default/files/images/logos/schools/g/georgia.70.png",
+      "name": "<a href='/schools/georgia'>Georgia</a>",
+      "nameRaw": "Georgia",
+      "nameSeo": "georgia",
+      "shortname": "UGA",
+      "color": "#CC0000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "WeRunThisState",
+            "athleticDept": "UGAAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#godawgs"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "14",
+        "17",
+        "0",
+        "14",
+        "3",
+        "0"
+      ],
+      "currentScore": "48",
+      "description": "12-2",
+      "teamRank": "2",
+      "iconURL": "/sites/default/files/images/logos/schools/o/oklahoma.70.png",
+      "name": "<a href='/schools/oklahoma'>Oklahoma</a>",
+      "nameRaw": "Oklahoma",
+      "nameSeo": "oklahoma",
+      "shortname": "OKLA",
+      "color": "#B30838",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "Big12Conference",
+            "sport": "OU_Football",
+            "athleticDept": "SoonerSportscom",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#sooners"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "OT",
+      "2OT"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/01/01/georgia-oklahoma",
+    "highlightsUrl": "",
+    "startTime": "5:00 PM ET",
+    "startDateDisplay": "Jan. 1",
+    "startDate": "2018-01-01",
+    "gameState": "final",
+    "conference": "all-conf top-25 big-12 southeastern",
+    "updatedTimestamp": "2018-01-02 04:05:34",
+    "lastUpdated": "1514883900",
+    "id": "2663684",
+    "startTimeEpoch": "1514844000",
+    "currentPeriod": "",
+    "finalMessage": "Final (2OT)",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Rose Bowl, Pasadena, CA",
+    "contestName": "",
+    "url": "/game/football/fbs/2018/01/01/georgia-oklahoma"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2018-01-02T01:10:01.915-05:00"
+    },
+    "status": {
+      "yardline": "BAMA17",
+      "distance": "10",
+      "down": "1",
+      "possession": "Alabama"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/alabama-clemson/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/alabama-clemson/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/alabama-clemson/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/alabama-clemson/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/01/alabama-clemson/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/01/01/alabama-clemson/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "10",
+        "0",
+        "14",
+        "0"
+      ],
+      "currentScore": "24",
+      "description": "12-1",
+      "teamRank": "4",
+      "iconURL": "/sites/default/files/images/logos/schools/a/alabama.70.png",
+      "name": "<a href='/schools/alabama'>Alabama</a>",
+      "nameRaw": "Alabama",
+      "nameSeo": "alabama",
+      "shortname": "ALA",
+      "color": "#a32136",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "AlabamaFTBL",
+            "athleticDept": "UA_Athletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#rolltide"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "3",
+        "3",
+        "0"
+      ],
+      "currentScore": "6",
+      "description": "12-2",
+      "teamRank": "1",
+      "iconURL": "/sites/default/files/images/logos/schools/c/clemson.70.png",
+      "name": "<a href='/schools/clemson'>Clemson</a>",
+      "nameRaw": "Clemson",
+      "nameSeo": "clemson",
+      "shortname": "CLEM",
+      "color": "#F66733",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "theACCfootball",
+            "athleticDept": "CU_athletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#clemson"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/01/01/alabama-clemson",
+    "highlightsUrl": "",
+    "startTime": "8:45 PM ET",
+    "startDateDisplay": "Jan. 1",
+    "startDate": "2018-01-01",
+    "gameState": "final",
+    "conference": "all-conf top-25 atlantic-coast southeastern",
+    "updatedTimestamp": "2018-01-02 04:05:34",
+    "lastUpdated": "1514883900",
+    "id": "2663683",
+    "startTimeEpoch": "1514857500",
+    "currentPeriod": "",
+    "finalMessage": "Final",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Mercedes-Benz Superdome, New Orleans, LA",
+    "contestName": "",
+    "url": "/game/football/fbs/2018/01/01/alabama-clemson"
+  },
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2018-01-09T00:27:05.817-05:00"
+    },
+    "status": {
+      "yardline": "UGA2",
+      "distance": "",
+      "down": "",
+      "possession": "Alabama"
+    },
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/08/alabama-georgia/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/08/alabama-georgia/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/08/alabama-georgia/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/08/alabama-georgia/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2018/01/08/alabama-georgia/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/01/08/alabama-georgia/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "0",
+        "0",
+        "10",
+        "10",
+        "6"
+      ],
+      "currentScore": "26",
+      "description": "13-1",
+      "teamRank": "4",
+      "iconURL": "/sites/default/files/images/logos/schools/a/alabama.70.png",
+      "name": "<a href='/schools/alabama'>Alabama</a>",
+      "nameRaw": "Alabama",
+      "nameSeo": "alabama",
+      "shortname": "ALA",
+      "color": "#a32136",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "AlabamaFTBL",
+            "athleticDept": "UA_Athletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#rolltide"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "13",
+        "7",
+        "0",
+        "3"
+      ],
+      "currentScore": "23",
+      "description": "13-2",
+      "teamRank": "3",
+      "iconURL": "/sites/default/files/images/logos/schools/g/georgia.70.png",
+      "name": "<a href='/schools/georgia'>Georgia</a>",
+      "nameRaw": "Georgia",
+      "nameSeo": "georgia",
+      "shortname": "UGA",
+      "color": "#CC0000",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "SECSportsUpdate",
+            "sport": "WeRunThisState",
+            "athleticDept": "UGAAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#godawgs"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "OT"
+    ],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/01/08/alabama-georgia",
+    "highlightsUrl": "",
+    "startTime": "8:00 PM ET",
+    "startDateDisplay": "Jan. 8",
+    "startDate": "2018-01-08",
+    "gameState": "final",
+    "conference": "all-conf top-25 southeastern",
+    "updatedTimestamp": "2018-01-09 01:05:34",
+    "lastUpdated": "1515477900",
+    "id": "2674961",
+    "startTimeEpoch": "1515459600",
+    "currentPeriod": "",
+    "finalMessage": "Final (OT)",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "contestName": "",
+    "url": "/game/football/fbs/2018/01/08/alabama-georgia"
+  }
+]

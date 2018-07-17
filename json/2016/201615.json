@@ -1,0 +1,131 @@
+[
+  {
+    "alerts": {
+      "redzone": 0,
+      "upset": 0,
+      "timestamp": "2016-12-10T18:58:05.859-05:00"
+    },
+    "status": {},
+    "tabsArray": [
+      [
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2016/12/10/navy-army/recap.json",
+          "title": "Recap",
+          "type": "recap"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2016/12/10/navy-army/boxscore.json",
+          "title": "Box Score",
+          "type": "boxscore"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2016/12/10/navy-army/scoringSummary.json",
+          "title": "Scoring",
+          "type": "scoring-summary"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2016/12/10/navy-army/teamStats.json",
+          "title": "Team Stats",
+          "type": "team-stats"
+        },
+        {
+          "file": "/sites/default/files/data/game/football/fbs/2016/12/10/navy-army/pbp.json",
+          "title": "Play-By-Play",
+          "type": "play-by-play"
+        }
+      ]
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/10/navy-army/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "0",
+        "0",
+        "10",
+        "7"
+      ],
+      "currentScore": "17",
+      "description": "9-3",
+      "teamRank": "25",
+      "iconURL": "/sites/default/files/images/logos/schools/n/navy.70.png",
+      "name": "<a href='/schools/navy'>Navy</a>",
+      "nameRaw": "Navy",
+      "nameSeo": "navy",
+      "shortname": "NAVY",
+      "color": "#333366",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "sport": "USNAFootball",
+            "athleticDept": "NavyAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#navyfootball"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "7",
+        "0",
+        "7"
+      ],
+      "currentScore": "21",
+      "description": "6-5",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/army.70.png",
+      "name": "<a href='/schools/army'>Army West Point</a>",
+      "nameRaw": "Army West Point",
+      "nameSeo": "army",
+      "shortname": "ARMY",
+      "color": "#ccb284",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "sport": "TheArmyTeam",
+            "athleticDept": "ArmyAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#armyfootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2016/12/10/navy-army",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2016/12/10/navy-army",
+    "contestName": "",
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "startTime": "3:00 PM ET",
+    "startDateDisplay": "Dec. 10",
+    "startDate": "2016-12-10",
+    "gameState": "final",
+    "conference": "all-conf top-25 fbs-independent american-athletic",
+    "updatedTimestamp": "2016-12-10 18:58:05",
+    "lastUpdated": "1481414280",
+    "id": "2197840",
+    "startTimeEpoch": "1481400000",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "4TH AND 13",
+    "timeclock": "",
+    "network_logo": ""
+  }
+]

@@ -1,0 +1,19 @@
+# this one-liner downloads a complete season of game data and concatenates into single file
+# this was created in experimentation to figure out how to work with the API
+# use fetch-ncaa-data script for fetching updated weekly scores
+
+wget http://data.ncaa.com/sites/default/files/data/scoreboard/football/fbs/2017/{{01..15},P}/scoreboard.json -O - | grep gameinfo.json | tr -d '"' | wget --base https://data.ncaa.com -i - -O - | jq -s '.' > output.json
+
+# which does the following:
+# greps "gameinfo.json" from scoreboard.json, thereby isolating the gameinfo.json files 
+# removes the " from the json string
+# wget's the respective relative file paths from the given base, taking the relative file paths over stdin and sending all files over stdout
+# jq "slurps" all the json objects together into an array and saves to output.json
+
+
+# used the following to convert the csv from google sheets into a simple json array.  for some reason, the csv included special characters which are deleted with tr.  jq had to be run twice to put them all in single array, probably another way to do it, dunno.
+cat fbs-2017.csv | tr -d '\r' | jq -R '.' | jq -s '.' | less
+
+# UPDATE: now using enlarged csv data file for input, had to break outbig guns to translate to json
+csv2json -d fbs-2017.csv fbs-2017.json
+csv2json -d portfolios-2016.csv portfolios-2016.json
