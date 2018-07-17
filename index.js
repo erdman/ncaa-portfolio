@@ -59,7 +59,7 @@ function start_loaders() {
     loaders.push(
         $.getJSON(`json/${year}/fbs-${year}.json`)
         .then(function (data) {
-            fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[], points: 0 } }; }, {});  //convert array to object indexed by names
+            fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[nullGame], points: 0 } }; }, {});  //convert array to object indexed by names
             fbs_name_set = new Set(data.map(x => x.name));
         })
     );
@@ -110,32 +110,37 @@ function load_data(publish_continuation) {
 
             if (game.gameState === 'final') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
-                    while (fbs[game.away.nameRaw].games.slice(-1)[0] && fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
+                    // add blank bye weeks
+                    while (fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
                         fbs[game.away.nameRaw].games.push({...nullGame, week: fbs[game.away.nameRaw].games.slice(-1)[0].week + 1});
                     }
+
+                    if (fbs[game.away.nameRaw].games.slice(-1)[0].week === 1 && game.week === 1) { // two week 1 games -> first is Week Zero
+                        fbs[game.away.nameRaw].games.shift();  // remove initial element of array (nullGame)
+                        fbs[game.away.nameRaw].games[0].week = 0;
+                    }
                     let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
+                    score.week = Math.max(game.week, fbs[game.away.nameRaw].games.slice(-1)[0].week + 1);
                     fbs[game.away.nameRaw].games.push(score);
                     fbs[game.away.nameRaw].points += score.total;
                 }
 
                 if (fbs_name_set.has(game.home.nameRaw)) {
-                    while (fbs[game.home.nameRaw].games.slice(-1)[0] && fbs[game.home.nameRaw].games.slice(-1)[0].week < game.week - 1) {
+                    // add blank bye weeks
+                    while (fbs[game.home.nameRaw].games.slice(-1)[0].week < game.week - 1) {
                         fbs[game.home.nameRaw].games.push({...nullGame, week: fbs[game.home.nameRaw].games.slice(-1)[0].week + 1});
                     }
+                    if (fbs[game.home.nameRaw].games.slice(-1)[0].week === 1 && game.week === 1) {  // two week 1 games -> first is Week Zero
+                        fbs[game.home.nameRaw].games.shift();  // remove initial element of array (nullGame)
+                        fbs[game.home.nameRaw].games[0].week = 0;
+                    }
                     let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
+                    score.week = Math.max(game.week, fbs[game.home.nameRaw].games.slice(-1)[0].week + 1);
                     fbs[game.home.nameRaw].games.push(score);
                     fbs[game.home.nameRaw].points += score.total;
                 }
             }
         });
-        // add a Week 0 nullGame for all teams WITHOUT two Week 1 games, so everything is aligned correctly in summary page
-        Object.keys(fbs).map(function(key, index) {
-            while (fbs[key].games.length < 2 || (fbs[key].games[1].week !== 1 && fbs[key].games[1].week !== null)) {
-                fbs[key].games.unshift(nullGame);
-            }
-        });
-
-        //~ console.log(fbs);
 
         const year = $('#year').find(":selected").text();
 
@@ -146,7 +151,6 @@ function load_data(publish_continuation) {
         });
         portfolios.sort((a,b) => b.score.points - a.score.points);
         portfolios.forEach((portfolio, index) => {portfolio.rank = index + 1;});
-        //~ console.log(portfolios);
 
         globaldata[year] = {fbs, portfolios, fbs_name_set};
         publish_continuation();
@@ -316,7 +320,8 @@ $(document).ready( function () {
     $("#details").change(function() {
         const year = $('#year').find(":selected").text();
         const details_team = $('#details').find(":selected").text();
-        updateDataTable("#details_table", details_team ? globaldata[year].fbs[details_team].games : []);
+        const games = details_team ? globaldata[year].fbs[details_team].games : [nullGame];
+        updateDataTable("#details_table", games[0] === nullGame ? games.slice(1) : games);
         window.location.hash = ['#Details', year, encodeURI(details_team)].filter(Boolean).join('/');
     });
 
