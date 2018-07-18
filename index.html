@@ -40,27 +40,36 @@
     </style>
   </head>
   <body>
-    <nav class="nav nav-pills nav-justified">
-        <a class="nav-item navbar-brand" href="#">NCAAportfolio.com</a>
-        <a class='nav-item nav-link' data-toggle="tab" href="#Leaderboard">Leaderboard</a>
-        <a class='nav-item nav-link' data-toggle="tab" href="#Summary">Team Summaries</a>
-        <a class='nav-item nav-link' data-toggle="tab" href="#Details">
-            <select style="background-color: white" id="details">
-            </select>
-        </a>
-        <a class='nav-item nav-link' data-toggle="tab" href="#Champions">Champions</a>
-        <a class='nav-item nav-link' data-toggle="tab" href="#Rules">Scoring Rules</a>
-        <span class="nav-item">
-            <select class='nav-link' style="float: right; background-color: white" id="year">
-                <option>2018</option>
-                <option>2017</option>
-                <option>2016</option>
-            </select>
-        </span>
-        <span class="nav-item">
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" id='search'>
-            </form>
+    <nav class="navbar navbar-expand-xl navbar-light bg-light" style="z-index: 9999;">
+        <a class="navbar-brand" href="#">NCAAportfolio.com</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler">   <!-- aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation"-->
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <span class="collapse navbar-collapse" id="navbarToggler">
+            <span class="nav nav-tabs">
+                <a class='nav-item nav-link' data-toggle="tab" href="#Leaderboard">Leaderboard</a>
+                <a class='nav-item nav-link' data-toggle="tab" href="#Summary">Team Summaries</a>
+                <a class='nav-item nav-link' data-toggle="tab" href="#Details">
+                    <select style="background-color: white" id="details">
+                    </select>
+                </a>
+                <a class='nav-item nav-link' data-toggle="tab" href="#Champions">Champions</a>
+                <a class='nav-item nav-link' data-toggle="tab" href="#Rules">Scoring Rules</a>
+            </span>
+            <span class="nav-item ml-auto">
+                <select class='nav-link' style="background-color: white" id="year">
+                    <option>2018</option>
+                    <option>2017</option>
+                    <option>2016</option>
+                </select>
+            </span>
+            <span class="nav-item">
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" id='search'>
+                </form>
+            </span>
+
         </span>
     </nav>
 
