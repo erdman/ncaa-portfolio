@@ -60,7 +60,7 @@ function start_loaders() {
         $.getJSON(`json/${year}/fbs-${year}.json`)
         .then(function (data) {
             fbs = data.reduce((obj, cur) => { return { ...obj, [cur.name]: { ...cur, games:[nullGame], points: 0 } }; }, {});  //convert array to object indexed by names
-            fbs_name_set = new Set(data.map(x => x.name));
+            fbs_name_set = new Set(data.map(x => x.name).sort());
         })
     );
 
