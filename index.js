@@ -317,6 +317,11 @@ $(document).ready( function () {
         $($.fn.dataTable.tables(true)).DataTable().search( this.value ).draw();
     } );
 
+    // re-collapse the hamburger menu after choosing option
+    $('.nav-link').on('click', function(){
+        $('.navbar-collapse').collapse('hide');
+    });
+
     // adjust and redraw each tabs table when the tab is toggled (?)
     $(document).on('shown.bs.tab', 'a[data-toggle="tab"]', function (e) {
         $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust().draw();
