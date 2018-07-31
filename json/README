@@ -17,3 +17,5 @@ cat fbs-2017.csv | tr -d '\r' | jq -R '.' | jq -s '.' | less
 # UPDATE: now using enlarged csv data file for input, had to break outbig guns to translate to json
 csv2json -d fbs-2017.csv fbs-2017.json
 csv2json -d portfolios-2016.csv portfolios-2016.json
+# just use first 3 columns of input file
+cut -f -3 -d ',' fbs-2018.csv | csv2json -d - fbs-2018.json
