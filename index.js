@@ -154,7 +154,11 @@ function load_data(publish_continuation) {
                 return diff_points !== 0 ? diff_points : diff_units !== 0 ? diff_units : x < y ? -1 : x > y ? 1 : 0;
             });
         });
-        portfolios.sort((a,b) => b.score.points - a.score.points);
+        portfolios.sort(function(a,b) {
+            const diff_points = b.score.points - a.score.points;
+            const x = a.name.toLowerCase(), y = b.name.toLowerCase();
+            return diff_points !== 0 ? diff_points : x < y ? -1 : x > y ? 1 : 0;
+        });
         portfolios.forEach((portfolio, index) => {portfolio.rank = index + 1;});
 
         globaldata[year] = {fbs, portfolios, fbs_name_set};
