@@ -159,7 +159,9 @@ function load_data(publish_continuation) {
             const x = a.name.toLowerCase(), y = b.name.toLowerCase();
             return diff_points !== 0 ? diff_points : x < y ? -1 : x > y ? 1 : 0;
         });
-        portfolios.forEach((portfolio, index) => {portfolio.rank = index + 1;});
+        portfolios[0].rank = 1;
+        // index of the slice is zero-based, but slice starts at element [1], so portfolios[index] is the list item previous
+        portfolios.slice(1).forEach((portfolio, index) => {portfolio.rank = portfolio.score.points === portfolios[index].score.points ? portfolios[index].rank : index + 2;});
 
         globaldata[year] = {fbs, portfolios, fbs_name_set};
         publish_continuation();
