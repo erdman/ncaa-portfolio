@@ -146,8 +146,13 @@ function load_data(publish_continuation) {
 
         portfolios.forEach(function (portfolio) {
             portfolio.score = {points: portfolio.schools.map(school => fbs[school].points).reduce((a,b) => a + b), units: portfolio.schools.map(school => fbs[school].units).reduce((a,b) => a + b)};
-            portfolio.schools.sort((a,b) => fbs[b].points - fbs[a].points);
             portfolio.schools = portfolio.schools.map(function(school) { return {school:school, year:year, points:fbs[school].points, units:fbs[school].units};});
+            portfolio.schools.sort(function(a,b) {
+                const diff_points = b.points - a.points;
+                const diff_units = b.units - a.units;
+                const x = a.school.toLowerCase(), y = b.school.toLowerCase();
+                return diff_points !== 0 ? diff_points : diff_units !== 0 ? diff_units : x < y ? -1 : x > y ? 1 : 0;
+            });
         });
         portfolios.sort((a,b) => b.score.points - a.score.points);
         portfolios.forEach((portfolio, index) => {portfolio.rank = index + 1;});
