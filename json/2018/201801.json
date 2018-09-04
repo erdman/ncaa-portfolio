@@ -8290,7 +8290,7 @@
         "0"
       ],
       "currentScore": "13",
-      "description": "",
+      "description": "0-1",
       "teamRank": "0",
       "iconURL": "/sites/default/files/images/logos/schools/i/idaho.70.png",
       "name": "<a href='/schools/idaho'>Idaho</a>",
@@ -8320,7 +8320,7 @@
         "21"
       ],
       "currentScore": "79",
-      "description": "",
+      "description": "1-0",
       "teamRank": "0",
       "iconURL": "/sites/default/files/images/logos/schools/f/fresno-st.70.png",
       "name": "<a href='/schools/fresno-st'>Fresno State</a>",
@@ -8361,8 +8361,8 @@
     "startDate": "2018-09-01",
     "gameState": "final",
     "conference": "all-conf mountain-west sun-belt",
-    "updatedTimestamp": "2018-09-02 01:29:34",
-    "lastUpdated": "1535866140",
+    "updatedTimestamp": "2018-09-02 20:17:55",
+    "lastUpdated": "1535933820",
     "id": "2954066",
     "startTimeEpoch": "1535853600",
     "currentPeriod": "Final",
@@ -8557,8 +8557,8 @@
     "startDate": "2018-09-01",
     "gameState": "final",
     "conference": "all-conf pac-12 fbs-independent",
-    "updatedTimestamp": "2018-09-02 02:58:45",
-    "lastUpdated": "1535871480",
+    "updatedTimestamp": "2018-09-02 03:03:06",
+    "lastUpdated": "1535871780",
     "id": "2953366",
     "startTimeEpoch": "1535856300",
     "currentPeriod": "Final",
@@ -8585,7 +8585,7 @@
         "13"
       ],
       "currentScore": "41",
-      "description": "",
+      "description": "0-1",
       "teamRank": "0",
       "iconURL": "/sites/default/files/images/logos/schools/n/navy.70.png",
       "name": "<a href='/schools/navy'>Navy</a>",
@@ -8615,7 +8615,7 @@
         "21"
       ],
       "currentScore": "59",
-      "description": "1-0",
+      "description": "2-0",
       "teamRank": "0",
       "iconURL": "/sites/default/files/images/logos/schools/h/hawaii.70.png",
       "name": "<a href='/schools/hawaii'>Hawaii</a>",
@@ -8656,8 +8656,8 @@
     "startDate": "2018-09-01",
     "gameState": "final",
     "conference": "all-conf mountain-west american-athletic",
-    "updatedTimestamp": "2018-09-02 02:26:03",
-    "lastUpdated": "1535869560",
+    "updatedTimestamp": "2018-09-02 20:14:45",
+    "lastUpdated": "1535933640",
     "id": "2954241",
     "startTimeEpoch": "1535857200",
     "currentPeriod": "Final",
@@ -8677,9 +8677,14 @@
     "tabs": "/sites/default/files/data//game/football/fbs/2018/09/02/miami-fl-lsu/tabs.json",
     "away": {
       "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
+      "scoreBreakdown": [
+        "3",
+        "0",
+        "0",
+        "14"
+      ],
+      "currentScore": "17",
+      "description": "0-1",
       "teamRank": "8",
       "iconURL": "/sites/default/files/images/logos/schools/m/miami-fl.70.png",
       "name": "<a href='/schools/miami-fl'>Miami (Fla.)</a>",
@@ -8701,10 +8706,15 @@
       }
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
+      "winner": "true",
+      "scoreBreakdown": [
+        "10",
+        "17",
+        "6",
+        "0"
+      ],
+      "currentScore": "33",
+      "description": "1-0",
       "teamRank": "25",
       "iconURL": "/sites/default/files/images/logos/schools/l/lsu.70.png",
       "name": "<a href='/schools/lsu'>LSU</a>",
@@ -8727,25 +8737,36 @@
       }
     },
     "links": [],
-    "scoreBreakdown": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [],
     "champInfo": {},
     "gameCenterUrl": "/game/football/fbs/2018/09/02/miami-fl-lsu",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2018/09/02/miami-fl-lsu",
+    "contestName": "",
+    "location": "AT&T Stadium, Arlington, TX",
     "startTime": "7:30 PM ET",
-    "startDateDisplay": "Sep. 2",
+    "startDateDisplay": "Sept. 2",
     "startDate": "2018-09-02",
-    "gameState": "pre",
+    "gameState": "final",
     "conference": "all-conf top-25 southeastern atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:25",
-    "lastUpdated": "1534958220",
+    "updatedTimestamp": "2018-09-03 00:33:03",
+    "lastUpdated": "1535949180",
     "id": "2953258",
     "startTimeEpoch": "1535931000",
-    "currentPeriod": "",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "2ND AND 12",
     "timeclock": "",
-    "network_logo": "",
-    "location": "AT&T Stadium, Arlington, TX",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/02/miami-fl-lsu",
-    "highlightsUrl": ""
+    "network_logo": ""
   },
   {
     "alerts": {},
@@ -8755,10 +8776,15 @@
     ],
     "tabs": "/sites/default/files/data//game/football/fbs/2018/09/03/virginia-tech-florida-st/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
+      "winner": "true",
+      "scoreBreakdown": [
+        "10",
+        "7",
+        "0",
+        "7"
+      ],
+      "currentScore": "24",
+      "description": "1-0",
       "teamRank": "20",
       "iconURL": "/sites/default/files/images/logos/schools/v/virginia-tech.70.png",
       "name": "<a href='/schools/virginia-tech'>Virginia Tech</a>",
@@ -8782,9 +8808,14 @@
     },
     "home": {
       "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
+      "scoreBreakdown": [
+        "0",
+        "3",
+        "0",
+        "0"
+      ],
+      "currentScore": "3",
+      "description": "0-1",
       "teamRank": "19",
       "iconURL": "/sites/default/files/images/logos/schools/f/florida-st.70.png",
       "name": "<a href='/schools/florida-st'>Florida State</a>",
@@ -8807,24 +8838,130 @@
       }
     },
     "links": [],
-    "scoreBreakdown": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [],
     "champInfo": {},
     "gameCenterUrl": "/game/football/fbs/2018/09/03/virginia-tech-florida-st",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2018/09/03/virginia-tech-florida-st",
+    "contestName": "",
+    "location": "Bobby Bowden Field at Doak Campbell Stadium, Tallahassee, FL",
     "startTime": "8:00 PM ET",
-    "startDateDisplay": "Sep. 3",
+    "startDateDisplay": "Sept. 3",
     "startDate": "2018-09-03",
-    "gameState": "pre",
+    "gameState": "final",
     "conference": "all-conf top-25 atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:25",
-    "lastUpdated": "1534958220",
+    "updatedTimestamp": "2018-09-04 00:32:33",
+    "lastUpdated": "1536035520",
     "id": "2954332",
     "startTimeEpoch": "1536019200",
-    "currentPeriod": "",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "3RD AND 12",
     "timeclock": "",
-    "network_logo": "",
-    "location": "Bobby Bowden Field at Doak Campbell Stadium, Tallahassee, FL",
+    "network_logo": ""
+  },
+  {
+    "alerts": {},
+    "status": {},
+    "tabsArray": [],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/02/nc-at-east-carolina/tabs.json",
+    "away": {
+      "winner": "true",
+      "scoreBreakdown": [
+        "7",
+        "7",
+        "0",
+        "14"
+      ],
+      "currentScore": "28",
+      "description": "1-0",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/n/nc-at.70.png",
+      "name": "<a href='/schools/nc-at'>N.C. A&T</a>",
+      "nameRaw": "N.C. A&T",
+      "nameSeo": "nc-at",
+      "shortname": "NC A&T",
+      "color": "#002D72",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "MEAC1970",
+            "athleticDept": "NCATAGGIES",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": []
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [
+        "3",
+        "14",
+        "3",
+        "3"
+      ],
+      "currentScore": "23",
+      "description": "",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/e/east-carolina.70.png",
+      "name": "<a href='/schools/east-carolina'>East Carolina</a>",
+      "nameRaw": "East Carolina",
+      "nameSeo": "east-carolina",
+      "shortname": "E CAR",
+      "color": "#582C83",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "conference": "ConferenceUSA1",
+            "athleticDept": "ECUAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#eastcarolina"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "videos": [],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/09/02/nc-at-east-carolina",
+    "liveAudioUrl": "",
+    "highlightsUrl": "",
+    "url": "/game/football/fbs/2018/09/02/nc-at-east-carolina",
     "contestName": "",
-    "url": "/game/football/fbs/2018/09/03/virginia-tech-florida-st",
-    "highlightsUrl": ""
+    "location": "Bagwell Field at Dowdy-Ficklen Stadium, Greenville, NC",
+    "startTime": "3:30 PM ET",
+    "startDateDisplay": "Sept. 2",
+    "startDate": "2018-09-02",
+    "gameState": "final",
+    "conference": "all-conf american-athletic mid-eastern",
+    "updatedTimestamp": "2018-09-02 20:43:04",
+    "lastUpdated": "1535935380",
+    "id": "2953815",
+    "startTimeEpoch": "1535916600",
+    "currentPeriod": "Final",
+    "finalMessage": "Final",
+    "gameStatus": "Final",
+    "periodStatus": "End",
+    "downToGo": "1ST AND 10",
+    "timeclock": "",
+    "network_logo": ""
   }
 ]
