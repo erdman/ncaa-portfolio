@@ -371,28 +371,35 @@ $(document).ready( function () {
 
     $(window).on('route:Leaderboard', function (route, year, school) {
       // show view, hide others, etc.
+      $('#details').hide();
       $('a[href="#Leaderboard"]').trigger('click');
     });
 
     $(window).on('route:Summary', function (route, year, school) {
       // show view, hide others, etc.
+      $('#details').hide();
       $('a[href="#Summary"]').trigger('click');
     });
 
     $(window).on('route:Details', function (route, year, school) {
       // show view, hide others, etc.
+      $('#details').show();
       $("#details").val(school).change();
       $('a[href="#Details"]').trigger('click');
     });
 
     $(window).on('route:Champions', function (route, year, school) {
       // show view, hide others, etc.
+      $('#details').hide();
       $('a[href="#Champions"]').trigger('click');
+      window.scrollTo(0, 0);
     });
 
     $(window).on('route:Rules', function (route, year, school) {
       // show view, hide others, etc.
+      $('#details').hide();
       $('a[href="#Rules"]').trigger('click');
+      window.scrollTo(0, 0);
     });
 
     // go to initial hash on page load
