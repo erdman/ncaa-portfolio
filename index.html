@@ -36,34 +36,65 @@
             right: 1em;
             bottom: 1em;
         }
+/*
+        orange stripe animation and orange text for active nav
+        https://bootsnipp.com/snippets/featured/bootstrap4-navigation-border-animation
+*/
+        .nav-item::after{content:'';display:block;width:0px;height:2px;background:#ffffff;transition: 0.2s;}  /*sliding line*/
+        .nav-item:hover::after{width:100%;}
+/*        .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link,.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover{color:#000000;} */
+
+        .navbar-dark .navbar-nav .active > .nav-link {color:#074e78;}
+        .navbar-dark .navbar-nav .nav-link.active {color:#074e78;}
+        .navbar-dark .navbar-nav .nav-link.show {color:#074e78;}
+        .navbar-dark .navbar-nav .show > .nav-link {color:#074e78;}
+        .navbar-dark .navbar-nav .nav-link:focus {color:#074e78;}
+        .navbar-dark .navbar-nav .nav-link:hover:not(.active) {color:#ffffff;}
+
+/*        .nav-link{padding:15px 5px;transition:0.2s;}   */
+        .dropdown-item.active, .dropdown-item:active{color:#212529;}
+        .dropdown-item:focus, .dropdown-item:hover{background:#fec400;}
+/*
+        this codepen shows an inverse highlighting of the selected nav, but i couldnt get it to work
+        https://codepen.io/gearmobile/pen/bByZdG
+*/
 
     </style>
-
-    <nav class="navbar fixed-top navbar-expand-xl navbar-light bg-light" style="z-index: 9999;">
+    <nav class="navbar fixed-top navbar-expand-xl navbar-dark" style="z-index: 9999; background-color: #0a6fac;">
         <a class="navbar-brand" href="#">NCAAportfolio.com</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler">   <!-- aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation"-->
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <span class="collapse navbar-collapse" id="navbarToggler">
-            <span class="nav nav-tabs" style="position: absolute; bottom: 0;">
-                <a class='nav-item nav-link' data-toggle="tab" href="#Leaderboard">Leaderboard</a>
-                <a class='nav-item nav-link' data-toggle="tab" href="#Summary">Team Summaries</a>
-                <a class='nav-item nav-link' data-toggle="tab" href="#Details">
-                    <select style="background-color: white" id="details">
-                    </select>
-                </a>
-                <a class='nav-item nav-link' data-toggle="tab" href="#Champions">Champions</a>
-                <a class='nav-item nav-link' data-toggle="tab" href="#Rules">Scoring Rules</a>
-            </span>
-            <span class="nav-item ml-auto">
-                <select class='nav-link' style="background-color: white" id="year">
+            <ul class="navbar-nav nav nav-tabs">
+                <li class="nav-item">
+                    <a class='nav-link' data-toggle="tab" href="#Leaderboard">Leaderboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link' data-toggle="tab" href="#Summary">Team Summaries</a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link' data-toggle="tab" href="#Details">
+                        <select style="background-color: white" id="details">
+                        </select>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link' data-toggle="tab" href="#Champions">Champions</a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link' data-toggle="tab" href="#Rules">Scoring Rules</a>
+                </li>
+            </ul>
+            <span class="ml-auto">
+                <select style="background-color: white" id="year">
                     <option>2018</option>
                     <option>2017</option>
                     <option>2016</option>
                 </select>
             </span>
-            <span class="nav-item">
+            <span class="ml-2">
                 <form class="form-inline my-2 my-lg-0">
                     <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" id='search'>
                 </form>
@@ -74,11 +105,11 @@
   <body style="padding-top: 60px;">
     <main role="main" class="tab-content">
 
-        <div id="Leaderboard" class="tab-pane fade in" >
+        <div id="Leaderboard" class="tab-pane fade in mt-3" >
             <table id="leaderboard_table" class="display table table-hover table-bordered" cellspacing="0" width="100%"></table>
         </div>
 
-        <div id="Summary" class="tab-pane fade in">
+        <div id="Summary" class="tab-pane fade in mt-3">
             <table id="summary_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <tfoot>
                     <tr>
@@ -110,7 +141,7 @@
             </table>
         </div>
 
-        <div id="Details" class="tab-pane fade in">
+        <div id="Details" class="tab-pane fade in mt-3">
             <table id="details_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
                 <tfoot>
                     <tr>
