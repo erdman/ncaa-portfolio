@@ -171,9 +171,11 @@ function load_data(publish_continuation) {
 function set_details_dropdown_options(fbs_name_set) {
     console.log('repop team details dropdown');
     const old_selection = $("#details").find(":selected").text();
-    $("#details").empty().append("<option disabled>Team Details</option>");
+    // https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box
+    // https://stackoverflow.com/questions/15984430/how-to-set-a-default-prompt-when-nothing-selected-for-select-using-css/15984591
+    $("#details").empty().append("<option value='' disabled selected hidden>Team Details</option>");  // not working, remains empty/blank/hidden/whitespace
     fbs_name_set.forEach(school => $("#details").append($("<option />").text(school)));  // add FBS schol names into details dropdown menu
-    $("#details").val(fbs_name_set.has(old_selection) ? old_selection : "Team Details");
+    $("#details").val(fbs_name_set.has(old_selection) ? old_selection : "");
 }
 
 function establish_datatables() {
@@ -200,6 +202,7 @@ function establish_datatables() {
 
     $('#details_table').DataTable( {
         // no data load until dropdown is selected ... data: fbs[details_team].games,
+        "language": {"emptyTable": "Select team using dropdown box to the upper right"},
         columns: [
             { "data": "week", "title": "Week" },
             { "data": "startDate", "title": "Date" },

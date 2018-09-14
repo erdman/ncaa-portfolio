@@ -59,6 +59,9 @@
         https://codepen.io/gearmobile/pen/bByZdG
 */
 
+/* CSS for Team Detail selectbox */
+    select:invalid { color: gray; border: 5px solid red; }
+
     </style>
     <nav class="navbar fixed-top navbar-expand-xl navbar-dark" style="z-index: 9999; background-color: #0a6fac;">
         <a class="navbar-brand" href="#">NCAAportfolio.com</a>
@@ -85,7 +88,7 @@
                 </li>
             </ul>
             <span class="ml-auto">
-                <select style="display: none; background-color: white;" id="details">
+                <select required id="details" style="display: none; background-color: white;">
                 </select>
                 <select style="background-color: white;" id="year">
                     <option>2018</option>
