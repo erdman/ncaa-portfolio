@@ -1,0 +1,80 @@
+[
+  {
+    "alerts": {},
+    "status": {},
+    "tabsArray": [
+      []
+    ],
+    "tabs": "/sites/default/files/data//game/football/fbs/2018/12/08/army-navy/tabs.json",
+    "away": {
+      "winner": "false",
+      "scoreBreakdown": [],
+      "currentScore": "",
+      "description": "",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/a/army.70.png",
+      "name": "<a href='/schools/army'>Army West Point</a>",
+      "nameRaw": "Army West Point",
+      "nameSeo": "army",
+      "shortname": "ARMY",
+      "color": "#010101",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "sport": "TheArmyTeam",
+            "athleticDept": "ArmyAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#armyfootball"
+          ]
+        }
+      }
+    },
+    "home": {
+      "winner": "false",
+      "scoreBreakdown": [],
+      "currentScore": "",
+      "description": "",
+      "teamRank": "0",
+      "iconURL": "/sites/default/files/images/logos/schools/n/navy.70.png",
+      "name": "<a href='/schools/navy'>Navy</a>",
+      "nameRaw": "Navy",
+      "nameSeo": "navy",
+      "shortname": "NAVY",
+      "color": "#00205B",
+      "social": {
+        "twitter": {
+          "accounts": {
+            "sport": "USNAFootball",
+            "athleticDept": "NavyAthletics",
+            "ncaa": "ncaa_fb"
+          },
+          "keywords": [
+            "#navyfootball"
+          ]
+        }
+      }
+    },
+    "links": [],
+    "scoreBreakdown": [],
+    "champInfo": {},
+    "gameCenterUrl": "/game/football/fbs/2018/12/08/army-navy",
+    "startTime": "3:00 PM ET",
+    "startDateDisplay": "Dec. 8",
+    "startDate": "2018-12-08",
+    "gameState": "pre",
+    "conference": "all-conf american-athletic fbs-independent",
+    "updatedTimestamp": "2018-08-22 13:17:31",
+    "lastUpdated": "1534958220",
+    "id": "2954243",
+    "startTimeEpoch": "1544299200",
+    "currentPeriod": "",
+    "timeclock": "",
+    "network_logo": "",
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "contestName": "",
+    "url": "/game/football/fbs/2018/12/08/army-navy",
+    "highlightsUrl": ""
+  }
+]
