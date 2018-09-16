@@ -23,16 +23,17 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
                  bowl:    (game.week === 16 && !new_years_six.championships.has(game.id) ? 10 : 0) +
                           (new_years_six.playoffs.has(game.id) ? 6 : 0) +
                           (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
-                 score_string:  game.score_string,
+                 displayString:  game.displayString,
                  week:          game.week,
                  startDate:     game.startDate,
-                 win_loss_record: hero.description
+                 win_loss_record: hero.description,
+                 gameState: game.gameState
     };
     score.total = score.win + score.blowout + score.shutout + score.top25 + score.bowl;
     return score;
 }
 
-const nullGame = {win:null, blowout:null, shutout:null, top25:null, bowl:null, score_string:null, week: null, startDate:null, win_loss_record:null, total:null};
+const nullGame = {win:null, blowout:null, shutout:null, top25:null, bowl:null, displayString:null, week: null, startDate:null, win_loss_record:null, gameState:null, total:null};
 const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];
 let games = [], portfolios = [];
 let fbs, fbs_name_set, new_years_six = {};
@@ -91,6 +92,7 @@ function start_loaders() {
 function load_data(publish_continuation) {
     return $.when(...start_loaders()
     ).then(function () {
+        const year = $('#year').find(":selected").text();
         games.sort((a, b) => a.startDate.localeCompare(b.startDate));
         console.log('when...then');
         console.log(games.length);
@@ -106,9 +108,9 @@ function load_data(publish_continuation) {
             game.away.currentScore = parseInt(game.away.currentScore, 10);
             game.away.nameRaw = game.away.nameRaw.trim();
             game.id = parseInt(game.id, 10);
-            game.score_string = stringifyGame(game);
+            game.displayString = stringifyGame(game);
 
-            if (game.gameState === 'final') {
+            if (game.gameState === 'pre' || game.gameState === 'final') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
                     // add blank bye weeks
                     while (fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
@@ -119,12 +121,7 @@ function load_data(publish_continuation) {
                         fbs[game.away.nameRaw].games.shift();  // remove initial element of array (nullGame)
                         fbs[game.away.nameRaw].games[0].week = 0;
                     }
-                    let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
-                    score.week = Math.max(game.week, fbs[game.away.nameRaw].games.slice(-1)[0].week + 1);
-                    fbs[game.away.nameRaw].games.push(score);
-                    fbs[game.away.nameRaw].points += score.total;
                 }
-
                 if (fbs_name_set.has(game.home.nameRaw)) {
                     // add blank bye weeks
                     while (fbs[game.home.nameRaw].games.slice(-1)[0].week < game.week - 1) {
@@ -134,6 +131,27 @@ function load_data(publish_continuation) {
                         fbs[game.home.nameRaw].games.shift();  // remove initial element of array (nullGame)
                         fbs[game.home.nameRaw].games[0].week = 0;
                     }
+                }
+            }
+
+            if (game.gameState === 'pre') {
+                if (fbs_name_set.has(game.away.nameRaw)) {
+                    fbs[game.away.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'pre', displayString: fbs_name_set.has(game.home.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.home.nameRaw)}>at ${game.home.nameRaw}</a>` : `at ${game.home.nameRaw}` });
+                }
+                if (fbs_name_set.has(game.home.nameRaw)) {
+                    fbs[game.home.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'pre', displayString: fbs_name_set.has(game.away.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.away.nameRaw)}>${game.away.nameRaw}</a>` : `${game.away.nameRaw}` });
+                }
+            }
+
+            else if (game.gameState === 'final') {
+                if (fbs_name_set.has(game.away.nameRaw)) {
+                    let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
+                    score.week = Math.max(game.week, fbs[game.away.nameRaw].games.slice(-1)[0].week + 1);
+                    fbs[game.away.nameRaw].games.push(score);
+                    fbs[game.away.nameRaw].points += score.total;
+                }
+
+                if (fbs_name_set.has(game.home.nameRaw)) {
                     let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
                     score.week = Math.max(game.week, fbs[game.home.nameRaw].games.slice(-1)[0].week + 1);
                     fbs[game.home.nameRaw].games.push(score);
@@ -141,8 +159,6 @@ function load_data(publish_continuation) {
                 }
             }
         });
-
-        const year = $('#year').find(":selected").text();
 
         portfolios.forEach(function (portfolio) {
             portfolio.score = {points: portfolio.schools.map(school => fbs[school].points).reduce((a,b) => a + b), units: portfolio.schools.map(school => fbs[school].units).reduce((a,b) => a + b)};
@@ -206,7 +222,7 @@ function establish_datatables() {
         columns: [
             { "data": "week", "title": "Week" },
             { "data": "startDate", "title": "Date" },
-            { "data": "score_string", "title": "Result" },
+            { "data": "displayString", "title": "Result" },
             { "data": "win_loss_record", "title": "W-L", className: "text-right" },
             { "data": "win", "title": "Win", className: "text-right" },
             { "data": "blowout", "title": "Blowout", className: "text-right" },
@@ -215,6 +231,12 @@ function establish_datatables() {
             { "data": "bowl", "title": "Bowl", className: "text-right" },
             { "data": "total", "title": "Total", className: "text-right" }
             ],
+        "rowCallback": function( row, data ) {
+            if ( data.gameState === 'pre' || data.gameState === null) {
+                $('td:eq(0)', row).css('color', 'gray');
+                $('td:eq(1)', row).css('color', 'gray');
+            }
+        },
         "dom": 'lrtip',         <!-- removes the native search input box-->
         scrollResize: true,
         scrollX: true,
