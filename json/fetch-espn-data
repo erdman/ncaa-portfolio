@@ -1,0 +1,38 @@
+#!/bin/bash
+
+# Usage:
+# first command line argument for shell script is YEAR, second command line argument is WEEK, where 16 is postseason bowl games ("P") and 00 is all weeks
+# ./fetch-ncaa-data YEAR WEEK
+# ./fetch-ncaa-data 2017 3  #fetch week 3 in 2017 game data
+# ./fetch-ncaa-data 2017 16 #fetch postseason bowlgames 2017 game data
+# ./fetch-ncaa-data 2017 0  # fetch all weeks in 2017
+
+set -e
+
+function download() {
+    local DLWEEK=$WEEK
+    if [ $WEEK = 16 ]
+    then
+        WEEK=1
+        SEASONTYPE=3
+    fi
+
+    curl "http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?lang=en&region=us&calendartype=blacklist&limit=300&dates=${YEAR}&seasontype=${SEASONTYPE}&week=${WEEK}&groups=80" -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' --compressed -H 'Referer: http://www.espn.com/college-football/scoreboard/_/group/80/year/2018/seasontype/2/week/3' -H 'Origin: http://www.espn.com' -H 'DNT: 1' -H 'Connection: keep-alive' | jq '[.events[].competitions[0]] | map({startDate: .date, gameState: .status.type.description, id, home: {teamRank: .competitors[0].curatedRank.current, currentScore: .competitors[0].score, nameRaw: .competitors[0].team.location, description: .competitors[0].records[0].summary}, away:         {teamRank: .competitors[1].curatedRank.current, currentScore: .competitors[1].score, nameRaw: .competitors[1].team.location, description: .competitors[1].records[0].summary}})' > "$YEAR$DLWEEK".json
+}
+
+YEAR=$(printf %04d $1)
+WEEK=$(printf %02d $2)
+SEASONTYPE=2
+
+# mkdir -p "$YEAR"  #not automatically putting in subdirectory (yet)
+
+if [ $WEEK = 00 ]
+then
+    for WEEK in {01..16}
+    do
+        download $YEAR $WEEK
+    done
+else
+    download $YEAR $WEEK
+fi
+

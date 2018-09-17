@@ -19,3 +19,16 @@ csv2json -d fbs-2017.csv fbs-2017.json
 csv2json -d portfolios-2016.csv portfolios-2016.json
 # just use first 3 columns of input file
 cut -f -3 -d ',' fbs-2018.csv | csv2json -d - fbs-2018.json
+
+# 2018-09-17
+# data.ncaa.com in the link above has gotten lax about the completeness of data; some games are missing, especially games that have been rescheduled to an earlier date.
+# the following captures a better dataset, but still at least one game missing (Coastal Caro. vs Campbell)
+# wget https://data.ncaa.com/casablanca/scoreboard/football/fbs/2018/03/scoreboard.json
+# cat scoreboard.json | jq '[.games[].game] | map({url, gameState, startDate, home:{teamRank: .home.rank, currentScore: .home.score, nameRaw: .home.names.short, description: .home.description}, away:{teamRank: .away.rank, currentScore: .away.score, nameRaw: .away.names.short, description: .away.description}, id:.gameID})'  > 201803.json
+# problem (in addition to single missing game) is that the names.short do not map well to the nameRaw's used elsewhere
+# saving this jq one-liner processing for converting a completely different format to the format expected by ncaaportfolio
+# could be useful for similarly translating espn data
+#
+# ESPN's API looks like this, but limits download length when using wget versus browser??
+# http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?lang=en&region=us&calendartype=blacklist&limit=300&dates=2018&seasontype=2&week=3&groups=80
+# after viewing the request in browser Network console, "copy as cURL" then paste to terminal
