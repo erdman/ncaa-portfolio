@@ -48,6 +48,8 @@ function start_loaders() {
         return $.getJSON(`json/${year}/${year}${week.toString().padStart(2,'0')}.json`)
             .then(function (data) {
                 games.push(...data.map(function (game) {
+                    const [mm,dd,yyyy] = game.startDate.split('-');
+                    game.startDate = parseInt(yyyy,10) < 32 ? game.startDate : [yyyy,mm,dd].join('-');  // if yyyy < 32, it's already in yyyy-mm-dd format
                     game.week = parseInt(week,10);
                     return game;
                 }));
