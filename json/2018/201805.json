@@ -1,4614 +1,988 @@
 [
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/27/north-carolina-miami-fl/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/north-carolina.70.png",
-      "name": "<a href='/schools/north-carolina'>North Carolina</a>",
+      "description": "0-2",
       "nameRaw": "North Carolina",
-      "nameSeo": "north-carolina",
-      "shortname": "UNC",
-      "color": "#7BAFD4",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "TarHeelFootball",
-            "athleticDept": "UNC_Athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#uncfootball"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "8",
-      "iconURL": "/sites/default/files/images/logos/schools/m/miami-fl.70.png",
-      "name": "<a href='/schools/miami-fl'>Miami (Fla.)</a>",
-      "nameRaw": "Miami (Fla.)",
-      "nameSeo": "miami-fl",
-      "shortname": "MIAMI",
-      "color": "#154734",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "athleticDept": "hurricanesports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#canes"
-          ]
-        }
-      }
+      "description": "2-1",
+      "nameRaw": "Miami",
+      "currentScore": "0",
+      "teamRank": 21
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/27/north-carolina-miami-fl",
-    "startTime": "8:00 PM ET",
-    "startDateDisplay": "Sep. 27",
-    "startDate": "2018-09-27",
-    "gameState": "pre",
-    "conference": "all-conf top-25 atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953329",
-    "startTimeEpoch": "1538092800",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Hard Rock Stadium, Miami Gardens, FL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/27/north-carolina-miami-fl",
-    "highlightsUrl": ""
+    "id": "401013466",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-28T00:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/28/memphis-tulane/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/m/memphis.70.png",
-      "name": "<a href='/schools/memphis'>Memphis</a>",
+      "description": "2-1",
       "nameRaw": "Memphis",
-      "nameSeo": "memphis",
-      "shortname": "MEM",
-      "color": "#012169",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "athleticDept": "TigersMedia",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#memphistigers"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/tulane.70.png",
-      "name": "<a href='/schools/tulane'>Tulane</a>",
+      "description": "1-2",
       "nameRaw": "Tulane",
-      "nameSeo": "tulane",
-      "shortname": "TULANE",
-      "color": "#006747",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "sport": "GreenWaveFB",
-            "athleticDept": "GreenWaveNews",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#rollwave"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/28/memphis-tulane",
-    "startTime": "8:00 PM ET",
-    "startDateDisplay": "Sep. 28",
-    "startDate": "2018-09-28",
-    "gameState": "pre",
-    "conference": "all-conf american-athletic",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2954079",
-    "startTimeEpoch": "1538179200",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Yulman Stadium, New Orleans, LA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/28/memphis-tulane",
-    "highlightsUrl": ""
+    "id": "401019496",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T00:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/28/ucla-colorado/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/u/ucla.70.png",
-      "name": "<a href='/schools/ucla'>UCLA</a>",
+      "description": "0-3",
       "nameRaw": "UCLA",
-      "nameSeo": "ucla",
-      "shortname": "UCLA",
-      "color": "#0072CE",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "sport": "footballUCLA",
-            "athleticDept": "UCLAAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#uclafootball"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/c/colorado.70.png",
-      "name": "<a href='/schools/colorado'>Colorado</a>",
+      "description": "3-0",
       "nameRaw": "Colorado",
-      "nameSeo": "colorado",
-      "shortname": "COLO",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "athleticDept": "cubuffs",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#CUFootball"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/28/ucla-colorado",
-    "startTime": "9:00 PM ET",
-    "startDateDisplay": "Sep. 28",
-    "startDate": "2018-09-28",
-    "gameState": "pre",
-    "conference": "all-conf pac-12",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953018",
-    "startTimeEpoch": "1538182800",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Folsom Field, Boulder, CO",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/28/ucla-colorado",
-    "highlightsUrl": ""
+    "id": "401012752",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T01:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/tennessee-st-vanderbilt/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/tennessee-st.70.png",
-      "name": "<a href='/schools/tennessee-st'>Tennessee State</a>",
-      "nameRaw": "Tennessee State",
-      "nameSeo": "tennessee-st",
-      "shortname": "TENNST",
-      "color": "#001489",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "OVCSports",
-            "athleticDept": "TSU_Tigers",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/v/vanderbilt.70.png",
-      "name": "<a href='/schools/vanderbilt'>Vanderbilt</a>",
-      "nameRaw": "Vanderbilt",
-      "nameSeo": "vanderbilt",
-      "shortname": "VANDY",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "VandyFootball",
-            "athleticDept": "ucommodores",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#Vucommodores"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/tennessee-st-vanderbilt",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf southeastern ovc",
-    "updatedTimestamp": "2018-08-22 13:17:37",
-    "lastUpdated": "1534958220",
-    "id": "2953211",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Vanderbilt Stadium, Nashville, TN",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/tennessee-st-vanderbilt",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/texas-kansas-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "23",
-      "iconURL": "/sites/default/files/images/logos/schools/t/texas.70.png",
-      "name": "<a href='/schools/texas'>Texas</a>",
-      "nameRaw": "Texas",
-      "nameSeo": "texas",
-      "shortname": "TEXAS",
-      "color": "#CB6015",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "MBTexasFootball",
-            "athleticDept": "TexasSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#hookem"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/k/kansas-st.70.png",
-      "name": "<a href='/schools/kansas-st'>Kansas St.</a>",
-      "nameRaw": "Kansas St.",
-      "nameSeo": "kansas-st",
-      "shortname": "KAN ST",
-      "color": "#582C83",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "kstate_gameday",
-            "athleticDept": "kstatesports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#KansasState"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/texas-kansas-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 big-12",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2954483",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Bill Snyder Family Football Stadium, Manhattan, KS",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/texas-kansas-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/massachusetts-ohio/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/m/massachusetts.70.png",
-      "name": "<a href='/schools/massachusetts'>Massachusetts</a>",
-      "nameRaw": "Massachusetts",
-      "nameSeo": "massachusetts",
-      "shortname": "UMASS",
-      "color": "#971B2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "sport": "UMass_Football",
-            "athleticDept": "UMassAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#UMass"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/o/ohio.70.png",
-      "name": "<a href='/schools/ohio'>Ohio</a>",
-      "nameRaw": "Ohio",
-      "nameSeo": "ohio",
-      "shortname": "OHIO",
-      "color": "#2C5234",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "OhioBobcats",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ohiobobcats"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/massachusetts-ohio",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mid-american fbs-independent",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2954446",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Peden Stadium, Athens, OH",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/massachusetts-ohio",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/michigan-northwestern/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "14",
-      "iconURL": "/sites/default/files/images/logos/schools/m/michigan.70.png",
-      "name": "<a href='/schools/michigan'>Michigan</a>",
-      "nameRaw": "Michigan",
-      "nameSeo": "michigan",
-      "shortname": "MICH",
-      "color": "#041E42",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "sport": "umichfootball",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#goblue"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/northwestern.70.png",
-      "name": "<a href='/schools/northwestern'>Northwestern</a>",
-      "nameRaw": "Northwestern",
-      "nameSeo": "northwestern",
-      "shortname": "NWSTRN",
-      "color": "#4E2A84",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "sport": "NUFBFamily",
-            "athleticDept": "@NU_Sports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#northwestern"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/michigan-northwestern",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 big-ten",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953348",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Ryan Field, Evanston, IL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/michigan-northwestern",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/bowling-green-georgia-tech/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/b/bowling-green.70.png",
-      "name": "<a href='/schools/bowling-green'>Bowling Green</a>",
-      "nameRaw": "Bowling Green",
-      "nameSeo": "bowling-green",
-      "shortname": "BGSU",
-      "color": "#FE5000",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "sport": "BGFalconFootbal",
-            "athleticDept": "BGathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#bowlinggreen"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/g/georgia-tech.70.png",
-      "name": "<a href='/schools/georgia-tech'>Georgia Tech</a>",
-      "nameRaw": "Georgia Tech",
-      "nameSeo": "georgia-tech",
-      "shortname": "GATECH",
-      "color": "#B3A369",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "athleticDept": "GTAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gatech"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/bowling-green-georgia-tech",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf atlantic-coast mid-american",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2953957",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Bobby Dodd Stadium at Historic Grant Field, Atlanta, GA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/bowling-green-georgia-tech",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/ohio-st-penn-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "5",
-      "iconURL": "/sites/default/files/images/logos/schools/o/ohio-st.70.png",
-      "name": "<a href='/schools/ohio-st'>Ohio St. </a>",
-      "nameRaw": "Ohio St. ",
-      "nameSeo": "ohio-st",
-      "shortname": "OHIOST",
-      "color": "#BA0C2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "athleticDept": "Brutus_Buckeye",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#buckeyes"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "10",
-      "iconURL": "/sites/default/files/images/logos/schools/p/penn-st.70.png",
-      "name": "<a href='/schools/penn-st'>Penn St.</a>",
-      "nameRaw": "Penn St.",
-      "nameSeo": "penn-st",
-      "shortname": "PENNST",
-      "color": "#041E42",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "sport": "PennStateFball",
-            "athleticDept": "GoPSUsports1",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#nittanylions"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/ohio-st-penn-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 big-ten",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2953036",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Beaver Stadium, University Park, PA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/ohio-st-penn-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/oregon-st-arizona-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/o/oregon-st.70.png",
-      "name": "<a href='/schools/oregon-st'>Oregon St.</a>",
-      "nameRaw": "Oregon St.",
-      "nameSeo": "oregon-st",
-      "shortname": "ORE ST",
-      "color": "#DC4405",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "sport": "OSUBeaversFB",
-            "athleticDept": "beaverathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gobeavs"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/arizona-st.70.png",
-      "name": "<a href='/schools/arizona-st'>Arizona St.</a>",
-      "nameRaw": "Arizona St.",
-      "nameSeo": "arizona-st",
-      "shortname": "AZ ST",
-      "color": "#7D2248",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "sport": "FootballASU",
-            "athleticDept": "SparkyArizonaSt",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#sundevils"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/oregon-st-arizona-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf pac-12",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953227",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Sun Devil Stadium, Tempe, AZ",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/oregon-st-arizona-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/pittsburgh-ucf/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/p/pittsburgh.70.png",
-      "name": "<a href='/schools/pittsburgh'>Pittsburgh</a>",
-      "nameRaw": "Pittsburgh",
-      "nameSeo": "pittsburgh",
-      "shortname": "PITT",
-      "color": "#0C2340",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "sport": "GoPittFootball",
-            "athleticDept": "PittAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#pitt"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "21",
-      "iconURL": "/sites/default/files/images/logos/schools/u/ucf.70.png",
-      "name": "<a href='/schools/ucf'>UCF</a>",
-      "nameRaw": "UCF",
-      "nameSeo": "ucf",
-      "shortname": "UCF",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "sport": "UCF_Football",
-            "athleticDept": "UCFAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#goknights"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/pittsburgh-ucf",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 american-athletic atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953913",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Spectrum Stadium, Orlando, FL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/pittsburgh-ucf",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/virginia-north-carolina-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/v/virginia.70.png",
-      "name": "<a href='/schools/virginia'>Virginia</a>",
-      "nameRaw": "Virginia",
-      "nameSeo": "virginia",
-      "shortname": "UVA",
-      "color": "#232D4B",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "athleticDept": "VirginiaSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#UVAFootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/north-carolina-st.70.png",
-      "name": "<a href='/schools/north-carolina-st'>NC State</a>",
-      "nameRaw": "NC State",
-      "nameSeo": "north-carolina-st",
-      "shortname": "NC ST",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "PackFootball",
-            "athleticDept": "PackAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#wolfpack"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/virginia-north-carolina-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2953887",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Wayne Day Family Field at Carter-Finley Stadium, Raleigh, NC",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/virginia-north-carolina-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/indiana-rutgers/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/i/indiana.70.png",
-      "name": "<a href='/schools/indiana'>Indiana</a>",
-      "nameRaw": "Indiana",
-      "nameSeo": "indiana",
-      "shortname": "IND",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "athleticDept": "OurIndiana",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#hoosierfootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/r/rutgers.70.png",
-      "name": "<a href='/schools/rutgers'>Rutgers</a>",
-      "nameRaw": "Rutgers",
-      "nameSeo": "rutgers",
-      "shortname": "RUTGER",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "sport": "RutgersFootball",
-            "athleticDept": "RUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ru"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/indiana-rutgers",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf big-ten",
-    "updatedTimestamp": "2018-08-22 13:17:30",
-    "lastUpdated": "1534958220",
-    "id": "2954439",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "High Point Solutions Stadium, Piscataway, NJ",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/indiana-rutgers",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/kent-st-ball-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/k/kent-st.70.png",
-      "name": "<a href='/schools/kent-st'>Kent State</a>",
-      "nameRaw": "Kent State",
-      "nameSeo": "kent-st",
-      "shortname": "KENT",
-      "color": "#00205B",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "KSUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#GoldenFlashes"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/b/ball-st.70.png",
-      "name": "<a href='/schools/ball-st'>Ball State</a>",
-      "nameRaw": "Ball State",
-      "nameSeo": "ball-st",
-      "shortname": "BALLST",
-      "color": "#BA0C2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "sport": "BSUCardsFB",
-            "athleticDept": "bsuathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ballstate"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/kent-st-ball-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mid-american",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2954247",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Scheumann Stadium, Muncie, IN",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/kent-st-ball-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/byu-washington/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/b/byu.70.png",
-      "name": "<a href='/schools/byu'>BYU</a>",
-      "nameRaw": "BYU",
-      "nameSeo": "byu",
-      "shortname": "BYU",
-      "color": "#002E5D",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "athleticDept": "BYUathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#byufootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "6",
-      "iconURL": "/sites/default/files/images/logos/schools/w/washington.70.png",
-      "name": "<a href='/schools/washington'>Washington</a>",
-      "nameRaw": "Washington",
-      "nameSeo": "washington",
-      "shortname": "WASH",
-      "color": "#330072",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "sport": "UW_Football",
-            "athleticDept": "UWAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#huskyfootball"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/byu-washington",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 pac-12 fbs-independent",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953550",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Alaska Airlines Field at Husky Stadium, Seattle, WA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/byu-washington",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/oklahoma-st-kansas/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/o/oklahoma-st.70.png",
-      "name": "<a href='/schools/oklahoma-st'>Oklahoma State</a>",
-      "nameRaw": "Oklahoma State",
-      "nameSeo": "oklahoma-st",
-      "shortname": "OKLAST",
-      "color": "#E35205",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "CowboyFB",
-            "athleticDept": "OSUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#okstate"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/k/kansas.70.png",
-      "name": "<a href='/schools/kansas'>Kansas</a>",
-      "nameRaw": "Kansas",
-      "nameSeo": "kansas",
-      "shortname": "KANSAS",
-      "color": "#003DA5",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "KU_Football",
-            "athleticDept": "KUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#kansasjayhawks"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/oklahoma-st-kansas",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf big-12",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953983",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Memorial Stadium (Lawrence, KS), Lawrence, KS",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/oklahoma-st-kansas",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/rice-wake-forest/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/r/rice.70.png",
-      "name": "<a href='/schools/rice'>Rice</a>",
-      "nameRaw": "Rice",
-      "nameSeo": "rice",
-      "shortname": "RICE",
-      "color": "#00205B",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "athleticDept": "RiceOwlsdotcom",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ricefootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/w/wake-forest.70.png",
-      "name": "<a href='/schools/wake-forest'>Wake Forest</a>",
-      "nameRaw": "Wake Forest",
-      "nameSeo": "wake-forest",
-      "shortname": "WAKE",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "Wake_FB",
-            "athleticDept": "WFUSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#wakeforest"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/rice-wake-forest",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf atlantic-coast conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2953484",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "BB&T Field, Winston-Salem, NC",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/rice-wake-forest",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/utah-washington-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/u/utah.70.png",
-      "name": "<a href='/schools/utah'>Utah</a>",
-      "nameRaw": "Utah",
-      "nameSeo": "utah",
-      "shortname": "UTAH",
-      "color": "#BA0C2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "sport": "Utah_Football",
-            "athleticDept": "utahathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#utahutes"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/w/washington-st.70.png",
-      "name": "<a href='/schools/washington-st'>Washington St.</a>",
-      "nameRaw": "Washington St.",
-      "nameSeo": "washington-st",
-      "shortname": "WASHST",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "athleticDept": "WSUCougars_com",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gocougs"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/utah-washington-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf pac-12",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953068",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Martin Stadium, Pullman, WA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/utah-washington-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/temple-boston-college/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/temple.70.png",
-      "name": "<a href='/schools/temple'>Temple</a>",
-      "nameRaw": "Temple",
-      "nameSeo": "temple",
-      "shortname": "TEMPLE",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "athleticDept": "Owlsports_com",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#templefootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/b/boston-college.70.png",
-      "name": "<a href='/schools/boston-college'>Boston College</a>",
-      "nameRaw": "Boston College",
-      "nameSeo": "boston-college",
-      "shortname": "BC",
-      "color": "#862633",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "bceaglesfball",
-            "athleticDept": "BCSportsNews",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#bceagles"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/temple-boston-college",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf atlantic-coast american-athletic",
-    "updatedTimestamp": "2018-08-22 13:17:30",
-    "lastUpdated": "1534958220",
-    "id": "2953802",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Alumni Stadium, Chestnut Hill, MA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/temple-boston-college",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/portland-st-idaho/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/p/portland-st.70.png",
-      "name": "<a href='/schools/portland-st'>Portland State</a>",
-      "nameRaw": "Portland State",
-      "nameSeo": "portland-st",
-      "shortname": "PORTST",
-      "color": "#154734",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigSkyConf",
-            "athleticDept": "PSU_VIKINGS",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/i/idaho.70.png",
-      "name": "<a href='/schools/idaho'>Idaho</a>",
-      "nameRaw": "Idaho",
-      "nameSeo": "idaho",
-      "shortname": "IDAHO",
-      "color": "#896C4C",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "WACSports",
-            "athleticDept": "Idaho_Vandals",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#vandals"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/portland-st-idaho",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf sun-belt big-sky",
-    "updatedTimestamp": "2018-08-22 13:17:37",
-    "lastUpdated": "1534958220",
-    "id": "2954234",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Kibbie Dome, Moscow, ID",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/portland-st-idaho",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/central-mich-michigan-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/c/central-mich.70.png",
-      "name": "<a href='/schools/central-mich'>Central Mich.</a>",
-      "nameRaw": "Central Mich.",
-      "nameSeo": "central-mich",
-      "shortname": "C MICH",
-      "color": "#6F263D",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "sport": "CMU_Football",
-            "athleticDept": "CMUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#CMUChippewas"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "11",
-      "iconURL": "/sites/default/files/images/logos/schools/m/michigan-st.70.png",
-      "name": "<a href='/schools/michigan-st'>Mich. St. </a>",
-      "nameRaw": "Mich. St. ",
-      "nameSeo": "michigan-st",
-      "shortname": "MICHST",
-      "color": "#173F35",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "sport": "MSU_Football",
-            "athleticDept": "MSU_Athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#spartans"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/central-mich-michigan-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 big-ten mid-american",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953458",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Spartan Stadium, East Lansing, MI",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/central-mich-michigan-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/syracuse-clemson/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/syracuse.70.png",
-      "name": "<a href='/schools/syracuse'>Syracuse</a>",
-      "nameRaw": "Syracuse",
-      "nameSeo": "syracuse",
-      "shortname": "SYR",
-      "color": "#DC4405",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "athleticDept": "Cuse",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#sufootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "2",
-      "iconURL": "/sites/default/files/images/logos/schools/c/clemson.70.png",
-      "name": "<a href='/schools/clemson'>Clemson</a>",
-      "nameRaw": "Clemson",
-      "nameSeo": "clemson",
-      "shortname": "CLEM",
-      "color": "#FF6720",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "athleticDept": "CU_athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#clemson"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/syracuse-clemson",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2954187",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Memorial Stadium, Clemson, SC",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/syracuse-clemson",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/arkansas-st-ga-southern/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/arkansas-st.70.png",
-      "name": "<a href='/schools/arkansas-st'>Arkansas State</a>",
-      "nameRaw": "Arkansas State",
-      "nameSeo": "arkansas-st",
-      "shortname": "ARK ST",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "AStateRedWolves",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#RedWolves"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/g/ga-southern.70.png",
-      "name": "<a href='/schools/ga-southern'>Ga. Southern</a>",
-      "nameRaw": "Ga. Southern",
-      "nameSeo": "ga-southern",
-      "shortname": "GA SOU",
-      "color": "#041E42",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SoConSports",
-            "athleticDept": "GSAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/arkansas-st-ga-southern",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2954043",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Allen E. Paulson Stadium, Statesboro, GA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/arkansas-st-ga-southern",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/charlotte-uab/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/c/charlotte.70.png",
-      "name": "<a href='/schools/charlotte'>Charlotte</a>",
-      "nameRaw": "Charlotte",
-      "nameSeo": "charlotte",
-      "shortname": "CHAR",
-      "color": "#046A38",
-      "social": {}
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/u/uab.70.png",
-      "name": "<a href='/schools/uab'>UAB</a>",
-      "nameRaw": "UAB",
-      "nameSeo": "uab",
-      "shortname": "UAB",
-      "color": "#006341",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "athleticDept": "UABathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#goblazers"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/charlotte-uab",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953862",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Legion Field, Birmingham, AL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/charlotte-uab",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/iowa-st-tcu/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/i/iowa-st.70.png",
-      "name": "<a href='/schools/iowa-st'>Iowa State</a>",
-      "nameRaw": "Iowa State",
-      "nameSeo": "iowa-st",
-      "shortname": "IOWAST",
-      "color": "#A6192E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "CycloneFB",
-            "athleticDept": "CycloneATH",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#iowastate"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "16",
-      "iconURL": "/sites/default/files/images/logos/schools/t/tcu.70.png",
-      "name": "<a href='/schools/tcu'>TCU</a>",
-      "nameRaw": "TCU",
-      "nameSeo": "tcu",
-      "shortname": "TCU",
-      "color": "#582C83",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "TCUFootball",
-            "athleticDept": "TCU_Athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gofrogs"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/iowa-st-tcu",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 big-12",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2954052",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Amon G. Carter Stadium, Fort Worth, TX",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/iowa-st-tcu",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/florida-mississippi-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/f/florida.70.png",
-      "name": "<a href='/schools/florida'>Florida</a>",
-      "nameRaw": "Florida",
-      "nameSeo": "florida",
-      "shortname": "FLA",
-      "color": "#003087",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "GatorZoneFB",
-            "athleticDept": "GatorZoneNews",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gators"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "18",
-      "iconURL": "/sites/default/files/images/logos/schools/m/mississippi-st.70.png",
-      "name": "<a href='/schools/mississippi-st'>Mississippi St.</a>",
-      "nameRaw": "Mississippi St.",
-      "nameSeo": "mississippi-st",
-      "shortname": "MISSST",
-      "color": "#6F2C3F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "mstateFB",
-            "athleticDept": "bulldognewsfeed",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#hailstate"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/florida-mississippi-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 southeastern",
-    "updatedTimestamp": "2018-08-22 13:17:29",
-    "lastUpdated": "1534958220",
-    "id": "2953081",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Davis Wade Stadium at Scott Field, Starkville, MS",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/florida-mississippi-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/tennessee-georgia/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/tennessee.70.png",
-      "name": "<a href='/schools/tennessee'>Tennessee</a>",
+      "description": "2-1",
       "nameRaw": "Tennessee",
-      "nameSeo": "tennessee",
-      "shortname": "TENN",
-      "color": "#FF8200",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "Vol_Football",
-            "athleticDept": "vol_sports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#vols"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "3",
-      "iconURL": "/sites/default/files/images/logos/schools/g/georgia.70.png",
-      "name": "<a href='/schools/georgia'>Georgia</a>",
+      "description": "3-0",
       "nameRaw": "Georgia",
-      "nameSeo": "georgia",
-      "shortname": "UGA",
-      "color": "#DA291C",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "WeRunThisState",
-            "athleticDept": "UGAAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#godawgs"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 2
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/tennessee-georgia",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 southeastern",
-    "updatedTimestamp": "2018-08-22 13:17:29",
-    "lastUpdated": "1534958220",
-    "id": "2954392",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Sanford Stadium, Athens, GA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/tennessee-georgia",
-    "highlightsUrl": ""
+    "id": "401012295",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/purdue-nebraska/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/p/purdue.70.png",
-      "name": "<a href='/schools/purdue'>Purdue</a>",
-      "nameRaw": "Purdue",
-      "nameSeo": "purdue",
-      "shortname": "PURDUE",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "sport": "BoilerFootball",
-            "athleticDept": "PurdueSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#boilermakers"
-          ]
-        }
-      }
+      "description": "2-1",
+      "nameRaw": "BYU",
+      "currentScore": "0",
+      "teamRank": 25
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/nebraska.70.png",
-      "name": "<a href='/schools/nebraska'>Nebraska</a>",
-      "nameRaw": "Nebraska",
-      "nameSeo": "nebraska",
-      "shortname": "NEB",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "athleticDept": "Huskers",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#huskers"
-          ]
-        }
-      }
+      "description": "2-1",
+      "nameRaw": "Washington",
+      "currentScore": "0",
+      "teamRank": 10
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/purdue-nebraska",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf big-ten",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2954488",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Memorial Stadium (Lincoln, NE), Lincoln , NE",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/purdue-nebraska",
-    "highlightsUrl": ""
+    "id": "401012755",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/coastal-caro-troy/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/c/coastal-caro.70.png",
-      "name": "<a href='/schools/coastal-caro'>Coastal Caro.</a>",
-      "nameRaw": "Coastal Caro.",
-      "nameSeo": "coastal-caro",
-      "shortname": "CO CAR",
-      "color": "#007377",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigSouthSports",
-            "athleticDept": "goccusports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
+      "description": "2-1",
+      "nameRaw": "Michigan",
+      "currentScore": "0",
+      "teamRank": 19
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/troy.70.png",
-      "name": "<a href='/schools/troy'>Troy</a>",
-      "nameRaw": "Troy",
-      "nameSeo": "troy",
-      "shortname": "TROY",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "TroyAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#trojans"
-          ]
-        }
-      }
+      "description": "1-2",
+      "nameRaw": "Northwestern",
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/coastal-caro-troy",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf sun-belt fbs-independent",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953138",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Veterans Memorial Stadium, Troy, AL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/coastal-caro-troy",
-    "highlightsUrl": ""
+    "id": "401012892",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/west-virginia-texas-tech/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "17",
-      "iconURL": "/sites/default/files/images/logos/schools/w/west-virginia.70.png",
-      "name": "<a href='/schools/west-virginia'>West Virginia</a>",
-      "nameRaw": "West Virginia",
-      "nameSeo": "west-virginia",
-      "shortname": "WVU",
-      "color": "#002855",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "WVUfootball",
-            "athleticDept": "WVUSportsBuzz",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#wvu"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/texas-tech.70.png",
-      "name": "<a href='/schools/texas-tech'>Texas Tech</a>",
-      "nameRaw": "Texas Tech",
-      "nameSeo": "texas-tech",
-      "shortname": "TXTECH",
-      "color": "#DA291C",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "athleticDept": "TechAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#redraiders"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/west-virginia-texas-tech",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 big-12",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953193",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Jones AT&T Stadium, Lubbock, TX",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/west-virginia-texas-tech",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/virginia-tech-duke/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "20",
-      "iconURL": "/sites/default/files/images/logos/schools/v/virginia-tech.70.png",
-      "name": "<a href='/schools/virginia-tech'>Virginia Tech</a>",
-      "nameRaw": "Virginia Tech",
-      "nameSeo": "virginia-tech",
-      "shortname": "VATECH",
-      "color": "#861F41",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "VT_Football",
-            "athleticDept": "hokiesports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#hokies"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/d/duke.70.png",
-      "name": "<a href='/schools/duke'>Duke</a>",
-      "nameRaw": "Duke",
-      "nameSeo": "duke",
-      "shortname": "DUKE",
-      "color": "#002D72",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "Duke_FB",
-            "athleticDept": "Duke_ATHLETICS",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#dukefootball"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/virginia-tech-duke",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953605",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Brooks Field at Wallace Wade Stadium, Durham, NC",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/virginia-tech-duke",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/la-lafayette-alabama/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/louisiana.70.png",
-      "name": "<a href='/schools/louisiana'>Louisiana</a>",
-      "nameRaw": "Louisiana",
-      "nameSeo": "la-lafayette",
-      "shortname": "ULL",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "sport": "ULRaginCajuns",
-            "athleticDept": "ULGameday",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ragincajuns"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "1",
-      "iconURL": "/sites/default/files/images/logos/schools/a/alabama.70.png",
-      "name": "<a href='/schools/alabama'>Alabama</a>",
-      "nameRaw": "Alabama",
-      "nameSeo": "alabama",
-      "shortname": "ALA",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "AlabamaFTBL",
-            "athleticDept": "UA_Athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#rolltide"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/la-lafayette-alabama",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 southeastern sun-belt",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953960",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Bryant-Denny Stadium, Tuscaloosa, AL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/la-lafayette-alabama",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/southern-california-arizona/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "15",
-      "iconURL": "/sites/default/files/images/logos/schools/s/southern-california.70.png",
-      "name": "<a href='/schools/southern-california'>USC</a>",
-      "nameRaw": "USC",
-      "nameSeo": "southern-california",
-      "shortname": "USC",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "athleticDept": "USC_Athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#usctrojans"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/arizona.70.png",
-      "name": "<a href='/schools/arizona'>Arizona</a>",
-      "nameRaw": "Arizona",
-      "nameSeo": "arizona",
-      "shortname": "ARIZ",
-      "color": "#BA0C2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "athleticDept": "AZATHLETICS",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#arizonawildcats"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/southern-california-arizona",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 pac-12",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2954381",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Arizona Stadium, Tucson, AZ",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/southern-california-arizona",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/ole-miss-lsu/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/o/ole-miss.70.png",
-      "name": "<a href='/schools/ole-miss'>Mississippi</a>",
-      "nameRaw": "Mississippi",
-      "nameSeo": "ole-miss",
-      "shortname": "MISS",
-      "color": "#00205B",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "OleMissFB",
-            "athleticDept": "OleMissNow",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#olemiss"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "25",
-      "iconURL": "/sites/default/files/images/logos/schools/l/lsu.70.png",
-      "name": "<a href='/schools/lsu'>LSU</a>",
-      "nameRaw": "LSU",
-      "nameSeo": "lsu",
-      "shortname": "LSU",
-      "color": "#582C83",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "LSUfball",
-            "athleticDept": "LSUsportsNEWS",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#geauxtigers"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/ole-miss-lsu",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 southeastern",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953929",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Tiger Stadium, Baton Rouge, LA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/ole-miss-lsu",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/arkansas-texas-am/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/arkansas.70.png",
-      "name": "<a href='/schools/arkansas'>Arkansas</a>",
-      "nameRaw": "Arkansas",
-      "nameSeo": "arkansas",
-      "shortname": "ARK",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "athleticDept": "ArkRazorbacks",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gohogs"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/texas-am.70.png",
-      "name": "<a href='/schools/texas-am'>Texas A&M</a>",
-      "nameRaw": "Texas A&M",
-      "nameSeo": "texas-am",
-      "shortname": "TX A&M",
-      "color": "#500000",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "AggieFootball",
-            "athleticDept": "AggieAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gigem"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/arkansas-texas-am",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf southeastern",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953072",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "AT&T Stadium, Arlington, TX",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/arkansas-texas-am",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/south-ala-appalachian-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/south-ala.70.png",
-      "name": "<a href='/schools/south-ala'>South Alabama</a>",
-      "nameRaw": "South Alabama",
-      "nameSeo": "south-ala",
-      "shortname": "S ALA",
-      "color": "#BF0D3E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "USAJaguarSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/appalachian-st.70.png",
-      "name": "<a href='/schools/appalachian-st'>Appalachian St.</a>",
-      "nameRaw": "Appalachian St.",
-      "nameSeo": "appalachian-st",
-      "shortname": "APP ST",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SoConSports",
-            "athleticDept": "GoASU",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/south-ala-appalachian-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953556",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Kidd Brewer Stadium, Boone, NC",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/south-ala-appalachian-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/south-carolina-kentucky/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/south-carolina.70.png",
-      "name": "<a href='/schools/south-carolina'>South Carolina</a>",
-      "nameRaw": "South Carolina",
-      "nameSeo": "south-carolina",
-      "shortname": "S CAR",
-      "color": "#862633",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "GamecockFB",
-            "athleticDept": "GamecocksOnline",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gamecocks"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/k/kentucky.70.png",
-      "name": "<a href='/schools/kentucky'>Kentucky</a>",
-      "nameRaw": "Kentucky",
-      "nameSeo": "kentucky",
-      "shortname": "UK",
-      "color": "#0032A0",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "UKFootball",
-            "athleticDept": "UKAthleticsNews",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ukwildcats"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/south-carolina-kentucky",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf southeastern",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953875",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Kroger Field, Lexington, KY",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/south-carolina-kentucky",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/southern-miss-auburn/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/southern-miss.70.png",
-      "name": "<a href='/schools/southern-miss'>Southern Miss</a>",
-      "nameRaw": "Southern Miss",
-      "nameSeo": "southern-miss",
-      "shortname": "S MISS",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "athleticDept": "USMGoldenEagles",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#goldeneagles"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "9",
-      "iconURL": "/sites/default/files/images/logos/schools/a/auburn.70.png",
-      "name": "<a href='/schools/auburn'>Auburn</a>",
-      "nameRaw": "Auburn",
-      "nameSeo": "auburn",
-      "shortname": "AUBURN",
-      "color": "#0C2340",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "FootballAU",
-            "athleticDept": "AUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gotigers"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/southern-miss-auburn",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 southeastern conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953937",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Jordan-Hare Stadium, Auburn, AL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/southern-miss-auburn",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/baylor-oklahoma/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/b/baylor.70.png",
-      "name": "<a href='/schools/baylor'>Baylor</a>",
-      "nameRaw": "Baylor",
-      "nameSeo": "baylor",
-      "shortname": "BAYLOR",
-      "color": "#1D3C34",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "BUFootball",
-            "athleticDept": "BaylorAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#baylor"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "7",
-      "iconURL": "/sites/default/files/images/logos/schools/o/oklahoma.70.png",
-      "name": "<a href='/schools/oklahoma'>Oklahoma</a>",
-      "nameRaw": "Oklahoma",
-      "nameSeo": "oklahoma",
-      "shortname": "OKLA",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "OU_Football",
-            "athleticDept": "SoonerSportscom",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#sooners"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/baylor-oklahoma",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 big-12",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953563",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Gaylord Family Oklahoma Memorial Stadium, Norman, OK",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/baylor-oklahoma",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/toledo-fresno-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/toledo.70.png",
-      "name": "<a href='/schools/toledo'>Toledo</a>",
-      "nameRaw": "Toledo",
-      "nameSeo": "toledo",
-      "shortname": "TOLEDO",
-      "color": "#00205B",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "UTRocketsDotCom",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gorockets"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/f/fresno-st.70.png",
-      "name": "<a href='/schools/fresno-st'>Fresno State</a>",
-      "nameRaw": "Fresno State",
-      "nameSeo": "fresno-st",
-      "shortname": "FRESNO",
-      "color": "#D50032",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "athleticDept": "FSAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#fresnostate"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/toledo-fresno-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mountain-west mid-american",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953728",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Bulldog Stadium at Jim Sweeney Field, Fresno, CA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/toledo-fresno-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/army-buffalo/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/army.70.png",
-      "name": "<a href='/schools/army'>Army West Point</a>",
-      "nameRaw": "Army West Point",
-      "nameSeo": "army",
-      "shortname": "ARMY",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "sport": "TheArmyTeam",
-            "athleticDept": "ArmyAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#armyfootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/b/buffalo.70.png",
-      "name": "<a href='/schools/buffalo'>Buffalo</a>",
-      "nameRaw": "Buffalo",
-      "nameSeo": "buffalo",
-      "shortname": "BUFF",
-      "color": "#0057B8",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "UBsportsinfo",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#UBuffalo"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/army-buffalo",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mid-american fbs-independent",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2954330",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "UB Stadium, Buffalo, NY",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/army-buffalo",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/cincinnati-uconn/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/c/cincinnati.70.png",
-      "name": "<a href='/schools/cincinnati'>Cincinnati</a>",
-      "nameRaw": "Cincinnati",
-      "nameSeo": "cincinnati",
-      "shortname": "CINCY",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "athleticDept": "GoBEARCATS",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#bearcats"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/u/uconn.70.png",
-      "name": "<a href='/schools/uconn'>UConn</a>",
-      "nameRaw": "UConn",
-      "nameSeo": "uconn",
-      "shortname": "UCONN",
-      "color": "#0C2340",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "sport": "UConnFBSID",
-            "athleticDept": "UConnHuskies",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#uconnfootball"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/cincinnati-uconn",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf american-athletic",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953642",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Pratt and Whitney Stadium at Rentschler Field, East Hartford, CT",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/cincinnati-uconn",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/florida-st-louisville/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "19",
-      "iconURL": "/sites/default/files/images/logos/schools/f/florida-st.70.png",
-      "name": "<a href='/schools/florida-st'>Florida State</a>",
-      "nameRaw": "Florida State",
-      "nameSeo": "florida-st",
-      "shortname": "FSU",
-      "color": "#782F40",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "FSU_Football",
-            "athleticDept": "Seminoles_com",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#noles"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/louisville.70.png",
-      "name": "<a href='/schools/louisville'>Louisville</a>",
-      "nameRaw": "Louisville",
-      "nameSeo": "louisville",
-      "shortname": "LOUIS",
-      "color": "#BA0C2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "sport": "UofLFootball",
-            "athleticDept": "UofLsports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#cardstrong"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/florida-st-louisville",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 atlantic-coast",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2954152",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Cardinal Stadium, Louisville, KY",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/florida-st-louisville",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/nevada-air-force/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/nevada.70.png",
-      "name": "<a href='/schools/nevada'>Nevada</a>",
-      "nameRaw": "Nevada",
-      "nameSeo": "nevada",
-      "shortname": "NEVADA",
-      "color": "#041E42",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "sport": "NevadaFootball",
-            "athleticDept": "NevadaWolfPack",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#battleborn"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/air-force.70.png",
-      "name": "<a href='/schools/air-force'>Air Force</a>",
-      "nameRaw": "Air Force",
-      "nameSeo": "air-force",
-      "shortname": "AIRFOR",
-      "color": "#0032A0",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "athleticDept": "AF_Falcons",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#AFFalcons"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/nevada-air-force",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mountain-west",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2954160",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Falcon Stadium, U.S. Air Force Academy, CO",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/nevada-air-force",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/la-monroe-georgia-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/la-monroe.70.png",
-      "name": "<a href='/schools/la-monroe'>La.-Monroe</a>",
-      "nameRaw": "La.-Monroe",
-      "nameSeo": "la-monroe",
-      "shortname": "LA MON",
-      "color": "#6F2C3F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "ULMWarhawks",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#warhawks"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/g/georgia-st.70.png",
-      "name": "<a href='/schools/georgia-st'>Georgia State</a>",
-      "nameRaw": "Georgia State",
-      "nameSeo": "georgia-st",
-      "shortname": "GA ST",
-      "color": "#0032A0",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_CAAFootball",
-            "athleticDept": "GSUPanthers",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/la-monroe-georgia-st",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2018-08-22 13:17:26",
-    "lastUpdated": "1534958220",
-    "id": "2953073",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Georgia State Stadium, Atlanta, GA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/la-monroe-georgia-st",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/old-dominion-east-carolina/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/o/old-dominion.70.png",
-      "name": "<a href='/schools/old-dominion'>Old Dominion</a>",
-      "nameRaw": "Old Dominion",
-      "nameSeo": "old-dominion",
-      "shortname": "ODU",
-      "color": "#003057",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_CAAFootball",
-            "sport": "ODUFootball",
-            "athleticDept": "ODUSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/e/east-carolina.70.png",
-      "name": "<a href='/schools/east-carolina'>East Carolina</a>",
-      "nameRaw": "East Carolina",
-      "nameSeo": "east-carolina",
-      "shortname": "E CAR",
-      "color": "#582C83",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "athleticDept": "ECUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#eastcarolina"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/old-dominion-east-carolina",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf american-athletic conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953162",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Bagwell Field at Dowdy-Ficklen Stadium, Greenville, NC",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/old-dominion-east-carolina",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/oregon-california/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "24",
-      "iconURL": "/sites/default/files/images/logos/schools/o/oregon.70.png",
-      "name": "<a href='/schools/oregon'>Oregon</a>",
+      "description": "3-0",
       "nameRaw": "Oregon",
-      "nameSeo": "oregon",
-      "shortname": "OREGN",
-      "color": "#173F35",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "athleticDept": "GoDucks",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ducksfootball"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 20
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/c/california.70.png",
-      "name": "<a href='/schools/california'>California</a>",
+      "description": "3-0",
       "nameRaw": "California",
-      "nameSeo": "california",
-      "shortname": "CAL",
-      "color": "#041E42",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "athleticDept": "CalAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#calbears"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/oregon-california",
-    "startTime": "TBA",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 pac-12",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953478",
-    "startTimeEpoch": "1538240400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "California Memorial Stadium, Berkeley, CA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/oregon-california",
-    "highlightsUrl": ""
+    "id": "401012757",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/western-mich-miami-oh/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/w/western-mich.70.png",
-      "name": "<a href='/schools/western-mich'>Western Mich.</a>",
-      "nameRaw": "Western Mich.",
-      "nameSeo": "western-mich",
-      "shortname": "W MICH",
-      "color": "#693F23",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#WMUBroncos"
-          ]
-        }
-      }
+      "description": "0-3",
+      "nameRaw": "Central Michigan",
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/m/miami-oh.70.png",
-      "name": "<a href='/schools/miami-oh'>Miami (Ohio)</a>",
-      "nameRaw": "Miami (Ohio)",
-      "nameSeo": "miami-oh",
-      "shortname": "MIA OH",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "MiamiRedHawks",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#MURedhawks"
-          ]
-        }
-      }
+      "description": "1-1",
+      "nameRaw": "Michigan State",
+      "currentScore": "0",
+      "teamRank": 24
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/western-mich-miami-oh",
-    "startTime": "3:30 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mid-american",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953821",
-    "startTimeEpoch": "1538249400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Fred C. Yager Stadium, Oxford, OH",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/western-mich-miami-oh",
-    "highlightsUrl": ""
+    "id": "401012881",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/liberty-new-mexico/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/liberty.70.png",
-      "name": "<a href='/schools/liberty'>Liberty</a>",
+      "description": "1-2",
+      "nameRaw": "Oregon State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Arizona State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401012754",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Utah",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Washington State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401012756",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
+  },
+  {
+    "away": {
+      "description": "3-0",
+      "nameRaw": "Indiana",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-2",
+      "nameRaw": "Rutgers",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401012824",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
+  },
+  {
+    "away": {
+      "description": "0-3",
+      "nameRaw": "Purdue",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "0-2",
+      "nameRaw": "Nebraska",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013338",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T04:00Z"
+  },
+  {
+    "away": {
+      "description": "1-1",
+      "nameRaw": "Louisiana",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Alabama",
+      "currentScore": "0",
+      "teamRank": 1
+    },
+    "id": "401012292",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "3-0",
+      "nameRaw": "Syracuse",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Clemson",
+      "currentScore": "0",
+      "teamRank": 3
+    },
+    "id": "401013131",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "2-0",
+      "nameRaw": "West Virginia",
+      "currentScore": "0",
+      "teamRank": 12
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Texas Tech",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013325",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "3-0",
+      "nameRaw": "Oklahoma State",
+      "currentScore": "0",
+      "teamRank": 15
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Kansas",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013050",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Arkansas",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Texas A&M",
+      "currentScore": "0",
+      "teamRank": 22
+    },
+    "id": "401012293",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Temple",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Boston College",
+      "currentScore": "0",
+      "teamRank": 23
+    },
+    "id": "401013130",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Army",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Buffalo",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013369",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Bowling Green",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-2",
+      "nameRaw": "Georgia Tech",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013134",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Virginia",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-0",
+      "nameRaw": "NC State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013135",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T16:20Z"
+  },
+  {
+    "away": {
+      "description": "1-3",
+      "nameRaw": "UMass",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-1",
+      "nameRaw": "Ohio",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013361",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T18:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "UL Monroe",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-2",
+      "nameRaw": "Georgia State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401021668",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T18:00Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Kent State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-2",
+      "nameRaw": "Ball State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401020687",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Baylor",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Oklahoma",
+      "currentScore": "0",
+      "teamRank": 5
+    },
+    "id": "401013030",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Pittsburgh",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-0",
+      "nameRaw": "UCF",
+      "currentScore": "0",
+      "teamRank": 16
+    },
+    "id": "401013136",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Texas",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Kansas State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013060",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "3-0",
+      "nameRaw": "Cincinnati",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-2",
+      "nameRaw": "UConn",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401019497",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "0-3",
+      "nameRaw": "Old Dominion",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-1",
+      "nameRaw": "East Carolina",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401015006",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Coastal Carolina",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Troy",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401021667",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Western Michigan",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "0-3",
+      "nameRaw": "Miami (OH)",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401020750",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "South Alabama",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-1",
+      "nameRaw": "Appalachian State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401021665",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Rice",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Wake Forest",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013137",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Florida State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Louisville",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401013133",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T19:30Z"
+  },
+  {
+    "away": {
+      "description": "1-1",
+      "nameRaw": "Southern Mississippi",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Auburn",
+      "currentScore": "0",
+      "teamRank": 9
+    },
+    "id": "401012294",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T20:00Z"
+  },
+  {
+    "away": {
+      "description": "1-0",
+      "nameRaw": "Tennessee State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Vanderbilt",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401012299",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T20:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Nevada",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-1",
+      "nameRaw": "Air Force",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401022525",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T20:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Florida",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Mississippi State",
+      "currentScore": "0",
+      "teamRank": 14
+    },
+    "id": "401012298",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T22:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Arkansas State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Georgia Southern",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401021666",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T22:00Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Northern Illinois",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Eastern Michigan",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401020688",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T22:00Z"
+  },
+  {
+    "away": {
+      "description": "1-1",
       "nameRaw": "Liberty",
-      "nameSeo": "liberty",
-      "shortname": "LIBRTY",
-      "color": "#A6192E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigSouthSports",
-            "sport": "libertyfootball",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/new-mexico.70.png",
-      "name": "<a href='/schools/new-mexico'>New Mexico</a>",
+      "description": "2-1",
       "nameRaw": "New Mexico",
-      "nameSeo": "new-mexico",
-      "shortname": "N MEX",
-      "color": "#BA0C2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "athleticDept": "UNMLOBOS",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#lobos"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/liberty-new-mexico",
-    "startTime": "6:00 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mountain-west big-south",
-    "updatedTimestamp": "2018-08-22 13:17:37",
-    "lastUpdated": "1534958220",
-    "id": "2953124",
-    "startTimeEpoch": "1538258400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Dreamstyle Stadium, Albuquerque, NM",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/liberty-new-mexico",
-    "highlightsUrl": ""
+    "id": "401013451",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T22:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/northern-ill-eastern-mich/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/northern-ill.70.png",
-      "name": "<a href='/schools/northern-ill'>Northern Ill.</a>",
-      "nameRaw": "Northern Ill.",
-      "nameSeo": "northern-ill",
-      "shortname": "NIU",
-      "color": "#BA0C2F",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "NIUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#NIUfootball"
-          ]
-        }
-      }
+      "description": "2-0",
+      "nameRaw": "Virginia Tech",
+      "currentScore": "0",
+      "teamRank": 13
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/e/eastern-mich.70.png",
-      "name": "<a href='/schools/eastern-mich'>Eastern Mich.</a>",
-      "nameRaw": "Eastern Mich.",
-      "nameSeo": "eastern-mich",
-      "shortname": "E MICH",
-      "color": "#046A38",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "emuathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#goeagles"
-          ]
-        }
-      }
+      "description": "3-0",
+      "nameRaw": "Duke",
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/northern-ill-eastern-mich",
-    "startTime": "6:00 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mid-american",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953798",
-    "startTimeEpoch": "1538258400",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Rynearson Stadium, Ypsilanti, MI",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/northern-ill-eastern-mich",
-    "highlightsUrl": ""
+    "id": "401013132",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/boise-st-wyoming/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "22",
-      "iconURL": "/sites/default/files/images/logos/schools/b/boise-st.70.png",
-      "name": "<a href='/schools/boise-st'>Boise State</a>",
-      "nameRaw": "Boise State",
-      "nameSeo": "boise-st",
-      "shortname": "BOISE",
-      "color": "#0032A0",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "sport": "BroncoSportsFB",
-            "athleticDept": "BroncoSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#boisestate"
-          ]
-        }
-      }
+      "description": "0-2",
+      "nameRaw": "Iowa State",
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/w/wyoming.70.png",
-      "name": "<a href='/schools/wyoming'>Wyoming</a>",
-      "nameRaw": "Wyoming",
-      "nameSeo": "wyoming",
-      "shortname": "WYO",
-      "color": "#4E3629",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "athleticDept": "wyoathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#cowboys"
-          ]
-        }
-      }
+      "description": "2-1",
+      "nameRaw": "TCU",
+      "currentScore": "0",
+      "teamRank": 17
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/boise-st-wyoming",
-    "startTime": "7:00 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 mountain-west",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953360",
-    "startTimeEpoch": "1538262000",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Jonah Field at War Memorial Stadium, Laramie, WY",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/boise-st-wyoming",
-    "highlightsUrl": ""
+    "id": "401013041",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/hawaii-san-jose-st/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/h/hawaii.70.png",
-      "name": "<a href='/schools/hawaii'>Hawaii</a>",
-      "nameRaw": "Hawaii",
-      "nameSeo": "hawaii",
-      "shortname": "HAWAII",
-      "color": "#154734",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "sport": "HawaiiFootball",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#UHFB"
-          ]
-        }
-      }
+      "description": "2-1",
+      "nameRaw": "Charlotte",
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/san-jose-st.70.png",
-      "name": "<a href='/schools/san-jose-st'>San Jose State</a>",
-      "nameRaw": "San Jose State",
-      "nameSeo": "san-jose-st",
-      "shortname": "SJSU",
-      "color": "#0032A0",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "WACSports",
-            "athleticDept": "SJSUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#sanjosestate"
-          ]
-        }
-      }
+      "description": "2-1",
+      "nameRaw": "UAB",
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/hawaii-san-jose-st",
-    "startTime": "7:00 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf mountain-west",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953090",
-    "startTimeEpoch": "1538262000",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "CEFCU Stadium, San Jose, CA",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/hawaii-san-jose-st",
-    "highlightsUrl": ""
+    "id": "401015001",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/utep-utsa/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/u/utep.70.png",
-      "name": "<a href='/schools/utep'>UTEP</a>",
-      "nameRaw": "UTEP",
-      "nameSeo": "utep",
-      "shortname": "UTEP",
-      "color": "#041E42",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "athleticDept": "UTEPAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#minerstrong"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/u/utsa.70.png",
-      "name": "<a href='/schools/utsa'>UTSA</a>",
-      "nameRaw": "UTSA",
-      "nameSeo": "utsa",
-      "shortname": "UTSA",
-      "color": "#0C2340",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "sport": "utsaftbl",
-            "athleticDept": "utsaathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/utep-utsa",
-    "startTime": "7:00 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953441",
-    "startTimeEpoch": "1538262000",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Alamodome, San Antonio, TX",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/utep-utsa",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/fla-atlantic-middle-tenn/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/f/fla-atlantic.70.png",
-      "name": "<a href='/schools/fla-atlantic'>Florida Atlantic</a>",
-      "nameRaw": "Florida Atlantic",
-      "nameSeo": "fla-atlantic",
-      "shortname": "FAU",
-      "color": "#002855",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "FAUOwlAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#faufootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/m/middle-tenn.70.png",
-      "name": "<a href='/schools/middle-tenn'>Middle Tenn.</a>",
-      "nameRaw": "Middle Tenn.",
-      "nameSeo": "middle-tenn",
-      "shortname": "MIDTEN",
-      "color": "#005EB8",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "MTAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#goBlueRaiders"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/fla-atlantic-middle-tenn",
-    "startTime": "7:00 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953106",
-    "startTimeEpoch": "1538262000",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Johnny Red Floyd Stadium, Murfreesboro, TN",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/fla-atlantic-middle-tenn",
-    "highlightsUrl": ""
-  },
-  {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/houston-baptist-smu/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/h/houston-baptist.70.png",
-      "name": "<a href='/schools/houston-baptist'>Houston Baptist</a>",
+      "description": "1-2",
       "nameRaw": "Houston Baptist",
-      "nameSeo": "houston-baptist",
-      "shortname": "HOUBAP",
-      "color": "#003087",
-      "social": {}
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/smu.70.png",
-      "name": "<a href='/schools/smu'>SMU</a>",
+      "description": "0-3",
       "nameRaw": "SMU",
-      "nameSeo": "smu",
-      "shortname": "SMU",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "sport": "SMU_Football",
-            "athleticDept": "SMUMustangs",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#SMU"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/houston-baptist-smu",
-    "startTime": "7:00 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf american-athletic southland",
-    "updatedTimestamp": "2018-08-22 13:17:37",
-    "lastUpdated": "1534958220",
-    "id": "2953331",
-    "startTimeEpoch": "1538262000",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Gerald J. Ford Stadium, Dallas, TX",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/houston-baptist-smu",
-    "highlightsUrl": ""
+    "id": "401019498",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/stanford-notre-dame/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "13",
-      "iconURL": "/sites/default/files/images/logos/schools/s/stanford.70.png",
-      "name": "<a href='/schools/stanford'>Stanford</a>",
+      "description": "0-3",
+      "nameRaw": "UTEP",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "0-3",
+      "nameRaw": "UTSA",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401015007",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Florida Atlantic",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-2",
+      "nameRaw": "Middle Tennessee",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401015003",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Boise State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-2",
+      "nameRaw": "Wyoming",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401022526",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
+  },
+  {
+    "away": {
+      "description": "3-1",
+      "nameRaw": "Hawai'i",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "0-3",
+      "nameRaw": "San Jose State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401022527",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:00Z"
+  },
+  {
+    "away": {
+      "description": "3-0",
+      "nameRaw": "Ohio State",
+      "currentScore": "0",
+      "teamRank": 4
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "Penn State",
+      "currentScore": "0",
+      "teamRank": 10
+    },
+    "id": "401013347",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:30Z"
+  },
+  {
+    "away": {
+      "description": "3-0",
       "nameRaw": "Stanford",
-      "nameSeo": "stanford",
-      "shortname": "STAN",
-      "color": "#9D2235",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "sport": "StanfordFball",
-            "athleticDept": "suathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#stanfordfootball"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 7
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "12",
-      "iconURL": "/sites/default/files/images/logos/schools/n/notre-dame.70.png",
-      "name": "<a href='/schools/notre-dame'>Notre Dame</a>",
+      "description": "3-0",
       "nameRaw": "Notre Dame",
-      "nameSeo": "notre-dame",
-      "shortname": "N DAME",
-      "color": "#0C2340",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "athleticDept": "FightingIrish",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#fightingirish"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 8
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/stanford-notre-dame",
-    "startTime": "7:30 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf top-25 fbs-independent pac-12",
-    "updatedTimestamp": "2018-08-22 13:17:28",
-    "lastUpdated": "1534958220",
-    "id": "2953303",
-    "startTimeEpoch": "1538263800",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Notre Dame Stadium, South Bend, IN",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/stanford-notre-dame",
-    "highlightsUrl": ""
+    "id": "401012758",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:30Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/louisiana-tech-north-texas/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/louisiana-tech.70.png",
-      "name": "<a href='/schools/louisiana-tech'>Louisiana Tech</a>",
+      "description": "2-0",
       "nameRaw": "Louisiana Tech",
-      "nameSeo": "louisiana-tech",
-      "shortname": "LATECH",
-      "color": "#003087",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "WACSports",
-            "sport": "LATechFB",
-            "athleticDept": "LATechSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#latech"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/north-texas.70.png",
-      "name": "<a href='/schools/north-texas'>North Texas</a>",
+      "description": "3-0",
       "nameRaw": "North Texas",
-      "nameSeo": "north-texas",
-      "shortname": "NO TEX",
-      "color": "#007A33",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "sport": "MeanGreenFB",
-            "athleticDept": "MeanGreenSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#meangreen"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/louisiana-tech-north-texas",
-    "startTime": "7:30 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:29",
-    "lastUpdated": "1534958220",
-    "id": "2953931",
-    "startTimeEpoch": "1538263800",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Apogee Stadium, Denton, TX",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/louisiana-tech-north-texas",
-    "highlightsUrl": ""
+    "id": "401015004",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:30Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/marshall-western-ky/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/m/marshall.70.png",
-      "name": "<a href='/schools/marshall'>Marshall</a>",
+      "description": "2-0",
       "nameRaw": "Marshall",
-      "nameSeo": "marshall",
-      "shortname": "MARSH",
-      "color": "#00B140",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "ConferenceUSA1",
-            "athleticDept": "Herd_Zone",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#marshallu"
-          ]
-        }
-      }
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/w/western-ky.70.png",
-      "name": "<a href='/schools/western-ky'>Western Ky.</a>",
-      "nameRaw": "Western Ky.",
-      "nameSeo": "western-ky",
-      "shortname": "W KY",
-      "color": "#C8102E",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "sport": "WKUFootball",
-            "athleticDept": "WKUSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#wku"
-          ]
-        }
-      }
+      "description": "0-3",
+      "nameRaw": "Western Kentucky",
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/marshall-western-ky",
-    "startTime": "7:30 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf conference-usa",
-    "updatedTimestamp": "2018-08-22 13:17:27",
-    "lastUpdated": "1534958220",
-    "id": "2953574",
-    "startTimeEpoch": "1538263800",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Houchens Industries-L.T. Smith Stadium, Bowling Green, KY",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/marshall-western-ky",
-    "highlightsUrl": ""
+    "id": "401015005",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:30Z"
   },
   {
-    "alerts": {},
-    "status": {},
-    "tabsArray": [
-      []
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2018/09/29/ark-pine-bluff-fiu/tabs.json",
     "away": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/ark-pine-bluff.70.png",
-      "name": "<a href='/schools/ark-pine-bluff'>Ark.-Pine Bluff</a>",
-      "nameRaw": "Ark.-Pine Bluff",
-      "nameSeo": "ark-pine-bluff",
-      "shortname": "ARK PB",
-      "color": "#010101",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theswac",
-            "athleticDept": "uapbathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
+      "description": "1-1",
+      "nameRaw": "South Carolina",
+      "currentScore": "0",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [],
-      "currentScore": "",
-      "description": "",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/f/fiu.70.png",
-      "name": "<a href='/schools/fiu'>FIU</a>",
-      "nameRaw": "FIU",
-      "nameSeo": "fiu",
-      "shortname": "FIU",
-      "color": "#041E42",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "sport": "FIUFootball",
-            "athleticDept": "FIUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#FIUFootball"
-          ]
-        }
-      }
+      "description": "3-0",
+      "nameRaw": "Kentucky",
+      "currentScore": "0",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2018/09/29/ark-pine-bluff-fiu",
-    "startTime": "7:30 PM ET",
-    "startDateDisplay": "Sep. 29",
-    "startDate": "2018-09-29",
-    "gameState": "pre",
-    "conference": "all-conf conference-usa southwestern",
-    "updatedTimestamp": "2018-08-22 13:17:37",
-    "lastUpdated": "1534958220",
-    "id": "2953453",
-    "startTimeEpoch": "1538263800",
-    "currentPeriod": "",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Riccardo Silva Stadium, Miami, FL",
-    "contestName": "",
-    "url": "/game/football/fbs/2018/09/29/ark-pine-bluff-fiu",
-    "highlightsUrl": ""
+    "id": "401012296",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:30Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "Arkansas-Pine Bluff",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Florida Intl",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401015002",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-29T23:30Z"
+  },
+  {
+    "away": {
+      "description": "2-1",
+      "nameRaw": "Ole Miss",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "3-0",
+      "nameRaw": "LSU",
+      "currentScore": "0",
+      "teamRank": 6
+    },
+    "id": "401012297",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-30T01:00Z"
+  },
+  {
+    "away": {
+      "description": "1-2",
+      "nameRaw": "USC",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "1-2",
+      "nameRaw": "Arizona",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401012753",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-30T02:30Z"
+  },
+  {
+    "away": {
+      "description": "1-1",
+      "nameRaw": "Toledo",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-1",
+      "nameRaw": "Fresno State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": "401020689",
+    "gameState": "Scheduled",
+    "startDate": "2018-09-30T02:30Z"
   }
 ]

@@ -1,131 +1,19 @@
 [
   {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2017-12-09T18:42:01.974-05:00"
-    },
-    "status": {
-      "yardline": "ARM31",
-      "distance": "10",
-      "down": "1",
-      "possession": "Army West Point"
-    },
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2017/12/09/army-navy/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2017/12/09/army-navy/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2017/12/09/army-navy/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2017/12/09/army-navy/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2017/12/09/army-navy/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2017/12/09/army-navy/tabs.json",
     "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "7",
-        "0",
-        "0",
-        "7"
-      ],
-      "currentScore": "14",
       "description": "9-3",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/army.70.png",
-      "name": "<a href='/schools/army'>Army West Point</a>",
-      "nameRaw": "Army West Point",
-      "nameSeo": "army",
-      "shortname": "ARMY",
-      "color": "#ccb284",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "sport": "TheArmyTeam",
-            "athleticDept": "ArmyAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#armyfootball"
-          ]
-        }
-      }
+      "nameRaw": "Army",
+      "currentScore": "14",
+      "teamRank": 99
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "3",
-        "7",
-        "3",
-        "0"
-      ],
-      "currentScore": "13",
       "description": "6-6",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/navy.70.png",
-      "name": "<a href='/schools/navy'>Navy</a>",
       "nameRaw": "Navy",
-      "nameSeo": "navy",
-      "shortname": "NAVY",
-      "color": "#333366",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "sport": "USNAFootball",
-            "athleticDept": "NavyAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#navyfootball"
-          ]
-        }
-      }
+      "currentScore": "13",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2017/12/09/army-navy",
-    "highlightsUrl": "",
-    "startTime": "3:00 PM ET",
-    "startDateDisplay": "Dec. 9",
-    "startDate": "2017-12-09",
-    "gameState": "final",
-    "conference": "all-conf american-athletic fbs-independent",
-    "updatedTimestamp": "2017-12-10 00:05:34",
-    "lastUpdated": "1512882300",
-    "id": "2541914",
-    "startTimeEpoch": "1512849600",
-    "currentPeriod": "",
-    "finalMessage": "Final",
-    "timeclock": "",
-    "network_logo": "",
-    "location": "Lincoln Financial Field, Philadelphia, PA",
-    "contestName": "",
-    "url": "/game/football/fbs/2017/12/09/army-navy"
+    "id": "400934572",
+    "gameState": "Final",
+    "startDate": "2017-12-09T20:00Z"
   }
 ]

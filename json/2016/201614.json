@@ -1,2072 +1,274 @@
 [
   {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-02T23:49:13.005-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/western-mich-ohio/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/western-mich-ohio/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/western-mich-ohio/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/western-mich-ohio/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/western-mich-ohio/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/02/western-mich-ohio/tabs.json",
     "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "6",
-        "17",
-        "3",
-        "3"
-      ],
-      "currentScore": "29",
-      "description": "13-0",
-      "teamRank": "17",
-      "iconURL": "/sites/default/files/images/logos/schools/w/western-mich.70.png",
-      "name": "<a href='/schools/western-mich'>Western Mich.</a>",
-      "nameRaw": "Western Mich.",
-      "nameSeo": "western-mich",
-      "shortname": "W MICH",
-      "color": "#874b00",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#WMUBroncos"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "0",
-        "7",
-        "13",
-        "3"
-      ],
-      "currentScore": "23",
-      "description": "8-5",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/o/ohio.70.png",
-      "name": "<a href='/schools/ohio'>Ohio</a>",
-      "nameRaw": "Ohio",
-      "nameSeo": "ohio",
-      "shortname": "OHIO",
-      "color": "#336633",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "MACSports",
-            "athleticDept": "OhioBobcats",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ohiobobcats"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/02/western-mich-ohio",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/02/western-mich-ohio",
-    "contestName": "",
-    "location": "Ford Field, Detroit, MI",
-    "startTime": "7:00 PM ET",
-    "startDateDisplay": "Dec. 2",
-    "startDate": "2016-12-02",
-    "gameState": "final",
-    "conference": "all-conf top-25 mid-american",
-    "updatedTimestamp": "2016-12-02 23:49:13",
-    "lastUpdated": "1480740540",
-    "id": "2316385",
-    "startTimeEpoch": "1480723200",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "3RD AND 13",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T02:23:04.858-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/colorado-washington/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/colorado-washington/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/colorado-washington/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/colorado-washington/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/02/colorado-washington/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/02/colorado-washington/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "7",
-        "0",
-        "3",
-        "0"
-      ],
-      "currentScore": "10",
       "description": "10-3",
-      "teamRank": "8",
-      "iconURL": "/sites/default/files/images/logos/schools/c/colorado.70.png",
-      "name": "<a href='/schools/colorado'>Colorado</a>",
       "nameRaw": "Colorado",
-      "nameSeo": "colorado",
-      "shortname": "COLO",
-      "color": "#CFB87C",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "athleticDept": "cubuffs",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#CUFootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "7",
-        "7",
-        "17",
-        "10"
-      ],
-      "currentScore": "41",
-      "description": "12-1",
-      "teamRank": "4",
-      "iconURL": "/sites/default/files/images/logos/schools/w/washington.70.png",
-      "name": "<a href='/schools/washington'>Washington</a>",
-      "nameRaw": "Washington",
-      "nameSeo": "washington",
-      "shortname": "WASH",
-      "color": "#39275B",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "pac12",
-            "sport": "UW_Football",
-            "athleticDept": "UWAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#huskyfootball"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/02/colorado-washington",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/02/colorado-washington",
-    "contestName": "",
-    "location": "Levi's Stadium, Santa Clara, CA",
-    "startTime": "9:00 PM ET",
-    "startDateDisplay": "Dec. 2",
-    "startDate": "2016-12-02",
-    "gameState": "final",
-    "conference": "all-conf top-25 pac-12",
-    "updatedTimestamp": "2016-12-03 02:23:04",
-    "lastUpdated": "1480749780",
-    "id": "2317264",
-    "startTimeEpoch": "1480730400",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "4TH AND 15",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T15:43:07.027-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/troy-ga-southern/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/troy-ga-southern/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/troy-ga-southern/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/troy-ga-southern/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/troy-ga-southern/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/troy-ga-southern/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "3",
-        "7",
-        "7",
-        "7"
-      ],
-      "currentScore": "24",
-      "description": "9-2",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/troy.70.png",
-      "name": "<a href='/schools/troy'>Troy</a>",
-      "nameRaw": "Troy",
-      "nameSeo": "troy",
-      "shortname": "TROY",
-      "color": "#961125",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "TroyAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#trojans"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "0",
-        "7",
-        "14",
-        "7"
-      ],
-      "currentScore": "28",
-      "description": "4-7",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/g/ga-southern.70.png",
-      "name": "<a href='/schools/ga-southern'>Ga. Southern</a>",
-      "nameRaw": "Ga. Southern",
-      "nameSeo": "ga-southern",
-      "shortname": "GA SOU",
-      "color": "#000066",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SoConSports",
-            "athleticDept": "GSAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/troy-ga-southern",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/troy-ga-southern",
-    "contestName": "",
-    "location": "Allen E. Paulson Stadium, Statesboro, GA",
-    "startTime": "12:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2016-12-03 15:43:07",
-    "lastUpdated": "1480797780",
-    "id": "2197503",
-    "startTimeEpoch": "1480784400",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "1ST AND 10",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T15:49:06.99-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/temple-navy/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/temple-navy/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/temple-navy/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/temple-navy/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/temple-navy/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/temple-navy/tabs.json",
-    "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "14",
-        "10",
-        "0",
-        "10"
-      ],
-      "currentScore": "34",
-      "description": "9-3",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/temple.70.png",
-      "name": "<a href='/schools/temple'>Temple</a>",
-      "nameRaw": "Temple",
-      "nameSeo": "temple",
-      "shortname": "TEMPLE",
-      "color": "#9e1b32",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "BigEastFB",
-            "athleticDept": "Owlsports_com",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#templefootball"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "0",
-        "3",
-        "7",
-        "0"
-      ],
       "currentScore": "10",
-      "description": "9-2",
-      "teamRank": "19",
-      "iconURL": "/sites/default/files/images/logos/schools/n/navy.70.png",
-      "name": "<a href='/schools/navy'>Navy</a>",
-      "nameRaw": "Navy",
-      "nameSeo": "navy",
-      "shortname": "NAVY",
-      "color": "#333366",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "sport": "USNAFootball",
-            "athleticDept": "NavyAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#navyfootball"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/temple-navy",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/temple-navy",
-    "contestName": "",
-    "location": "Navy-Marine Corps Memorial Stadium, Annapolis, MD",
-    "startTime": "12:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf top-25 american-athletic",
-    "updatedTimestamp": "2016-12-03 15:49:06",
-    "lastUpdated": "1480798140",
-    "id": "2317261",
-    "startTimeEpoch": "1480784400",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "2ND AND 12",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T16:21:13.917-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/louisiana-tech-western-ky/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/louisiana-tech-western-ky/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/louisiana-tech-western-ky/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/louisiana-tech-western-ky/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/louisiana-tech-western-ky/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/louisiana-tech-western-ky/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "17",
-        "10",
-        "14",
-        "3"
-      ],
-      "currentScore": "44",
-      "description": "8-5",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/louisiana-tech.70.png",
-      "name": "<a href='/schools/louisiana-tech'>Louisiana Tech</a>",
-      "nameRaw": "Louisiana Tech",
-      "nameSeo": "louisiana-tech",
-      "shortname": "LATECH",
-      "color": "#002596",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "WACSports",
-            "sport": "LATechFB",
-            "athleticDept": "LATechSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#latech"
-          ]
-        }
-      }
+      "teamRank": 8
     },
     "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "24",
-        "14",
-        "10",
-        "10"
-      ],
-      "currentScore": "58",
-      "description": "10-3",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/w/western-ky.70.png",
-      "name": "<a href='/schools/western-ky'>Western Ky.</a>",
-      "nameRaw": "Western Ky.",
-      "nameSeo": "western-ky",
-      "shortname": "W KY",
-      "color": "#d41a00",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "sport": "WKUFootball",
-            "athleticDept": "WKUSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#wku"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/louisiana-tech-western-ky",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/louisiana-tech-western-ky",
-    "contestName": "",
-    "location": "Houchens Industries-L.T. Smith Stadium, Bowling Green, KY",
-    "startTime": "12:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf conference-usa",
-    "updatedTimestamp": "2016-12-03 16:21:13",
-    "lastUpdated": "1480800060",
-    "id": "2317263",
-    "startTimeEpoch": "1480784400",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "4TH AND 13",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T16:19:04.018-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/kansas-st-tcu/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/kansas-st-tcu/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/kansas-st-tcu/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/kansas-st-tcu/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/kansas-st-tcu/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/kansas-st-tcu/tabs.json",
-    "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "3",
-        "7",
-        "13",
-        "7"
-      ],
-      "currentScore": "30",
-      "description": "7-4",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/k/kansas-st.70.png",
-      "name": "<a href='/schools/kansas-st'>Kansas State</a>",
-      "nameRaw": "Kansas State",
-      "nameSeo": "kansas-st",
-      "shortname": "KAN ST",
-      "color": "#502d7f",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "kstate_gameday",
-            "athleticDept": "kstatesports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#KansasState"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "3",
-        "3",
-        "0",
-        "0"
-      ],
-      "currentScore": "6",
-      "description": "6-5",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/tcu.70.png",
-      "name": "<a href='/schools/tcu'>TCU</a>",
-      "nameRaw": "TCU",
-      "nameSeo": "tcu",
-      "shortname": "TCU",
-      "color": "#34297a",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "TCUFootball",
-            "athleticDept": "TCU_Athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gofrogs"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/kansas-st-tcu",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/kansas-st-tcu",
-    "contestName": "",
-    "location": "Amon G. Carter Stadium, Fort Worth, TX",
-    "startTime": "12:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf big-12",
-    "updatedTimestamp": "2016-12-03 16:19:04",
-    "lastUpdated": "1480799940",
-    "id": "2197145",
-    "startTimeEpoch": "1480784400",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "1ST AND 10",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T18:03:09.851-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/oklahoma-st-oklahoma/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/oklahoma-st-oklahoma/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/oklahoma-st-oklahoma/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/oklahoma-st-oklahoma/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/oklahoma-st-oklahoma/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/oklahoma-st-oklahoma/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "3",
-        "14",
-        "3",
-        "0"
-      ],
-      "currentScore": "20",
-      "description": "9-3",
-      "teamRank": "10",
-      "iconURL": "/sites/default/files/images/logos/schools/o/oklahoma-st.70.png",
-      "name": "<a href='/schools/oklahoma-st'>Oklahoma State</a>",
-      "nameRaw": "Oklahoma State",
-      "nameSeo": "oklahoma-st",
-      "shortname": "OKLAST",
-      "color": "#FF6600",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "CowboyFB",
-            "athleticDept": "OSUAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#okstate"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "0",
-        "17",
-        "14",
-        "7"
-      ],
-      "currentScore": "38",
-      "description": "10-2",
-      "teamRank": "9",
-      "iconURL": "/sites/default/files/images/logos/schools/o/oklahoma.70.png",
-      "name": "<a href='/schools/oklahoma'>Oklahoma</a>",
-      "nameRaw": "Oklahoma",
-      "nameSeo": "oklahoma",
-      "shortname": "OKLA",
-      "color": "#B30838",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "OU_Football",
-            "athleticDept": "SoonerSportscom",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#sooners"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/oklahoma-st-oklahoma",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/oklahoma-st-oklahoma",
-    "contestName": "",
-    "location": "Gaylord Family Oklahoma Memorial Stadium, Norman, OK",
-    "startTime": "12:30 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf top-25 big-12",
-    "updatedTimestamp": "2016-12-03 18:03:09",
-    "lastUpdated": "1480806180",
-    "id": "2197237",
-    "startTimeEpoch": "1480786200",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "2ND AND GOAL",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T17:25:10.396-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/new-mexico-st-south-ala/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/new-mexico-st-south-ala/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/new-mexico-st-south-ala/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/new-mexico-st-south-ala/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/new-mexico-st-south-ala/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/new-mexico-st-south-ala/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "0",
-        "7",
-        "7",
-        "14"
-      ],
-      "currentScore": "28",
-      "description": "3-9",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/n/new-mexico-st.70.png",
-      "name": "<a href='/schools/new-mexico-st'>New Mexico St.</a>",
-      "nameRaw": "New Mexico St.",
-      "nameSeo": "new-mexico-st",
-      "shortname": "NM ST",
-      "color": "#881012",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "WACSports",
-            "athleticDept": "NMStateAggies",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#NMSU"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "7",
-        "0",
-        "7",
-        "21"
-      ],
-      "currentScore": "35",
-      "description": "6-6",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/south-ala.70.png",
-      "name": "<a href='/schools/south-ala'>South Alabama</a>",
-      "nameRaw": "South Alabama",
-      "nameSeo": "south-ala",
-      "shortname": "S ALA",
-      "color": "#eb1e00",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "USAJaguarSports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/new-mexico-st-south-ala",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/new-mexico-st-south-ala",
-    "contestName": "",
-    "location": "Ladd-Peebles Stadium, Mobile, AL",
-    "startTime": "1:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2016-12-03 17:25:10",
-    "lastUpdated": "1480803900",
-    "id": "2197201",
-    "startTimeEpoch": "1480788000",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "2ND AND 12",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T19:44:08.978-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/la-lafayette-la-monroe/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/la-lafayette-la-monroe/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/la-lafayette-la-monroe/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/la-lafayette-la-monroe/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/la-lafayette-la-monroe/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/la-lafayette-la-monroe/tabs.json",
-    "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "7",
-        "17",
-        "6",
-        "0"
-      ],
-      "currentScore": "30",
-      "description": "6-6",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/la-lafayette.70.png",
-      "name": "<a href='/schools/la-lafayette'>La.-Lafayette</a>",
-      "nameRaw": "La.-Lafayette",
-      "nameSeo": "la-lafayette",
-      "shortname": "ULL",
-      "color": "#993333",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "sport": "ULRaginCajuns",
-            "athleticDept": "ULGameday",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#ragincajuns"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "3",
-        "0",
-        "0",
-        "0"
-      ],
-      "currentScore": "3",
-      "description": "4-8",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/l/la-monroe.70.png",
-      "name": "<a href='/schools/la-monroe'>La.-Monroe</a>",
-      "nameRaw": "La.-Monroe",
-      "nameSeo": "la-monroe",
-      "shortname": "LA MON",
-      "color": "#bc9131",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "ULMWarhawks",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#warhawks"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/la-lafayette-la-monroe",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/la-lafayette-la-monroe",
-    "contestName": "",
-    "location": "JPS Field at Malone Stadium, Monroe, LA",
-    "startTime": "3:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2016-12-03 19:44:08",
-    "lastUpdated": "1480812240",
-    "id": "2197727",
-    "startTimeEpoch": "1480795200",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "4TH AND 18",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T20:50:08.038-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/baylor-west-virginia/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/baylor-west-virginia/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/baylor-west-virginia/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/baylor-west-virginia/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/baylor-west-virginia/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/baylor-west-virginia/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "0",
-        "14",
-        "0",
-        "7"
-      ],
-      "currentScore": "21",
-      "description": "6-6",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/b/baylor.70.png",
-      "name": "<a href='/schools/baylor'>Baylor</a>",
-      "nameRaw": "Baylor",
-      "nameSeo": "baylor",
-      "shortname": "BAYLOR",
-      "color": "#003015",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "BUFootball",
-            "athleticDept": "BaylorAthletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#baylor"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "3",
-        "7",
-        "7",
-        "7"
-      ],
-      "currentScore": "24",
-      "description": "10-2",
-      "teamRank": "16",
-      "iconURL": "/sites/default/files/images/logos/schools/w/west-virginia.70.png",
-      "name": "<a href='/schools/west-virginia'>West Virginia</a>",
-      "nameRaw": "West Virginia",
-      "nameSeo": "west-virginia",
-      "shortname": "WVU",
-      "color": "#eeb211",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "Big12Conference",
-            "sport": "WVUfootball",
-            "athleticDept": "WVUSportsBuzz",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#wvu"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/baylor-west-virginia",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/baylor-west-virginia",
-    "contestName": "",
-    "location": "Mountaineer Field at Milan Puskar Stadium, Morgantown, WV",
-    "startTime": "3:30 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf top-25 big-12",
-    "updatedTimestamp": "2016-12-03 20:50:08",
-    "lastUpdated": "1480816200",
-    "id": "2197547",
-    "startTimeEpoch": "1480797000",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "2ND AND 11",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T20:13:03.023-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/alabama-florida/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/alabama-florida/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/alabama-florida/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/alabama-florida/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/alabama-florida/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/alabama-florida/tabs.json",
-    "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "16",
-        "17",
-        "7",
-        "14"
-      ],
-      "currentScore": "54",
-      "description": "12-0",
-      "teamRank": "1",
-      "iconURL": "/sites/default/files/images/logos/schools/a/alabama.70.png",
-      "name": "<a href='/schools/alabama'>Alabama</a>",
-      "nameRaw": "Alabama",
-      "nameSeo": "alabama",
-      "shortname": "ALA",
-      "color": "#a32136",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "AlabamaFTBL",
-            "athleticDept": "UA_Athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#rolltide"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "9",
-        "7",
-        "0",
-        "0"
-      ],
-      "currentScore": "16",
-      "description": "8-3",
-      "teamRank": "15",
-      "iconURL": "/sites/default/files/images/logos/schools/f/florida.70.png",
-      "name": "<a href='/schools/florida'>Florida</a>",
-      "nameRaw": "Florida",
-      "nameSeo": "florida",
-      "shortname": "FLA",
-      "color": "#fe4819",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "SECSportsUpdate",
-            "sport": "GatorZoneFB",
-            "athleticDept": "GatorZoneNews",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#gators"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/alabama-florida",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/alabama-florida",
-    "contestName": "",
-    "location": "Georgia Dome, Atlanta, GA",
-    "startTime": "4:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf top-25 southeastern",
-    "updatedTimestamp": "2016-12-03 20:13:03",
-    "lastUpdated": "1480813980",
-    "id": "2313501",
-    "startTimeEpoch": "1480798800",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "4TH AND 2",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T23:01:20.901-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/georgia-st-idaho/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/georgia-st-idaho/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/georgia-st-idaho/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/georgia-st-idaho/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/georgia-st-idaho/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/georgia-st-idaho/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "6",
-        "6",
-        "0",
-        "0"
-      ],
-      "currentScore": "12",
-      "description": "3-9",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/g/georgia-st.70.png",
-      "name": "<a href='/schools/georgia-st'>Georgia State</a>",
-      "nameRaw": "Georgia State",
-      "nameSeo": "georgia-st",
-      "shortname": "GA ST",
-      "color": "#74a4cc",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_CAAFootball",
-            "athleticDept": "GSUPanthers",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "14",
-        "10",
-        "10",
-        "3"
-      ],
-      "currentScore": "37",
-      "description": "8-4",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/i/idaho.70.png",
-      "name": "<a href='/schools/idaho'>Idaho</a>",
-      "nameRaw": "Idaho",
-      "nameSeo": "idaho",
-      "shortname": "IDAHO",
-      "color": "#b58e5b",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "WACSports",
-            "athleticDept": "Idaho_Vandals",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#vandals"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/georgia-st-idaho",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/georgia-st-idaho",
-    "contestName": "",
-    "location": "Kibbie Dome, Moscow, ID",
-    "startTime": "5:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2016-12-03 23:01:20",
-    "lastUpdated": "1480824060",
-    "id": "2196990",
-    "startTimeEpoch": "1480802400",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "1ST AND 10",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-03T23:47:06.854-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/arkansas-st-texas-st/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/arkansas-st-texas-st/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/arkansas-st-texas-st/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/arkansas-st-texas-st/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/arkansas-st-texas-st/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/arkansas-st-texas-st/tabs.json",
-    "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "6",
-        "7",
-        "3",
-        "20"
-      ],
-      "currentScore": "36",
-      "description": "6-5",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/a/arkansas-st.70.png",
-      "name": "<a href='/schools/arkansas-st'>Arkansas State</a>",
-      "nameRaw": "Arkansas State",
-      "nameSeo": "arkansas-st",
-      "shortname": "ARK ST",
-      "color": "#c7202a",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "The_Sun_Belt",
-            "athleticDept": "AStateRedWolves",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#RedWolves"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "0",
-        "7",
-        "7",
-        "0"
-      ],
-      "currentScore": "14",
-      "description": "2-9",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/t/texas-st.70.png",
-      "name": "<a href='/schools/texas-st'>Texas State</a>",
-      "nameRaw": "Texas State",
-      "nameSeo": "texas-st",
-      "shortname": "TX ST",
-      "color": "#e3bc73",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "WACSports",
-            "athleticDept": "txstatebobcats",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": []
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/arkansas-st-texas-st",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/arkansas-st-texas-st",
-    "contestName": "",
-    "location": "Jim Wacker Field at Bobcat Stadium, San Marcos, TX",
-    "startTime": "7:30 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf sun-belt",
-    "updatedTimestamp": "2016-12-03 23:47:06",
-    "lastUpdated": "1480826820",
-    "id": "2197119",
-    "startTimeEpoch": "1480811400",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "3RD AND 17",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-04T01:07:05.061-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/san-diego-st-wyoming/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/san-diego-st-wyoming/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/san-diego-st-wyoming/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/san-diego-st-wyoming/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/san-diego-st-wyoming/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/san-diego-st-wyoming/tabs.json",
-    "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "7",
-        "3",
-        "14",
-        "3"
-      ],
-      "currentScore": "27",
-      "description": "10-3",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/s/san-diego-st.70.png",
-      "name": "<a href='/schools/san-diego-st'>San Diego State</a>",
-      "nameRaw": "San Diego State",
-      "nameSeo": "san-diego-st",
-      "shortname": "SDSU",
-      "color": "#A81933",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "athleticDept": "GoAztecs",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#Aztecs"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "10",
-        "0",
-        "0",
-        "14"
-      ],
-      "currentScore": "24",
-      "description": "8-5",
-      "teamRank": "0",
-      "iconURL": "/sites/default/files/images/logos/schools/w/wyoming.70.png",
-      "name": "<a href='/schools/wyoming'>Wyoming</a>",
-      "nameRaw": "Wyoming",
-      "nameSeo": "wyoming",
-      "shortname": "WYO",
-      "color": "#f6c028",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "TheMWC",
-            "athleticDept": "wyoathletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#cowboys"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/san-diego-st-wyoming",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/san-diego-st-wyoming",
-    "contestName": "",
-    "location": "Jonah Field at War Memorial Stadium, Laramie, WY",
-    "startTime": "7:45 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf mountain-west",
-    "updatedTimestamp": "2016-12-04 01:07:05",
-    "lastUpdated": "1480831620",
-    "id": "2316384",
-    "startTimeEpoch": "1480812300",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "2ND AND GOAL",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-08T14:20:53.075-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/wisconsin-penn-st/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/wisconsin-penn-st/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/wisconsin-penn-st/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/wisconsin-penn-st/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/wisconsin-penn-st/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/wisconsin-penn-st/tabs.json",
-    "away": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "14",
-        "14",
-        "3",
-        "0"
-      ],
-      "currentScore": "31",
-      "description": "10-3",
-      "teamRank": "6",
-      "iconURL": "/sites/default/files/images/logos/schools/w/wisconsin.70.png",
-      "name": "<a href='/schools/wisconsin'>Wisconsin</a>",
-      "nameRaw": "Wisconsin",
-      "nameSeo": "wisconsin",
-      "shortname": "WISC",
-      "color": "#be0f34",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "sport": "BadgerFootball",
-            "athleticDept": "UWBadgersdotcom",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#badgers"
-          ]
-        }
-      }
-    },
-    "home": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "7",
-        "7",
-        "14",
-        "10"
-      ],
-      "currentScore": "38",
-      "description": "11-2",
-      "teamRank": "7",
-      "iconURL": "/sites/default/files/images/logos/schools/p/penn-st.70.png",
-      "name": "<a href='/schools/penn-st'>Penn State</a>",
-      "nameRaw": "Penn State",
-      "nameSeo": "penn-st",
-      "shortname": "PENNST",
-      "color": "#002147",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "B1Gfootball",
-            "sport": "PennStateFball",
-            "athleticDept": "GoPSUsports1",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#nittanylions"
-          ]
-        }
-      }
-    },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/wisconsin-penn-st",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/wisconsin-penn-st",
-    "contestName": "",
-    "location": "Lucas Oil Stadium, Indianapolis, IN",
-    "startTime": "8:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf top-25 big-ten",
-    "updatedTimestamp": "2016-12-08 14:20:53",
-    "lastUpdated": "1481224800",
-    "id": "2316561",
-    "startTimeEpoch": "1480813200",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "1ST AND GOAL",
-    "timeclock": "",
-    "network_logo": ""
-  },
-  {
-    "alerts": {
-      "redzone": 0,
-      "upset": 0,
-      "timestamp": "2016-12-04T02:03:04.076-05:00"
-    },
-    "status": {},
-    "tabsArray": [
-      [
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/clemson-virginia-tech/recap.json",
-          "title": "Recap",
-          "type": "recap"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/clemson-virginia-tech/boxscore.json",
-          "title": "Box Score",
-          "type": "boxscore"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/clemson-virginia-tech/scoringSummary.json",
-          "title": "Scoring",
-          "type": "scoring-summary"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/clemson-virginia-tech/teamStats.json",
-          "title": "Team Stats",
-          "type": "team-stats"
-        },
-        {
-          "file": "/sites/default/files/data/game/football/fbs/2016/12/03/clemson-virginia-tech/pbp.json",
-          "title": "Play-By-Play",
-          "type": "play-by-play"
-        }
-      ]
-    ],
-    "tabs": "/sites/default/files/data//game/football/fbs/2016/12/03/clemson-virginia-tech/tabs.json",
-    "away": {
-      "winner": "true",
-      "scoreBreakdown": [
-        "14",
-        "7",
-        "14",
-        "7"
-      ],
-      "currentScore": "42",
       "description": "12-1",
-      "teamRank": "3",
-      "iconURL": "/sites/default/files/images/logos/schools/c/clemson.70.png",
-      "name": "<a href='/schools/clemson'>Clemson</a>",
-      "nameRaw": "Clemson",
-      "nameSeo": "clemson",
-      "shortname": "CLEM",
-      "color": "#e76c1f",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "athleticDept": "CU_athletics",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#clemson"
-          ]
-        }
-      }
+      "nameRaw": "Washington",
+      "currentScore": "41",
+      "teamRank": 4
+    },
+    "id": "400926942",
+    "gameState": "Final",
+    "startDate": "2016-12-03T02:00Z"
+  },
+  {
+    "away": {
+      "description": "13-0",
+      "nameRaw": "Western Michigan",
+      "currentScore": "29",
+      "teamRank": 17
     },
     "home": {
-      "winner": "false",
-      "scoreBreakdown": [
-        "7",
-        "7",
-        "7",
-        "14"
-      ],
-      "currentScore": "35",
-      "description": "9-4",
-      "teamRank": "23",
-      "iconURL": "/sites/default/files/images/logos/schools/v/virginia-tech.70.png",
-      "name": "<a href='/schools/virginia-tech'>Virginia Tech</a>",
-      "nameRaw": "Virginia Tech",
-      "nameSeo": "virginia-tech",
-      "shortname": "VATECH",
-      "color": "#660000",
-      "social": {
-        "twitter": {
-          "accounts": {
-            "conference": "theACCfootball",
-            "sport": "VT_Football",
-            "athleticDept": "hokiesports",
-            "ncaa": "ncaa_fb"
-          },
-          "keywords": [
-            "#hokies"
-          ]
-        }
-      }
+      "description": "8-5",
+      "nameRaw": "Ohio",
+      "currentScore": "23",
+      "teamRank": 99
     },
-    "links": [],
-    "scoreBreakdown": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "videos": [],
-    "champInfo": {},
-    "gameCenterUrl": "/game/football/fbs/2016/12/03/clemson-virginia-tech",
-    "liveAudioUrl": "",
-    "highlightsUrl": "",
-    "url": "/game/football/fbs/2016/12/03/clemson-virginia-tech",
-    "contestName": "",
-    "location": "Camping World Stadium, Orlando, FL",
-    "startTime": "8:00 PM ET",
-    "startDateDisplay": "Dec. 3",
-    "startDate": "2016-12-03",
-    "gameState": "final",
-    "conference": "all-conf top-25 atlantic-coast",
-    "updatedTimestamp": "2016-12-04 02:03:04",
-    "lastUpdated": "1480834980",
-    "id": "2315701",
-    "startTimeEpoch": "1480813200",
-    "currentPeriod": "Final",
-    "finalMessage": "Final",
-    "gameStatus": "Final",
-    "periodStatus": "End",
-    "downToGo": "2ND AND 11",
-    "timeclock": "",
-    "network_logo": ""
+    "id": "400926941",
+    "gameState": "Final",
+    "startDate": "2016-12-03T00:00Z"
+  },
+  {
+    "away": {
+      "description": "13-0",
+      "nameRaw": "Alabama",
+      "currentScore": "54",
+      "teamRank": 1
+    },
+    "home": {
+      "description": "8-4",
+      "nameRaw": "Florida",
+      "currentScore": "16",
+      "teamRank": 15
+    },
+    "id": "400926943",
+    "gameState": "Final",
+    "startDate": "2016-12-03T21:00Z"
+  },
+  {
+    "away": {
+      "description": "12-1",
+      "nameRaw": "Clemson",
+      "currentScore": "42",
+      "teamRank": 3
+    },
+    "home": {
+      "description": "9-4",
+      "nameRaw": "Virginia Tech",
+      "currentScore": "35",
+      "teamRank": 23
+    },
+    "id": "400926944",
+    "gameState": "Final",
+    "startDate": "2016-12-04T01:00Z"
+  },
+  {
+    "away": {
+      "description": "10-3",
+      "nameRaw": "Wisconsin",
+      "currentScore": "31",
+      "teamRank": 6
+    },
+    "home": {
+      "description": "11-2",
+      "nameRaw": "Penn State",
+      "currentScore": "38",
+      "teamRank": 7
+    },
+    "id": "400926946",
+    "gameState": "Final",
+    "startDate": "2016-12-04T01:00Z"
+  },
+  {
+    "away": {
+      "description": "9-3",
+      "nameRaw": "Oklahoma State",
+      "currentScore": "20",
+      "teamRank": 10
+    },
+    "home": {
+      "description": "10-2",
+      "nameRaw": "Oklahoma",
+      "currentScore": "38",
+      "teamRank": 9
+    },
+    "id": "400869618",
+    "gameState": "Final",
+    "startDate": "2016-12-03T17:30Z"
+  },
+  {
+    "away": {
+      "description": "6-6",
+      "nameRaw": "Baylor",
+      "currentScore": "21",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "10-2",
+      "nameRaw": "West Virginia",
+      "currentScore": "24",
+      "teamRank": 16
+    },
+    "id": "400868886",
+    "gameState": "Final",
+    "startDate": "2016-12-03T20:30Z"
+  },
+  {
+    "away": {
+      "description": "10-3",
+      "nameRaw": "Temple",
+      "currentScore": "34",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "9-3",
+      "nameRaw": "Navy",
+      "currentScore": "10",
+      "teamRank": 19
+    },
+    "id": "400926947",
+    "gameState": "Final",
+    "startDate": "2016-12-03T17:00Z"
+  },
+  {
+    "away": {
+      "description": "8-4",
+      "nameRaw": "Kansas State",
+      "currentScore": "30",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "6-6",
+      "nameRaw": "TCU",
+      "currentScore": "6",
+      "teamRank": 99
+    },
+    "id": "400869611",
+    "gameState": "Final",
+    "startDate": "2016-12-03T17:00Z"
+  },
+  {
+    "away": {
+      "description": "9-3",
+      "nameRaw": "Troy",
+      "currentScore": "24",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "5-7",
+      "nameRaw": "Georgia Southern",
+      "currentScore": "28",
+      "teamRank": 99
+    },
+    "id": "400869856",
+    "gameState": "Final",
+    "startDate": "2016-12-03T17:00Z"
+  },
+  {
+    "away": {
+      "description": "8-5",
+      "nameRaw": "Louisiana Tech",
+      "currentScore": "44",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "10-3",
+      "nameRaw": "Western Kentucky",
+      "currentScore": "58",
+      "teamRank": 99
+    },
+    "id": "400926948",
+    "gameState": "Final",
+    "startDate": "2016-12-03T17:00Z"
+  },
+  {
+    "away": {
+      "description": "3-9",
+      "nameRaw": "New Mexico State",
+      "currentScore": "28",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "6-6",
+      "nameRaw": "South Alabama",
+      "currentScore": "35",
+      "teamRank": 99
+    },
+    "id": "400869859",
+    "gameState": "Final",
+    "startDate": "2016-12-03T18:00Z"
+  },
+  {
+    "away": {
+      "description": "6-6",
+      "nameRaw": "Louisiana",
+      "currentScore": "30",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "4-8",
+      "nameRaw": "Louisiana Monroe",
+      "currentScore": "3",
+      "teamRank": 99
+    },
+    "id": "400869858",
+    "gameState": "Final",
+    "startDate": "2016-12-03T20:00Z"
+  },
+  {
+    "away": {
+      "description": "3-9",
+      "nameRaw": "Georgia State",
+      "currentScore": "12",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "8-4",
+      "nameRaw": "Idaho",
+      "currentScore": "37",
+      "teamRank": 99
+    },
+    "id": "400869857",
+    "gameState": "Final",
+    "startDate": "2016-12-03T22:00Z"
+  },
+  {
+    "away": {
+      "description": "7-5",
+      "nameRaw": "Arkansas State",
+      "currentScore": "36",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "2-10",
+      "nameRaw": "Texas State",
+      "currentScore": "14",
+      "teamRank": 99
+    },
+    "id": "400869855",
+    "gameState": "Final",
+    "startDate": "2016-12-04T00:30Z"
+  },
+  {
+    "away": {
+      "description": "10-3",
+      "nameRaw": "San Diego State",
+      "currentScore": "27",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "8-5",
+      "nameRaw": "Wyoming",
+      "currentScore": "24",
+      "teamRank": 99
+    },
+    "id": "400926949",
+    "gameState": "Final",
+    "startDate": "2016-12-04T00:45Z"
   }
 ]
