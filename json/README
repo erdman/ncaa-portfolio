@@ -32,3 +32,11 @@ cut -f -3 -d ',' fbs-2018.csv | csv2json -d - fbs-2018.json
 # ESPN's API looks like this, but limits download length when using wget versus browser??
 # http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?lang=en&region=us&calendartype=blacklist&limit=300&dates=2018&seasontype=2&week=3&groups=80
 # after viewing the request in browser Network console, "copy as cURL" then paste to terminal
+
+# run the sed utility like this
+# sed -f translate_ncaa_to_espn.sed 2016/fbs-2016.json | less
+# sed -f translate_ncaa_to_espn.sed 2018/portfolios-2018.json | less
+# or to run on the files in-place add the -i flag
+# sed -i -f translate_ncaa_to_espn.sed 2018/portfolios-2018.json
+# and on multiple files at a time in place file-by-file
+# sed -i -s -f translate-ncaa-to-espn.sed test*.json
