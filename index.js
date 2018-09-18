@@ -1,7 +1,7 @@
 'use strict';
 function _stringifyGame(winner, loser, game) {
      //~ a-tag syntax: <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
-    return `<a href="https://www.ncaa.com${game.url}">${(winner.teamRank > 0) ? '#' + winner.teamRank + ' ' : ''}${winner.nameRaw} ${winner.currentScore}, ${(loser.teamRank > 0) ? '#' + loser.teamRank + ' ' : ''}${loser.nameRaw} ${loser.currentScore}<\a>`;
+    return `<a href="https://www.espn.com/college-football/game?gameId=${game.id}">${(winner.teamRank > 0) ? '#' + winner.teamRank + ' ' : ''}${winner.nameRaw} ${winner.currentScore}, ${(loser.teamRank > 0) ? '#' + loser.teamRank + ' ' : ''}${loser.nameRaw} ${loser.currentScore}<\a>`;
 }
 function stringifyGame(game) {
     return (game.away.currentScore > game.home.currentScore) ? _stringifyGame(game.away, game.home, game) : _stringifyGame(game.home, game.away, game);
@@ -13,9 +13,10 @@ const top25_points = {true:  {false: [0,5,5,5,5,6,6,6,6,6,6,6,6,6,6,8,8,8,8,8,8,
                       false: {false: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],  true: [0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-2,-2,-2,-2,-2,-3,-3,-3,-3,-3,-3,-5,-5,-5,-5,-5]}
 };
 function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
-    const heroRank = hero.teamRank > 0 ? hero.teamRank : 26;
-    const villainRank = villain.teamRank > 0 ? villain.teamRank : 26;
+    const heroRank = Math.min(hero.teamRank, 26);
+    const villainRank = Math.min(villain.teamRank, 26);
     const VILLAIN_FBS = fbs_name_set.has(villain.nameRaw);
+    const date = new Date(game.startDate);
     const score = {win: win_points[hero.currentScore > villain.currentScore][VILLAIN_FBS],
                  blowout: VILLAIN_FBS && (hero.currentScore - villain.currentScore >= 30) ? 2 : 0,
                  shutout: VILLAIN_FBS && villain.currentScore === 0 ? 4 : 0,
@@ -25,7 +26,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
                           (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
                  displayString:  game.displayString,
                  week:          game.week,
-                 startDate:     game.startDate,
+                 startDate:     [date.getFullYear(), (date.getMonth() + 1).toString().padStart(2,'0'), date.getDate().toString().padStart(2,'0')].join('-');
                  win_loss_record: hero.description,
                  gameState: game.gameState
     };
@@ -112,7 +113,7 @@ function load_data(publish_continuation) {
             game.id = parseInt(game.id, 10);
             game.displayString = stringifyGame(game);
 
-            if (game.gameState === 'pre' || game.gameState === 'final') {
+            if (game.gameState === 'Scheduled' || game.gameState === 'Final') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
                     // add blank bye weeks
                     while (fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
@@ -136,7 +137,7 @@ function load_data(publish_continuation) {
                 }
             }
 
-            if (game.gameState === 'pre') {
+            if (game.gameState === 'Scheduled') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
                     fbs[game.away.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'pre', displayString: fbs_name_set.has(game.home.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.home.nameRaw)}>at ${game.home.nameRaw}</a>` : `at ${game.home.nameRaw}` });
                 }
@@ -145,7 +146,7 @@ function load_data(publish_continuation) {
                 }
             }
 
-            else if (game.gameState === 'final') {
+            else if (game.gameState === 'Final') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
                     let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
                     score.week = Math.max(game.week, fbs[game.away.nameRaw].games.slice(-1)[0].week + 1);
