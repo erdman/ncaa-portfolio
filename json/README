@@ -34,9 +34,13 @@ cut -f -3 -d ',' fbs-2018.csv | csv2json -d - fbs-2018.json
 # after viewing the request in browser Network console, "copy as cURL" then paste to terminal
 
 # run the sed utility like this
-# sed -f translate_ncaa_to_espn.sed 2016/fbs-2016.json | less
-# sed -f translate_ncaa_to_espn.sed 2018/portfolios-2018.json | less
+sed -f translate_ncaa_to_espn.sed 2016/fbs-2016.json | less
+sed -f translate_ncaa_to_espn.sed 2018/portfolios-2018.json | less
 # or to run on the files in-place add the -i flag
-# sed -i -f translate_ncaa_to_espn.sed 2018/portfolios-2018.json
+sed -i -f translate_ncaa_to_espn.sed 2018/portfolios-2018.json
 # and on multiple files at a time in place file-by-file
-# sed -i -s -f translate-ncaa-to-espn.sed test*.json
+sed -i -s -f translate-ncaa-to-espn.sed test*.json
+
+# in future, if ESPN changes the spelling of a single school, you can change it with a oneliner, even if not noticed until season underway:
+sed -s -i s/"UT San Antonio"/"UTSA"/g portfolios-2018.json fbs-2018.json
+sed -s -i s/"Louisiana Monroe"/"UL Monroe"/g portfolios-2018.json fbs-2018.json

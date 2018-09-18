@@ -1,7 +1,7 @@
 'use strict';
 function _stringifyGame(winner, loser, game) {
      //~ a-tag syntax: <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
-    return `<a href="https://www.espn.com/college-football/game?gameId=${game.id}">${(winner.teamRank > 0) ? '#' + winner.teamRank + ' ' : ''}${winner.nameRaw} ${winner.currentScore}, ${(loser.teamRank > 0) ? '#' + loser.teamRank + ' ' : ''}${loser.nameRaw} ${loser.currentScore}<\a>`;
+    return `<a href="https://www.espn.com/college-football/game?gameId=${game.id}">${(winner.teamRank < 26) ? '#' + winner.teamRank + ' ' : ''}${winner.nameRaw} ${winner.currentScore}, ${(loser.teamRank < 26) ? '#' + loser.teamRank + ' ' : ''}${loser.nameRaw} ${loser.currentScore}<\a>`;
 }
 function stringifyGame(game) {
     return (game.away.currentScore > game.home.currentScore) ? _stringifyGame(game.away, game.home, game) : _stringifyGame(game.home, game.away, game);
@@ -16,7 +16,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
     const heroRank = Math.min(hero.teamRank, 26);
     const villainRank = Math.min(villain.teamRank, 26);
     const VILLAIN_FBS = fbs_name_set.has(villain.nameRaw);
-    const date = new Date(game.startDate);
+
     const score = {win: win_points[hero.currentScore > villain.currentScore][VILLAIN_FBS],
                  blowout: VILLAIN_FBS && (hero.currentScore - villain.currentScore >= 30) ? 2 : 0,
                  shutout: VILLAIN_FBS && villain.currentScore === 0 ? 4 : 0,
@@ -26,7 +26,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
                           (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
                  displayString:  game.displayString,
                  week:          game.week,
-                 startDate:     [date.getFullYear(), (date.getMonth() + 1).toString().padStart(2,'0'), date.getDate().toString().padStart(2,'0')].join('-');
+                 startDate:     game.startDate,
                  win_loss_record: hero.description,
                  gameState: game.gameState
     };
@@ -49,8 +49,8 @@ function start_loaders() {
         return $.getJSON(`json/${year}/${year}${week.toString().padStart(2,'0')}.json`)
             .then(function (data) {
                 games.push(...data.map(function (game) {
-                    const [mm,dd,yyyy] = game.startDate.split('-');
-                    game.startDate = parseInt(yyyy,10) < 32 ? game.startDate : [yyyy,mm,dd].join('-');  // if yyyy < 32, it's already in yyyy-mm-dd format
+                    const date = new Date(game.startDate);
+                    game.startDate = [date.getFullYear(), (date.getMonth() + 1).toString().padStart(2,'0'), date.getDate().toString().padStart(2,'0')].join('-');
                     game.week = parseInt(week,10);
                     return game;
                 }));
@@ -139,10 +139,10 @@ function load_data(publish_continuation) {
 
             if (game.gameState === 'Scheduled') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
-                    fbs[game.away.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'pre', displayString: fbs_name_set.has(game.home.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.home.nameRaw)}>at ${game.home.nameRaw}</a>` : `at ${game.home.nameRaw}` });
+                    fbs[game.away.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'Scheduled', displayString: fbs_name_set.has(game.home.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.home.nameRaw)}>at ${game.home.nameRaw}</a>` : `at ${game.home.nameRaw}` });
                 }
                 if (fbs_name_set.has(game.home.nameRaw)) {
-                    fbs[game.home.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'pre', displayString: fbs_name_set.has(game.away.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.away.nameRaw)}>${game.away.nameRaw}</a>` : `${game.away.nameRaw}` });
+                    fbs[game.home.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'Scheduled', displayString: fbs_name_set.has(game.away.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.away.nameRaw)}>${game.away.nameRaw}</a>` : `${game.away.nameRaw}` });
                 }
             }
 
@@ -235,7 +235,7 @@ function establish_datatables() {
             { "data": "total", "title": "Total", className: "text-right" }
             ],
         "rowCallback": function( row, data ) {
-            if ( data.gameState === 'pre' || data.gameState === null) {
+            if ( data.gameState === 'Scheduled' || data.gameState === null) {
                 $('td:eq(0)', row).css('color', 'gray');
                 $('td:eq(1)', row).css('color', 'gray');
             }
