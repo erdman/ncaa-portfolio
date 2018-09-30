@@ -1,18 +1,18 @@
 [
   {
     "away": {
-      "description": "2-1",
+      "description": "",
       "nameRaw": "Navy",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
-      "description": "2-1",
+      "description": "",
       "nameRaw": "Army",
       "currentScore": "0",
       "teamRank": 99
     },
-    "id": "401013376",
+    "id": 401013376,
     "gameState": "Scheduled",
     "startDate": "2018-12-08T20:00Z"
   }
