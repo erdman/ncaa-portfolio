@@ -202,5 +202,22 @@
     "id": 401082044,
     "gameState": "Scheduled",
     "startDate": "2018-12-01T19:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "East Carolina",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "NC State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401088766,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-01T17:00Z"
   }
 ]

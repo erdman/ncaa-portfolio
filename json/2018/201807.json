@@ -10,11 +10,11 @@
       "description": "",
       "nameRaw": "Alabama",
       "currentScore": "0",
-      "teamRank": 1
+      "teamRank": 99
     },
     "id": 401012307,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
@@ -31,7 +31,7 @@
     },
     "id": 401012308,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:30Z"
   },
   {
     "away": {
@@ -44,28 +44,28 @@
       "description": "",
       "nameRaw": "Auburn",
       "currentScore": "0",
-      "teamRank": 10
+      "teamRank": 99
     },
     "id": 401012309,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
       "description": "",
       "nameRaw": "Georgia",
       "currentScore": "0",
-      "teamRank": 2
+      "teamRank": 99
     },
     "home": {
       "description": "",
       "nameRaw": "LSU",
       "currentScore": "0",
-      "teamRank": 5
+      "teamRank": 99
     },
     "id": 401012310,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
@@ -82,7 +82,7 @@
     },
     "id": 401012311,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
@@ -99,7 +99,7 @@
     },
     "id": 401012312,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
@@ -133,24 +133,24 @@
     },
     "id": 401012765,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-14T02:30Z"
   },
   {
     "away": {
       "description": "",
       "nameRaw": "Washington",
       "currentScore": "0",
-      "teamRank": 11
+      "teamRank": 99
     },
     "home": {
       "description": "",
       "nameRaw": "Oregon",
       "currentScore": "0",
-      "teamRank": 19
+      "teamRank": 99
     },
     "id": 401012766,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
@@ -163,11 +163,11 @@
       "description": "",
       "nameRaw": "California",
       "currentScore": "0",
-      "teamRank": 24
+      "teamRank": 99
     },
     "id": 401012767,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
@@ -184,7 +184,7 @@
     },
     "id": 401012809,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
@@ -225,34 +225,34 @@
       "description": "",
       "nameRaw": "Michigan State",
       "currentScore": "0",
-      "teamRank": 21
+      "teamRank": 99
     },
     "home": {
       "description": "",
       "nameRaw": "Penn State",
       "currentScore": "0",
-      "teamRank": 9
+      "teamRank": 99
     },
     "id": 401012883,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
       "description": "",
       "nameRaw": "Wisconsin",
       "currentScore": "0",
-      "teamRank": 15
+      "teamRank": 99
     },
     "home": {
       "description": "",
       "nameRaw": "Michigan",
       "currentScore": "0",
-      "teamRank": 14
+      "teamRank": 99
     },
     "id": 401012893,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:30Z"
   },
   {
     "away": {
@@ -265,18 +265,18 @@
       "description": "",
       "nameRaw": "Texas",
       "currentScore": "0",
-      "teamRank": 18
+      "teamRank": 99
     },
     "id": 401013032,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
       "description": "",
       "nameRaw": "West Virginia",
       "currentScore": "0",
-      "teamRank": 12
+      "teamRank": 99
     },
     "home": {
       "description": "",
@@ -286,7 +286,7 @@
     },
     "id": 401013043,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
@@ -303,14 +303,14 @@
     },
     "id": 401013061,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
       "description": "",
       "nameRaw": "Texas Tech",
       "currentScore": "0",
-      "teamRank": 25
+      "teamRank": 99
     },
     "home": {
       "description": "",
@@ -337,14 +337,14 @@
     },
     "id": 401013144,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:30Z"
   },
   {
     "away": {
       "description": "",
       "nameRaw": "Duke",
       "currentScore": "0",
-      "teamRank": 22
+      "teamRank": 99
     },
     "home": {
       "description": "",
@@ -354,14 +354,14 @@
     },
     "id": 401013145,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:20Z"
   },
   {
     "away": {
       "description": "",
       "nameRaw": "Miami",
       "currentScore": "0",
-      "teamRank": 16
+      "teamRank": 99
     },
     "home": {
       "description": "",
@@ -371,7 +371,7 @@
     },
     "id": 401013146,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
@@ -388,7 +388,7 @@
     },
     "id": 401013147,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
@@ -401,7 +401,7 @@
       "description": "",
       "nameRaw": "Notre Dame",
       "currentScore": "0",
-      "teamRank": 8
+      "teamRank": 99
     },
     "id": 401013148,
     "gameState": "Scheduled",
@@ -418,11 +418,11 @@
       "description": "",
       "nameRaw": "Ohio State",
       "currentScore": "0",
-      "teamRank": 4
+      "teamRank": 99
     },
     "id": 401013331,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
@@ -456,7 +456,7 @@
     },
     "id": 401013370,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
@@ -605,11 +605,11 @@
       "description": "",
       "nameRaw": "BYU",
       "currentScore": "0",
-      "teamRank": 20
+      "teamRank": 99
     },
     "id": 401016408,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-14T02:15Z"
   },
   {
     "away": {
@@ -633,7 +633,7 @@
       "description": "",
       "nameRaw": "UCF",
       "currentScore": "0",
-      "teamRank": 13
+      "teamRank": 99
     },
     "home": {
       "description": "",
@@ -643,7 +643,7 @@
     },
     "id": 401019506,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
@@ -660,7 +660,7 @@
     },
     "id": 401019507,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
@@ -694,7 +694,7 @@
     },
     "id": 401020756,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
@@ -711,7 +711,7 @@
     },
     "id": 401020757,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T19:00Z"
   },
   {
     "away": {
@@ -745,7 +745,7 @@
     },
     "id": 401020759,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
@@ -779,7 +779,7 @@
     },
     "id": 401020810,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T18:30Z"
   },
   {
     "away": {
@@ -830,7 +830,7 @@
     },
     "id": 401021674,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-13T22:00Z"
   },
   {
     "away": {
@@ -932,6 +932,6 @@
     },
     "id": 401022537,
     "gameState": "Scheduled",
-    "startDate": "2018-10-13T04:00Z"
+    "startDate": "2018-10-14T02:30Z"
   }
 ]
