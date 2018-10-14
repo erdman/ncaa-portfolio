@@ -1,937 +1,937 @@
 [
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Missouri",
-      "currentScore": "0",
+      "currentScore": "10",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-0",
       "nameRaw": "Alabama",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "39",
+      "teamRank": 1
     },
     "id": 401012307,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-2",
       "nameRaw": "Ole Miss",
-      "currentScore": "0",
+      "currentScore": "37",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "1-6",
       "nameRaw": "Arkansas",
-      "currentScore": "0",
+      "currentScore": "33",
       "teamRank": 99
     },
     "id": 401012308,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Tennessee",
-      "currentScore": "0",
+      "currentScore": "30",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "Auburn",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "24",
+      "teamRank": 21
     },
     "id": 401012309,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "6-1",
       "nameRaw": "Georgia",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "16",
+      "teamRank": 2
     },
     "home": {
-      "description": "",
+      "description": "6-1",
       "nameRaw": "LSU",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "36",
+      "teamRank": 13
     },
     "id": 401012310,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-2",
       "nameRaw": "Texas A&M",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "26",
+      "teamRank": 22
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "South Carolina",
-      "currentScore": "0",
+      "currentScore": "23",
       "teamRank": 99
     },
     "id": 401012311,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "6-1",
       "nameRaw": "Florida",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "37",
+      "teamRank": 14
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Vanderbilt",
-      "currentScore": "0",
+      "currentScore": "27",
       "teamRank": 99
     },
     "id": 401012312,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Arizona",
-      "currentScore": "0",
+      "currentScore": "10",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Utah",
-      "currentScore": "0",
+      "currentScore": "42",
       "teamRank": 99
     },
     "id": 401012764,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T02:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Colorado",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "20",
+      "teamRank": 19
     },
     "home": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "USC",
-      "currentScore": "0",
+      "currentScore": "31",
       "teamRank": 99
     },
     "id": 401012765,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-14T02:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-2",
       "nameRaw": "Washington",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "27",
+      "teamRank": 7
     },
     "home": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Oregon",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "30",
+      "teamRank": 17
     },
     "id": 401012766,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "1-5",
       "nameRaw": "UCLA",
-      "currentScore": "0",
+      "currentScore": "37",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "California",
-      "currentScore": "0",
+      "currentScore": "7",
       "teamRank": 99
     },
     "id": 401012767,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Purdue",
-      "currentScore": "0",
+      "currentScore": "46",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Illinois",
-      "currentScore": "0",
+      "currentScore": "7",
       "teamRank": 99
     },
     "id": 401012809,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "1-6",
       "nameRaw": "Rutgers",
-      "currentScore": "0",
+      "currentScore": "7",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Maryland",
-      "currentScore": "0",
+      "currentScore": "34",
       "teamRank": 99
     },
     "id": 401012825,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Iowa",
-      "currentScore": "0",
+      "currentScore": "42",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "Indiana",
-      "currentScore": "0",
+      "currentScore": "16",
       "teamRank": 99
     },
     "id": 401012856,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Michigan State",
-      "currentScore": "0",
+      "currentScore": "21",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Penn State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "17",
+      "teamRank": 8
     },
     "id": 401012883,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Wisconsin",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "13",
+      "teamRank": 15
     },
     "home": {
-      "description": "",
+      "description": "6-1",
       "nameRaw": "Michigan",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "38",
+      "teamRank": 12
     },
     "id": 401012893,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "Baylor",
-      "currentScore": "0",
+      "currentScore": "17",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "6-1",
       "nameRaw": "Texas",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "23",
+      "teamRank": 9
     },
     "id": 401013032,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "West Virginia",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "14",
+      "teamRank": 6
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Iowa State",
-      "currentScore": "0",
+      "currentScore": "30",
       "teamRank": 99
     },
     "id": 401013043,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "Oklahoma State",
-      "currentScore": "0",
+      "currentScore": "12",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Kansas State",
-      "currentScore": "0",
+      "currentScore": "31",
       "teamRank": 99
     },
     "id": 401013061,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Texas Tech",
-      "currentScore": "0",
+      "currentScore": "17",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "TCU",
-      "currentScore": "0",
+      "currentScore": "14",
       "teamRank": 99
     },
     "id": 401013076,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-11T23:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-5",
       "nameRaw": "Louisville",
-      "currentScore": "0",
+      "currentScore": "20",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "5-2",
       "nameRaw": "Boston College",
-      "currentScore": "0",
+      "currentScore": "38",
       "teamRank": 99
     },
     "id": 401013144,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Duke",
-      "currentScore": "0",
+      "currentScore": "28",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Georgia Tech",
-      "currentScore": "0",
+      "currentScore": "14",
       "teamRank": 99
     },
     "id": 401013145,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:20Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-2",
       "nameRaw": "Miami",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "13",
+      "teamRank": 16
     },
     "home": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Virginia",
-      "currentScore": "0",
+      "currentScore": "16",
       "teamRank": 99
     },
     "id": 401013146,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Virginia Tech",
-      "currentScore": "0",
+      "currentScore": "22",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "1-4",
       "nameRaw": "North Carolina",
-      "currentScore": "0",
+      "currentScore": "19",
       "teamRank": 99
     },
     "id": 401013147,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Pittsburgh",
-      "currentScore": "0",
+      "currentScore": "14",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-0",
       "nameRaw": "Notre Dame",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "19",
+      "teamRank": 5
     },
     "id": 401013148,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T18:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Minnesota",
-      "currentScore": "0",
+      "currentScore": "14",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-0",
       "nameRaw": "Ohio State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "30",
+      "teamRank": 3
     },
     "id": 401013331,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "0-6",
       "nameRaw": "Nebraska",
-      "currentScore": "0",
+      "currentScore": "31",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Northwestern",
-      "currentScore": "0",
+      "currentScore": "34",
       "teamRank": 99
     },
     "id": 401013340,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Army",
-      "currentScore": "0",
+      "currentScore": "52",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "0-6",
       "nameRaw": "San Jose State",
-      "currentScore": "0",
+      "currentScore": "3",
       "teamRank": 99
     },
     "id": 401013370,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-5",
       "nameRaw": "New Mexico State",
-      "currentScore": "0",
+      "currentScore": "38",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Louisiana",
-      "currentScore": "0",
+      "currentScore": "66",
       "teamRank": 99
     },
     "id": 401013442,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T21:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-2",
       "nameRaw": "Troy",
-      "currentScore": "0",
+      "currentScore": "16",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Liberty",
-      "currentScore": "0",
+      "currentScore": "22",
       "teamRank": 99
     },
     "id": 401013452,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T18:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "1-5",
       "nameRaw": "Western Kentucky",
-      "currentScore": "0",
+      "currentScore": "14",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Charlotte",
-      "currentScore": "0",
+      "currentScore": "40",
       "teamRank": 99
     },
     "id": 401015013,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Middle Tennessee",
-      "currentScore": "0",
+      "currentScore": "21",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Florida Intl",
-      "currentScore": "0",
+      "currentScore": "24",
       "teamRank": 99
     },
     "id": 401015014,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Louisiana Tech",
-      "currentScore": "0",
+      "currentScore": "31",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "UTSA",
-      "currentScore": "0",
+      "currentScore": "3",
       "teamRank": 99
     },
     "id": 401015015,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Marshall",
-      "currentScore": "0",
+      "currentScore": "42",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "1-6",
       "nameRaw": "Old Dominion",
-      "currentScore": "0",
+      "currentScore": "20",
       "teamRank": 99
     },
     "id": 401015016,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-3",
       "nameRaw": "Southern Mississippi",
-      "currentScore": "0",
+      "currentScore": "7",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "6-1",
       "nameRaw": "North Texas",
-      "currentScore": "0",
+      "currentScore": "30",
       "teamRank": 99
     },
     "id": 401015017,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T18:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "UAB",
-      "currentScore": "0",
+      "currentScore": "42",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "1-6",
       "nameRaw": "Rice",
       "currentScore": "0",
       "teamRank": 99
     },
     "id": 401015018,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "6-2",
       "nameRaw": "Hawai'i",
-      "currentScore": "0",
+      "currentScore": "23",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "BYU",
-      "currentScore": "0",
+      "currentScore": "49",
       "teamRank": 99
     },
     "id": 401016408,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-14T02:15Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "6-0",
       "nameRaw": "South Florida",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "25",
+      "teamRank": 23
     },
     "home": {
-      "description": "",
+      "description": "1-5",
       "nameRaw": "Tulsa",
-      "currentScore": "0",
+      "currentScore": "24",
       "teamRank": 99
     },
     "id": 401019505,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-12T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "6-0",
       "nameRaw": "UCF",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "31",
+      "teamRank": 10
     },
     "home": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "Memphis",
-      "currentScore": "0",
+      "currentScore": "30",
       "teamRank": 99
     },
     "id": 401019506,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Houston",
-      "currentScore": "0",
+      "currentScore": "42",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "2-4",
       "nameRaw": "East Carolina",
-      "currentScore": "0",
+      "currentScore": "20",
       "teamRank": 99
     },
     "id": 401019507,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T23:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "Temple",
-      "currentScore": "0",
+      "currentScore": "24",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "2-4",
       "nameRaw": "Navy",
-      "currentScore": "0",
+      "currentScore": "17",
       "teamRank": 99
     },
     "id": 401019508,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-3",
       "nameRaw": "Akron",
-      "currentScore": "0",
+      "currentScore": "6",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "6-1",
       "nameRaw": "Buffalo",
-      "currentScore": "0",
+      "currentScore": "24",
       "teamRank": 99
     },
     "id": 401020756,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Ball State",
-      "currentScore": "0",
+      "currentScore": "24",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "1-6",
       "nameRaw": "Central Michigan",
-      "currentScore": "0",
+      "currentScore": "23",
       "teamRank": 99
     },
     "id": 401020757,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Ohio",
-      "currentScore": "0",
+      "currentScore": "21",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "4-3",
       "nameRaw": "Northern Illinois",
-      "currentScore": "0",
+      "currentScore": "24",
       "teamRank": 99
     },
     "id": 401020758,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Toledo",
-      "currentScore": "0",
+      "currentScore": "26",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Eastern Michigan",
-      "currentScore": "0",
+      "currentScore": "28",
       "teamRank": 99
     },
     "id": 401020759,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T16:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-2",
       "nameRaw": "Western Michigan",
-      "currentScore": "0",
+      "currentScore": "42",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "1-6",
       "nameRaw": "Bowling Green",
-      "currentScore": "0",
+      "currentScore": "35",
       "teamRank": 99
     },
     "id": 401020760,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T19:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "1-6",
       "nameRaw": "Kent State",
-      "currentScore": "0",
+      "currentScore": "6",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Miami (OH)",
-      "currentScore": "0",
+      "currentScore": "31",
       "teamRank": 99
     },
     "id": 401020810,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T18:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-1",
       "nameRaw": "Appalachian State",
-      "currentScore": "0",
+      "currentScore": "35",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Arkansas State",
-      "currentScore": "0",
+      "currentScore": "9",
       "teamRank": 99
     },
     "id": 401021672,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-10T00:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Georgia Southern",
-      "currentScore": "0",
+      "currentScore": "15",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "1-5",
       "nameRaw": "Texas State",
-      "currentScore": "0",
+      "currentScore": "13",
       "teamRank": 99
     },
     "id": 401021673,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-11T23:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "UL Monroe",
-      "currentScore": "0",
+      "currentScore": "45",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "Coastal Carolina",
-      "currentScore": "0",
+      "currentScore": "20",
       "teamRank": 99
     },
     "id": 401021674,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T22:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-4",
       "nameRaw": "Alabama State",
-      "currentScore": "0",
+      "currentScore": "7",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "2-5",
       "nameRaw": "South Alabama",
-      "currentScore": "0",
+      "currentScore": "45",
       "teamRank": 99
     },
     "id": 401021675,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T21:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-4",
       "nameRaw": "Air Force",
-      "currentScore": "0",
+      "currentScore": "17",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "San Diego State",
-      "currentScore": "0",
+      "currentScore": "21",
       "teamRank": 99
     },
     "id": 401022533,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T01:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-2",
       "nameRaw": "Boise State",
-      "currentScore": "0",
+      "currentScore": "31",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Nevada",
-      "currentScore": "0",
+      "currentScore": "27",
       "teamRank": 99
     },
     "id": 401022534,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-14T02:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-3",
       "nameRaw": "New Mexico",
-      "currentScore": "0",
+      "currentScore": "18",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "3-4",
       "nameRaw": "Colorado State",
-      "currentScore": "0",
+      "currentScore": "20",
       "teamRank": 99
     },
     "id": 401022535,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T20:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-4",
       "nameRaw": "UNLV",
-      "currentScore": "0",
+      "currentScore": "28",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Utah State",
-      "currentScore": "0",
+      "currentScore": "59",
       "teamRank": 99
     },
     "id": 401022536,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-13T20:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "2-5",
       "nameRaw": "Wyoming",
-      "currentScore": "0",
+      "currentScore": "3",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "5-1",
       "nameRaw": "Fresno State",
-      "currentScore": "0",
+      "currentScore": "27",
       "teamRank": 99
     },
     "id": 401022537,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-10-14T02:30Z"
   }
 ]
