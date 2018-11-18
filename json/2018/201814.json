@@ -2,7 +2,7 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Northern Illinois",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -25,7 +25,7 @@
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Pittsburgh",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -59,7 +59,7 @@
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "UCF",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -104,7 +104,7 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Northwestern",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -133,7 +133,7 @@
     },
     "id": 401056703,
     "gameState": "Scheduled",
-    "startDate": "2018-12-01T05:00Z"
+    "startDate": "2018-12-01T18:30Z"
   },
   {
     "away": {
@@ -236,5 +236,22 @@
     "id": 401098253,
     "gameState": "Scheduled",
     "startDate": "2018-12-01T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Stanford",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "California",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401099853,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-01T20:00Z"
   }
 ]
