@@ -2,24 +2,7 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "Northern Illinois",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "home": {
-      "description": "",
-      "nameRaw": "TBD",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "id": 401056696,
-    "gameState": "Scheduled",
-    "startDate": "2018-12-01T00:00Z"
-  },
-  {
-    "away": {
-      "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Clemson",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -36,13 +19,13 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Texas",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Oklahoma",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -53,7 +36,7 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Memphis",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -70,13 +53,13 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Fresno State",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Boise State",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -87,13 +70,13 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Louisiana",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Appalachian State",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -110,24 +93,24 @@
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Ohio State",
       "currentScore": "0",
       "teamRank": 99
     },
     "id": 401056702,
     "gameState": "Scheduled",
-    "startDate": "2018-12-01T05:00Z"
+    "startDate": "2018-12-02T01:00Z"
   },
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "UAB",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Middle Tennessee",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -138,13 +121,13 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Utah",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Washington",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -189,7 +172,7 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "Incarnate Word",
+      "nameRaw": "Drake",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -201,7 +184,7 @@
     },
     "id": 401082044,
     "gameState": "Scheduled",
-    "startDate": "2018-12-01T19:00Z"
+    "startDate": "2018-12-01T17:00Z"
   },
   {
     "away": {
@@ -253,5 +236,90 @@
     "id": 401099853,
     "gameState": "Scheduled",
     "startDate": "2018-12-01T20:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Eastern Washington",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401100047,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-01T22:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Jacksonville State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Maine",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401100049,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-01T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Marshall",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Virginia Tech",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401100159,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-01T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Valdosta State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401100860,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-01T05:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "University of Mount Union",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401100863,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-01T05:00Z"
   }
 ]
