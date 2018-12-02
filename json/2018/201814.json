@@ -1,274 +1,274 @@
 [
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Northern Illinois",
-      "currentScore": "0",
+      "currentScore": "30",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "Buffalo",
-      "currentScore": "0",
+      "currentScore": "29",
       "teamRank": 99
     },
     "id": 401056696,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T00:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "13-0",
       "nameRaw": "Clemson",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "42",
+      "teamRank": 2
     },
     "home": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Pittsburgh",
-      "currentScore": "0",
+      "currentScore": "10",
       "teamRank": 99
     },
     "id": 401056697,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-02T01:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "Texas",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "27",
+      "teamRank": 14
     },
     "home": {
-      "description": "",
+      "description": "12-1",
       "nameRaw": "Oklahoma",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "39",
+      "teamRank": 5
     },
     "id": 401056698,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Memphis",
-      "currentScore": "0",
+      "currentScore": "41",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "12-0",
       "nameRaw": "UCF",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "56",
+      "teamRank": 8
     },
     "id": 401056699,
-    "gameState": "Scheduled",
-    "startDate": "2018-12-01T20:30Z"
+    "gameState": "Final",
+    "startDate": "2018-12-01T20:45Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "11-2",
       "nameRaw": "Fresno State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "19",
+      "teamRank": 25
     },
     "home": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "Boise State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "16",
+      "teamRank": 22
     },
     "id": 401056700,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-02T00:45Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Louisiana",
-      "currentScore": "0",
+      "currentScore": "19",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "10-2",
       "nameRaw": "Appalachian State",
-      "currentScore": "0",
+      "currentScore": "30",
       "teamRank": 99
     },
     "id": 401056701,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Northwestern",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "24",
+      "teamRank": 21
     },
     "home": {
-      "description": "",
+      "description": "12-1",
       "nameRaw": "Ohio State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "45",
+      "teamRank": 6
     },
     "id": 401056702,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-02T01:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "UAB",
-      "currentScore": "0",
+      "currentScore": "27",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Middle Tennessee",
-      "currentScore": "0",
+      "currentScore": "25",
       "teamRank": 99
     },
     "id": 401056703,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T18:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "Utah",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "3",
+      "teamRank": 17
     },
     "home": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "Washington",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "10",
+      "teamRank": 11
     },
     "id": 401056704,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T01:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "13-0",
       "nameRaw": "Alabama",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "35",
+      "teamRank": 1
     },
     "home": {
-      "description": "",
+      "description": "11-2",
       "nameRaw": "Georgia",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "28",
+      "teamRank": 4
     },
     "id": 401056705,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T21:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-7",
       "nameRaw": "Norfolk State",
-      "currentScore": "0",
+      "currentScore": "17",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "6-6",
       "nameRaw": "Liberty",
-      "currentScore": "0",
+      "currentScore": "52",
       "teamRank": 99
     },
     "id": 401081953,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T19:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "7-4",
       "nameRaw": "Drake",
-      "currentScore": "0",
+      "currentScore": "24",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "8-4",
       "nameRaw": "Iowa State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "27",
+      "teamRank": 23
     },
     "id": 401082044,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "3-9",
       "nameRaw": "East Carolina",
-      "currentScore": "0",
+      "currentScore": "3",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "9-3",
       "nameRaw": "NC State",
-      "currentScore": "0",
+      "currentScore": "58",
       "teamRank": 99
     },
     "id": 401088766,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "4-8",
       "nameRaw": "Akron",
-      "currentScore": "0",
+      "currentScore": "3",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-5",
       "nameRaw": "South Carolina",
-      "currentScore": "0",
+      "currentScore": "28",
       "teamRank": 99
     },
     "id": 401098253,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "8-4",
       "nameRaw": "Stanford",
-      "currentScore": "0",
+      "currentScore": "23",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-5",
       "nameRaw": "California",
-      "currentScore": "0",
+      "currentScore": "13",
       "teamRank": 99
     },
     "id": 401099853,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T20:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "8-4",
       "nameRaw": "Marshall",
-      "currentScore": "0",
+      "currentScore": "20",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "6-6",
       "nameRaw": "Virginia Tech",
-      "currentScore": "0",
+      "currentScore": "41",
       "teamRank": 99
     },
     "id": 401100159,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-01T17:00Z"
   }
 ]
