@@ -1,0 +1,716 @@
+[
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "North Texas",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Utah State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032054,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-15T19:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Fresno State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Arizona State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032055,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-15T20:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Georgia Southern",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Eastern Michigan",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032056,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-15T22:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Middle Tennessee",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Appalachian State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032057,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-16T02:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "UAB",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Northern Illinois",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032058,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-19T00:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "San Diego State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Ohio",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032059,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-20T01:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Marshall",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "South Florida",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032060,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-21T01:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Florida Intl",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Toledo",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032061,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-21T17:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Western Michigan",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "BYU",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032062,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-21T21:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Memphis",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Wake Forest",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032063,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-22T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Houston",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Army",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032064,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-22T20:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Buffalo",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Troy",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032065,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-23T00:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Hawai'i",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Louisiana Tech",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032066,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-23T03:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Boston College",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Boise State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032067,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-26T18:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Minnesota",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Georgia Tech",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032068,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-26T22:15Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "California",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "TCU",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032069,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-27T02:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Temple",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Duke",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032070,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-27T18:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Miami",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Wisconsin",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032071,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-27T22:15Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Baylor",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Vanderbilt",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032072,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-28T02:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Purdue",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Auburn",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032073,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-28T18:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "West Virginia",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Syracuse",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032074,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-28T22:15Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Iowa State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Washington State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032075,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-29T02:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Florida",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Michigan",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032076,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-29T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "South Carolina",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Virginia",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032077,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-29T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Oklahoma",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Alabama",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032078,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-30T01:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Notre Dame",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Clemson",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032079,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-29T21:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Cincinnati",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Virginia Tech",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032080,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-31T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Missouri",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Oklahoma State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032081,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-31T20:45Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "NC State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Texas A&M",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032082,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-01T00:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Mississippi State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Iowa",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032083,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-01T17:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "LSU",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "UCF",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032084,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-01T18:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Washington",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Ohio State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032085,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-01T22:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Texas",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Georgia",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032086,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-02T01:45Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032087,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-08T01:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Kentucky",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Penn State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401032088,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-01T18:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Northwestern",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Utah",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401035250,
+    "gameState": "Scheduled",
+    "startDate": "2019-01-01T00:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Stanford",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Pittsburgh",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401035251,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-31T19:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Arkansas State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Nevada",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401035252,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-29T18:15Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Tulane",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Louisiana",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401035253,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-15T18:30Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "Michigan State",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "Oregon",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401035254,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-31T20:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401069495,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-15T05:00Z"
+  },
+  {
+    "away": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "home": {
+      "description": "",
+      "nameRaw": "TBD",
+      "currentScore": "0",
+      "teamRank": 99
+    },
+    "id": 401099013,
+    "gameState": "Scheduled",
+    "startDate": "2018-12-14T05:00Z"
+  }
+]
