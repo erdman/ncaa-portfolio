@@ -19,13 +19,13 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "Fresno State",
+      "nameRaw": "Arizona State",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
       "description": "",
-      "nameRaw": "Arizona State",
+      "nameRaw": "Fresno State",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -678,39 +678,5 @@
     "id": 401035254,
     "gameState": "Scheduled",
     "startDate": "2018-12-31T20:00Z"
-  },
-  {
-    "away": {
-      "description": "",
-      "nameRaw": "TBD",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "home": {
-      "description": "",
-      "nameRaw": "TBD",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "id": 401069495,
-    "gameState": "Scheduled",
-    "startDate": "2018-12-15T05:00Z"
-  },
-  {
-    "away": {
-      "description": "",
-      "nameRaw": "TBD",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "home": {
-      "description": "",
-      "nameRaw": "TBD",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "id": 401099013,
-    "gameState": "Scheduled",
-    "startDate": "2018-12-14T05:00Z"
   }
 ]
