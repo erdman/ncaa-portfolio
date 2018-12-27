@@ -231,44 +231,44 @@
       "description": "",
       "nameRaw": "Boise State",
       "currentScore": "0",
-      "teamRank": 99
+      "teamRank": 25
     },
     "id": 401032067,
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "startDate": "2018-12-26T18:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Minnesota",
-      "currentScore": "0",
+      "currentScore": "34",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Georgia Tech",
-      "currentScore": "0",
+      "currentScore": "10",
       "teamRank": 99
     },
     "id": 401032068,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-26T22:15Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "California",
-      "currentScore": "0",
+      "currentScore": "7",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "TCU",
-      "currentScore": "0",
+      "currentScore": "10",
       "teamRank": 99
     },
     "id": 401032069,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-27T02:00Z"
   },
   {
