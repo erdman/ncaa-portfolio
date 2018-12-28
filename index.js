@@ -113,7 +113,7 @@ function load_data(publish_continuation) {
             game.id = parseInt(game.id, 10);
             game.displayString = stringifyGame(game);
 
-            if (game.gameState === 'Scheduled' || game.gameState === 'Final') {
+            if (game.gameState === 'Scheduled' || game.gameState === 'Final' || game.week === 16) {
                 if (fbs_name_set.has(game.away.nameRaw)) {
                     // add blank bye weeks
                     while (fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
@@ -137,16 +137,7 @@ function load_data(publish_continuation) {
                 }
             }
 
-            if (game.gameState === 'Scheduled') {
-                if (fbs_name_set.has(game.away.nameRaw)) {
-                    fbs[game.away.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'Scheduled', displayString: fbs_name_set.has(game.home.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.home.nameRaw)}>at ${game.home.nameRaw}</a>` : `at ${game.home.nameRaw}` });
-                }
-                if (fbs_name_set.has(game.home.nameRaw)) {
-                    fbs[game.home.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'Scheduled', displayString: fbs_name_set.has(game.away.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.away.nameRaw)}>${game.away.nameRaw}</a>` : `${game.away.nameRaw}` });
-                }
-            }
-
-            else if (game.gameState === 'Final') {
+            if (game.gameState === 'Final') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
                     let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
                     score.week = Math.max(game.week, fbs[game.away.nameRaw].games.slice(-1)[0].week + 1);
@@ -159,6 +150,23 @@ function load_data(publish_continuation) {
                     score.week = Math.max(game.week, fbs[game.home.nameRaw].games.slice(-1)[0].week + 1);
                     fbs[game.home.nameRaw].games.push(score);
                     fbs[game.home.nameRaw].points += score.total;
+                }
+            }
+
+            // all completed games will be processed above in Final; this processes both Scheduled (all weeks) and Cancelled/Postponed week 16 bowl games
+            else if (game.gameState === 'Scheduled' || game.week === 16) {
+                const bonus = game.week === 16 ?
+                    (!new_years_six.championships.has(game.id) ? 10 : 0) +
+                    (new_years_six.playoffs.has(game.id) ? 6 : 0) +
+                    (new_years_six.new_years_fours.has(game.id) ? 3 : 0)
+                    : null;
+                if (fbs_name_set.has(game.away.nameRaw)) {
+                    fbs[game.away.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'Scheduled', bowl: bonus, total: bonus, displayString: fbs_name_set.has(game.home.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.home.nameRaw)}>at ${game.home.nameRaw}</a>` : `at ${game.home.nameRaw}` });
+                    fbs[game.away.nameRaw].points += bonus;
+                }
+                if (fbs_name_set.has(game.home.nameRaw)) {
+                    fbs[game.home.nameRaw].games.push({...nullGame, week: game.week, startDate: game.startDate, gameState: 'Scheduled', bowl: bonus, total: bonus, displayString: fbs_name_set.has(game.away.nameRaw) ? `<a href=#Details/${year}/${encodeURI(game.away.nameRaw)}>${game.away.nameRaw}</a>` : `${game.away.nameRaw}` });
+                    fbs[game.home.nameRaw].points += bonus;
                 }
             }
         });
