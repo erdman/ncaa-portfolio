@@ -273,172 +273,172 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Temple",
-      "currentScore": "0",
+      "currentScore": "27",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Duke",
-      "currentScore": "0",
+      "currentScore": "56",
       "teamRank": 99
     },
     "id": 401032070,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-27T18:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Miami",
-      "currentScore": "0",
+      "currentScore": "3",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Wisconsin",
-      "currentScore": "0",
+      "currentScore": "35",
       "teamRank": 99
     },
     "id": 401032071,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-27T22:15Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Baylor",
-      "currentScore": "0",
+      "currentScore": "45",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "6-7",
       "nameRaw": "Vanderbilt",
-      "currentScore": "0",
+      "currentScore": "38",
       "teamRank": 99
     },
     "id": 401032072,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-28T02:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "6-7",
       "nameRaw": "Purdue",
-      "currentScore": "0",
+      "currentScore": "14",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Auburn",
-      "currentScore": "0",
+      "currentScore": "63",
       "teamRank": 99
     },
     "id": 401032073,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-28T18:30Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "8-4",
       "nameRaw": "West Virginia",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "18",
+      "teamRank": 16
     },
     "home": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "Syracuse",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "34",
+      "teamRank": 20
     },
     "id": 401032074,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-28T22:15Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Iowa State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "26",
+      "teamRank": 24
     },
     "home": {
-      "description": "",
+      "description": "11-2",
       "nameRaw": "Washington State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "28",
+      "teamRank": 13
     },
     "id": 401032075,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-29T02:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "Florida",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "41",
+      "teamRank": 10
     },
     "home": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "Michigan",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "15",
+      "teamRank": 7
     },
     "id": 401032076,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-29T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "South Carolina",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Virginia",
-      "currentScore": "0",
+      "currentScore": "28",
       "teamRank": 99
     },
     "id": 401032077,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-29T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "12-2",
       "nameRaw": "Oklahoma",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "34",
+      "teamRank": 4
     },
     "home": {
-      "description": "",
+      "description": "14-0",
       "nameRaw": "Alabama",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "45",
+      "teamRank": 1
     },
     "id": 401032078,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-30T01:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "12-1",
       "nameRaw": "Notre Dame",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "3",
+      "teamRank": 3
     },
     "home": {
-      "description": "",
+      "description": "14-0",
       "nameRaw": "Clemson",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "30",
+      "teamRank": 2
     },
     "id": 401032079,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-29T21:00Z"
   },
   {
@@ -563,13 +563,13 @@
   {
     "away": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Clemson",
       "currentScore": "0",
       "teamRank": 99
     },
     "home": {
       "description": "",
-      "nameRaw": "TBD",
+      "nameRaw": "Alabama",
       "currentScore": "0",
       "teamRank": 99
     },
@@ -630,19 +630,19 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Arkansas State",
-      "currentScore": "0",
+      "currentScore": "13",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Nevada",
-      "currentScore": "0",
+      "currentScore": "16",
       "teamRank": 99
     },
     "id": 401035252,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-29T18:15Z"
   },
   {
