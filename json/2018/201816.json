@@ -443,53 +443,53 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "11-2",
       "nameRaw": "Cincinnati",
-      "currentScore": "0",
+      "currentScore": "35",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "6-7",
       "nameRaw": "Virginia Tech",
-      "currentScore": "0",
+      "currentScore": "31",
       "teamRank": 99
     },
     "id": 401032080,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-31T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Missouri",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "33",
+      "teamRank": 23
     },
     "home": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Oklahoma State",
-      "currentScore": "0",
+      "currentScore": "38",
       "teamRank": 99
     },
     "id": 401032081,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-31T20:45Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "NC State",
-      "currentScore": "0",
+      "currentScore": "13",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "Texas A&M",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "52",
+      "teamRank": 19
     },
     "id": 401032082,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-01T00:30Z"
   },
   {
@@ -596,36 +596,36 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "9-5",
       "nameRaw": "Northwestern",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "31",
+      "teamRank": 22
     },
     "home": {
-      "description": "",
+      "description": "9-5",
       "nameRaw": "Utah",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "20",
+      "teamRank": 17
     },
     "id": 401035250,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-01T00:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "Stanford",
-      "currentScore": "0",
+      "currentScore": "14",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "7-7",
       "nameRaw": "Pittsburgh",
-      "currentScore": "0",
+      "currentScore": "13",
       "teamRank": 99
     },
     "id": 401035251,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-31T19:00Z"
   },
   {
@@ -664,19 +664,19 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "7-6",
       "nameRaw": "Michigan State",
-      "currentScore": "0",
+      "currentScore": "6",
       "teamRank": 99
     },
     "home": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "Oregon",
-      "currentScore": "0",
+      "currentScore": "7",
       "teamRank": 99
     },
     "id": 401035254,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2018-12-31T20:00Z"
   }
 ]
