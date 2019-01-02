@@ -494,70 +494,70 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "8-5",
       "nameRaw": "Mississippi State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "22",
+      "teamRank": 18
     },
     "home": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "Iowa",
-      "currentScore": "0",
+      "currentScore": "27",
       "teamRank": 99
     },
     "id": 401032083,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-01T17:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "LSU",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "40",
+      "teamRank": 11
     },
     "home": {
-      "description": "",
+      "description": "12-1",
       "nameRaw": "UCF",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "32",
+      "teamRank": 8
     },
     "id": 401032084,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-01T18:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "10-4",
       "nameRaw": "Washington",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "23",
+      "teamRank": 9
     },
     "home": {
-      "description": "",
+      "description": "13-1",
       "nameRaw": "Ohio State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "28",
+      "teamRank": 6
     },
     "id": 401032085,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-01T22:00Z"
   },
   {
     "away": {
-      "description": "",
+      "description": "10-4",
       "nameRaw": "Texas",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "28",
+      "teamRank": 15
     },
     "home": {
-      "description": "",
+      "description": "11-3",
       "nameRaw": "Georgia",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "21",
+      "teamRank": 5
     },
     "id": 401032086,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-02T01:45Z"
   },
   {
@@ -579,19 +579,19 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "10-3",
       "nameRaw": "Kentucky",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "27",
+      "teamRank": 14
     },
     "home": {
-      "description": "",
+      "description": "9-4",
       "nameRaw": "Penn State",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "24",
+      "teamRank": 12
     },
     "id": 401032088,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-01T18:00Z"
   },
   {
