@@ -562,19 +562,19 @@
   },
   {
     "away": {
-      "description": "",
+      "description": "15-0",
       "nameRaw": "Clemson",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "44",
+      "teamRank": 2
     },
     "home": {
-      "description": "",
+      "description": "14-1",
       "nameRaw": "Alabama",
-      "currentScore": "0",
-      "teamRank": 99
+      "currentScore": "16",
+      "teamRank": 1
     },
     "id": 401032087,
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "startDate": "2019-01-08T01:00Z"
   },
   {
