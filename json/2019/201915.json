@@ -1,172 +1,19 @@
 [
   {
-    "startDate": "2019-12-07T01:00Z",
-    "gameState": "Scheduled",
-    "id": 401132973,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
     "away": {
-      "teamRank": 99,
+      "description": "",
+      "nameRaw": "Army",
       "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401132974,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
+      "teamRank": 99
     },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401132975,
     "home": {
-      "teamRank": 99,
+      "description": "",
+      "nameRaw": "Navy",
       "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
+      "teamRank": 99
     },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T20:30Z",
+    "id": 401114335,
     "gameState": "Scheduled",
-    "id": 401132976,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T21:00Z",
-    "gameState": "Scheduled",
-    "id": 401132979,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401132980,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401132981,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T17:00Z",
-    "gameState": "Scheduled",
-    "id": 401132982,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-08T01:00Z",
-    "gameState": "Scheduled",
-    "id": 401132983,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2019-12-07T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401132984,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
+    "startDate": "2019-12-14T20:00Z"
   }
 ]
