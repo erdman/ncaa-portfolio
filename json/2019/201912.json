@@ -1,0 +1,937 @@
+[
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401110849,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Auburn",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401110850,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ole Miss",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "LSU",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401110851,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Mississippi State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Alabama",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401110852,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Missouri",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Florida",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401110853,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas A&M",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Carolina",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401110854,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Vanderbilt",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Kentucky",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112082,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Baylor",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Oklahoma",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112093,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Iowa State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112105,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Oklahoma State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Kansas",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112112,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Kansas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "West Virginia",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112133,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas Tech",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TCU",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112166,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Penn State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Indiana",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112199,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Iowa",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Minnesota",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112219,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Michigan",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Michigan State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112244,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Nebraska",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Wisconsin",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112250,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Northwestern",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UMass",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112255,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Rutgers",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ohio State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-15T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401112507,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Pittsburgh",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "North Carolina",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112508,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Clemson",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Wake Forest",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112509,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Duke",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Syracuse",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112510,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Florida State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Alabama State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112511,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia Tech",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Virginia Tech",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401112512,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "NC State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisville",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401114161,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Oregon State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arizona State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401114172,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Oregon",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arizona",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401114181,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "California",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "USC",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401114216,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Utah",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UCLA",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401114231,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Washington State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Stanford",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401114309,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Marshall",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana Tech",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T21:30Z",
+    "gameState": "Scheduled",
+    "id": 401114310,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Middle Tennessee",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Rice",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T23:00Z",
+    "gameState": "Scheduled",
+    "id": 401114311,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UTSA",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Southern Mississippi",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401114312,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UAB",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UTEP",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401114333,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "VMI",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T19:30Z",
+    "gameState": "Scheduled",
+    "id": 401114338,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Notre Dame",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Navy",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T21:00Z",
+    "gameState": "Scheduled",
+    "id": 401114345,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "New Mexico State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Incarnate Word",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T20:00Z",
+    "gameState": "Scheduled",
+    "id": 401117217,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "BYU",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Idaho State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401117544,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Colorado State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Air Force",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401117545,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Boise State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "New Mexico",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401117546,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Utah State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Wyoming",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T02:30Z",
+    "gameState": "Scheduled",
+    "id": 401117547,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "San Diego State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Fresno State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T22:00Z",
+    "gameState": "Scheduled",
+    "id": 401117548,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UNLV",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Hawai'i",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401117903,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Florida",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Cincinnati",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401117904,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Houston",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Memphis",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401117905,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Temple",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulane",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401119299,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Akron",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Eastern Michigan",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401119300,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ohio",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Western Michigan",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-14T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401119301,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Miami (OH)",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Bowling Green",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-14T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401119302,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Toledo",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Northern Illinois",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-15T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401119303,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Kent State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Buffalo",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401119304,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ball State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Central Michigan",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T19:00Z",
+    "gameState": "Scheduled",
+    "id": 401121968,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Appalachian State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T20:00Z",
+    "gameState": "Scheduled",
+    "id": 401121969,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Coastal Carolina",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401121970,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia Southern",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UL Monroe",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401121971,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Alabama",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-11-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401121972,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Troy",
+      "description": ""
+    }
+  }
+]

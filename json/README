@@ -44,3 +44,7 @@ sed -i -s -f translate-ncaa-to-espn.sed test*.json
 # in future, if ESPN changes the spelling of a single school, you can change it with a oneliner, even if not noticed until season underway:
 sed -s -i s/"UT San Antonio"/"UTSA"/g portfolios-2018.json fbs-2018.json
 sed -s -i s/"Louisiana Monroe"/"UL Monroe"/g portfolios-2018.json fbs-2018.json
+
+### 2019 updates
+cut -f -3 -d ',' fbs-2019.csv | csvjson | jq '.' > 2019/fbs-2019.json
+
