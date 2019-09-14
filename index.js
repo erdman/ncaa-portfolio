@@ -187,10 +187,10 @@ function load_data(publish_continuation) {
             return diff_points !== 0 ? diff_points : x < y ? -1 : x > y ? 1 : 0;
         });
         if (portfolios.length) {
-			portfolios[0].rank = 1;
-			// index of the slice is zero-based, but slice starts at element [1], so portfolios[index] is the list item previous
-			portfolios.slice(1).forEach((portfolio, index) => {portfolio.rank = portfolio.score.points === portfolios[index].score.points ? portfolios[index].rank : index + 2;});
-		}
+            portfolios[0].rank = 1;
+            // index of the slice is zero-based, but slice starts at element [1], so portfolios[index] is the list item previous
+            portfolios.slice(1).forEach((portfolio, index) => {portfolio.rank = portfolio.score.points === portfolios[index].score.points ? portfolios[index].rank : index + 2;});
+        }
         globaldata[year] = {fbs, portfolios, fbs_name_set};
         publish_continuation();
     });
@@ -343,7 +343,7 @@ function reloadDataTable() {
 
 
 let globaldata = {};
-window.location.hash = window.location.hash || "#Summary/2019";  // sets hash to default if no hash given
+window.location.hash = window.location.hash || "#Leaderboard/2019";  // sets hash to default if no hash given
 $("#year").val(window.location.hash.split('/')[1] || '2019');        // sets year dropdown to value in hash or default if no year hash given
 console.log('intial hash: ', window.location.hash);
 let promise = load_data(establish_datatables);
