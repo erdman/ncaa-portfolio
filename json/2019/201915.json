@@ -1,19 +1,189 @@
 [
   {
-    "away": {
-      "description": "",
-      "nameRaw": "Army",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "home": {
-      "description": "",
-      "nameRaw": "Navy",
-      "currentScore": "0",
-      "teamRank": 99
-    },
-    "id": 401114335,
+    "startDate": "2019-12-14T20:00Z",
     "gameState": "Scheduled",
-    "startDate": "2019-12-14T20:00Z"
+    "id": 401114335,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Navy",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401132973,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401132974,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401132975,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T20:30Z",
+    "gameState": "Scheduled",
+    "id": 401132976,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T21:00Z",
+    "gameState": "Scheduled",
+    "id": 401132979,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401132980,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401132981,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401132982,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-08T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401132983,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2019-12-07T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401132984,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
   }
 ]

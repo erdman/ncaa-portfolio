@@ -1,1260 +1,1260 @@
 [
   {
     "startDate": "2019-09-07T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110773,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "62",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110774,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "24",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110775,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "45",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "UT Martin",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110776,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "63",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Murray State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110777,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110778,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "38",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "45",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110779,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Arkansas",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110780,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "Southern Mississippi",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110781,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110782,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "72",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Charleston Southern",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110783,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Tennessee",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110784,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "24",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "10",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401110785,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112074,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "63",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112097,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Kansas",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "12",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112107,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Bowling Green",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112115,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "70",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "South Dakota",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112123,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "56",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "McNeese",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-08T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112140,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112146,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112158,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Eastern Illinois",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112192,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "30",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112202,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "63",
       "nameRaw": "Maryland",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "20",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112213,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "51",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112223,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "24",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Army",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-08T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112230,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112239,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Colorado",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "31",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112252,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "42",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112258,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 15,
+      "currentScore": "45",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112268,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "61",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Central Michigan",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112437,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "William & Mary",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112438,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Boston College",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Richmond",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112439,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "North Carolina A&T",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112440,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "UL Monroe",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112441,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "South Florida",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112442,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Eastern Kentucky",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-08T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112443,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T16:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112444,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Western Carolina",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T15:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112445,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401112446,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
-    "startDate": "2019-09-08T00:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2019-09-07T00:00Z",
+    "gameState": "Final",
     "id": 401112447,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114154,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Arizona State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Sacramento State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-08T02:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114165,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "65",
       "nameRaw": "Arizona",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Northern Arizona",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-08T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114175,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "19",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "California",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114193,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "77",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-08T03:59Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114200,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-08T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114207,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "USC",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "20",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T20:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114214,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "UCLA",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114224,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "35",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114229,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "59",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Northern Colorado",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114247,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "56",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114248,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114249,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "48",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114250,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Grambling",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114251,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "14",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114252,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Tennessee State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114253,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114254,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Akron",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114347,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401114354,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "UMass",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Southern Illinois",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117498,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Colorado State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Western Illinois",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117499,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "62",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Stony Brook",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117500,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2019-09-08T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117501,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "San Jose State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-08T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117502,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "43",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117860,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "East Carolina",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Gardner-Webb",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-08T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117861,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Prairie View",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401117862,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "55",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Southern",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401119260,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "57",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Fordham",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2019-09-07T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401119261,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Kennesaw State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T18:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401119262,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Tennessee Tech",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401121936,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "18",
       "nameRaw": "Maine",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401121937,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Furman",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2019-09-07T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401121938,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Jackson State",
-      "description": ""
+      "description": "0-2"
     }
   }
 ]
