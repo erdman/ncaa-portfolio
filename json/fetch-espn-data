@@ -2,10 +2,10 @@
 
 # Usage:
 # first command line argument for shell script is YEAR, second command line argument is WEEK, where 16 is postseason bowl games ("P") and 00 is all weeks
-# ./fetch-ncaa-data YEAR WEEK
-# ./fetch-ncaa-data 2017 3  #fetch week 3 in 2017 game data
-# ./fetch-ncaa-data 2017 16 #fetch postseason bowlgames 2017 game data
-# ./fetch-ncaa-data 2017 0  # fetch all weeks in 2017
+# ./fetch-espn-data YEAR WEEK
+# ./fetch-espn-data 2017 3  #fetch week 3 in 2017 game data
+# ./fetch-espn-data 2017 16 #fetch postseason bowlgames 2017 game data
+# ./fetch-espn-data 2017 0  # fetch all weeks in 2017
 
 set -e
 
