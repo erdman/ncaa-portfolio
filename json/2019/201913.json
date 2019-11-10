@@ -1069,5 +1069,22 @@
       "nameRaw": "Troy",
       "description": ""
     }
+  },
+  {
+    "startDate": "2019-11-23T19:00Z",
+    "gameState": "Scheduled",
+    "id": 401183793,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "New Mexico",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Air Force",
+      "description": ""
+    }
   }
 ]
