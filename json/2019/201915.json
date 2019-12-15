@@ -168,5 +168,22 @@
       "nameRaw": "Louisiana",
       "description": "10-3"
     }
+  },
+  {
+    "startDate": "2019-12-14T20:00Z",
+    "gameState": "Final",
+    "id": 401114335,
+    "home": {
+      "teamRank": 23,
+      "currentScore": "31",
+      "nameRaw": "Navy",
+      "description": "10-2"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "7",
+      "nameRaw": "Army",
+      "description": "5-8"
+    }
   }
 ]
