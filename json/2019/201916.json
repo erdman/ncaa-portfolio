@@ -1,121 +1,121 @@
 [
   {
     "startDate": "2019-12-20T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135260,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2019-12-21T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135261,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "51",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2019-12-21T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135263,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "11",
       "nameRaw": "Central Michigan",
-      "description": ""
+      "description": "8-6"
     }
   },
   {
     "startDate": "2019-12-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135264,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "11-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2019-12-21T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135265,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
     "startDate": "2019-12-22T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135266,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "7",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "12-2"
     }
   },
   {
     "startDate": "2019-12-22T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135267,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "9-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "31",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "13-1"
     }
   },
   {
@@ -647,19 +647,19 @@
   },
   {
     "startDate": "2019-12-21T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401147693,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 0,
+      "currentScore": "16",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 0,
+      "currentScore": "23",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
