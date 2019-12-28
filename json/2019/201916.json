@@ -120,138 +120,138 @@
   },
   {
     "startDate": "2019-12-23T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135268,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2019-12-25T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135269,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "10-5"
     }
   },
   {
     "startDate": "2019-12-26T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135270,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2019-12-27T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135271,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2019-12-27T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135272,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Temple",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "55",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2019-12-27T20:20Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135273,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2019-12-27T23:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135274,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "21",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2019-12-28T03:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135275,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
@@ -596,19 +596,19 @@
   },
   {
     "startDate": "2019-12-28T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401136253,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "49",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "24",
       "nameRaw": "USC",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
@@ -650,13 +650,13 @@
     "gameState": "Final",
     "id": 401147693,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "16",
       "nameRaw": "Georgia Southern",
       "description": "7-6"
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "23",
       "nameRaw": "Liberty",
       "description": "8-5"
