@@ -256,70 +256,70 @@
   },
   {
     "startDate": "2019-12-28T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135276,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 15,
+      "currentScore": "33",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2019-12-28T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135277,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "53",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "39",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "12-2"
     }
   },
   {
-    "startDate": "2019-12-28T21:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2019-12-28T21:20Z",
+    "gameState": "Final",
     "id": 401135278,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "63",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "14-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "28",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "12-2"
     }
   },
   {
-    "startDate": "2019-12-29T01:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2019-12-29T01:20Z",
+    "gameState": "Final",
     "id": 401135279,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "23",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "13-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "29",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "14-0"
     }
   },
   {
@@ -584,13 +584,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "LSU",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Clemson",
       "description": ""
     }
   },
