@@ -324,104 +324,104 @@
   },
   {
     "startDate": "2019-12-30T17:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135280,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2019-12-30T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135281,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
     "startDate": "2019-12-31T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135282,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "28",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "9-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "36",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2019-12-31T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135283,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2019-12-31T20:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135284,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "20",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2020-01-01T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135285,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "10",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "11-3"
     }
   },
   {
@@ -613,36 +613,36 @@
   },
   {
     "startDate": "2019-12-30T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401136254,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "California",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2019-12-31T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401136255,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Arizona State",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
@@ -664,19 +664,19 @@
   },
   {
     "startDate": "2019-12-31T21:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401147695,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "8-5"
     }
   }
 ]
