@@ -426,70 +426,70 @@
   },
   {
     "startDate": "2020-01-01T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135286,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "35",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "16",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2020-01-01T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135287,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "24",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "31",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
-    "startDate": "2020-01-01T22:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-01-01T22:10Z",
+    "gameState": "Final",
     "id": 401135288,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "27",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "10-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "28",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "12-2"
     }
   },
   {
     "startDate": "2020-01-02T01:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135289,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "14",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "11-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "26",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "12-2"
     }
   },
   {
