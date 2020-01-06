@@ -528,36 +528,36 @@
   },
   {
     "startDate": "2020-01-03T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135292,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2020-01-04T16:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135293,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Southern Mississippi",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
