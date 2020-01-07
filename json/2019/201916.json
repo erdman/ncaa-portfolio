@@ -562,19 +562,19 @@
   },
   {
     "startDate": "2020-01-07T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135294,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "8-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "11-3"
     }
   },
   {
