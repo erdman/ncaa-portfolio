@@ -579,19 +579,19 @@
   },
   {
     "startDate": "2020-01-14T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401135295,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "42",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "15-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "25",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "14-1"
     }
   },
   {
