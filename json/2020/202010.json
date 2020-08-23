@@ -899,5 +899,22 @@
       "nameRaw": "Texas A&M",
       "description": ""
     }
+  },
+  {
+    "startDate": "2020-11-07T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240035,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Southern Mississippi",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "North Alabama",
+      "description": ""
+    }
   }
 ]

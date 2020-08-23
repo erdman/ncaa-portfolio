@@ -18,7 +18,7 @@ Cincinnati,American,8,8,1,9
 East Carolina,American,1,10,0,10
 Houston,American,5,11,0,11
 Memphis,American,10,10,0,10
-Navy,American,8,11,0,11
+Navy,American,8,10,0,10
 SMU,American,9,11,1,12
 South Florida,American,1,9,1,10
 Temple,American,2,8,0,8
@@ -48,10 +48,9 @@ UAB,C-USA,10,10,1,11
 UTEP,C-USA,1,9,2,11
 UTSA,C-USA,2,10,1,11
 Western Kentucky,C-USA,7,10,0,10
-Army,Independent,4,8,2,10
-BYU,Independent,6,7,1,8
+Army,Independent,3,6,2,8
+BYU,Independent,7,7,1,8
 Liberty,Independent,2,8,2,10
-Air Force,MWC,2,2,0,2
 Alabama,SEC,11,10,0,10
 Arkansas,SEC,1,10,0,10
 Auburn,SEC,8,10,0,10
