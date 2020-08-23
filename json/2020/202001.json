@@ -1,0 +1,716 @@
+[
+  {
+    "startDate": "2020-09-03T04:00Z",
+    "gameState": "Postponed",
+    "id": 401207093,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Florida International",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Jacksonville State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401207095,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UNLV",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana Tech",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-08-29T04:00Z",
+    "gameState": "Postponed",
+    "id": 401207096,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "East Carolina",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Marshall",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401207098,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "North Texas",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Houston Baptist",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-04T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401207101,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Southern Mississippi",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Alabama",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-03T23:00Z",
+    "gameState": "Canceled",
+    "id": 401207102,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Western Kentucky",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Chattanooga",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-03T04:00Z",
+    "gameState": "Canceled",
+    "id": 401207221,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UConn",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UMass",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T23:00Z",
+    "gameState": "Scheduled",
+    "id": 401212484,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "SMU",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-03T04:00Z",
+    "gameState": "Canceled",
+    "id": 401212521,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulane",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "SE Louisiana",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401212528,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulsa",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Toledo",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-03T04:00Z",
+    "gameState": "Postponed",
+    "id": 401212549,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Houston",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Rice",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401212553,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Memphis",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-03T04:00Z",
+    "gameState": "Canceled",
+    "id": 401214954,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ball State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Maine",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-04T04:00Z",
+    "gameState": "Canceled",
+    "id": 401214955,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Western Michigan",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Stony Brook",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401214956,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ohio",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "North Carolina Central",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401214957,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Northern Illinois",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Rhode Island",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401214958,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Central Michigan",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "San Jose State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401214959,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Akron",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Youngstown State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-08-29T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215094,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "New Mexico",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Idaho State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-08-29T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215095,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Nevada",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UC Davis",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215097,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Air Force",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Duquesne",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215098,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Boise State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia Southern",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215099,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Wyoming",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Weber State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215100,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Fresno State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Idaho State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215101,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "San Diego State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Sacramento State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T19:30Z",
+    "gameState": "Canceled",
+    "id": 401215292,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Appalachian State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Morgan State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-03T23:00Z",
+    "gameState": "Canceled",
+    "id": 401215293,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Murray State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215294,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "McNeese",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401215295,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UL Monroe",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Cal Poly",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Postponed",
+    "id": 401215296,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Troy",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas-Pine Bluff",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-03T04:00Z",
+    "gameState": "Canceled",
+    "id": 401234473,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Illinois",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ohio State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-04T04:00Z",
+    "gameState": "Canceled",
+    "id": 401234474,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Wisconsin",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Indiana",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401234475,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Michigan State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Minnesota",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401234519,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Iowa",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Maryland",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401234520,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Rutgers",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Nebraska",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401234521,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Penn State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Northwestern",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Canceled",
+    "id": 401234522,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Michigan",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Purdue",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-08T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401234576,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Navy",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "BYU",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401235700,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Middle Tennessee",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-05T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401237353,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Marshall",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Eastern Kentucky",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-04T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401238035,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UAB",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Central Arkansas",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-06T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401239884,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UTEP",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Stephen F. Austin",
+      "description": ""
+    }
+  }
+]
