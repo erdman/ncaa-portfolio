@@ -16,20 +16,20 @@ Virginia Tech,ACC,9,11,0,11
 Wake Forest,ACC,2,10,0,10
 Cincinnati,American,8,8,1,9
 East Carolina,American,1,10,0,10
-Houston,American,5,11,0,11
-Memphis,American,10,10,0,10
+Houston,American,4,10,0,10
+Memphis,American,10,10,1,11
 Navy,American,8,10,0,10
 SMU,American,9,11,1,12
-South Florida,American,1,9,1,10
+South Florida,American,1,9,0,9
 Temple,American,2,8,0,8
 Tulane,American,5,11,0,11
 Tulsa,American,3,10,0,10
 UCF,American,10,9,0,9
-Baylor,Big 12,5,10,0,10
+Baylor,Big 12,4,9,0,9
 Iowa State,Big 12,7,10,0,10
 Kansas,Big 12,1,10,0,10
 Kansas State,Big 12,3,10,0,10
-Oklahoma,Big 12,11,9,1,10
+Oklahoma,Big 12,10,9,1,10
 Oklahoma State,Big 12,9,10,0,10
 TCU,Big 12,6,10,0,10
 Texas,Big 12,9,10,0,10
@@ -38,18 +38,18 @@ West Virginia,Big 12,3,9,1,10
 Charlotte,C-USA,4,11,0,11
 Florida Atlantic,C-USA,8,9,0,9
 Florida International,C-USA,3,8,0,8
-Louisiana Tech,C-USA,7,10,1,11
+Louisiana Tech,C-USA,6,8,1,9
 Marshall,C-USA,6,9,1,10
-Middle Tennessee,C-USA,5,10,0,10
+Middle Tennessee,C-USA,4,8,0,8
 North Texas,C-USA,2,10,1,11
-Rice,C-USA,2,10,0,10
+Rice,C-USA,2,8,0,8
 Southern Mississippi,C-USA,9,11,1,12
 UAB,C-USA,10,10,1,11
 UTEP,C-USA,1,9,2,11
-UTSA,C-USA,2,10,1,11
+UTSA,C-USA,2,9,0,9
 Western Kentucky,C-USA,7,10,0,10
-Army,Independent,3,6,2,8
-BYU,Independent,7,7,1,8
+Army,Independent,2,5,0,5
+BYU,Independent,5,5,0,5
 Liberty,Independent,2,8,2,10
 Alabama,SEC,11,10,0,10
 Arkansas,SEC,1,10,0,10
@@ -65,13 +65,13 @@ South Carolina,SEC,2,10,0,10
 Tennessee,SEC,6,10,0,10
 Texas A&M,SEC,8,10,0,10
 Vanderbilt,SEC,1,10,0,10
-Appalachian State,Sun Belt,11,10,1,11
-Arkansas State,Sun Belt,7,11,1,12
+Appalachian State,Sun Belt,10,9,1,10
+Arkansas State,Sun Belt,7,10,1,11
 Coastal Carolina,Sun Belt,3,10,0,10
 Georgia Southern,Sun Belt,6,10,1,11
 Georgia State,Sun Belt,3,10,0,10
-Louisiana,Sun Belt,9,10,1,11
+Louisiana,Sun Belt,9,10,0,10
 South Alabama,Sun Belt,2,11,0,11
-Texas State,Sun Belt,1,11,0,11
-Troy,Sun Belt,6,11,1,12
-UL Monroe,Sun Belt,1,11,0,11
+Texas State,Sun Belt,1,10,0,10
+Troy,Sun Belt,4,8,1,9
+UL Monroe,Sun Belt,1,8,0,8
