@@ -85,23 +85,6 @@
     }
   },
   {
-    "startDate": "2020-09-03T23:00Z",
-    "gameState": "Canceled",
-    "id": 401207102,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Western Kentucky",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Chattanooga",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-09-03T04:00Z",
     "gameState": "Canceled",
     "id": 401207221,
@@ -520,7 +503,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 2,
       "currentScore": "0",
       "nameRaw": "Ohio State",
       "description": ""
@@ -531,7 +514,7 @@
     "gameState": "Canceled",
     "id": 401234474,
     "home": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
@@ -554,7 +537,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""
@@ -565,7 +548,7 @@
     "gameState": "Canceled",
     "id": 401234519,
     "home": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -599,7 +582,7 @@
     "gameState": "Canceled",
     "id": 401234521,
     "home": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""
@@ -616,7 +599,7 @@
     "gameState": "Canceled",
     "id": 401234522,
     "home": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""

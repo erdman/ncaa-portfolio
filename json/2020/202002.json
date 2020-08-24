@@ -38,7 +38,7 @@
     "gameState": "Postponed",
     "id": 401207105,
     "home": {
-      "teamRank": 99,
+      "teamRank": 21,
       "currentScore": "0",
       "nameRaw": "UCF",
       "description": ""
@@ -98,23 +98,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Hampton",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-12T04:00Z",
-    "gameState": "Postponed",
-    "id": 401207110,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Rice",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Army",
       "description": ""
     }
   },
@@ -189,23 +172,6 @@
   {
     "startDate": "2020-09-12T04:00Z",
     "gameState": "Canceled",
-    "id": 401212474,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "South Florida",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Bethune-Cookman",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-12T04:00Z",
-    "gameState": "Canceled",
     "id": 401212514,
     "home": {
       "teamRank": 99,
@@ -225,7 +191,7 @@
     "gameState": "Canceled",
     "id": 401212542,
     "home": {
-      "teamRank": 99,
+      "teamRank": 20,
       "currentScore": "0",
       "nameRaw": "Cincinnati",
       "description": ""
@@ -435,7 +401,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -446,13 +412,13 @@
     "gameState": "Canceled",
     "id": 401234525,
     "home": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""
@@ -469,7 +435,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
@@ -480,7 +446,7 @@
     "gameState": "Canceled",
     "id": 401234527,
     "home": {
-      "teamRank": 99,
+      "teamRank": 2,
       "currentScore": "0",
       "nameRaw": "Ohio State",
       "description": ""
@@ -503,7 +469,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""
@@ -897,6 +863,40 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Tulane",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-12T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240039,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Florida",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "The Citadel",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-12T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240113,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UL Monroe",
       "description": ""
     }
   }

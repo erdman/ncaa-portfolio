@@ -38,13 +38,13 @@
     "gameState": "Canceled",
     "id": 401233520,
     "home": {
-      "teamRank": 99,
+      "teamRank": 22,
       "currentScore": "0",
       "nameRaw": "Utah",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 9,
       "currentScore": "0",
       "nameRaw": "Oregon",
       "description": ""
@@ -72,7 +72,7 @@
     "gameState": "Canceled",
     "id": 401233522,
     "home": {
-      "teamRank": 99,
+      "teamRank": 17,
       "currentScore": "0",
       "nameRaw": "USC",
       "description": ""
@@ -438,6 +438,40 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Liberty",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240101,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240102,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
       "description": ""
     }
   }

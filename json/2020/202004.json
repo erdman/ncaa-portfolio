@@ -1,5 +1,22 @@
 [
   {
+    "startDate": "2020-09-24T23:00Z",
+    "gameState": "Scheduled",
+    "id": 401207102,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Western Kentucky",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Chattanooga",
+      "description": ""
+    }
+  },
+  {
     "startDate": "2020-09-26T04:00Z",
     "gameState": "Scheduled",
     "id": 401207125,
@@ -409,6 +426,23 @@
   },
   {
     "startDate": "2020-09-26T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401232157,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana Tech",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Houston Baptist",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-26T04:00Z",
     "gameState": "Canceled",
     "id": 401233466,
     "home": {
@@ -435,7 +469,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 17,
       "currentScore": "0",
       "nameRaw": "USC",
       "description": ""
@@ -446,7 +480,7 @@
     "gameState": "Canceled",
     "id": 401233468,
     "home": {
-      "teamRank": 99,
+      "teamRank": 9,
       "currentScore": "0",
       "nameRaw": "Oregon",
       "description": ""
@@ -469,7 +503,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 22,
       "currentScore": "0",
       "nameRaw": "Utah",
       "description": ""
@@ -537,7 +571,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""
@@ -565,7 +599,7 @@
     "gameState": "Canceled",
     "id": 401234537,
     "home": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -582,13 +616,13 @@
     "gameState": "Canceled",
     "id": 401234538,
     "home": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""
@@ -599,7 +633,7 @@
     "gameState": "Canceled",
     "id": 401234539,
     "home": {
-      "teamRank": 99,
+      "teamRank": 2,
       "currentScore": "0",
       "nameRaw": "Ohio State",
       "description": ""
@@ -616,7 +650,7 @@
     "gameState": "Canceled",
     "id": 401234540,
     "home": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""

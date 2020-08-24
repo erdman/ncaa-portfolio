@@ -120,7 +120,7 @@
   },
   {
     "startDate": "2020-11-21T05:00Z",
-    "gameState": "Canceled",
+    "gameState": "Scheduled",
     "id": 401209818,
     "home": {
       "teamRank": 99,
@@ -486,7 +486,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 9,
       "currentScore": "0",
       "nameRaw": "Oregon",
       "description": ""
@@ -497,7 +497,7 @@
     "gameState": "Canceled",
     "id": 401233508,
     "home": {
-      "teamRank": 99,
+      "teamRank": 17,
       "currentScore": "0",
       "nameRaw": "USC",
       "description": ""
@@ -554,7 +554,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 22,
       "currentScore": "0",
       "nameRaw": "Utah",
       "description": ""
@@ -588,7 +588,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""
@@ -599,13 +599,13 @@
     "gameState": "Canceled",
     "id": 401234513,
     "home": {
-      "teamRank": 99,
+      "teamRank": 2,
       "currentScore": "0",
       "nameRaw": "Ohio State",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -622,7 +622,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""
@@ -656,7 +656,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""
@@ -684,7 +684,7 @@
     "gameState": "Canceled",
     "id": 401234518,
     "home": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
@@ -982,6 +982,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Missouri",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-11-21T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240061,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Central Arkansas",
       "description": ""
     }
   }

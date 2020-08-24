@@ -51,23 +51,6 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
-    "gameState": "Canceled",
-    "id": 401207151,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UTSA",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Old Dominion",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-10-18T01:00Z",
     "gameState": "Scheduled",
     "id": 401207152,
@@ -98,23 +81,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Western Kentucky",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-17T04:00Z",
-    "gameState": "Canceled",
-    "id": 401207197,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Army",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Eastern Michigan",
       "description": ""
     }
   },
@@ -503,7 +469,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 22,
       "currentScore": "0",
       "nameRaw": "Utah",
       "description": ""
@@ -514,7 +480,7 @@
     "gameState": "Canceled",
     "id": 401233484,
     "home": {
-      "teamRank": 99,
+      "teamRank": 17,
       "currentScore": "0",
       "nameRaw": "USC",
       "description": ""
@@ -554,7 +520,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 9,
       "currentScore": "0",
       "nameRaw": "Oregon",
       "description": ""
@@ -605,7 +571,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""
@@ -616,7 +582,7 @@
     "gameState": "Canceled",
     "id": 401234490,
     "home": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""
@@ -639,7 +605,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 2,
       "currentScore": "0",
       "nameRaw": "Ohio State",
       "description": ""
@@ -948,6 +914,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Eastern Kentucky",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-17T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240115,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UTSA",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
       "description": ""
     }
   }

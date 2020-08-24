@@ -582,13 +582,13 @@
     "gameState": "Canceled",
     "id": 401233502,
     "home": {
-      "teamRank": 99,
+      "teamRank": 9,
       "currentScore": "0",
       "nameRaw": "Oregon",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 17,
       "currentScore": "0",
       "nameRaw": "USC",
       "description": ""
@@ -650,7 +650,7 @@
     "gameState": "Canceled",
     "id": 401233506,
     "home": {
-      "teamRank": 99,
+      "teamRank": 22,
       "currentScore": "0",
       "nameRaw": "Utah",
       "description": ""
@@ -667,13 +667,13 @@
     "gameState": "Canceled",
     "id": 401234510,
     "home": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
@@ -701,7 +701,7 @@
     "gameState": "Canceled",
     "id": 401234542,
     "home": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""

@@ -104,23 +104,6 @@
   {
     "startDate": "2020-10-24T04:00Z",
     "gameState": "Canceled",
-    "id": 401207198,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Army",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Buffalo",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-24T04:00Z",
-    "gameState": "Canceled",
     "id": 401208878,
     "home": {
       "teamRank": 99,
@@ -486,7 +469,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 17,
       "currentScore": "0",
       "nameRaw": "USC",
       "description": ""
@@ -548,7 +531,7 @@
     "gameState": "Canceled",
     "id": 401234492,
     "home": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
@@ -565,13 +548,13 @@
     "gameState": "Canceled",
     "id": 401234493,
     "home": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -582,7 +565,7 @@
     "gameState": "Canceled",
     "id": 401234494,
     "home": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""
@@ -650,13 +633,13 @@
     "gameState": "Canceled",
     "id": 401234498,
     "home": {
-      "teamRank": 99,
+      "teamRank": 2,
       "currentScore": "0",
       "nameRaw": "Ohio State",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""
@@ -965,6 +948,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Louisiana",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-24T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240116,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Mercer",
       "description": ""
     }
   }

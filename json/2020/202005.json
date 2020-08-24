@@ -104,23 +104,6 @@
   {
     "startDate": "2020-10-03T04:00Z",
     "gameState": "Canceled",
-    "id": 401207195,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Miami (OH)",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Army",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
     "id": 401207225,
     "home": {
       "teamRank": 99,
@@ -239,7 +222,7 @@
   },
   {
     "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
+    "gameState": "Scheduled",
     "id": 401212557,
     "home": {
       "teamRank": 99,
@@ -503,7 +486,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 22,
       "currentScore": "0",
       "nameRaw": "Utah",
       "description": ""
@@ -514,7 +497,7 @@
     "gameState": "Canceled",
     "id": 401233475,
     "home": {
-      "teamRank": 99,
+      "teamRank": 17,
       "currentScore": "0",
       "nameRaw": "USC",
       "description": ""
@@ -554,7 +537,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 9,
       "currentScore": "0",
       "nameRaw": "Oregon",
       "description": ""
@@ -565,7 +548,7 @@
     "gameState": "Canceled",
     "id": 401234479,
     "home": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -588,7 +571,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""
@@ -599,7 +582,7 @@
     "gameState": "Canceled",
     "id": 401234481,
     "home": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""
@@ -622,7 +605,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""
@@ -639,7 +622,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
@@ -948,6 +931,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Jacksonville State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-03T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240040,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Abilene Christian",
       "description": ""
     }
   }

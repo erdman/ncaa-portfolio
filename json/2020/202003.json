@@ -52,23 +52,6 @@
   },
   {
     "startDate": "2020-09-19T04:00Z",
-    "gameState": "Postponed",
-    "id": 401207123,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UTSA",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Grambling",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
     "gameState": "Scheduled",
     "id": 401207124,
     "home": {
@@ -239,23 +222,6 @@
   },
   {
     "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401215300,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Coastal Carolina",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Duquesne",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
     "gameState": "Scheduled",
     "id": 401215301,
     "home": {
@@ -289,34 +255,17 @@
     }
   },
   {
-    "startDate": "2020-09-26T04:00Z",
-    "gameState": "Scheduled",
-    "id": 401232157,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Louisiana Tech",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Houston Baptist",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-09-19T04:00Z",
     "gameState": "Canceled",
     "id": 401234476,
     "home": {
-      "teamRank": 99,
+      "teamRank": 19,
       "currentScore": "0",
       "nameRaw": "Minnesota",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -350,7 +299,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Wisconsin",
       "description": ""
@@ -384,7 +333,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 2,
       "currentScore": "0",
       "nameRaw": "Ohio State",
       "description": ""
@@ -412,13 +361,13 @@
     "gameState": "Canceled",
     "id": 401234535,
     "home": {
-      "teamRank": 99,
+      "teamRank": 16,
       "currentScore": "0",
       "nameRaw": "Michigan",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 7,
       "currentScore": "0",
       "nameRaw": "Penn State",
       "description": ""
@@ -531,7 +480,7 @@
     "gameState": "Canceled",
     "id": 401234575,
     "home": {
-      "teamRank": 99,
+      "teamRank": 10,
       "currentScore": "0",
       "nameRaw": "Notre Dame",
       "description": ""
@@ -565,13 +514,13 @@
     "gameState": "Canceled",
     "id": 401234733,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Southern Mississippi",
       "description": ""
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Tennessee Tech",
       "description": ""
@@ -676,6 +625,40 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Abilene Christian",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-19T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240041,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UTSA",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Stephen F. Austin",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-19T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240126,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Coastal Carolina",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Campbell",
       "description": ""
     }
   }
