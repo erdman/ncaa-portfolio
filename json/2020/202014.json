@@ -1,107 +1,5 @@
 [
   {
-    "startDate": "2020-12-04T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233518,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "California",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCLA",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233519,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Stanford",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233520,
-    "home": {
-      "teamRank": 22,
-      "currentScore": "0",
-      "nameRaw": "Utah",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 9,
-      "currentScore": "0",
-      "nameRaw": "Oregon",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233521,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Oregon State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233522,
-    "home": {
-      "teamRank": 17,
-      "currentScore": "0",
-      "nameRaw": "USC",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Washington",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233523,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Colorado",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Washington State",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-12-05T05:00Z",
     "gameState": "Scheduled",
     "id": 401234656,
@@ -472,6 +370,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240218,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Troy",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UL Monroe",
       "description": ""
     }
   }

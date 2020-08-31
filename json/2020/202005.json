@@ -51,7 +51,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T23:30Z",
     "gameState": "Scheduled",
     "id": 401207139,
     "home": {
@@ -64,23 +64,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Southern Mississippi",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401207140,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UConn",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Old Dominion",
       "description": ""
     }
   },
@@ -103,57 +86,6 @@
   },
   {
     "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401207225,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "New Mexico",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UMass",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401208875,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "New Mexico State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Texas State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-02T04:00Z",
-    "gameState": "Canceled",
-    "id": 401209813,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "BYU",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Utah State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
     "gameState": "Scheduled",
     "id": 401212476,
     "home": {
@@ -170,7 +102,7 @@
     }
   },
   {
-    "startDate": "2020-10-01T04:00Z",
+    "startDate": "2020-10-03T04:00Z",
     "gameState": "Scheduled",
     "id": 401212486,
     "home": {
@@ -239,159 +171,6 @@
   },
   {
     "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401214971,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Buffalo",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Akron",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401214972,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Eastern Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Central Michigan",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401214973,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northern Illinois",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Kent State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401214974,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Toledo",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Ohio",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401214975,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Ball State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Western Michigan",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401215110,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Boise State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "San Jose State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401215111,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Colorado State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Fresno State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401215112,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Hawai'i",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Nevada",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401215113,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "San Diego State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UNLV",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
     "gameState": "Scheduled",
     "id": 401215304,
     "home": {
@@ -438,193 +217,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Troy",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401233472,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Washington",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401233473,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Oregon State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCLA",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401233474,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Colorado",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 22,
-      "currentScore": "0",
-      "nameRaw": "Utah",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401233475,
-    "home": {
-      "teamRank": 17,
-      "currentScore": "0",
-      "nameRaw": "USC",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "California",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401233476,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Stanford",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401233477,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Washington State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 9,
-      "currentScore": "0",
-      "nameRaw": "Oregon",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234479,
-    "home": {
-      "teamRank": 24,
-      "currentScore": "0",
-      "nameRaw": "Iowa",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northwestern",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234480,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Nebraska",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 19,
-      "currentScore": "0",
-      "nameRaw": "Minnesota",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234481,
-    "home": {
-      "teamRank": 16,
-      "currentScore": "0",
-      "nameRaw": "Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Michigan State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234482,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Rutgers",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 7,
-      "currentScore": "0",
-      "nameRaw": "Penn State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-10-03T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234541,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Maryland",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 12,
-      "currentScore": "0",
-      "nameRaw": "Wisconsin",
       "description": ""
     }
   },
@@ -935,7 +527,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T17:30Z",
     "gameState": "Scheduled",
     "id": 401240040,
     "home": {

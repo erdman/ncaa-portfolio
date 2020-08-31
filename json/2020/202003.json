@@ -1,18 +1,18 @@
 [
   {
     "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401207115,
+    "gameState": "Scheduled",
+    "id": 401207106,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Old Dominion",
+      "nameRaw": "Southern Mississippi",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Florida International",
+      "nameRaw": "Louisiana Tech",
       "description": ""
     }
   },
@@ -34,7 +34,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T04:00Z",
+    "startDate": "2020-09-19T17:30Z",
     "gameState": "Scheduled",
     "id": 401207120,
     "home": {
@@ -69,57 +69,6 @@
   },
   {
     "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401207223,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UMass",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Albany",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401208874,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "New Mexico State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "New Mexico",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401212475,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "South Florida",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Nevada",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
     "gameState": "Scheduled",
     "id": 401212522,
     "home": {
@@ -132,23 +81,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Navy",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401212529,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Tulsa",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northwestern State",
       "description": ""
     }
   },
@@ -170,7 +102,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T04:00Z",
+    "startDate": "2020-09-18T04:00Z",
     "gameState": "Scheduled",
     "id": 401212550,
     "home": {
@@ -183,40 +115,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Houston",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401214965,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Eastern Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northern Illinois",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401215107,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Colorado State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northern Colorado",
       "description": ""
     }
   },
@@ -251,125 +149,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Texas State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234476,
-    "home": {
-      "teamRank": 19,
-      "currentScore": "0",
-      "nameRaw": "Minnesota",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 24,
-      "currentScore": "0",
-      "nameRaw": "Iowa",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234530,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Indiana",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Illinois",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234531,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Nebraska",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 12,
-      "currentScore": "0",
-      "nameRaw": "Wisconsin",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234532,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Michigan State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northwestern",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234533,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Purdue",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 2,
-      "currentScore": "0",
-      "nameRaw": "Ohio State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234534,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Maryland",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Rutgers",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234535,
-    "home": {
-      "teamRank": 16,
-      "currentScore": "0",
-      "nameRaw": "Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 7,
-      "currentScore": "0",
-      "nameRaw": "Penn State",
       "description": ""
     }
   },
@@ -477,57 +256,6 @@
   },
   {
     "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234575,
-    "home": {
-      "teamRank": 10,
-      "currentScore": "0",
-      "nameRaw": "Notre Dame",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Western Michigan",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Canceled",
-    "id": 401234664,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Florida State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Samford",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T23:00Z",
-    "gameState": "Canceled",
-    "id": 401234733,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Southern Mississippi",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Tennessee Tech",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-19T04:00Z",
     "gameState": "Scheduled",
     "id": 401235041,
     "home": {
@@ -561,7 +289,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T04:00Z",
+    "startDate": "2020-09-19T17:30Z",
     "gameState": "Scheduled",
     "id": 401236939,
     "home": {
@@ -659,6 +387,40 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Campbell",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-19T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401240640,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Middle Tennessee",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Troy",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-19T04:00Z",
+    "gameState": "Scheduled",
+    "id": 401241282,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Notre Dame",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Florida",
       "description": ""
     }
   }

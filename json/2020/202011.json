@@ -1,23 +1,6 @@
 [
   {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401207173,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Charlotte",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Old Dominion",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
+    "startDate": "2020-11-14T00:00Z",
     "gameState": "Scheduled",
     "id": 401207174,
     "home": {
@@ -51,7 +34,7 @@
     }
   },
   {
-    "startDate": "2020-11-14T05:00Z",
+    "startDate": "2020-11-14T18:30Z",
     "gameState": "Scheduled",
     "id": 401207176,
     "home": {
@@ -85,7 +68,7 @@
     }
   },
   {
-    "startDate": "2020-11-14T05:00Z",
+    "startDate": "2020-11-14T23:00Z",
     "gameState": "Scheduled",
     "id": 401207178,
     "home": {
@@ -154,57 +137,6 @@
   },
   {
     "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401208879,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "New Mexico State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Texas Southern",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401209817,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "BYU",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "San Diego State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401210714,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "San Jose State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UConn",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
     "gameState": "Scheduled",
     "id": 401212481,
     "home": {
@@ -255,7 +187,7 @@
     }
   },
   {
-    "startDate": "2020-11-12T05:00Z",
+    "startDate": "2020-11-14T05:00Z",
     "gameState": "Scheduled",
     "id": 401212545,
     "home": {
@@ -285,193 +217,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Memphis",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-10T05:00Z",
-    "gameState": "Canceled",
-    "id": 401214996,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Ball State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Eastern Michigan",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-10T05:00Z",
-    "gameState": "Canceled",
-    "id": 401214997,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Buffalo",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Miami (OH)",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-10T05:00Z",
-    "gameState": "Canceled",
-    "id": 401214998,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Western Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northern Illinois",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-11T05:00Z",
-    "gameState": "Canceled",
-    "id": 401214999,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Toledo",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Central Michigan",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-11T05:00Z",
-    "gameState": "Canceled",
-    "id": 401215000,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Kent State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Ohio",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401215001,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Akron",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Bowling Green",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401215140,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Air Force",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Colorado State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401215141,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "New Mexico",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Boise State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401215142,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Utah State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Fresno State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401215143,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Nevada",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Wyoming",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401215144,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Hawai'i",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UNLV",
       "description": ""
     }
   },
@@ -510,7 +255,7 @@
     }
   },
   {
-    "startDate": "2020-11-14T05:00Z",
+    "startDate": "2020-11-14T20:30Z",
     "gameState": "Scheduled",
     "id": 401215330,
     "home": {
@@ -557,159 +302,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "South Alabama",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233501,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Washington State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233502,
-    "home": {
-      "teamRank": 9,
-      "currentScore": "0",
-      "nameRaw": "Oregon",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 17,
-      "currentScore": "0",
-      "nameRaw": "USC",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233503,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Colorado",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCLA",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233504,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "California",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233505,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Stanford",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Oregon State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401233506,
-    "home": {
-      "teamRank": 22,
-      "currentScore": "0",
-      "nameRaw": "Utah",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Washington",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401234510,
-    "home": {
-      "teamRank": 24,
-      "currentScore": "0",
-      "nameRaw": "Iowa",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 12,
-      "currentScore": "0",
-      "nameRaw": "Wisconsin",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401234511,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Purdue",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Nebraska",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Canceled",
-    "id": 401234542,
-    "home": {
-      "teamRank": 19,
-      "currentScore": "0",
-      "nameRaw": "Minnesota",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northwestern",
       "description": ""
     }
   },
