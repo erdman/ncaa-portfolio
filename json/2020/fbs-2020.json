@@ -2,12 +2,12 @@
   {
     "name": "Boston College",
     "conference": "ACC",
-    "units": 1
+    "units": 2
   },
   {
     "name": "Clemson",
     "conference": "ACC",
-    "units": 11
+    "units": 10
   },
   {
     "name": "Duke",
@@ -17,7 +17,7 @@
   {
     "name": "Florida State",
     "conference": "ACC",
-    "units": 5
+    "units": 4
   },
   {
     "name": "Georgia Tech",
@@ -27,7 +27,7 @@
   {
     "name": "Louisville",
     "conference": "ACC",
-    "units": 8
+    "units": 7
   },
   {
     "name": "Miami",
@@ -42,17 +42,17 @@
   {
     "name": "North Carolina",
     "conference": "ACC",
-    "units": 10
+    "units": 9
   },
   {
     "name": "Notre Dame",
     "conference": "ACC",
-    "units": 10
+    "units": 9
   },
   {
     "name": "Pittsburgh",
     "conference": "ACC",
-    "units": 5
+    "units": 4
   },
   {
     "name": "Syracuse",
@@ -67,7 +67,7 @@
   {
     "name": "Virginia Tech",
     "conference": "ACC",
-    "units": 9
+    "units": 8
   },
   {
     "name": "Wake Forest",
@@ -77,7 +77,7 @@
   {
     "name": "Cincinnati",
     "conference": "American",
-    "units": 8
+    "units": 7
   },
   {
     "name": "East Carolina",
@@ -92,17 +92,17 @@
   {
     "name": "Memphis",
     "conference": "American",
-    "units": 10
+    "units": 9
   },
   {
     "name": "Navy",
     "conference": "American",
-    "units": 8
+    "units": 7
   },
   {
     "name": "SMU",
     "conference": "American",
-    "units": 9
+    "units": 7
   },
   {
     "name": "South Florida",
@@ -117,7 +117,7 @@
   {
     "name": "Tulane",
     "conference": "American",
-    "units": 5
+    "units": 4
   },
   {
     "name": "Tulsa",
@@ -127,7 +127,7 @@
   {
     "name": "UCF",
     "conference": "American",
-    "units": 10
+    "units": 9
   },
   {
     "name": "Baylor",
@@ -137,7 +137,7 @@
   {
     "name": "Iowa State",
     "conference": "Big 12",
-    "units": 7
+    "units": 6
   },
   {
     "name": "Kansas",
@@ -152,22 +152,22 @@
   {
     "name": "Oklahoma",
     "conference": "Big 12",
-    "units": 10
+    "units": 9
   },
   {
     "name": "Oklahoma State",
     "conference": "Big 12",
-    "units": 9
+    "units": 8
   },
   {
     "name": "TCU",
     "conference": "Big 12",
-    "units": 6
+    "units": 5
   },
   {
     "name": "Texas",
     "conference": "Big 12",
-    "units": 9
+    "units": 8
   },
   {
     "name": "Texas Tech",
@@ -187,7 +187,7 @@
   {
     "name": "Florida Atlantic",
     "conference": "C-USA",
-    "units": 8
+    "units": 6
   },
   {
     "name": "Florida International",
@@ -202,7 +202,7 @@
   {
     "name": "Marshall",
     "conference": "C-USA",
-    "units": 6
+    "units": 5
   },
   {
     "name": "Middle Tennessee",
@@ -212,22 +212,22 @@
   {
     "name": "North Texas",
     "conference": "C-USA",
-    "units": 2
+    "units": 3
   },
   {
     "name": "Rice",
     "conference": "C-USA",
-    "units": 2
+    "units": 3
   },
   {
     "name": "Southern Mississippi",
     "conference": "C-USA",
-    "units": 9
+    "units": 8
   },
   {
     "name": "UAB",
     "conference": "C-USA",
-    "units": 10
+    "units": 9
   },
   {
     "name": "UTEP",
@@ -242,27 +242,27 @@
   {
     "name": "Western Kentucky",
     "conference": "C-USA",
-    "units": 7
+    "units": 6
   },
   {
     "name": "Army",
     "conference": "Independent",
-    "units": 2
+    "units": 4
   },
   {
     "name": "BYU",
     "conference": "Independent",
-    "units": 5
+    "units": 6
   },
   {
     "name": "Liberty",
     "conference": "Independent",
-    "units": 2
+    "units": 3
   },
   {
     "name": "Alabama",
     "conference": "SEC",
-    "units": 11
+    "units": 10
   },
   {
     "name": "Arkansas",
@@ -272,27 +272,27 @@
   {
     "name": "Auburn",
     "conference": "SEC",
-    "units": 8
+    "units": 7
   },
   {
     "name": "Florida",
     "conference": "SEC",
-    "units": 9
+    "units": 8
   },
   {
     "name": "Georgia",
     "conference": "SEC",
-    "units": 9
+    "units": 8
   },
   {
     "name": "Kentucky",
     "conference": "SEC",
-    "units": 6
+    "units": 5
   },
   {
     "name": "LSU",
     "conference": "SEC",
-    "units": 9
+    "units": 8
   },
   {
     "name": "Mississippi State",
@@ -307,7 +307,7 @@
   {
     "name": "Ole Miss",
     "conference": "SEC",
-    "units": 3
+    "units": 4
   },
   {
     "name": "South Carolina",
@@ -317,12 +317,12 @@
   {
     "name": "Tennessee",
     "conference": "SEC",
-    "units": 6
+    "units": 5
   },
   {
     "name": "Texas A&M",
     "conference": "SEC",
-    "units": 8
+    "units": 7
   },
   {
     "name": "Vanderbilt",
@@ -337,7 +337,7 @@
   {
     "name": "Arkansas State",
     "conference": "Sun Belt",
-    "units": 7
+    "units": 6
   },
   {
     "name": "Coastal Carolina",
@@ -347,7 +347,7 @@
   {
     "name": "Georgia Southern",
     "conference": "Sun Belt",
-    "units": 6
+    "units": 5
   },
   {
     "name": "Georgia State",
@@ -357,7 +357,7 @@
   {
     "name": "Louisiana",
     "conference": "Sun Belt",
-    "units": 9
+    "units": 8
   },
   {
     "name": "South Alabama",
@@ -372,11 +372,11 @@
   {
     "name": "Troy",
     "conference": "Sun Belt",
-    "units": 4
+    "units": 5
   },
   {
     "name": "UL Monroe",
     "conference": "Sun Belt",
-    "units": 1
+    "units": 2
   }
 ]

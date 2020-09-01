@@ -1,0 +1,53 @@
+[
+  {
+    "startDate": "2021-01-01T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240152,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2021-01-01T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240173,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2021-01-11T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401240174,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  }
+]
