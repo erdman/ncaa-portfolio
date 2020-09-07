@@ -17,71 +17,54 @@
     }
   },
   {
-    "startDate": "2020-08-29T04:00Z",
-    "gameState": "Postponed",
-    "id": 401207096,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "East Carolina",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Marshall",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-09-05T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401207098,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "57",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Houston Baptist",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2020-09-04T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401207101,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Southern Mississippi",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
     "startDate": "2020-09-05T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401212484,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
@@ -103,19 +86,19 @@
   },
   {
     "startDate": "2020-09-06T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401212553,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -137,70 +120,70 @@
   },
   {
     "startDate": "2020-09-05T17:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401235700,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Army",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2020-09-05T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401237353,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "59",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Eastern Kentucky",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2020-09-04T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401238035,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Central Arkansas",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2020-09-06T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401239884,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Stephen F. Austin",
-      "description": ""
+      "description": "0-1"
     }
   }
 ]

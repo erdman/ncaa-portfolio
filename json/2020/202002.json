@@ -2,23 +2,6 @@
   {
     "startDate": "2020-09-12T04:00Z",
     "gameState": "Postponed",
-    "id": 401207104,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Florida Atlantic",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Stony Brook",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-12T04:00Z",
-    "gameState": "Postponed",
     "id": 401207105,
     "home": {
       "teamRank": 21,
@@ -34,24 +17,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
-    "gameState": "Postponed",
-    "id": 401207111,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UAB",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Alabama A&M",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T19:30Z",
     "gameState": "Scheduled",
     "id": 401207113,
     "home": {
@@ -68,7 +34,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T22:00Z",
+    "startDate": "2020-09-12T19:30Z",
     "gameState": "Scheduled",
     "id": 401215298,
     "home": {
@@ -85,7 +51,7 @@
     }
   },
   {
-    "startDate": "2020-09-10T04:00Z",
+    "startDate": "2020-09-11T00:00Z",
     "gameState": "Scheduled",
     "id": 401234559,
     "home": {
@@ -102,7 +68,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T23:30Z",
     "gameState": "Scheduled",
     "id": 401234562,
     "home": {
@@ -119,7 +85,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T19:30Z",
     "gameState": "Scheduled",
     "id": 401234563,
     "home": {
@@ -136,7 +102,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-13T00:00Z",
     "gameState": "Scheduled",
     "id": 401234564,
     "home": {
@@ -153,7 +119,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T16:00Z",
     "gameState": "Scheduled",
     "id": 401234565,
     "home": {
@@ -170,7 +136,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T18:30Z",
     "gameState": "Scheduled",
     "id": 401234574,
     "home": {
@@ -187,7 +153,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T16:00Z",
     "gameState": "Scheduled",
     "id": 401236038,
     "home": {
@@ -204,7 +170,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-13T00:00Z",
     "gameState": "Scheduled",
     "id": 401236039,
     "home": {
@@ -221,7 +187,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T23:30Z",
     "gameState": "Scheduled",
     "id": 401236041,
     "home": {
@@ -238,7 +204,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T19:30Z",
     "gameState": "Scheduled",
     "id": 401236053,
     "home": {
@@ -255,7 +221,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T23:00Z",
     "gameState": "Scheduled",
     "id": 401236054,
     "home": {
@@ -272,7 +238,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T16:00Z",
     "gameState": "Scheduled",
     "id": 401236081,
     "home": {
@@ -289,7 +255,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T16:00Z",
     "gameState": "Scheduled",
     "id": 401236221,
     "home": {
@@ -306,7 +272,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-13T00:00Z",
     "gameState": "Scheduled",
     "id": 401236222,
     "home": {
@@ -340,7 +306,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-13T02:00Z",
     "gameState": "Scheduled",
     "id": 401236658,
     "home": {
@@ -357,8 +323,8 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-09-12T01:00Z",
+    "gameState": "Postponed",
     "id": 401236674,
     "home": {
       "teamRank": 99,
@@ -374,7 +340,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T23:00Z",
+    "startDate": "2020-09-12T23:30Z",
     "gameState": "Scheduled",
     "id": 401239973,
     "home": {
@@ -391,7 +357,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T17:00Z",
     "gameState": "Scheduled",
     "id": 401240039,
     "home": {
@@ -425,7 +391,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T20:00Z",
     "gameState": "Scheduled",
     "id": 401240233,
     "home": {
@@ -442,7 +408,7 @@
     }
   },
   {
-    "startDate": "2020-09-12T04:00Z",
+    "startDate": "2020-09-12T16:00Z",
     "gameState": "Scheduled",
     "id": 401240296,
     "home": {
