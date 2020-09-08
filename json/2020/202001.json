@@ -103,19 +103,19 @@
   },
   {
     "startDate": "2020-09-08T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401234576,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "55",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "1-0"
     }
   },
   {

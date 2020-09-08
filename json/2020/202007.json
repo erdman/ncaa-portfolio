@@ -102,7 +102,7 @@
     }
   },
   {
-    "startDate": "2020-10-16T23:30Z",
+    "startDate": "2020-10-16T22:00Z",
     "gameState": "Scheduled",
     "id": 401212487,
     "home": {
@@ -170,19 +170,19 @@
     }
   },
   {
-    "startDate": "2020-10-16T04:00Z",
+    "startDate": "2020-10-17T01:30Z",
     "gameState": "Scheduled",
     "id": 401212551,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "BYU",
+      "nameRaw": "Houston",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Houston",
+      "nameRaw": "BYU",
       "description": ""
     }
   },
