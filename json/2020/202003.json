@@ -187,7 +187,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T04:00Z",
+    "startDate": "2020-09-19T19:30Z",
     "gameState": "Scheduled",
     "id": 401234569,
     "home": {
@@ -238,7 +238,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T04:00Z",
+    "startDate": "2020-09-19T23:30Z",
     "gameState": "Scheduled",
     "id": 401234572,
     "home": {
@@ -285,6 +285,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Charlotte",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-19T16:00Z",
+    "gameState": "Scheduled",
+    "id": 401236041,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Oklahoma State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulsa",
       "description": ""
     }
   },

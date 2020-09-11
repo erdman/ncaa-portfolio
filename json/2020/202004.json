@@ -121,23 +121,6 @@
   {
     "startDate": "2020-09-26T04:00Z",
     "gameState": "Scheduled",
-    "id": 401212515,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Navy",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Temple",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-26T04:00Z",
-    "gameState": "Scheduled",
     "id": 401212530,
     "home": {
       "teamRank": 99,

@@ -52,19 +52,19 @@
   },
   {
     "startDate": "2020-09-11T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401234559,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
@@ -187,24 +187,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T04:00Z",
-    "gameState": "Scheduled",
-    "id": 401236041,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Oklahoma State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Tulsa",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-09-12T19:30Z",
+    "startDate": "2020-09-12T16:00Z",
     "gameState": "Scheduled",
     "id": 401236053,
     "home": {
@@ -409,16 +392,16 @@
   },
   {
     "startDate": "2020-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401240296,
     "home": {
-      "teamRank": 99,
+      "teamRank": 0,
       "currentScore": "0",
       "nameRaw": "Baylor",
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 0,
       "currentScore": "0",
       "nameRaw": "Louisiana Tech",
       "description": ""
