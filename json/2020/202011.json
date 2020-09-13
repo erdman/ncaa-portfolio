@@ -325,23 +325,6 @@
   {
     "startDate": "2020-11-14T05:00Z",
     "gameState": "Scheduled",
-    "id": 401234638,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Virginia",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Duke",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-14T05:00Z",
-    "gameState": "Scheduled",
     "id": 401234639,
     "home": {
       "teamRank": 99,

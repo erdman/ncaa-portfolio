@@ -17,7 +17,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T20:00Z",
+    "startDate": "2020-09-19T19:30Z",
     "gameState": "Scheduled",
     "id": 401207116,
     "home": {
@@ -103,7 +103,7 @@
   },
   {
     "startDate": "2020-09-18T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401212550,
     "home": {
       "teamRank": 99,
@@ -187,7 +187,7 @@
     }
   },
   {
-    "startDate": "2020-09-19T19:30Z",
+    "startDate": "2020-09-19T23:30Z",
     "gameState": "Scheduled",
     "id": 401234569,
     "home": {
@@ -239,7 +239,7 @@
   },
   {
     "startDate": "2020-09-19T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401234572,
     "home": {
       "teamRank": 99,
@@ -341,7 +341,7 @@
   },
   {
     "startDate": "2020-09-19T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401239869,
     "home": {
       "teamRank": 99,
@@ -438,6 +438,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "South Florida",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-09-19T16:00Z",
+    "gameState": "Scheduled",
+    "id": 401245593,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Baylor",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Houston",
       "description": ""
     }
   }
