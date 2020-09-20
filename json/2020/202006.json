@@ -86,7 +86,7 @@
   },
   {
     "startDate": "2020-10-10T04:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401207147,
     "home": {
       "teamRank": 99,
@@ -540,6 +540,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "UTSA",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-10T23:00Z",
+    "gameState": "Scheduled",
+    "id": 401246425,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Central Arkansas",
       "description": ""
     }
   }

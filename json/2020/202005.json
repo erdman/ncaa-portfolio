@@ -18,7 +18,7 @@
   },
   {
     "startDate": "2020-10-03T04:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401207137,
     "home": {
       "teamRank": 99,
@@ -68,7 +68,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T16:30Z",
     "gameState": "Scheduled",
     "id": 401207141,
     "home": {
@@ -153,7 +153,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T22:00Z",
     "gameState": "Scheduled",
     "id": 401212557,
     "home": {
@@ -540,6 +540,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Abilene Christian",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-03T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401246275,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "BYU",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana Tech",
       "description": ""
     }
   }
