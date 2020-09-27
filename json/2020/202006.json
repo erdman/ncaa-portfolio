@@ -510,23 +510,6 @@
     }
   },
   {
-    "startDate": "2020-10-10T00:00Z",
-    "gameState": "Scheduled",
-    "id": 401240282,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Wake Forest",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Campbell",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-10-10T04:00Z",
     "gameState": "Scheduled",
     "id": 401240997,

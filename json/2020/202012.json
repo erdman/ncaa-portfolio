@@ -712,5 +712,22 @@
       "nameRaw": "Stephen F. Austin",
       "description": ""
     }
+  },
+  {
+    "startDate": "2020-11-21T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401248275,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Virginia",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Abilene Christian",
+      "description": ""
+    }
   }
 ]

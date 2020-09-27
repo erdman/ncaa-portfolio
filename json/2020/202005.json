@@ -1,6 +1,6 @@
 [
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T20:00Z",
     "gameState": "Scheduled",
     "id": 401207136,
     "home": {
@@ -21,7 +21,7 @@
     "gameState": "Postponed",
     "id": 401207137,
     "home": {
-      "teamRank": 99,
+      "teamRank": 25,
       "currentScore": "0",
       "nameRaw": "Marshall",
       "description": ""
@@ -34,7 +34,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T21:00Z",
     "gameState": "Scheduled",
     "id": 401207138,
     "home": {
@@ -85,7 +85,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T19:30Z",
     "gameState": "Scheduled",
     "id": 401212476,
     "home": {
@@ -102,7 +102,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T19:30Z",
     "gameState": "Scheduled",
     "id": 401212486,
     "home": {
@@ -119,7 +119,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T23:30Z",
     "gameState": "Scheduled",
     "id": 401212531,
     "home": {
@@ -136,7 +136,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T16:00Z",
     "gameState": "Scheduled",
     "id": 401212547,
     "home": {
@@ -170,7 +170,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T16:00Z",
     "gameState": "Scheduled",
     "id": 401215304,
     "home": {
@@ -204,7 +204,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-04T00:00Z",
     "gameState": "Scheduled",
     "id": 401215306,
     "home": {
@@ -221,7 +221,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T19:30Z",
     "gameState": "Scheduled",
     "id": 401234597,
     "home": {
@@ -238,7 +238,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-04T00:00Z",
     "gameState": "Scheduled",
     "id": 401234598,
     "home": {
@@ -255,7 +255,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T20:00Z",
     "gameState": "Scheduled",
     "id": 401234599,
     "home": {
@@ -272,7 +272,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T16:00Z",
     "gameState": "Scheduled",
     "id": 401234600,
     "home": {
@@ -289,7 +289,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T16:00Z",
     "gameState": "Scheduled",
     "id": 401235998,
     "home": {
@@ -306,7 +306,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T23:30Z",
     "gameState": "Scheduled",
     "id": 401235999,
     "home": {
@@ -323,7 +323,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T19:30Z",
     "gameState": "Scheduled",
     "id": 401236000,
     "home": {
@@ -340,7 +340,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T19:30Z",
     "gameState": "Scheduled",
     "id": 401236001,
     "home": {
@@ -357,7 +357,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T16:00Z",
     "gameState": "Scheduled",
     "id": 401236002,
     "home": {
@@ -510,7 +510,7 @@
     }
   },
   {
-    "startDate": "2020-10-03T04:00Z",
+    "startDate": "2020-10-03T20:00Z",
     "gameState": "Scheduled",
     "id": 401238034,
     "home": {
@@ -540,6 +540,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Abilene Christian",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-02T23:00Z",
+    "gameState": "Scheduled",
+    "id": 401240282,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Wake Forest",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Campbell",
       "description": ""
     }
   },
