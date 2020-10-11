@@ -1,6 +1,6 @@
 [
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-18T00:00Z",
     "gameState": "Scheduled",
     "id": 401207148,
     "home": {
@@ -51,7 +51,7 @@
     }
   },
   {
-    "startDate": "2020-10-18T01:00Z",
+    "startDate": "2020-10-17T23:30Z",
     "gameState": "Scheduled",
     "id": 401207152,
     "home": {
@@ -68,7 +68,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T17:30Z",
     "gameState": "Scheduled",
     "id": 401207153,
     "home": {
@@ -85,7 +85,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401212478,
     "home": {
@@ -119,7 +119,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401212532,
     "home": {
@@ -136,7 +136,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T19:30Z",
     "gameState": "Scheduled",
     "id": 401212537,
     "home": {
@@ -153,7 +153,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401212548,
     "home": {
@@ -187,23 +187,6 @@
     }
   },
   {
-    "startDate": "2020-10-14T23:30Z",
-    "gameState": "Scheduled",
-    "id": 401215309,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Georgia Southern",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Appalachian State",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-10-15T23:30Z",
     "gameState": "Scheduled",
     "id": 401215310,
@@ -221,7 +204,24 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-14T23:30Z",
+    "gameState": "Scheduled",
+    "id": 401215311,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Coastal Carolina",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401215313,
     "home": {
@@ -238,7 +238,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-18T00:00Z",
     "gameState": "Scheduled",
     "id": 401234609,
     "home": {
@@ -255,7 +255,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401234610,
     "home": {
@@ -272,7 +272,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T19:30Z",
     "gameState": "Scheduled",
     "id": 401234611,
     "home": {
@@ -289,7 +289,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T23:00Z",
     "gameState": "Scheduled",
     "id": 401234612,
     "home": {
@@ -323,7 +323,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401234614,
     "home": {
@@ -340,7 +340,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401234615,
     "home": {
@@ -357,7 +357,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T20:00Z",
     "gameState": "Scheduled",
     "id": 401234616,
     "home": {
@@ -374,7 +374,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T23:30Z",
     "gameState": "Scheduled",
     "id": 401236006,
     "home": {
@@ -391,7 +391,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401236007,
     "home": {
@@ -425,7 +425,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T19:30Z",
     "gameState": "Scheduled",
     "id": 401237108,
     "home": {
@@ -442,7 +442,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401237109,
     "home": {
@@ -476,7 +476,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T16:00Z",
     "gameState": "Scheduled",
     "id": 401237111,
     "home": {
@@ -493,7 +493,7 @@
     }
   },
   {
-    "startDate": "2020-10-17T04:00Z",
+    "startDate": "2020-10-17T20:00Z",
     "gameState": "Scheduled",
     "id": 401237112,
     "home": {
@@ -557,6 +557,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Army",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-10-17T20:00Z",
+    "gameState": "Scheduled",
+    "id": 401250215,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia Southern",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UMass",
       "description": ""
     }
   }
