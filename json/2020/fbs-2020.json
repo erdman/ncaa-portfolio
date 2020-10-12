@@ -1,8 +1,4 @@
 [
-  { "name": "Air Force",
-    "conference": "Mountain West",
-    "units": 999
-  },
   {
     "name": "Boston College",
     "conference": "ACC",
@@ -184,6 +180,76 @@
     "units": 3
   },
   {
+    "name": "Illinois",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Indiana",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Iowa",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Maryland",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Michigan",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Michigan State",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Minnesota",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Nebraska",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Northwestern",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Ohio State",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Penn State",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Purdue",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Rutgers",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
+    "name": "Wisconsin",
+    "conference": "Big Ten",
+    "units": 999
+  },
+  {
     "name": "Charlotte",
     "conference": "C-USA",
     "units": 4
@@ -262,6 +328,191 @@
     "name": "Liberty",
     "conference": "Independent",
     "units": 3
+  },
+  {
+    "name": "UMass",
+    "conference": "Independent",
+    "units": 999
+  },
+  {
+    "name": "Akron",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Ball State",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Bowling Green",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Buffalo",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Central Michigan",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Eastern Michigan",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Kent State",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Miami (OH)",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Northern Illinois",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Ohio",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Toledo",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Western Michigan",
+    "conference": "MAC",
+    "units": 999
+  },
+  {
+    "name": "Air Force",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Boise State",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Colorado State",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Fresno State",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Hawai'i",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Nevada",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "New Mexico",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "San Diego State",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "San Jose State",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "UNLV",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Utah State",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Wyoming",
+    "conference": "Mountain West",
+    "units": 999
+  },
+  {
+    "name": "Arizona",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Arizona State",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "California",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Colorado",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Oregon",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Oregon State",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Stanford",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "UCLA",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "USC",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Utah",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Washington",
+    "conference": "Pac-12",
+    "units": 999
+  },
+  {
+    "name": "Washington State",
+    "conference": "Pac-12",
+    "units": 999
   },
   {
     "name": "Alabama",

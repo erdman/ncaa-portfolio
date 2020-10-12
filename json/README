@@ -49,3 +49,7 @@ sed -s -i s/"Louisiana Monroe"/"UL Monroe"/g portfolios-2018.json fbs-2018.json
 cut -f -3 -d ',' fbs-2019.csv | csvjson | jq '.' > 2019/fbs-2019.json
 # need blanks flag here to keep "no team" as "" instead of Null, which breaks the site
 csvjson --blanks portfolios-2019.csv | jq '.' > 2019/portfolios-2019.json
+
+### 2020 updates
+# to pull unique list of school names from downloaded ESPN schedules
+jq -r '.[].home.nameRaw' 2020??.json | sort | uniq
