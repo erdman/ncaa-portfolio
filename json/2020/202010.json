@@ -680,7 +680,7 @@
     }
   },
   {
-    "startDate": "2020-11-07T05:00Z",
+    "startDate": "2020-11-07T02:45Z",
     "gameState": "Scheduled",
     "id": 401249005,
     "home": {
@@ -697,7 +697,7 @@
     }
   },
   {
-    "startDate": "2020-11-07T05:00Z",
+    "startDate": "2020-11-07T20:30Z",
     "gameState": "Scheduled",
     "id": 401249006,
     "home": {
@@ -731,7 +731,7 @@
     }
   },
   {
-    "startDate": "2020-11-07T05:00Z",
+    "startDate": "2020-11-07T02:00Z",
     "gameState": "Scheduled",
     "id": 401249008,
     "home": {
@@ -743,12 +743,12 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "San Jose State",
+      "nameRaw": "San José State",
       "description": ""
     }
   },
   {
-    "startDate": "2020-11-07T05:00Z",
+    "startDate": "2020-11-05T05:00Z",
     "gameState": "Scheduled",
     "id": 401249009,
     "home": {
@@ -765,7 +765,7 @@
     }
   },
   {
-    "startDate": "2020-11-07T05:00Z",
+    "startDate": "2020-11-06T02:00Z",
     "gameState": "Scheduled",
     "id": 401249010,
     "home": {

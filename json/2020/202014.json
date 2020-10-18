@@ -342,23 +342,6 @@
   {
     "startDate": "2020-12-05T05:00Z",
     "gameState": "Scheduled",
-    "id": 401240101,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Scheduled",
     "id": 401240102,
     "home": {
       "teamRank": 99,
@@ -527,7 +510,7 @@
     }
   },
   {
-    "startDate": "2020-12-05T05:00Z",
+    "startDate": "2020-12-04T02:30Z",
     "gameState": "Scheduled",
     "id": 401249029,
     "home": {
@@ -544,7 +527,7 @@
     }
   },
   {
-    "startDate": "2020-12-05T05:00Z",
+    "startDate": "2020-12-05T02:30Z",
     "gameState": "Scheduled",
     "id": 401249030,
     "home": {
@@ -561,7 +544,7 @@
     }
   },
   {
-    "startDate": "2020-12-05T05:00Z",
+    "startDate": "2020-12-06T03:30Z",
     "gameState": "Scheduled",
     "id": 401249031,
     "home": {
@@ -601,7 +584,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "San Jose State",
+      "nameRaw": "San José State",
       "description": ""
     },
     "away": {
@@ -612,7 +595,7 @@
     }
   },
   {
-    "startDate": "2020-12-05T05:00Z",
+    "startDate": "2020-12-06T00:00Z",
     "gameState": "Scheduled",
     "id": 401249034,
     "home": {
@@ -829,6 +812,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Kent State",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401251269,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulsa",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Cincinnati",
       "description": ""
     }
   }
