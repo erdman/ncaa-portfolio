@@ -446,15 +446,15 @@
     "gameState": "Final",
     "id": 401237105,
     "home": {
-      "teamRank": 0,
-      "currentScore": "45",
-      "nameRaw": "Missouri",
+      "teamRank": 17,
+      "currentScore": "41",
+      "nameRaw": "LSU",
       "description": "1-2"
     },
     "away": {
-      "teamRank": 0,
-      "currentScore": "41",
-      "nameRaw": "LSU",
+      "teamRank": 99,
+      "currentScore": "45",
+      "nameRaw": "Missouri",
       "description": "1-2"
     }
   },
