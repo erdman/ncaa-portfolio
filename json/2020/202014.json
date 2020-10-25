@@ -342,23 +342,6 @@
   {
     "startDate": "2020-12-05T05:00Z",
     "gameState": "Scheduled",
-    "id": 401240102,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Scheduled",
     "id": 401240218,
     "home": {
       "teamRank": 99,
@@ -578,7 +561,7 @@
     }
   },
   {
-    "startDate": "2020-12-05T05:00Z",
+    "startDate": "2020-12-05T21:00Z",
     "gameState": "Scheduled",
     "id": 401249033,
     "home": {
@@ -829,6 +812,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Cincinnati",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401252117,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Appalachian State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana",
       "description": ""
     }
   }

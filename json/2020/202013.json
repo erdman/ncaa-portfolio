@@ -918,7 +918,7 @@
     }
   },
   {
-    "startDate": "2020-11-28T05:00Z",
+    "startDate": "2020-11-27T21:00Z",
     "gameState": "Scheduled",
     "id": 401249874,
     "home": {
@@ -1016,6 +1016,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Miami",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-11-27T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401251926,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Liberty",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UMass",
       "description": ""
     }
   }
