@@ -831,5 +831,56 @@
       "nameRaw": "Louisiana",
       "description": ""
     }
+  },
+  {
+    "startDate": "2020-12-05T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401257810,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Charlotte",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Florida International",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401257811,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UTEP",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Southern Mississippi",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401257812,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Marshall",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Rice",
+      "description": ""
+    }
   }
 ]
