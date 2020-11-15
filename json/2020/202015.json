@@ -34,6 +34,23 @@
     }
   },
   {
+    "startDate": "2020-12-12T20:00Z",
+    "gameState": "Scheduled",
+    "id": 401215329,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UL Monroe",
+      "description": ""
+    }
+  },
+  {
     "startDate": "2020-12-12T05:00Z",
     "gameState": "Scheduled",
     "id": 401234572,
@@ -642,6 +659,74 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "North Texas",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401259671,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Alabama",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Troy",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401260157,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Mississippi State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Auburn",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401260158,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tennessee",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas A&M",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-13T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401261245,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia Tech",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Pittsburgh",
       "description": ""
     }
   }
