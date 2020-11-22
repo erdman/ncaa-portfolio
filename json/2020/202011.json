@@ -1001,5 +1001,22 @@
       "nameRaw": "UL Monroe",
       "description": ""
     }
+  },
+  {
+    "startDate": "2020-11-15T17:00Z",
+    "gameState": "Final",
+    "id": 401261454,
+    "home": {
+      "teamRank": 0,
+      "currentScore": "34",
+      "nameRaw": "UCLA",
+      "description": "1-1"
+    },
+    "away": {
+      "teamRank": 0,
+      "currentScore": "10",
+      "nameRaw": "California",
+      "description": "0-1"
+    }
   }
 ]
