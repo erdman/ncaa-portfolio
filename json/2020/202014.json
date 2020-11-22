@@ -70,40 +70,6 @@
   {
     "startDate": "2020-12-05T05:00Z",
     "gameState": "Scheduled",
-    "id": 401234660,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Louisville",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Wake Forest",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401234661,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Miami",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "North Carolina",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Scheduled",
     "id": 401234662,
     "home": {
       "teamRank": 99,
@@ -342,23 +308,6 @@
   {
     "startDate": "2020-12-05T05:00Z",
     "gameState": "Scheduled",
-    "id": 401240218,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Troy",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UL Monroe",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-05T05:00Z",
-    "gameState": "Scheduled",
     "id": 401247335,
     "home": {
       "teamRank": 99,
@@ -478,17 +427,17 @@
   {
     "startDate": "2020-12-05T05:00Z",
     "gameState": "Scheduled",
-    "id": 401248782,
+    "id": 401248781,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Memphis",
+      "nameRaw": "North Carolina",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Houston",
+      "nameRaw": "Western Carolina",
       "description": ""
     }
   },
@@ -680,7 +629,7 @@
     }
   },
   {
-    "startDate": "2020-12-04T05:00Z",
+    "startDate": "2020-12-05T02:30Z",
     "gameState": "Scheduled",
     "id": 401249427,
     "home": {
@@ -799,19 +748,19 @@
     }
   },
   {
-    "startDate": "2020-12-05T02:00Z",
+    "startDate": "2020-12-05T05:00Z",
     "gameState": "Scheduled",
-    "id": 401251269,
+    "id": 401250775,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Tulsa",
+      "nameRaw": "Wake Forest",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Cincinnati",
+      "nameRaw": "Miami",
       "description": ""
     }
   },
@@ -880,6 +829,108 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Rice",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401261675,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia Southern",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Florida Atlantic",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401262493,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UL Monroe",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401262494,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "South Alabama",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Troy",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401264081,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "SMU",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Houston",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401264082,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulane",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Memphis",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-05T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401264083,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Navy",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulsa",
       "description": ""
     }
   }

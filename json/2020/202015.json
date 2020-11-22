@@ -34,23 +34,6 @@
     }
   },
   {
-    "startDate": "2020-12-12T20:00Z",
-    "gameState": "Scheduled",
-    "id": 401215329,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arkansas State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UL Monroe",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-12-12T05:00Z",
     "gameState": "Scheduled",
     "id": 401234572,
@@ -64,6 +47,40 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Virginia",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-11-28T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401234649,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Boston College",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisville",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401234661,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Miami",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "North Carolina",
       "description": ""
     }
   },
@@ -217,23 +234,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Notre Dame",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-12T00:00Z",
-    "gameState": "Scheduled",
-    "id": 401248781,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "North Carolina",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Western Carolina",
       "description": ""
     }
   },
@@ -580,6 +580,23 @@
   {
     "startDate": "2020-12-12T05:00Z",
     "gameState": "Scheduled",
+    "id": 401251269,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tulsa",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Cincinnati",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
     "id": 401251733,
     "home": {
       "teamRank": 99,
@@ -669,13 +686,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "South Alabama",
+      "nameRaw": "Troy",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Troy",
+      "nameRaw": "Coastal Carolina",
       "description": ""
     }
   },
@@ -714,7 +731,7 @@
     }
   },
   {
-    "startDate": "2020-12-13T00:00Z",
+    "startDate": "2020-12-11T00:00Z",
     "gameState": "Scheduled",
     "id": 401261245,
     "home": {
@@ -727,6 +744,57 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Pittsburgh",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401262517,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Incarnate Word",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401263256,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Kansas",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401264084,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Memphis",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Houston",
       "description": ""
     }
   }

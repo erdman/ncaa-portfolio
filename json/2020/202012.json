@@ -1,10 +1,10 @@
 [
   {
     "startDate": "2020-11-21T17:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401207180,
     "home": {
-      "teamRank": 99,
+      "teamRank": 15,
       "currentScore": "0",
       "nameRaw": "Marshall",
       "description": ""
@@ -18,53 +18,53 @@
   },
   {
     "startDate": "2020-11-21T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401207181,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "4-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "0-5"
     }
   },
   {
     "startDate": "2020-11-21T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401207184,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "3-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2020-11-21T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401207185,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Southern Mississippi",
-      "description": ""
+      "description": "2-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "6-4"
     }
   },
   {
@@ -86,24 +86,24 @@
   },
   {
     "startDate": "2020-11-21T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401209818,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "66",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "9-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "North Alabama",
-      "description": ""
+      "description": "0-4"
     }
   },
   {
     "startDate": "2020-11-22T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401212482,
     "home": {
       "teamRank": 99,
@@ -120,7 +120,7 @@
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401212492,
     "home": {
       "teamRank": 99,
@@ -137,126 +137,126 @@
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401212519,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Temple",
-      "description": ""
+      "description": "1-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "East Carolina",
-      "description": ""
+      "description": "2-6"
     }
   },
   {
     "startDate": "2020-11-20T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401212526,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "30",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "5-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "5-5"
     }
   },
   {
     "startDate": "2020-11-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401212540,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "36",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "8-0"
     }
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401215333,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 15,
+      "currentScore": "34",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "8-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "6-2"
     }
   },
   {
-    "startDate": "2020-11-21T20:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T17:00Z",
+    "gameState": "Final",
     "id": 401215334,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "47",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "2-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "3-6"
     }
   },
   {
-    "startDate": "2020-11-21T21:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T20:30Z",
+    "gameState": "Final",
     "id": 401215335,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "3-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2020-11-21T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401234643,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "3-6"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "1-8"
     }
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401234644,
     "home": {
       "teamRank": 99,
@@ -265,7 +265,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 4,
       "currentScore": "0",
       "nameRaw": "Clemson",
       "description": ""
@@ -273,7 +273,7 @@
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401234645,
     "home": {
       "teamRank": 99,
@@ -290,10 +290,10 @@
   },
   {
     "startDate": "2020-11-22T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401234646,
     "home": {
-      "teamRank": 99,
+      "teamRank": 12,
       "currentScore": "0",
       "nameRaw": "Miami",
       "description": ""
@@ -307,75 +307,75 @@
   },
   {
     "startDate": "2020-11-22T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401234647,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "6-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "14",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "8-1"
     }
   },
   {
     "startDate": "2020-11-21T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401234648,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "47",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "5-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "4-5"
     }
   },
   {
-    "startDate": "2020-11-21T18:30Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T17:00Z",
+    "gameState": "Final",
     "id": 401235975,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Army",
-      "description": ""
+      "description": "7-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "6-3"
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T21:00Z",
+    "gameState": "Final",
     "id": 401236025,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "45",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "6-2"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2020-11-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401236026,
     "home": {
       "teamRank": 99,
@@ -384,7 +384,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 22,
       "currentScore": "0",
       "nameRaw": "Texas",
       "description": ""
@@ -392,112 +392,112 @@
   },
   {
     "startDate": "2020-11-22T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401236027,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "41",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "6-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "13",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "5-2"
     }
   },
   {
     "startDate": "2020-11-21T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401237135,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "63",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "7-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "3-5"
     }
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401237136,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Arkansas",
-      "description": ""
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "3-3"
     }
   },
   {
     "startDate": "2020-11-22T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401237137,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "30",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "5-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Tennessee",
-      "description": ""
+      "description": "2-5"
     }
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401237138,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "0-7"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "38",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "6-1"
     }
   },
   {
     "startDate": "2020-11-22T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401237139,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "31",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "5-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "2-5"
     }
   },
   {
     "startDate": "2020-11-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401237140,
     "home": {
-      "teamRank": 99,
+      "teamRank": 5,
       "currentScore": "0",
       "nameRaw": "Texas A&M",
       "description": ""
@@ -511,27 +511,27 @@
   },
   {
     "startDate": "2020-11-22T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401237141,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "2-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "3-3"
     }
   },
   {
     "startDate": "2020-11-21T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401240061,
     "home": {
-      "teamRank": 99,
+      "teamRank": 24,
       "currentScore": "0",
       "nameRaw": "Louisiana",
       "description": ""
@@ -545,7 +545,7 @@
   },
   {
     "startDate": "2020-11-21T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401240639,
     "home": {
       "teamRank": 99,
@@ -562,41 +562,41 @@
   },
   {
     "startDate": "2020-11-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401240641,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "4-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "3-6"
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T17:00Z",
+    "gameState": "Final",
     "id": 401247321,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "1-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T17:00Z",
+    "gameState": "Canceled",
     "id": 401247322,
     "home": {
       "teamRank": 99,
@@ -613,177 +613,177 @@
   },
   {
     "startDate": "2020-11-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401247323,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "17",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "7",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-22T00:30Z",
+    "gameState": "Final",
     "id": 401247324,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "1-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
-    "startDate": "2020-11-20T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T00:30Z",
+    "gameState": "Final",
     "id": 401247325,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Purdue",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401247326,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Ohio State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Indiana",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401247327,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Penn State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Iowa",
-      "description": ""
+      "description": "2-2"
     }
   },
   {
     "startDate": "2020-11-21T17:00Z",
-    "gameState": "Scheduled",
-    "id": 401247374,
+    "gameState": "Final",
+    "id": 401247326,
+    "home": {
+      "teamRank": 3,
+      "currentScore": "42",
+      "nameRaw": "Ohio State",
+      "description": "4-0"
+    },
+    "away": {
+      "teamRank": 9,
+      "currentScore": "35",
+      "nameRaw": "Indiana",
+      "description": "4-1"
+    }
+  },
+  {
+    "startDate": "2020-11-21T20:30Z",
+    "gameState": "Final",
+    "id": 401247327,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Memphis",
-      "description": ""
+      "currentScore": "21",
+      "nameRaw": "Penn State",
+      "description": "0-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
+      "nameRaw": "Iowa",
+      "description": "3-2"
+    }
+  },
+  {
+    "startDate": "2020-11-21T17:00Z",
+    "gameState": "Final",
+    "id": 401247374,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "56",
+      "nameRaw": "Memphis",
+      "description": "5-2"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "14",
       "nameRaw": "Stephen F. Austin",
-      "description": ""
+      "description": "6-4"
     }
   },
   {
     "startDate": "2020-11-21T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401248275,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "55",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "4-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "Abilene Christian",
-      "description": ""
+      "description": "1-5"
     }
   },
   {
     "startDate": "2020-11-22T04:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401249017,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "40",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2020-11-21T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401249018,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "2-2"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "New Mexico",
-      "description": ""
+      "description": "0-4"
     }
   },
   {
     "startDate": "2020-11-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401249019,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2020-11-22T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401249020,
     "home": {
       "teamRank": 99,
@@ -800,7 +800,7 @@
   },
   {
     "startDate": "2020-11-21T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401249021,
     "home": {
       "teamRank": 99,
@@ -817,7 +817,7 @@
   },
   {
     "startDate": "2020-11-20T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401249022,
     "home": {
       "teamRank": 99,
@@ -833,8 +833,8 @@
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-22T03:30Z",
+    "gameState": "Canceled",
     "id": 401249409,
     "home": {
       "teamRank": 99,
@@ -851,41 +851,41 @@
   },
   {
     "startDate": "2020-11-22T03:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401249410,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "33",
       "nameRaw": "USC",
-      "description": ""
+      "description": "3-0"
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T20:30Z",
+    "gameState": "Final",
     "id": 401249411,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "1-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "California",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2020-11-22T03:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401249412,
     "home": {
       "teamRank": 99,
@@ -901,127 +901,127 @@
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-22T01:00Z",
+    "gameState": "Final",
     "id": 401249413,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Arizona",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
-    "startDate": "2020-11-21T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-11-21T20:30Z",
+    "gameState": "Final",
     "id": 401249415,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "38",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "3-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "UCLA",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-18T00:00Z",
-    "gameState": "Scheduled",
-    "id": 401249867,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Kent State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Akron",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-18T00:00Z",
-    "gameState": "Scheduled",
-    "id": 401249868,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Bowling Green",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Buffalo",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-19T00:00Z",
-    "gameState": "Scheduled",
-    "id": 401249870,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Ball State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northern Illinois",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-19T00:00Z",
-    "gameState": "Scheduled",
-    "id": 401249871,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Eastern Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Toledo",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-11-19T00:00Z",
-    "gameState": "Scheduled",
-    "id": 401249872,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Central Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2020-11-18T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
+    "id": 401249867,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "69",
+      "nameRaw": "Kent State",
+      "description": "3-0"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "35",
+      "nameRaw": "Akron",
+      "description": "0-3"
+    }
+  },
+  {
+    "startDate": "2020-11-18T00:00Z",
+    "gameState": "Final",
+    "id": 401249868,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "17",
+      "nameRaw": "Bowling Green",
+      "description": "0-3"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "42",
+      "nameRaw": "Buffalo",
+      "description": "3-0"
+    }
+  },
+  {
+    "startDate": "2020-11-19T00:00Z",
+    "gameState": "Final",
+    "id": 401249870,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "31",
+      "nameRaw": "Ball State",
+      "description": "2-1"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "25",
+      "nameRaw": "Northern Illinois",
+      "description": "0-3"
+    }
+  },
+  {
+    "startDate": "2020-11-19T00:00Z",
+    "gameState": "Final",
+    "id": 401249871,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "28",
+      "nameRaw": "Eastern Michigan",
+      "description": "0-3"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "45",
+      "nameRaw": "Toledo",
+      "description": "2-1"
+    }
+  },
+  {
+    "startDate": "2020-11-19T00:00Z",
+    "gameState": "Final",
+    "id": 401249872,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "44",
+      "nameRaw": "Central Michigan",
+      "description": "2-1"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "52",
+      "nameRaw": "Western Michigan",
+      "description": "3-0"
+    }
+  },
+  {
+    "startDate": "2020-11-18T01:00Z",
+    "gameState": "Canceled",
     "id": 401249891,
     "home": {
       "teamRank": 99,
@@ -1037,20 +1037,20 @@
     }
   },
   {
-    "startDate": "2020-11-15T17:00Z",
-    "gameState": "Scheduled",
-    "id": 401261454,
+    "startDate": "2020-11-21T01:00Z",
+    "gameState": "Final",
+    "id": 401261674,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCLA",
-      "description": ""
+      "currentScore": "24",
+      "nameRaw": "Florida Atlantic",
+      "description": "5-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "California",
-      "description": ""
+      "currentScore": "2",
+      "nameRaw": "UMass",
+      "description": "0-3"
     }
   }
 ]
