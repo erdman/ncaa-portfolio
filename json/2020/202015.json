@@ -51,23 +51,6 @@
     }
   },
   {
-    "startDate": "2020-11-28T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401234649,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Boston College",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Louisville",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-12-12T05:00Z",
     "gameState": "Scheduled",
     "id": 401234661,
@@ -595,23 +578,6 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401251733,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Missouri",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Vanderbilt",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-12-10T23:30Z",
     "gameState": "Scheduled",
     "id": 401257813,
@@ -795,6 +761,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Houston",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401265680,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "West Virginia",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Oklahoma",
       "description": ""
     }
   }
