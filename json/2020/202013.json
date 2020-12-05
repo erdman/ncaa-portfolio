@@ -1,7 +1,7 @@
 [
   {
     "startDate": "2020-12-01T15:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Postponed",
     "id": 401207187,
     "home": {
       "teamRank": 99,
@@ -956,13 +956,13 @@
     "gameState": "Final",
     "id": 401265458,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "24",
       "nameRaw": "Washington",
       "description": "3-0"
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "21",
       "nameRaw": "Utah",
       "description": "0-2"
@@ -973,13 +973,13 @@
     "gameState": "Final",
     "id": 401265734,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "20",
       "nameRaw": "Colorado",
       "description": "3-0"
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "10",
       "nameRaw": "San Diego State",
       "description": "3-3"
