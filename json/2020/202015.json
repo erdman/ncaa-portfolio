@@ -1,6 +1,6 @@
 [
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T20:30Z",
     "gameState": "Scheduled",
     "id": 401207203,
     "home": {
@@ -17,7 +17,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T23:00Z",
     "gameState": "Scheduled",
     "id": 401215309,
     "home": {
@@ -64,23 +64,6 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "North Carolina",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-12T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401240099,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
       "description": ""
     }
   },
@@ -204,23 +187,6 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401248042,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Wake Forest",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Notre Dame",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-12-12T23:00Z",
     "gameState": "Scheduled",
     "id": 401249035,
@@ -323,7 +289,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T00:30Z",
+    "startDate": "2020-12-12T00:00Z",
     "gameState": "Scheduled",
     "id": 401249429,
     "home": {
@@ -380,13 +346,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Stanford",
+      "nameRaw": "Oregon State",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Oregon State",
+      "nameRaw": "Stanford",
       "description": ""
     }
   },
@@ -408,7 +374,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-13T03:00Z",
     "gameState": "Scheduled",
     "id": 401249435,
     "home": {
@@ -425,7 +391,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T20:00Z",
     "gameState": "Scheduled",
     "id": 401249883,
     "home": {
@@ -442,7 +408,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T17:00Z",
     "gameState": "Scheduled",
     "id": 401249884,
     "home": {
@@ -459,7 +425,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T17:00Z",
     "gameState": "Scheduled",
     "id": 401249885,
     "home": {
@@ -476,7 +442,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T19:30Z",
     "gameState": "Scheduled",
     "id": 401249886,
     "home": {
@@ -493,7 +459,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T17:00Z",
     "gameState": "Scheduled",
     "id": 401249888,
     "home": {
@@ -510,7 +476,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T17:00Z",
     "gameState": "Scheduled",
     "id": 401249894,
     "home": {
@@ -527,7 +493,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-13T00:00Z",
     "gameState": "Scheduled",
     "id": 401250713,
     "home": {
@@ -595,24 +561,7 @@
     }
   },
   {
-    "startDate": "2020-12-11T23:30Z",
-    "gameState": "Scheduled",
-    "id": 401257814,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Florida International",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Marshall",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T18:00Z",
     "gameState": "Scheduled",
     "id": 401257815,
     "home": {
@@ -629,7 +578,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-11T23:00Z",
     "gameState": "Scheduled",
     "id": 401257816,
     "home": {
@@ -646,7 +595,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T20:00Z",
     "gameState": "Scheduled",
     "id": 401259671,
     "home": {
@@ -680,23 +629,6 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401260158,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Tennessee",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Texas A&M",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2020-12-11T00:00Z",
     "gameState": "Scheduled",
     "id": 401261245,
@@ -714,7 +646,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T20:00Z",
     "gameState": "Scheduled",
     "id": 401262517,
     "home": {
@@ -731,7 +663,7 @@
     }
   },
   {
-    "startDate": "2020-12-12T05:00Z",
+    "startDate": "2020-12-12T20:30Z",
     "gameState": "Scheduled",
     "id": 401263256,
     "home": {
@@ -778,6 +710,159 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Oklahoma",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401266694,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Florida State",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Duke",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401266696,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisville",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Wake Forest",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-13T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401266711,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TCU",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Louisiana Tech",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-06T19:30Z",
+    "gameState": "Canceled",
+    "id": 401266773,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Middle Tennessee",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "UAB",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401267161,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Missouri",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Georgia",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401267162,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Texas A&M",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Ole Miss",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401267163,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Vanderbilt",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Tennessee",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401267164,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Arkansas",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Alabama",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2020-12-11T23:30Z",
+    "gameState": "Scheduled",
+    "id": 401267855,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Marshall",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Charlotte",
       "description": ""
     }
   }
