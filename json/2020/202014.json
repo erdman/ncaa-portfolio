@@ -483,13 +483,13 @@
       "teamRank": 99,
       "currentScore": "30",
       "nameRaw": "Utah",
-      "description": "0-2"
+      "description": "1-2"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "24",
       "nameRaw": "Oregon State",
-      "description": "2-2"
+      "description": "2-3"
     }
   },
   {
@@ -562,19 +562,19 @@
   },
   {
     "startDate": "2020-12-07T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401249427,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "38",
       "nameRaw": "USC",
-      "description": ""
+      "description": "4-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
@@ -902,19 +902,19 @@
   },
   {
     "startDate": "2020-12-06T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401266789,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "2-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "5-6"
     }
   }
 ]
