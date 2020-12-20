@@ -12,7 +12,7 @@ const win_points = {true: {true: 10, false: 0}, false: {true: 0, false: -10}};
 const top25_points = {true:  {false: [0,5,5,5,5,6,6,6,6,6,6,6,6,6,6,8,8,8,8,8,8,8,8,8,8,10], true: [0,4,4,4,4,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,0]},
                       false: {false: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],  true: [0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-2,-2,-2,-2,-2,-3,-3,-3,-3,-3,-3,-5,-5,-5,-5,-5]}
 };
-function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
+function calculateScore(hero, villain, fbs_name_set, game, new_years_six, year) {
     const heroRank = Math.min(hero.teamRank, 26);
     const villainRank = Math.min(villain.teamRank, 26);
     const VILLAIN_FBS = fbs_name_set.has(villain.nameRaw);
@@ -21,7 +21,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
                  blowout: VILLAIN_FBS && (hero.currentScore - villain.currentScore >= 30) ? 2 : 0,
                  shutout: VILLAIN_FBS && villain.currentScore === 0 ? 4 : 0,
                  top25:   top25_points[hero.currentScore > villain.currentScore][heroRank < villainRank][hero.currentScore > villain.currentScore && villainRank === 26 ? 0 : Math.abs(heroRank - villainRank)],
-                 bowl:    (game.week === 16 && !new_years_six.championships.has(game.id) ? 10 : 0) +
+                 bowl:    (game.week === bowl_week[year] && !new_years_six.championships.has(game.id) ? 10 : 0) +
                           (new_years_six.playoffs.has(game.id) ? 6 : 0) +
                           (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
                  displayString:  game.displayString,
@@ -35,7 +35,8 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six) {
 }
 
 const nullGame = {win:null, blowout:null, shutout:null, top25:null, bowl:null, displayString:null, week: null, startDate:null, win_loss_record:null, gameState:null, total:null};
-const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];
+const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17];
+const bowl_week = {2016: 16, 2017: 16, 2018: 16, 2019: 16, 2020: 17};
 let games = [], portfolios = [];
 let fbs, fbs_name_set, new_years_six = {};
 
@@ -113,7 +114,7 @@ function load_data(publish_continuation) {
             game.id = parseInt(game.id, 10);
             game.displayString = stringifyGame(game);
 
-            if (game.gameState === 'Scheduled' || game.gameState === 'Final' || game.week === 16) {
+            if (game.gameState === 'Scheduled' || game.gameState === 'Final' || game.week === bowl_week[year]) {
                 if (fbs_name_set.has(game.away.nameRaw)) {
                     // add blank bye weeks
                     while (fbs[game.away.nameRaw].games.slice(-1)[0].week < game.week - 1) {
@@ -139,14 +140,14 @@ function load_data(publish_continuation) {
 
             if (game.gameState === 'Final') {
                 if (fbs_name_set.has(game.away.nameRaw)) {
-                    let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six);
+                    let score = calculateScore(game.away, game.home, fbs_name_set, game, new_years_six, year);
                     score.week = Math.max(game.week, fbs[game.away.nameRaw].games.slice(-1)[0].week + 1);
                     fbs[game.away.nameRaw].games.push(score);
                     fbs[game.away.nameRaw].points += score.total;
                 }
 
                 if (fbs_name_set.has(game.home.nameRaw)) {
-                    let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six);
+                    let score = calculateScore(game.home, game.away, fbs_name_set, game, new_years_six, year);
                     score.week = Math.max(game.week, fbs[game.home.nameRaw].games.slice(-1)[0].week + 1);
                     fbs[game.home.nameRaw].games.push(score);
                     fbs[game.home.nameRaw].points += score.total;
@@ -154,8 +155,8 @@ function load_data(publish_continuation) {
             }
 
             // all completed games will be processed above in Final; this processes both Scheduled (all weeks) and Cancelled/Postponed week 16 bowl games
-            else if (game.gameState === 'Scheduled' || game.week === 16) {
-                const bonus = game.week === 16 ?
+            else if (game.gameState === 'Scheduled' || game.week === bowl_week[year]) {
+                const bonus = game.week === bowl_week[year] ?
                     (!new_years_six.championships.has(game.id) ? 10 : 0) +
                     (new_years_six.playoffs.has(game.id) ? 6 : 0) +
                     (new_years_six.new_years_fours.has(game.id) ? 3 : 0)
@@ -215,7 +216,7 @@ function establish_datatables() {
         data: portfolios,
         columns: [
             { "data": "rank", "title": "Rank", className: "text-center" },
-            { "data": "name", "title": "Name" },
+            { "data": "name", "title": "Name", className: "text-nowrap" },
             { "data": "schools", "title": "Portfolio", "render": li => li.map(school => `<a href=#Details/${school.year}/${encodeURI(school.school)}>${school.school}</a> (${school.points} / ${school.units})`).join(', ') },
             { "data": "score", "title": "Totals", "render": (data, type, row) => `${data.points} / ${data.units}` }
             ],
@@ -298,8 +299,9 @@ function establish_datatables() {
             { "data": "weeklies.13", "title": "13", className: "text-right", "defaultContent": "" },
             { "data": "weeklies.14", "title": "14", className: "text-right", "defaultContent": "" },
             { "data": "weeklies.15", "title": "15", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.16", "title": "Bowl", className: "text-right", "defaultContent": "" },
-            { "data": "weeklies.17", "title": "NCG", className: "text-right", "defaultContent": "" },
+            { "data": "weeklies.16", "title": "16", className: "text-right", "defaultContent": "" }, // normally a bowl game, but last wk reg season in 2020
+            { "data": "weeklies.17", "title": "17", className: "text-right", "defaultContent": "" }, // normally NCG, but bowl games in 2020
+            { "data": "weeklies.18", "title": "18", className: "text-right", "defaultContent": "", "name": "wk18", "visible": bowl_week[year] > 16 }, // NCG in 2020
             { "data": "points", "title": "Total", className: "text-right" },
             { "data": "units", "title": "Units", className: "text-right" },
             { "data": "points-per", "title": "Points / Unit", className: "text-right", render: $.fn.dataTable.render.number( ',', '.', 2 ) }
@@ -337,6 +339,7 @@ function reloadDataTable() {
                                                      }
                                    )
     );
+    $('#summary_table').DataTable().column('wk18:name').visible( bowl_week[year] > 16 );
     // update Team Details dropdown with new set of fbs names
     set_details_dropdown_options(fbs_name_set);
 }
