@@ -11,7 +11,7 @@ set -e
 
 function download() {
     local DLWEEK=$WEEK
-    if [ $WEEK = 16 ]
+    if [ $WEEK = 17 ]
     then
         WEEK=1
         SEASONTYPE=3
