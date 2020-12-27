@@ -57,7 +57,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "South Carolina",
       "description": ""
     },
     "away": {
@@ -154,126 +154,126 @@
   },
   {
     "startDate": "2020-12-21T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256135,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "4-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "56",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2020-12-22T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256136,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "7-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2020-12-23T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256137,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "49",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "6-4"
     }
   },
   {
     "startDate": "2020-12-23T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256138,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "5-5"
     }
   },
   {
     "startDate": "2020-12-24T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256139,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "5-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "8-3"
     }
   },
   {
     "startDate": "2020-12-24T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256140,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "5-4"
     }
   },
   {
     "startDate": "2020-12-25T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256141,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "6-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "7-3"
     }
   },
   {
     "startDate": "2020-12-26T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401256142,
     "home": {
       "teamRank": 99,
@@ -282,61 +282,61 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 0,
       "currentScore": "0",
-      "nameRaw": "South Carolina",
+      "nameRaw": "TBD",
       "description": ""
     }
   },
   {
-    "startDate": "2020-12-26T17:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2020-12-27T00:30Z",
+    "gameState": "Final",
     "id": 401256143,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "34",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "10-1"
     }
   },
   {
     "startDate": "2020-12-26T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256144,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "31",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "10-1"
     }
   },
   {
     "startDate": "2020-12-26T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256145,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "39",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "6-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
@@ -346,7 +346,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Army",
+      "nameRaw": "SMU",
       "description": ""
     },
     "away": {
@@ -363,7 +363,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Tennessee",
       "description": ""
     },
     "away": {
@@ -375,7 +375,7 @@
   },
   {
     "startDate": "2020-12-28T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401256148,
     "home": {
       "teamRank": 99,
@@ -533,7 +533,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Tennessee",
+      "nameRaw": "Army",
       "description": ""
     },
     "away": {
