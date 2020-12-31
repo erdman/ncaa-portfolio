@@ -990,13 +990,13 @@
     "gameState": "Postponed",
     "id": 401260376,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Arkansas State",
       "description": ""
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "UL Monroe",
       "description": ""
@@ -1007,13 +1007,13 @@
     "gameState": "Final",
     "id": 401261454,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "34",
       "nameRaw": "UCLA",
       "description": "1-1"
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "10",
       "nameRaw": "California",
       "description": "0-1"

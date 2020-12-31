@@ -378,13 +378,13 @@
     "gameState": "Final",
     "id": 401240233,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "55",
       "nameRaw": "Pittsburgh",
       "description": "1-0"
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Austin Peay",
       "description": "0-2"
@@ -395,13 +395,13 @@
     "gameState": "Postponed",
     "id": 401240296,
     "home": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Baylor",
       "description": ""
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Louisiana Tech",
       "description": ""
