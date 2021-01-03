@@ -1,29 +1,46 @@
 [
   {
     "startDate": "2021-01-01T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401240152,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "31",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "12-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "14",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2021-01-02T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401240173,
+    "home": {
+      "teamRank": 2,
+      "currentScore": "28",
+      "nameRaw": "Clemson",
+      "description": "10-2"
+    },
+    "away": {
+      "teamRank": 3,
+      "currentScore": "49",
+      "nameRaw": "Ohio State",
+      "description": "7-0"
+    }
+  },
+  {
+    "startDate": "2021-01-12T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401240174,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Clemson",
+      "nameRaw": "Alabama",
       "description": ""
     },
     "away": {
@@ -34,30 +51,13 @@
     }
   },
   {
-    "startDate": "2021-01-12T01:00Z",
-    "gameState": "Scheduled",
-    "id": 401240174,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
     "startDate": "2021-01-01T17:00Z",
     "gameState": "Canceled",
     "id": 401256107,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "South Carolina",
+      "nameRaw": "Tennessee",
       "description": ""
     },
     "away": {
@@ -69,87 +69,87 @@
   },
   {
     "startDate": "2021-01-01T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256108,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "21",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "9-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "24",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "8-2"
     }
   },
   {
     "startDate": "2021-01-02T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256109,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "5-6"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "21",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2021-01-02T17:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256110,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "20",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "6-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "5-5"
     }
   },
   {
     "startDate": "2021-01-02T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256111,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "34",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "17",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "4-3"
     }
   },
   {
     "startDate": "2021-01-03T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256112,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "27",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "41",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "9-1"
     }
   },
   {
@@ -282,9 +282,9 @@
       "description": ""
     },
     "away": {
-      "teamRank": 0,
+      "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "South Carolina",
       "description": ""
     }
   },
@@ -363,7 +363,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Tennessee",
+      "nameRaw": "TBD",
       "description": ""
     },
     "away": {
@@ -409,58 +409,58 @@
   },
   {
     "startDate": "2020-12-29T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256150,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "34",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "8-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "37",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "8-3"
     }
   },
   {
     "startDate": "2020-12-30T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256151,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Colorado",
-      "description": ""
+      "description": "4-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "55",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "7-3"
     }
   },
   {
     "startDate": "2020-12-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256152,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "4-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "4-5"
     }
   },
   {
     "startDate": "2020-12-30T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401256193,
     "home": {
       "teamRank": 99,
@@ -469,7 +469,7 @@
       "description": ""
     },
     "away": {
-      "teamRank": 99,
+      "teamRank": 15,
       "currentScore": "0",
       "nameRaw": "Iowa",
       "description": ""
@@ -477,19 +477,19 @@
   },
   {
     "startDate": "2020-12-31T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256194,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "55",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "9-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "20",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
@@ -511,41 +511,41 @@
   },
   {
     "startDate": "2020-12-31T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256196,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "4-7"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "26",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "6-3"
     }
   },
   {
     "startDate": "2020-12-31T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256197,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Army",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "6-4"
     }
   },
   {
     "startDate": "2021-01-01T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401256198,
     "home": {
       "teamRank": 99,
@@ -562,19 +562,19 @@
   },
   {
     "startDate": "2021-01-01T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401256199,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "35",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "7-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "6-5"
     }
   },
   {
@@ -698,19 +698,19 @@
   },
   {
     "startDate": "2020-12-31T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401268773,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "13",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "7-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "7-1"
     }
   }
 ]
