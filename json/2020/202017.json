@@ -35,19 +35,19 @@
   },
   {
     "startDate": "2021-01-12T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401240174,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "52",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "13-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "24",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "7-1"
     }
   },
   {
@@ -57,7 +57,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Tennessee",
+      "nameRaw": "TBD",
       "description": ""
     },
     "away": {
@@ -284,7 +284,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "South Carolina",
+      "nameRaw": "TBD",
       "description": ""
     }
   },
@@ -363,7 +363,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Tennessee",
       "description": ""
     },
     "away": {
@@ -380,7 +380,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "South Carolina",
       "description": ""
     },
     "away": {
