@@ -188,19 +188,19 @@
   },
   {
     "startDate": "2021-08-29T01:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282049,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
@@ -369,7 +369,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Southern Mississippi",
+      "nameRaw": "Southern Miss",
       "description": ""
     }
   },
@@ -561,20 +561,20 @@
     }
   },
   {
-    "startDate": "2021-08-28T17:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2021-08-28T17:20Z",
+    "gameState": "Final",
     "id": 401282714,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -715,19 +715,19 @@
   },
   {
     "startDate": "2021-08-28T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401286187,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1157,19 +1157,19 @@
   },
   {
     "startDate": "2021-08-28T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401309833,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "UCLA",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1344,19 +1344,19 @@
   },
   {
     "startDate": "2021-08-29T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401310693,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Southern Utah",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
