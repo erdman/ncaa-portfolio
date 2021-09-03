@@ -346,7 +346,7 @@ function reloadDataTable() {
 
 
 let globaldata = {};
-window.location.hash = window.location.hash || "#Summary/2021";  // sets hash to default if no hash given
+window.location.hash = window.location.hash || "#Leaderboard/2021";  // sets hash to default if no hash given
 $("#year").val(window.location.hash.split('/')[1] || '2021');        // sets year dropdown to value in hash or default if no year hash given
 console.log('intial hash: ', window.location.hash);
 let promise = load_data(establish_datatables);
