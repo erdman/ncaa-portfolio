@@ -1,903 +1,903 @@
 [
   {
     "startDate": "2021-10-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282116,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "31",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "6-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "20",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "6-2"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282117,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "4-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "34",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "8-0"
     }
   },
   {
     "startDate": "2021-10-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282118,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "17",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "6-2"
     }
   },
   {
     "startDate": "2021-10-30T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282119,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "2-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282241,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "4-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282242,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "1-7"
     }
   },
   {
     "startDate": "2021-10-30T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282243,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "6-2"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282244,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "2-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "2-6"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282245,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "4-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Southern Miss",
-      "description": ""
+      "description": "1-7"
     }
   },
   {
     "startDate": "2021-10-30T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282246,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "2-6"
     }
   },
   {
     "startDate": "2021-10-31T02:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282669,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "66",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "7-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "6-3"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282670,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "3-5"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282671,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282672,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "6-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282673,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "44",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "7-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282674,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "34",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "6-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282675,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "5-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "Boston College",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282676,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "45",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "8-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "3-5"
     }
   },
   {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2021-10-30T16:00Z",
+    "gameState": "Final",
     "id": 401282719,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "3-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282726,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Maryland",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "2-6"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282763,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "7",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "6-2"
     }
   },
   {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2021-10-30T16:00Z",
+    "gameState": "Final",
     "id": 401282777,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "37",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "8-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "33",
       "nameRaw": "Michigan",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
-    "id": 401282795,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Northwestern",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Minnesota",
-      "description": ""
+      "description": "7-1"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
-    "id": 401282801,
+    "gameState": "Final",
+    "id": 401282795,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Nebraska",
-      "description": ""
+      "currentScore": "14",
+      "nameRaw": "Northwestern",
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
+      "nameRaw": "Minnesota",
+      "description": "6-2"
+    }
+  },
+  {
+    "startDate": "2021-10-30T19:30Z",
+    "gameState": "Final",
+    "id": 401282801,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "23",
+      "nameRaw": "Nebraska",
+      "description": "3-6"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "28",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "5-3"
     }
   },
   {
     "startDate": "2021-10-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282814,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "33",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "7-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "24",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "5-3"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401286297,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "62",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "7-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "UMass",
-      "description": ""
+      "description": "1-7"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401287929,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "31",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "7-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401287930,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "5-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "12",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "3-5"
     }
   },
   {
     "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401287931,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "52",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "9-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Texas Tech",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
-    "id": 401287932,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Oklahoma State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Kansas",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T18:00Z",
-    "gameState": "Scheduled",
-    "id": 401287933,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "West Virginia",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Iowa State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-29T23:30Z",
-    "gameState": "Scheduled",
-    "id": 401301030,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Tulsa",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Navy",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
-    "id": 401301031,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Temple",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCF",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
-    "id": 401301032,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Tulane",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Cincinnati",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-28T23:30Z",
-    "gameState": "Scheduled",
-    "id": 401301033,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "East Carolina",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "South Florida",
-      "description": ""
+      "description": "5-4"
     }
   },
   {
     "startDate": "2021-10-30T23:00Z",
-    "gameState": "Scheduled",
-    "id": 401301034,
+    "gameState": "Final",
+    "id": 401287932,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Houston",
-      "description": ""
+      "teamRank": 15,
+      "currentScore": "55",
+      "nameRaw": "Oklahoma State",
+      "description": "7-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "SMU",
-      "description": ""
+      "currentScore": "3",
+      "nameRaw": "Kansas",
+      "description": "1-7"
+    }
+  },
+  {
+    "startDate": "2021-10-30T18:00Z",
+    "gameState": "Final",
+    "id": 401287933,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "38",
+      "nameRaw": "West Virginia",
+      "description": "4-4"
+    },
+    "away": {
+      "teamRank": 22,
+      "currentScore": "31",
+      "nameRaw": "Iowa State",
+      "description": "5-3"
+    }
+  },
+  {
+    "startDate": "2021-10-29T23:30Z",
+    "gameState": "Final",
+    "id": 401301030,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "17",
+      "nameRaw": "Tulsa",
+      "description": "3-5"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "20",
+      "nameRaw": "Navy",
+      "description": "2-6"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
-    "id": 401309578,
+    "gameState": "Final",
+    "id": 401301031,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Buffalo",
-      "description": ""
+      "currentScore": "7",
+      "nameRaw": "Temple",
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Bowling Green",
-      "description": ""
+      "currentScore": "49",
+      "nameRaw": "UCF",
+      "description": "5-3"
+    }
+  },
+  {
+    "startDate": "2021-10-30T16:00Z",
+    "gameState": "Final",
+    "id": 401301032,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "12",
+      "nameRaw": "Tulane",
+      "description": "1-7"
+    },
+    "away": {
+      "teamRank": 2,
+      "currentScore": "31",
+      "nameRaw": "Cincinnati",
+      "description": "8-0"
     }
   },
   {
     "startDate": "2021-10-28T23:30Z",
-    "gameState": "Scheduled",
-    "id": 401309627,
+    "gameState": "Final",
+    "id": 401301033,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Coastal Carolina",
-      "description": ""
+      "currentScore": "29",
+      "nameRaw": "East Carolina",
+      "description": "4-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Troy",
-      "description": ""
+      "currentScore": "14",
+      "nameRaw": "South Florida",
+      "description": "2-6"
     }
   },
   {
-    "startDate": "2021-10-30T19:30Z",
-    "gameState": "Scheduled",
-    "id": 401309628,
+    "startDate": "2021-10-30T23:00Z",
+    "gameState": "Final",
+    "id": 401301034,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Appalachian State",
-      "description": ""
+      "currentScore": "44",
+      "nameRaw": "Houston",
+      "description": "7-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UL Monroe",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T21:00Z",
-    "gameState": "Scheduled",
-    "id": 401309629,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "South Alabama",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arkansas State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T22:00Z",
-    "gameState": "Scheduled",
-    "id": 401309630,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Georgia Southern",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Georgia State",
-      "description": ""
+      "teamRank": 19,
+      "currentScore": "37",
+      "nameRaw": "SMU",
+      "description": "7-1"
     }
   },
   {
     "startDate": "2021-10-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
+    "id": 401309578,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "44",
+      "nameRaw": "Buffalo",
+      "description": "4-5"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "56",
+      "nameRaw": "Bowling Green",
+      "description": "3-6"
+    }
+  },
+  {
+    "startDate": "2021-10-28T23:30Z",
+    "gameState": "Final",
+    "id": 401309627,
+    "home": {
+      "teamRank": 24,
+      "currentScore": "35",
+      "nameRaw": "Coastal Carolina",
+      "description": "7-1"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "28",
+      "nameRaw": "Troy",
+      "description": "4-4"
+    }
+  },
+  {
+    "startDate": "2021-10-30T19:30Z",
+    "gameState": "Final",
+    "id": 401309628,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "59",
+      "nameRaw": "Appalachian State",
+      "description": "6-2"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "28",
+      "nameRaw": "UL Monroe",
+      "description": "4-4"
+    }
+  },
+  {
+    "startDate": "2021-10-30T21:00Z",
+    "gameState": "Final",
+    "id": 401309629,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "31",
+      "nameRaw": "South Alabama",
+      "description": "5-3"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "13",
+      "nameRaw": "Arkansas State",
+      "description": "1-7"
+    }
+  },
+  {
+    "startDate": "2021-10-30T22:00Z",
+    "gameState": "Final",
+    "id": 401309630,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "14",
+      "nameRaw": "Georgia Southern",
+      "description": "2-6"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "21",
+      "nameRaw": "Georgia State",
+      "description": "4-4"
+    }
+  },
+  {
+    "startDate": "2021-10-30T16:00Z",
+    "gameState": "Final",
     "id": 401309631,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "7-1"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "2-6"
     }
   },
   {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2021-10-30T23:00Z",
+    "gameState": "Final",
     "id": 401309882,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "39",
       "nameRaw": "California",
-      "description": ""
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "5-3"
     }
   },
   {
     "startDate": "2021-10-31T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401309883,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "3-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2021-10-30T19:30Z",
+    "gameState": "Final",
     "id": 401309884,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "52",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "7-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Colorado",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
-    "id": 401309885,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Washington State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T23:00Z",
-    "gameState": "Scheduled",
-    "id": 401309886,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "USC",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Arizona",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-31T02:00Z",
-    "gameState": "Scheduled",
-    "id": 401309887,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Utah",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCLA",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2021-10-30T23:00Z",
-    "gameState": "Scheduled",
-    "id": 401310730,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Colorado State",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Boise State",
-      "description": ""
+      "description": "2-6"
     }
   },
   {
     "startDate": "2021-10-30T19:00Z",
-    "gameState": "Scheduled",
-    "id": 401310731,
+    "gameState": "Final",
+    "id": 401309885,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Utah State",
-      "description": ""
+      "currentScore": "21",
+      "nameRaw": "Arizona State",
+      "description": "5-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Hawai'i",
-      "description": ""
+      "currentScore": "34",
+      "nameRaw": "Washington State",
+      "description": "5-4"
     }
   },
   {
-    "startDate": "2021-10-30T04:00Z",
-    "gameState": "Scheduled",
-    "id": 401310732,
+    "startDate": "2021-10-30T23:00Z",
+    "gameState": "Final",
+    "id": 401309886,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "San José State",
-      "description": ""
+      "currentScore": "41",
+      "nameRaw": "USC",
+      "description": "4-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
+      "nameRaw": "Arizona",
+      "description": "0-8"
+    }
+  },
+  {
+    "startDate": "2021-10-31T02:00Z",
+    "gameState": "Final",
+    "id": 401309887,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "44",
+      "nameRaw": "Utah",
+      "description": "5-3"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "24",
+      "nameRaw": "UCLA",
+      "description": "5-4"
+    }
+  },
+  {
+    "startDate": "2021-10-30T23:00Z",
+    "gameState": "Final",
+    "id": 401310730,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "19",
+      "nameRaw": "Colorado State",
+      "description": "3-5"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "28",
+      "nameRaw": "Boise State",
+      "description": "4-4"
+    }
+  },
+  {
+    "startDate": "2021-10-30T19:00Z",
+    "gameState": "Final",
+    "id": 401310731,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "51",
+      "nameRaw": "Utah State",
+      "description": "6-2"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "31",
+      "nameRaw": "Hawai'i",
+      "description": "4-5"
+    }
+  },
+  {
+    "startDate": "2021-10-30T20:00Z",
+    "gameState": "Final",
+    "id": 401310732,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "27",
+      "nameRaw": "San José State",
+      "description": "5-4"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "21",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "4-4"
     }
   },
   {
     "startDate": "2021-10-31T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401310733,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "20",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "7-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "7-2"
     }
   },
   {
     "startDate": "2021-10-30T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401310734,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "51",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "6-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "0-8"
     }
   }
 ]
