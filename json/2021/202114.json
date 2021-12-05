@@ -1,189 +1,189 @@
 [
   {
     "startDate": "2021-12-04T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282154,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "41",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "12-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "24",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "12-1"
     }
   },
   {
     "startDate": "2021-12-04T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401282156,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
+      "currentScore": "49",
+      "nameRaw": "UTSA",
+      "description": "12-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
+      "currentScore": "41",
+      "nameRaw": "Western Kentucky",
+      "description": "8-5"
     }
   },
   {
     "startDate": "2021-12-04T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401287953,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "16",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "21",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2021-12-04T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401310676,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "13",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "46",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2021-12-04T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331159,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "38",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "10",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2021-12-04T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331160,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2021-12-04T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331161,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "24",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "12-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2021-12-04T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331162,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "35",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "13-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "20",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2021-12-05T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331163,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "21",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 15,
+      "currentScore": "45",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2021-12-05T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331447,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Michigan",
-      "description": ""
+      "teamRank": 13,
+      "currentScore": "3",
+      "nameRaw": "Iowa",
+      "description": "10-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Iowa",
-      "description": ""
+      "teamRank": 2,
+      "currentScore": "42",
+      "nameRaw": "Michigan",
+      "description": "12-1"
     }
   },
   {
-    "startDate": "2021-12-04T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2021-12-05T04:00Z",
+    "gameState": "Final",
     "id": 401387250,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "California",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "USC",
-      "description": ""
+      "description": "4-8"
     }
   }
 ]
