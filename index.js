@@ -36,7 +36,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six, year) 
 
 const nullGame = {win:null, blowout:null, shutout:null, top25:null, bowl:null, displayString:null, week: null, startDate:null, win_loss_record:null, gameState:null, total:null};
 const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17];
-const bowl_week = {2016: 16, 2017: 16, 2018: 16, 2019: 16, 2020: 17};
+const bowl_week = {2016: 16, 2017: 16, 2018: 16, 2019: 16, 2020: 17, 2021: 16};
 let games = [], portfolios = [];
 let fbs, fbs_name_set, new_years_six = {};
 
