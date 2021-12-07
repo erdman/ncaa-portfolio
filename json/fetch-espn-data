@@ -11,7 +11,7 @@ set -e
 
 function download() {
     local DLWEEK=$WEEK
-    if [ $WEEK = 17 ]
+    if [ $WEEK = 16 ]  #bowl games were in week 17 during 2020 (Covid season), changing back to 16
     then
         WEEK=1
         SEASONTYPE=3
