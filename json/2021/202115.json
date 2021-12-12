@@ -1,19 +1,19 @@
 [
   {
     "startDate": "2021-12-11T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401301056,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Army",
-      "description": ""
+      "description": "8-4"
     }
   }
 ]
