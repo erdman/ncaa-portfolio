@@ -1,138 +1,138 @@
 [
   {
     "startDate": "2021-12-17T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331164,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2021-12-17T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331165,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "47",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "9-5"
     }
   },
   {
     "startDate": "2021-12-18T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331166,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "10-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "59",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "9-5"
     }
   },
   {
     "startDate": "2021-12-18T19:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331167,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2021-12-18T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331168,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "28",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
-    "startDate": "2021-12-18T22:45Z",
-    "gameState": "Scheduled",
+    "startDate": "2021-12-18T23:00Z",
+    "gameState": "Final",
     "id": 401331169,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "56",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2021-12-19T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331170,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "11-3"
     }
   },
   {
     "startDate": "2021-12-19T02:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331171,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "36",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "13-1"
     }
   },
   {
