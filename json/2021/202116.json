@@ -137,92 +137,92 @@
   },
   {
     "startDate": "2021-12-20T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331172,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
     "startDate": "2021-12-21T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331213,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "7-7"
     }
   },
   {
     "startDate": "2021-12-22T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331214,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "38",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "12-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "12-2"
     }
   },
   {
     "startDate": "2021-12-23T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331215,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Army",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
     "startDate": "2021-12-24T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331216,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2021-12-25T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Canceled",
     "id": 401331217,
     "home": {
       "teamRank": 99,
@@ -499,7 +499,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Texas A&M",
+      "nameRaw": "Rutgers",
       "description": ""
     },
     "away": {
@@ -715,19 +715,19 @@
   },
   {
     "startDate": "2021-12-23T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401391158,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "6-7"
     }
   }
 ]
