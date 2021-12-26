@@ -239,19 +239,19 @@
   },
   {
     "startDate": "2021-12-25T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331218,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "51",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
