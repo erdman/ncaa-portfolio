@@ -630,19 +630,19 @@
   },
   {
     "startDate": "2022-01-05T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331241,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
