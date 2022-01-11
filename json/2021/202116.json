@@ -647,19 +647,19 @@
   },
   {
     "startDate": "2022-01-11T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401331242,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "18",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "13-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "33",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "14-1"
     }
   },
   {
