@@ -1,0 +1,19 @@
+[
+  {
+    "startDate": "2022-12-10T20:00Z",
+    "gameState": "Scheduled",
+    "id": 401404145,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Army",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Navy",
+      "description": ""
+    }
+  }
+]
