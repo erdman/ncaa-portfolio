@@ -695,5 +695,22 @@
       "nameRaw": "TBD",
       "description": ""
     }
+  },
+  {
+    "startDate": "2022-12-29T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401470891,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
   }
 ]

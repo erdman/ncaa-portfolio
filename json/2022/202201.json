@@ -1,19 +1,19 @@
 [
   {
     "startDate": "2022-08-28T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403853,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "63",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
@@ -511,19 +511,19 @@
   },
   {
     "startDate": "2022-08-27T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401404146,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -562,36 +562,36 @@
   },
   {
     "startDate": "2022-08-27T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401405058,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2022-08-27T16:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401405059,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -748,54 +748,54 @@
     }
   },
   {
-    "startDate": "2022-08-27T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-08-28T02:00Z",
+    "gameState": "Final",
     "id": 401409235,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "12",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
     "startDate": "2022-08-27T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411090,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "47",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Duquesne",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2022-08-28T00:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411091,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "56",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Florida A&M",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -970,19 +970,19 @@
   },
   {
     "startDate": "2022-08-27T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401413256,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Idaho State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1344,53 +1344,53 @@
   },
   {
     "startDate": "2022-08-27T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426530,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "43",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
-    "startDate": "2022-08-28T01:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-08-28T02:00Z",
+    "gameState": "Final",
     "id": 401426531,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
     "startDate": "2022-08-27T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426532,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Austin Peay",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
