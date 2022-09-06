@@ -222,19 +222,19 @@
   },
   {
     "startDate": "2022-09-04T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403867,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
@@ -936,19 +936,19 @@
   },
   {
     "startDate": "2022-09-06T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411101,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "41",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
