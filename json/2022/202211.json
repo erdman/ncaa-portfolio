@@ -1103,5 +1103,22 @@
       "nameRaw": "Rice",
       "description": ""
     }
+  },
+  {
+    "startDate": "2022-11-12T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401491900,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
   }
 ]
