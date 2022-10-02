@@ -1,40 +1,40 @@
 [
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403902,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "26",
       "nameRaw": "Arkansas",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "49",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2022-10-01T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403903,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
-    "startDate": "2022-10-01T16:00Z",
+    "startDate": "2022-10-02T16:00Z",
     "gameState": "Scheduled",
     "id": 401403904,
     "home": {
@@ -52,1039 +52,1022 @@
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403905,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "22",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "19",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2022-10-01T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403906,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "24",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403907,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "26",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
-    "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-09-29T23:00Z",
+    "gameState": "Final",
     "id": 401403908,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "50",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "South Carolina State",
-      "description": ""
+      "description": "1-3"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-02T01:30Z",
+    "gameState": "Final",
     "id": 401404002,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "43",
       "nameRaw": "Arizona",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Colorado",
-      "description": ""
+      "description": "0-5"
     }
   },
   {
-    "startDate": "2022-10-02T02:30Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-02T02:40Z",
+    "gameState": "Final",
     "id": 401404003,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "42",
       "nameRaw": "USC",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Arizona State",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T21:30Z",
+    "gameState": "Final",
     "id": 401404004,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "California",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-02T03:00Z",
+    "gameState": "Final",
     "id": 401404005,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "45",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "1-3"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T18:00Z",
+    "gameState": "Final",
     "id": 401404006,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "42",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401404007,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "40",
       "nameRaw": "UCLA",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 15,
+      "currentScore": "32",
       "nameRaw": "Washington",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
-    "id": 401404083,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Baylor",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
+    "id": 401404083,
+    "home": {
+      "teamRank": 16,
+      "currentScore": "25",
+      "nameRaw": "Baylor",
+      "description": "3-2"
+    },
+    "away": {
+      "teamRank": 9,
+      "currentScore": "36",
+      "nameRaw": "Oklahoma State",
+      "description": "4-0"
+    }
+  },
+  {
+    "startDate": "2022-10-01T19:30Z",
+    "gameState": "Final",
     "id": 401404084,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Kansas",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "11",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401404085,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "37",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401404086,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "55",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "4-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "24",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T23:30Z",
+    "gameState": "Final",
     "id": 401404087,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401404137,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Army",
-      "description": ""
+      "description": "1-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401404151,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "2-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "1-3"
     }
   },
   {
     "startDate": "2022-10-01T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401404161,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T16:00Z",
+    "gameState": "Final",
     "id": 401405099,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T16:00Z",
+    "gameState": "Final",
     "id": 401405100,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "27",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401405101,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "10",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
-    "startDate": "2022-10-01T04:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T23:30Z",
+    "gameState": "Final",
     "id": 401405102,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401405103,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Maryland",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401405104,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "49",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401405105,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "17",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411124,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Boston College",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411125,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "30",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "20",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2022-10-01T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411126,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411127,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "21",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "31",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411128,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-02T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411129,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "21",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401411130,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "59",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Wagner",
-      "description": ""
+      "description": "0-4"
     }
   },
   {
     "startDate": "2022-10-01T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401414782,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "UMass",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2022-09-30T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415226,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "38",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415227,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "1-3"
     }
   },
   {
     "startDate": "2022-10-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415228,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T03:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415229,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "New Mexico",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415230,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "3-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "3-1"
     }
   },
   {
     "startDate": "2022-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415625,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
-    "startDate": "2022-10-01T23:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T18:30Z",
+    "gameState": "Final",
     "id": 401415626,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "South Florida",
-      "description": ""
+      "description": "1-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "East Carolina",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415627,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2022-10-01T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401415628,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Temple",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
-    "id": 401415629,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCF",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "SMU",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401416607,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Central Michigan",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2022-10-01T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401416608,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401416609,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Akron",
-      "description": ""
+      "description": "1-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Bowling Green",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401416610,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401416611,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401416612,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "New Hampshire",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401421140,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "The Citadel",
-      "description": ""
+      "description": "1-3"
     }
   },
   {
-    "startDate": "2022-10-01T20:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-10-01T23:00Z",
+    "gameState": "Final",
     "id": 401426337,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T17:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426338,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "40",
       "nameRaw": "James Madison",
-      "description": ""
+      "description": "4-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426339,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Gardner-Webb",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2022-10-01T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426340,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "UL Monroe",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2022-10-01T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426341,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2022-10-01T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426573,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "1-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "3-3"
     }
   },
   {
     "startDate": "2022-10-02T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426574,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "1-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "2-2"
     }
   },
   {
     "startDate": "2022-10-01T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426575,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "3-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "2-4"
     }
   },
   {
     "startDate": "2022-09-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426576,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2022-10-01T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426577,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "2-2"
     }
   },
   {
     "startDate": "2022-10-01T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401426578,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "3-2"
     }
   }
 ]
