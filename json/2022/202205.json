@@ -35,19 +35,19 @@
   },
   {
     "startDate": "2022-10-02T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401403904,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Eastern Washington",
-      "description": ""
+      "description": "1-3"
     }
   },
   {
