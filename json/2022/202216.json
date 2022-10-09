@@ -712,56 +712,5 @@
       "nameRaw": "TBD",
       "description": ""
     }
-  },
-  {
-    "startDate": "2023-02-02T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401495502,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "West",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "East",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2023-02-04T19:30Z",
-    "gameState": "Scheduled",
-    "id": 401495503,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "American",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "National",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2023-01-28T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401495504,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "American",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "National",
-      "description": ""
-    }
   }
 ]
