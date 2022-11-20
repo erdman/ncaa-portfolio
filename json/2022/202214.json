@@ -23,13 +23,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "North Carolina",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Clemson",
       "description": ""
     }
   },
@@ -40,7 +40,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "TCU",
       "description": ""
     },
     "away": {
@@ -97,7 +97,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Toledo",
       "description": ""
     }
   },
@@ -108,13 +108,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Boise State",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Fresno State",
       "description": ""
     }
   },
@@ -136,19 +136,19 @@
     }
   },
   {
-    "startDate": "2022-12-03T05:00Z",
+    "startDate": "2022-12-03T21:00Z",
     "gameState": "Scheduled",
     "id": 401437036,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Georgia",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "LSU",
       "description": ""
     }
   },
