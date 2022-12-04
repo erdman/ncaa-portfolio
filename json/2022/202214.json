@@ -1,189 +1,206 @@
 [
   {
     "startDate": "2022-12-03T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437008,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "45",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "28",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2022-12-04T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437009,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "10",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "39",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2022-12-03T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437030,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "28",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "12-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "31",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2022-12-04T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437031,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "43",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "13-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
-    "startDate": "2022-12-02T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2022-12-03T00:30Z",
+    "gameState": "Final",
     "id": 401437032,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2022-12-03T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437033,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2022-12-03T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437034,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2022-12-03T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437035,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "24",
       "nameRaw": "USC",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
+      "teamRank": 11,
+      "currentScore": "47",
+      "nameRaw": "Utah",
+      "description": "10-3"
     }
   },
   {
     "startDate": "2022-12-03T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437036,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "50",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "13-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "30",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2022-12-03T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401437037,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2022-12-02T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401506450,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Akron",
-      "description": ""
+      "description": "2-10"
+    }
+  },
+  {
+    "startDate": "2022-12-03T20:00Z",
+    "gameState": "Final",
+    "id": 401507088,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "65",
+      "nameRaw": "New Mexico State",
+      "description": "6-6"
+    },
+    "away": {
+      "teamRank": null,
+      "currentScore": "3",
+      "nameRaw": "Valparaiso",
+      "description": "5-7"
     }
   }
 ]
