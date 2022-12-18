@@ -1,70 +1,70 @@
 [
   {
     "startDate": "2022-12-16T16:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401441993,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
     "startDate": "2022-12-16T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401441994,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "18",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "12-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "12",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "11-3"
     }
   },
   {
     "startDate": "2022-12-17T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401441995,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2022-12-18T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401441997,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
@@ -86,19 +86,19 @@
   },
   {
     "startDate": "2022-12-17T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401441999,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "30",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
@@ -120,19 +120,19 @@
   },
   {
     "startDate": "2022-12-18T02:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442001,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "10-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "7-7"
     }
   },
   {
@@ -579,19 +579,19 @@
   },
   {
     "startDate": "2022-12-17T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442038,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "10-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
@@ -630,19 +630,19 @@
   },
   {
     "startDate": "2022-12-17T22:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442041,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Southern Miss",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "5-8"
     }
   },
   {
