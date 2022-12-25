@@ -154,36 +154,36 @@
   },
   {
     "startDate": "2022-12-19T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442003,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2022-12-20T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442004,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
@@ -205,36 +205,36 @@
   },
   {
     "startDate": "2022-12-21T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442006,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "9-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2022-12-23T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442007,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
@@ -256,19 +256,19 @@
   },
   {
     "startDate": "2022-12-25T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442009,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
@@ -596,36 +596,36 @@
   },
   {
     "startDate": "2022-12-22T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442039,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "9-5"
     }
   },
   {
     "startDate": "2022-12-23T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442040,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
@@ -647,19 +647,19 @@
   },
   {
     "startDate": "2022-12-23T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442042,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
