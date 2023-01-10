@@ -273,19 +273,19 @@
   },
   {
     "startDate": "2023-01-10T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401442010,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "65",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "15-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "7",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "13-2"
     }
   },
   {
