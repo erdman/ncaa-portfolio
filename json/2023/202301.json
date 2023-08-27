@@ -1,53 +1,53 @@
 [
   {
     "startDate": "2023-08-26T21:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520145,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2023-08-27T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520146,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
-    "startDate": "2023-08-26T23:30Z",
-    "gameState": "Scheduled",
+    "startDate": "2023-08-27T01:10Z",
+    "gameState": "Final",
     "id": 401520147,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -647,19 +647,19 @@
   },
   {
     "startDate": "2023-08-27T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401523986,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "56",
       "nameRaw": "USC",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -834,19 +834,19 @@
   },
   {
     "startDate": "2023-08-26T18:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525434,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "42",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -868,19 +868,19 @@
   },
   {
     "startDate": "2023-08-26T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525450,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "UMass",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
@@ -1411,7 +1411,7 @@
     }
   },
   {
-    "startDate": "2023-09-02T23:30Z",
+    "startDate": "2023-09-03T00:30Z",
     "gameState": "Scheduled",
     "id": 401531839,
     "home": {
@@ -1463,19 +1463,19 @@
   },
   {
     "startDate": "2023-08-26T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532392,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
