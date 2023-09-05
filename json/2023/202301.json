@@ -443,19 +443,19 @@
   },
   {
     "startDate": "2023-09-03T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520171,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -630,19 +630,19 @@
   },
   {
     "startDate": "2023-09-03T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520182,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "45",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "24",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1004,19 +1004,19 @@
   },
   {
     "startDate": "2023-09-05T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525468,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "7",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1582,19 +1582,19 @@
   },
   {
     "startDate": "2023-09-03T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532573,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "42",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "1-0"
     }
   }
 ]
