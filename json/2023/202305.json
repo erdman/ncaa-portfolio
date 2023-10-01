@@ -1,1005 +1,1005 @@
 [
   {
     "startDate": "2023-09-29T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520276,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Sam Houston",
-      "description": ""
+      "description": "0-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-09-28T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520277,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520278,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "1-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "3-3"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520279,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Arkansas",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520280,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "27",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520281,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520282,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "14",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520283,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Maryland",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520284,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-10-01T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520285,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "40",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520286,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "45",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520287,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "41",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520288,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "55",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "49",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520289,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520290,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Wagner",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520291,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "41",
       "nameRaw": "Tennessee",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520292,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "0-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520293,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "2-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "38",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401524020,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "21",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "7",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-10-01T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401524021,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Arizona",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "31",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401524022,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "California",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Arizona State",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401524023,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Colorado",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "48",
       "nameRaw": "USC",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401524024,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "1-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "42",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525438,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "14",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "21",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "5-1"
     }
   },
   {
     "startDate": "2023-09-29T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525512,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "5-0"
     }
   },
   {
     "startDate": "2023-09-30T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525513,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Boston College",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "0-5"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525514,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525515,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Bowling Green",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-10-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525516,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T02:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525851,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525852,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "50",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-10-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525853,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525854,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "40",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "14",
       "nameRaw": "Kansas",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525855,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401525856,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "36",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401526836,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Massachusetts",
-      "description": ""
+      "description": "1-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-09-28T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531339,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Temple",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531370,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531404,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531414,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "East Carolina",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531424,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "1-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "South Florida",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-09-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531429,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531436,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "2-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Abilene Christian",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531878,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531879,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531880,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "James Madison",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531881,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "4-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-10-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531882,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "40",
       "nameRaw": "UL Monroe",
-      "description": ""
+      "description": "2-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Appalachian State",
-      "description": ""
+      "description": "3-2"
     }
   },
   {
     "startDate": "2023-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401531883,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "36",
       "nameRaw": "Southern Miss",
-      "description": ""
+      "description": "1-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "50",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532409,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "2-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T17:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532410,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Central Michigan",
-      "description": ""
+      "description": "3-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-09-30T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532411,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532412,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Akron",
-      "description": ""
+      "description": "1-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T18:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532413,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "1-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "4-1"
     }
   },
   {
     "startDate": "2023-09-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532585,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Colorado State",
-      "description": ""
+      "description": "2-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Utah Tech",
-      "description": ""
+      "description": "1-4"
     }
   },
   {
     "startDate": "2023-09-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532586,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "2-4"
     }
   },
   {
     "startDate": "2023-10-01T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532587,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "27",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "0-5"
     }
   },
   {
     "startDate": "2023-09-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532588,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "4-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "New Mexico",
-      "description": ""
+      "description": "2-3"
     }
   },
   {
     "startDate": "2023-10-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401532589,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "5-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "2-4"
     }
   }
 ]
