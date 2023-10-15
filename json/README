@@ -55,3 +55,7 @@ csvjson --blanks portfolios-2019.csv | jq '.' > 2019/portfolios-2019.json
 ### 2020 updates
 # to pull unique list of school names from downloaded ESPN schedules
 jq -r '.[].home.nameRaw' 2020??.json | sort | uniq
+
+### 2023 update
+To create a histogram of team selections among all portfolios:
+jq '.[]  | .[range(1;25) | tostring]' 2023/portfolios-2023.json | vd     # then select and delete all blanks, sort alphabetically, and hit Shift-F to create Frequency Table
