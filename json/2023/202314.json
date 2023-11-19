@@ -17,19 +17,19 @@
     }
   },
   {
-    "startDate": "2023-12-01T05:00Z",
+    "startDate": "2023-12-02T00:00Z",
     "gameState": "Scheduled",
     "id": 401539476,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Liberty",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "New Mexico State",
       "description": ""
     }
   },
@@ -57,13 +57,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Florida State",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Louisville",
       "description": ""
     }
   },
@@ -85,7 +85,7 @@
     }
   },
   {
-    "startDate": "2023-12-02T05:00Z",
+    "startDate": "2023-12-03T01:00Z",
     "gameState": "Scheduled",
     "id": 401539480,
     "home": {
@@ -108,13 +108,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Toledo",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Miami (OH)",
       "description": ""
     }
   },
@@ -159,7 +159,7 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Troy",
       "description": ""
     },
     "away": {
