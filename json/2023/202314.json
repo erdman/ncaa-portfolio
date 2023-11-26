@@ -6,13 +6,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Washington",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Oregon",
       "description": ""
     }
   },
@@ -40,13 +40,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Tulane",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "SMU",
       "description": ""
     }
   },
@@ -74,13 +74,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Texas",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Oklahoma State",
       "description": ""
     }
   },
@@ -91,13 +91,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Iowa",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Michigan",
       "description": ""
     }
   },
@@ -165,24 +165,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2023-12-02T21:00Z",
-    "gameState": "Scheduled",
-    "id": 401539485,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Appalachian State",
       "description": ""
     }
   }
