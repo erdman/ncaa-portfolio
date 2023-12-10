@@ -1,19 +1,19 @@
 [
   {
     "startDate": "2023-12-09T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401520445,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "11",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Army",
-      "description": ""
+      "description": "6-6"
     }
   }
 ]
