@@ -17,54 +17,71 @@
     }
   },
   {
-    "startDate": "2023-12-16T20:30Z",
-    "gameState": "Scheduled",
-    "id": 401551731,
+    "startDate": "2023-12-16T17:00Z",
+    "gameState": "Final",
+    "id": 401551470,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Appalachian State",
-      "description": ""
+      "currentScore": "30",
+      "nameRaw": "Florida A&M",
+      "description": "12-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
+      "nameRaw": "Howard",
+      "description": "6-6"
+    }
+  },
+  {
+    "startDate": "2023-12-16T20:30Z",
+    "gameState": "Final",
+    "id": 401551731,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "13",
+      "nameRaw": "Appalachian State",
+      "description": "9-5"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "9",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "11-3"
     }
   },
   {
     "startDate": "2023-12-16T22:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401551732,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "10-5"
     }
   },
   {
     "startDate": "2023-12-16T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401551733,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
@@ -256,53 +273,53 @@
   },
   {
     "startDate": "2023-12-16T19:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401551751,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "9-4"
     }
   },
   {
     "startDate": "2023-12-17T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401551752,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "8-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "UCLA",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2023-12-17T02:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401551753,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "7-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "California",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
