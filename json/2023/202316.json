@@ -664,19 +664,19 @@
   },
   {
     "startDate": "2024-01-09T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401551789,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "34",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "15-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "13",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "14-1"
     }
   },
   {
