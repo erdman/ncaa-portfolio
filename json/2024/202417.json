@@ -1,0 +1,784 @@
+[
+  {
+    "startDate": "2024-12-14T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401677076,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-15T02:00Z",
+    "gameState": "Scheduled",
+    "id": 401677077,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-18T22:30Z",
+    "gameState": "Scheduled",
+    "id": 401677079,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-18T02:00Z",
+    "gameState": "Scheduled",
+    "id": 401677080,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-19T02:00Z",
+    "gameState": "Scheduled",
+    "id": 401677081,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-20T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401677082,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-20T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401677083,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-20T20:30Z",
+    "gameState": "Scheduled",
+    "id": 401677084,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-23T16:00Z",
+    "gameState": "Scheduled",
+    "id": 401677085,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-23T19:30Z",
+    "gameState": "Scheduled",
+    "id": 401677086,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-25T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401677087,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-26T22:30Z",
+    "gameState": "Scheduled",
+    "id": 401677088,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-27T02:00Z",
+    "gameState": "Scheduled",
+    "id": 401677089,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-27T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401677090,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-27T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401677091,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T00:00Z",
+    "gameState": "Scheduled",
+    "id": 401677092,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T03:30Z",
+    "gameState": "Scheduled",
+    "id": 401677093,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T16:00Z",
+    "gameState": "Scheduled",
+    "id": 401677094,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401677095,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T19:15Z",
+    "gameState": "Scheduled",
+    "id": 401677096,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T20:30Z",
+    "gameState": "Scheduled",
+    "id": 401677097,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T22:45Z",
+    "gameState": "Scheduled",
+    "id": 401677098,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-29T00:30Z",
+    "gameState": "Scheduled",
+    "id": 401677099,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-29T02:15Z",
+    "gameState": "Scheduled",
+    "id": 401677100,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-30T19:30Z",
+    "gameState": "Scheduled",
+    "id": 401677101,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-31T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401677102,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-31T20:00Z",
+    "gameState": "Scheduled",
+    "id": 401677103,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-31T20:30Z",
+    "gameState": "Scheduled",
+    "id": 401677104,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-03T00:30Z",
+    "gameState": "Scheduled",
+    "id": 401677105,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-03T21:00Z",
+    "gameState": "Scheduled",
+    "id": 401677106,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-04T00:30Z",
+    "gameState": "Scheduled",
+    "id": 401677107,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-04T16:00Z",
+    "gameState": "Scheduled",
+    "id": 401677108,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-21T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401677176,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-21T17:00Z",
+    "gameState": "Scheduled",
+    "id": 401677177,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-21T21:00Z",
+    "gameState": "Scheduled",
+    "id": 401677178,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-22T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401677179,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-26T19:00Z",
+    "gameState": "Scheduled",
+    "id": 401677180,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-01T00:30Z",
+    "gameState": "Scheduled",
+    "id": 401677181,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-01T18:00Z",
+    "gameState": "Scheduled",
+    "id": 401677182,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-01T22:00Z",
+    "gameState": "Scheduled",
+    "id": 401677183,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-02T01:45Z",
+    "gameState": "Scheduled",
+    "id": 401677184,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-28T21:30Z",
+    "gameState": "Scheduled",
+    "id": 401677188,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-10T00:30Z",
+    "gameState": "Scheduled",
+    "id": 401677189,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-31T19:00Z",
+    "gameState": "Scheduled",
+    "id": 401677190,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-11T00:30Z",
+    "gameState": "Scheduled",
+    "id": 401677191,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2025-01-21T00:30Z",
+    "gameState": "Scheduled",
+    "id": 401677192,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
+  }
+]

@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Air Force",
+    "conference": "Mountain West",
+    "units": 7
+  },
+  {
+    "name": "Akron",
+    "conference": "MAC",
+    "units": 2
+  },
+  {
+    "name": "Alabama",
+    "conference": "SEC",
+    "units": 9
+  },
+  {
+    "name": "App State",
+    "conference": "Sun Belt",
+    "units": 7
+  },
+  {
+    "name": "Arizona",
+    "conference": "Big 12",
+    "units": 8
+  },
+  {
+    "name": "Arizona State",
+    "conference": "Big 12",
+    "units": 4
+  },
+  {
+    "name": "Arkansas",
+    "conference": "SEC",
+    "units": 5
+  },
+  {
+    "name": "Arkansas State",
+    "conference": "Sun Belt",
+    "units": 5
+  },
+  {
+    "name": "Army",
+    "conference": "American",
+    "units": 6
+  },
+  {
+    "name": "Auburn",
+    "conference": "SEC",
+    "units": 6
+  },
+  {
+    "name": "Ball State",
+    "conference": "MAC",
+    "units": 3
+  },
+  {
+    "name": "Baylor",
+    "conference": "Big 12",
+    "units": 4
+  },
+  {
+    "name": "Boise State",
+    "conference": "Mountain West",
+    "units": 9
+  },
+  {
+    "name": "Boston College",
+    "conference": "ACC",
+    "units": 5
+  },
+  {
+    "name": "Bowling Green",
+    "conference": "MAC",
+    "units": 5
+  },
+  {
+    "name": "Buffalo",
+    "conference": "MAC",
+    "units": 5
+  },
+  {
+    "name": "BYU",
+    "conference": "Big 12",
+    "units": 3
+  },
+  {
+    "name": "California",
+    "conference": "ACC",
+    "units": 5
+  },
+  {
+    "name": "Central Michigan",
+    "conference": "MAC",
+    "units": 6
+  },
+  {
+    "name": "Charlotte",
+    "conference": "American",
+    "units": 4
+  },
+  {
+    "name": "Cincinnati",
+    "conference": "Big 12",
+    "units": 6
+  },
+  {
+    "name": "Clemson",
+    "conference": "ACC",
+    "units": 9
+  },
+  {
+    "name": "Coastal Carolina",
+    "conference": "Sun Belt",
+    "units": 5
+  },
+  {
+    "name": "Colorado",
+    "conference": "Big 12",
+    "units": 6
+  },
+  {
+    "name": "Colorado State",
+    "conference": "Mountain West",
+    "units": 5
+  },
+  {
+    "name": "Duke",
+    "conference": "ACC",
+    "units": 4
+  },
+  {
+    "name": "East Carolina",
+    "conference": "American",
+    "units": 5
+  },
+  {
+    "name": "Eastern Michigan",
+    "conference": "MAC",
+    "units": 5
+  },
+  {
+    "name": "Florida",
+    "conference": "SEC",
+    "units": 5
+  },
+  {
+    "name": "Florida Atlantic",
+    "conference": "American",
+    "units": 5
+  },
+  {
+    "name": "Florida International",
+    "conference": "C-USA",
+    "units": 3
+  },
+  {
+    "name": "Florida State",
+    "conference": "ACC",
+    "units": 9
+  },
+  {
+    "name": "Fresno State",
+    "conference": "Mountain West",
+    "units": 8
+  },
+  {
+    "name": "Georgia",
+    "conference": "SEC",
+    "units": 11
+  },
+  {
+    "name": "Georgia Southern",
+    "conference": "Sun Belt",
+    "units": 4
+  },
+  {
+    "name": "Georgia State",
+    "conference": "Sun Belt",
+    "units": 3
+  },
+  {
+    "name": "Georgia Tech",
+    "conference": "ACC",
+    "units": 5
+  },
+  {
+    "name": "Hawai'i",
+    "conference": "Mountain West",
+    "units": 5
+  },
+  {
+    "name": "Houston",
+    "conference": "Big 12",
+    "units": 4
+  },
+  {
+    "name": "Illinois",
+    "conference": "Big Ten",
+    "units": 4
+  },
+  {
+    "name": "Indiana",
+    "conference": "Big Ten",
+    "units": 6
+  },
+  {
+    "name": "Iowa",
+    "conference": "Big Ten",
+    "units": 7
+  },
+  {
+    "name": "Iowa State",
+    "conference": "Big 12",
+    "units": 8
+  },
+  {
+    "name": "Jacksonville State",
+    "conference": "C-USA",
+    "units": 8
+  },
+  {
+    "name": "James Madison",
+    "conference": "Sun Belt",
+    "units": 7
+  },
+  {
+    "name": "Kansas",
+    "conference": "Big 12",
+    "units": 7
+  },
+  {
+    "name": "Kansas State",
+    "conference": "Big 12",
+    "units": 9
+  },
+  {
+    "name": "Kennesaw State",
+    "conference": "C-USA",
+    "units": 1
+  },
+  {
+    "name": "Kent State",
+    "conference": "MAC",
+    "units": 3
+  },
+  {
+    "name": "Kentucky",
+    "conference": "SEC",
+    "units": 7
+  },
+  {
+    "name": "Liberty",
+    "conference": "C-USA",
+    "units": 11
+  },
+  {
+    "name": "Louisiana",
+    "conference": "Sun Belt",
+    "units": 8
+  },
+  {
+    "name": "Louisiana Tech",
+    "conference": "C-USA",
+    "units": 5
+  },
+  {
+    "name": "Louisville",
+    "conference": "ACC",
+    "units": 7
+  },
+  {
+    "name": "LSU",
+    "conference": "SEC",
+    "units": 9
+  },
+  {
+    "name": "Marshall",
+    "conference": "Sun Belt",
+    "units": 6
+  },
+  {
+    "name": "Maryland",
+    "conference": "Big Ten",
+    "units": 5
+  },
+  {
+    "name": "Massachusetts",
+    "conference": "Independent",
+    "units": 3
+  },
+  {
+    "name": "Memphis",
+    "conference": "American",
+    "units": 9
+  },
+  {
+    "name": "Miami",
+    "conference": "ACC",
+    "units": 9
+  },
+  {
+    "name": "Miami (OH)",
+    "conference": "MAC",
+    "units": 8
+  },
+  {
+    "name": "Michigan",
+    "conference": "Big Ten",
+    "units": 9
+  },
+  {
+    "name": "Michigan State",
+    "conference": "Big Ten",
+    "units": 5
+  },
+  {
+    "name": "Middle Tennessee",
+    "conference": "C-USA",
+    "units": 5
+  },
+  {
+    "name": "Minnesota",
+    "conference": "Big Ten",
+    "units": 4
+  },
+  {
+    "name": "Mississippi State",
+    "conference": "SEC",
+    "units": 3
+  },
+  {
+    "name": "Missouri",
+    "conference": "SEC",
+    "units": 9
+  },
+  {
+    "name": "Navy",
+    "conference": "American",
+    "units": 4
+  },
+  {
+    "name": "NC State",
+    "conference": "ACC",
+    "units": 9
+  },
+  {
+    "name": "Nebraska",
+    "conference": "Big Ten",
+    "units": 8
+  },
+  {
+    "name": "Nevada",
+    "conference": "Mountain West",
+    "units": 1
+  },
+  {
+    "name": "New Mexico",
+    "conference": "Mountain West",
+    "units": 1
+  },
+  {
+    "name": "New Mexico State",
+    "conference": "C-USA",
+    "units": 3
+  },
+  {
+    "name": "North Carolina",
+    "conference": "ACC",
+    "units": 8
+  },
+  {
+    "name": "North Texas",
+    "conference": "American",
+    "units": 6
+  },
+  {
+    "name": "Northern Illinois",
+    "conference": "MAC",
+    "units": 7
+  },
+  {
+    "name": "Northwestern",
+    "conference": "Big Ten",
+    "units": 5
+  },
+  {
+    "name": "Notre Dame",
+    "conference": "Independent",
+    "units": 10
+  },
+  {
+    "name": "Ohio",
+    "conference": "MAC",
+    "units": 5
+  },
+  {
+    "name": "Ohio State",
+    "conference": "Big Ten",
+    "units": 11
+  },
+  {
+    "name": "Oklahoma",
+    "conference": "SEC",
+    "units": 8
+  },
+  {
+    "name": "Oklahoma State",
+    "conference": "Big 12",
+    "units": 7
+  },
+  {
+    "name": "Old Dominion",
+    "conference": "Sun Belt",
+    "units": 4
+  },
+  {
+    "name": "Ole Miss",
+    "conference": "SEC",
+    "units": 10
+  },
+  {
+    "name": "Oregon",
+    "conference": "Big Ten",
+    "units": 11
+  },
+  {
+    "name": "Oregon State",
+    "conference": "Pac-12",
+    "units": 6
+  },
+  {
+    "name": "Penn State",
+    "conference": "Big Ten",
+    "units": 10
+  },
+  {
+    "name": "Pittsburgh",
+    "conference": "ACC",
+    "units": 4
+  },
+  {
+    "name": "Purdue",
+    "conference": "Big Ten",
+    "units": 3
+  },
+  {
+    "name": "Rice",
+    "conference": "American",
+    "units": 7
+  },
+  {
+    "name": "Rutgers",
+    "conference": "Big Ten",
+    "units": 5
+  },
+  {
+    "name": "Sam Houston",
+    "conference": "C-USA",
+    "units": 5
+  },
+  {
+    "name": "San Diego State",
+    "conference": "Mountain West",
+    "units": 4
+  },
+  {
+    "name": "San José State",
+    "conference": "Mountain West",
+    "units": 3
+  },
+  {
+    "name": "SMU",
+    "conference": "ACC",
+    "units": 7
+  },
+  {
+    "name": "South Alabama",
+    "conference": "Sun Belt",
+    "units": 7
+  },
+  {
+    "name": "South Carolina",
+    "conference": "SEC",
+    "units": 6
+  },
+  {
+    "name": "South Florida",
+    "conference": "American",
+    "units": 6
+  },
+  {
+    "name": "Southern Miss",
+    "conference": "Sun Belt",
+    "units": 3
+  },
+  {
+    "name": "Stanford",
+    "conference": "ACC",
+    "units": 4
+  },
+  {
+    "name": "Syracuse",
+    "conference": "ACC",
+    "units": 6
+  },
+  {
+    "name": "TCU",
+    "conference": "Big 12",
+    "units": 6
+  },
+  {
+    "name": "Temple",
+    "conference": "American",
+    "units": 2
+  },
+  {
+    "name": "Tennessee",
+    "conference": "SEC",
+    "units": 9
+  },
+  {
+    "name": "Texas",
+    "conference": "SEC",
+    "units": 10
+  },
+  {
+    "name": "Texas A&M",
+    "conference": "SEC",
+    "units": 9
+  },
+  {
+    "name": "Texas State",
+    "conference": "Sun Belt",
+    "units": 7
+  },
+  {
+    "name": "Texas Tech",
+    "conference": "Big 12",
+    "units": 8
+  },
+  {
+    "name": "Toledo",
+    "conference": "MAC",
+    "units": 7
+  },
+  {
+    "name": "Troy",
+    "conference": "Sun Belt",
+    "units": 6
+  },
+  {
+    "name": "Tulane",
+    "conference": "American",
+    "units": 8
+  },
+  {
+    "name": "Tulsa",
+    "conference": "American",
+    "units": 5
+  },
+  {
+    "name": "UAB",
+    "conference": "American",
+    "units": 5
+  },
+  {
+    "name": "UCF",
+    "conference": "Big 12",
+    "units": 8
+  },
+  {
+    "name": "UCLA",
+    "conference": "Big Ten",
+    "units": 5
+  },
+  {
+    "name": "UConn",
+    "conference": "Independent",
+    "units": 5
+  },
+  {
+    "name": "UL Monroe",
+    "conference": "Sun Belt",
+    "units": 1
+  },
+  {
+    "name": "UNLV",
+    "conference": "Mountain West",
+    "units": 6
+  },
+  {
+    "name": "USC",
+    "conference": "Big Ten",
+    "units": 7
+  },
+  {
+    "name": "Utah",
+    "conference": "Big 12",
+    "units": 10
+  },
+  {
+    "name": "Utah State",
+    "conference": "Mountain West",
+    "units": 5
+  },
+  {
+    "name": "UTEP",
+    "conference": "C-USA",
+    "units": 3
+  },
+  {
+    "name": "UTSA",
+    "conference": "American",
+    "units": 7
+  },
+  {
+    "name": "Vanderbilt",
+    "conference": "SEC",
+    "units": 3
+  },
+  {
+    "name": "Virginia",
+    "conference": "ACC",
+    "units": 5
+  },
+  {
+    "name": "Virginia Tech",
+    "conference": "ACC",
+    "units": 8
+  },
+  {
+    "name": "Wake Forest",
+    "conference": "ACC",
+    "units": 5
+  },
+  {
+    "name": "Washington",
+    "conference": "Big Ten",
+    "units": 5
+  },
+  {
+    "name": "Washington State",
+    "conference": "Pac-12",
+    "units": 6
+  },
+  {
+    "name": "West Virginia",
+    "conference": "Big 12",
+    "units": 7
+  },
+  {
+    "name": "Western Kentucky",
+    "conference": "C-USA",
+    "units": 8
+  },
+  {
+    "name": "Western Michigan",
+    "conference": "MAC",
+    "units": 7
+  },
+  {
+    "name": "Wisconsin",
+    "conference": "Big Ten",
+    "units": 7
+  },
+  {
+    "name": "Wyoming",
+    "conference": "Mountain West",
+    "units": 5
+  }
+]
