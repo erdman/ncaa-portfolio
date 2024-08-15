@@ -11,7 +11,7 @@ set -e
 
 function download() {
     local DLWEEK=$WEEK
-    if [ $WEEK = 16 ]  #bowl games were in week 17 during 2020 (Covid season), changing back to 16
+    if [ $WEEK = 17 ]  #bowl games were in week 17 during 2020 (Covid season), changing back to 16; starting 2024, bowl gmes are again in week 17
     then
         WEEK=1
         SEASONTYPE=3
@@ -28,7 +28,7 @@ mkdir -p "$YEAR"
 
 if [ $WEEK = 00 ]
 then
-    for WEEK in {01..16}
+    for WEEK in {01..17}
     do
         download $YEAR $WEEK
     done
