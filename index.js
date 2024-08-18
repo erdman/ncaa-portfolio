@@ -241,7 +241,7 @@ function establish_datatables() {
             { "data": "blowout", "title": "Blowout", className: "text-right" },
             { "data": "shutout", "title": "Shutout", className: "text-right" },
             { "data": "top25", "title": "Top 25", className: "text-right" },
-            { "data": "bowl", "title": "Bowl", className: "text-right" },
+            { "data": "bowl", "title": "Post-Season", className: "text-right" },
             { "data": "total", "title": "Total", className: "text-right" }
             ],
         "rowCallback": function( row, data ) {
