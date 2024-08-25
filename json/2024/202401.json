@@ -919,19 +919,19 @@
   },
   {
     "startDate": "2024-08-24T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635525,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "21",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1242,36 +1242,36 @@
   },
   {
     "startDate": "2024-08-25T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643696,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
     "startDate": "2024-08-24T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643697,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "New Mexico",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Montana State",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
@@ -1446,19 +1446,19 @@
   },
   {
     "startDate": "2024-08-25T03:59Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643858,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Delaware State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
