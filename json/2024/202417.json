@@ -780,5 +780,22 @@
       "nameRaw": "TBD",
       "description": ""
     }
+  },
+  {
+    "startDate": "2024-12-28T01:00Z",
+    "gameState": "Scheduled",
+    "id": 401729867,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
   }
 ]
