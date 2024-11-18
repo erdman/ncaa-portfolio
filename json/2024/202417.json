@@ -797,56 +797,5 @@
       "nameRaw": "TBD",
       "description": ""
     }
-  },
-  {
-    "startDate": "2025-01-06T01:00Z",
-    "gameState": "Scheduled",
-    "id": 401732547,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2024-12-21T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401732548,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2024-12-21T05:00Z",
-    "gameState": "Scheduled",
-    "id": 401733507,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
-    }
   }
 ]
