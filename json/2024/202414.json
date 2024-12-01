@@ -1,1141 +1,1141 @@
 [
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628437,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "28",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-12-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628438,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "11",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "2-10"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-11-30T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628439,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "44",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628440,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2024-12-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628441,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628442,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "26",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "2-10"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628443,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "28",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Arkansas",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628444,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "14",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 15,
+      "currentScore": "17",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2024-12-01T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628445,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "7",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "17",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628446,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "36",
       "nameRaw": "Tennessee",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2024-11-30T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628562,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628563,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "38",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2024-12-01T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628564,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "66",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "1-11"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628565,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "44",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Maryland",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628566,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "10",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628567,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628568,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-12-01T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628569,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "49",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "12-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628570,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "UCLA",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401628571,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "USC",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "49",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401629038,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Massachusetts",
-      "description": ""
+      "description": "2-10"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "47",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2024-11-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635620,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Boston College",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635621,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "38",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "California",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635622,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635623,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "38",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635624,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-29T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635625,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-12-01T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401635640,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636938,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "52",
       "nameRaw": "Colorado",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-11-30T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636939,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636940,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Arizona",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "49",
       "nameRaw": "Arizona State",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636941,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Kansas",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-12-01T03:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636942,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "30",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "18",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2024-11-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636943,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2024-12-01T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636944,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "29",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "21",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401636945,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-30T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401640988,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401640997,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Sam Houston",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "18",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "8-3"
     }
   },
   {
     "startDate": "2024-11-30T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401641006,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2024-11-30T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401641014,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Kennesaw State",
-      "description": ""
+      "description": "2-10"
     }
   },
   {
     "startDate": "2024-11-30T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401641031,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-12-01T03:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643768,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643769,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "34",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "18",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643770,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Colorado State",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2024-12-01T04:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643771,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "New Mexico",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-12-01T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643772,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "38",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "3-10"
     }
   },
   {
     "startDate": "2024-11-30T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643773,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643843,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-11-30T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643844,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "App State",
-      "description": ""
+      "description": "5-6"
     }
   },
   {
     "startDate": "2024-11-30T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643845,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-12-01T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643846,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "James Madison",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2024-11-30T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643847,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "40",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643848,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "UL Monroe",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2024-11-30T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401643849,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Southern Miss",
-      "description": ""
+      "description": "1-11"
     }
   },
   {
     "startDate": "2024-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401644691,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "12",
       "nameRaw": "Bowling Green",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2024-11-27T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401644775,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Akron",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2024-11-27T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401644776,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "43",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "0-12"
     }
   },
   {
     "startDate": "2024-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401644777,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401644779,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Central Michigan",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2024-11-30T18:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401644780,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "18",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2024-11-29T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645376,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "24",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645377,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645378,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Army",
-      "description": ""
+      "description": "10-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645379,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "East Carolina",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "8-3"
     }
   },
   {
     "startDate": "2024-11-30T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645380,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "63",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2024-11-30T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645381,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Temple",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2024-11-30T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645382,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "South Florida",
-      "description": ""
+      "description": "6-6"
     }
   }
 ]
