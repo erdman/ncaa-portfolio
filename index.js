@@ -22,6 +22,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six, year) 
                  shutout: VILLAIN_FBS && villain.currentScore === 0 ? 4 : 0,
                  top25:   top25_points[hero.currentScore > villain.currentScore][heroRank < villainRank][hero.currentScore > villain.currentScore && villainRank === 26 ? 0 : Math.abs(heroRank - villainRank)],
                  bowl:    (game.week === bowl_week[year] && !new_years_six.championships.has(game.id) ? 10 : 0) +
+                          (game.week === 15 && year >= 2024 && hero.currentScore > villain.currentScore ? 3 : 0) +
                           (new_years_six.playoffs.has(game.id) ? 6 : 0) +
                           (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
                  displayString:  game.displayString,
@@ -250,7 +251,7 @@ function establish_datatables() {
                 $('td:eq(1)', row).css('color', 'gray');
             }
         },
-        "dom": 'lrtip',         <!-- removes the native search input box-->
+        "dom": 'lrtip',         // removes the native search input box
         scrollResize: true,
         scrollX: true,
         scrollY: 100,
@@ -306,7 +307,7 @@ function establish_datatables() {
             { "data": "units", "title": "Units", className: "text-right" },
             { "data": "points-per", "title": "Points / Unit", className: "text-right", render: $.fn.dataTable.render.number( ',', '.', 2 ) }
             ],
-        "dom": 'lrtip',         <!-- removes the native search input box-->
+        "dom": 'lrtip',         // <!-- removes the native search input box-->
         scrollResize: true,
         scrollX: true,
         scrollY: 100,
