@@ -1,19 +1,19 @@
 [
   {
     "startDate": "2024-12-14T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401645383,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "13",
       "nameRaw": "Army",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "9-3"
     }
   }
 ]
