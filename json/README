@@ -64,3 +64,5 @@ jq '.[]  | .[range(1;25) | tostring]' 2023/portfolios-2023.json | vd     # then 
 bash one-liner to count games for each team:
 jq '.[].name' fbs-2024.json | while read name; do count=$(grep "$name" 2024*.json | wc); echo "$count $name"; done | sort -n
 
+to add a fake game for marshall for "bowl invite" purposes, which is in marshall.json ... need to automate due to week 17 being overwritten multiple times:
+jq -n '[inputs] | add' 202417.json marshall.json

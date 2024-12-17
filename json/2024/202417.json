@@ -1,19 +1,19 @@
 [
   {
     "startDate": "2024-12-15T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677077,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
@@ -261,13 +261,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "USC",
+      "nameRaw": "Texas A&M",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Texas A&M",
+      "nameRaw": "USC",
       "description": ""
     }
   },
@@ -386,7 +386,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "Marshall",
+      "nameRaw": "Louisiana Tech",
       "description": ""
     }
   },
@@ -778,6 +778,23 @@
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Syracuse",
+      "description": ""
+    }
+  },
+  {
+    "startDate": "2024-12-29T02:15Z",
+    "gameState": "Canceled",
+    "id": 0,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "<~ invite bonus only ~>",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "Marshall",
       "description": ""
     }
   }
