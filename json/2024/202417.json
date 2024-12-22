@@ -18,104 +18,104 @@
   },
   {
     "startDate": "2024-12-18T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677079,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "James Madison",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "8-6"
     }
   },
   {
     "startDate": "2024-12-18T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677080,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "6-7"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "42",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2024-12-19T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677081,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "24",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "11-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "California",
-      "description": ""
+      "description": "6-7"
     }
   },
   {
     "startDate": "2024-12-20T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677082,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Sam Houston",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2024-12-20T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677083,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "9-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "11-3"
     }
   },
   {
     "startDate": "2024-12-20T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677084,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "8",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "9-5"
     }
   },
   {
@@ -528,70 +528,70 @@
   },
   {
     "startDate": "2024-12-21T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677176,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "38",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "12-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "24",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "10-4"
     }
   },
   {
     "startDate": "2024-12-22T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677177,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "42",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "17",
       "nameRaw": "Tennessee",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
     "startDate": "2024-12-21T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677178,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "38",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "12-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "10",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "11-3"
     }
   },
   {
     "startDate": "2024-12-21T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677179,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "27",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "12-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "17",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
@@ -624,7 +624,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Penn State",
       "description": ""
     }
   },
@@ -641,7 +641,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Texas",
       "description": ""
     }
   },
@@ -658,7 +658,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Ohio State",
       "description": ""
     }
   },
@@ -675,7 +675,7 @@
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Notre Dame",
       "description": ""
     }
   },
@@ -785,13 +785,13 @@
     "startDate": "2024-12-29T02:15Z",
     "gameState": "Canceled",
     "id": 0,
-    "home": {
+    "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "<~ invite bonus only ~>",
       "description": ""
     },
-    "away": {
+    "home": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Marshall",
