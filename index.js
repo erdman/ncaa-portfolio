@@ -23,6 +23,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six, year) 
                  top25:   top25_points[hero.currentScore > villain.currentScore][heroRank < villainRank][hero.currentScore > villain.currentScore && villainRank === 26 ? 0 : Math.abs(heroRank - villainRank)],
                  bowl:    (game.week === bowl_week[year] && !new_years_six.championships.has(game.id) ? 10 : 0) +
                           (game.week === 15 && year >= 2024 && hero.currentScore > villain.currentScore ? 3 : 0) +
+                          (new_years_six.cfp.has(game.id) && hero.currentScore > villain.currentScore ? 3 : 0) +
                           (new_years_six.playoffs.has(game.id) ? 6 : 0) +
                           (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
                  displayString:  game.displayString,
