@@ -22,9 +22,9 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six, year) 
                  blowout: VILLAIN_FBS && (hero.currentScore - villain.currentScore >= 30) ? 2 : 0,
                  shutout: VILLAIN_FBS && villain.currentScore === 0 ? 4 : 0,
                  top25:   top25_points[HERO_WIN][heroRank < villainRank][HERO_WIN && villainRank === 26 ? 0 : Math.abs(heroRank - villainRank)],
-                 bowl:    (game.week === bowl_week[year] && !new_years_six.championships.has(game.id) && !(new_years_six.first_round.has(game.id) && HERO_WIN) ? 10 : 0) +
+                 bowl:    (game.week === bowl_week[year] && !new_years_six.championships.has(game.id) && !(new_years_six.hasOwnProperty('first_round') && new_years_six.first_round.has(game.id) && HERO_WIN) ? 10 : 0) +
                           (game.week === 15 && year >= 2024 && HERO_WIN ? 3 : 0) +
-                          (new_years_six.cfp.has(game.id) && HERO_WIN ? 3 : 0) +
+                          (new_years_six.hasOwnProperty('cfp') && new_years_six.cfp.has(game.id) && HERO_WIN ? 3 : 0) +
                           (new_years_six.playoffs.has(game.id) ? 6 : 0) +
                           (new_years_six.new_years_fours.has(game.id) ? 3 : 0),
                  displayString:  game.displayString,
