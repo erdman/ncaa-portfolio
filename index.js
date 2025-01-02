@@ -305,6 +305,8 @@ function establish_datatables() {
             { "data": "weeklies.16", "title": "16", className: "text-right", "defaultContent": "" }, // normally a bowl game, but last wk reg season in 2020
             { "data": "weeklies.17", "title": "17", className: "text-right", "defaultContent": "" }, // normally NCG, but bowl games in 2020
             { "data": "weeklies.18", "title": "18", className: "text-right", "defaultContent": "", "name": "wk18", "visible": bowl_week[year] > 16 }, // NCG in 2020
+            { "data": "weeklies.19", "title": "19", className: "text-right", "defaultContent": "", "name": "wk19", "visible": year >= 2024 },
+            { "data": "weeklies.20", "title": "20", className: "text-right", "defaultContent": "", "name": "wk20", "visible": year >= 2024 },
             { "data": "points", "title": "Total", className: "text-right" },
             { "data": "units", "title": "Units", className: "text-right" },
             { "data": "points-per", "title": "Points / Unit", className: "text-right", render: $.fn.dataTable.render.number( ',', '.', 2 ) }
