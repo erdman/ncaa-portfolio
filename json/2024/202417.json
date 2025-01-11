@@ -698,19 +698,19 @@
   },
   {
     "startDate": "2025-01-10T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677189,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "24",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "13-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "27",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "14-1"
     }
   },
   {
@@ -732,19 +732,19 @@
   },
   {
     "startDate": "2025-01-11T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677191,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "14",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "13-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "28",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "13-2"
     }
   },
   {
@@ -754,13 +754,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Notre Dame",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Ohio State",
       "description": ""
     }
   },
