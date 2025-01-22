@@ -749,19 +749,19 @@
   },
   {
     "startDate": "2025-01-21T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401677192,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "23",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "14-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "34",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "14-2"
     }
   },
   {
