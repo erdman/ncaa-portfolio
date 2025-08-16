@@ -39,7 +39,7 @@ function calculateScore(hero, villain, fbs_name_set, game, new_years_six, year) 
 
 const nullGame = {win:null, blowout:null, shutout:null, top25:null, bowl:null, displayString:null, week: null, startDate:null, win_loss_record:null, gameState:null, total:null};
 const weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17];
-const bowl_week = {2016: 16, 2017: 16, 2018: 16, 2019: 16, 2020: 17, 2021: 16, 2022: 16, 2023: 16, 2024: 17};
+const bowl_week = {2016: 16, 2017: 16, 2018: 16, 2019: 16, 2020: 17, 2021: 16, 2022: 16, 2023: 16, 2024: 17, 2025: 17};
 let games = [], portfolios = [];
 let fbs, fbs_name_set, new_years_six = {};
 
@@ -351,8 +351,8 @@ function reloadDataTable() {
 
 
 let globaldata = {};
-window.location.hash = window.location.hash || "#Leaderboard/2024";  // sets hash to default if no hash given
-$("#year").val(window.location.hash.split('/')[1] || '2024');        // sets year dropdown to value in hash or default if no year hash given
+window.location.hash = window.location.hash || "#Summary/2025";  //"#Leaderboard/2025";  // sets hash to default if no hash given
+$("#year").val(window.location.hash.split('/')[1] || '2025');        // sets year dropdown to value in hash or default if no year hash given
 console.log('intial hash: ', window.location.hash);
 let promise = load_data(establish_datatables);
 
