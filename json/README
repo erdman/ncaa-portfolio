@@ -53,8 +53,9 @@ cut -f -3 -d ',' fbs-2019.csv | csvjson | jq '.' > 2019/fbs-2019.json
 csvjson --blanks portfolios-2019.csv | jq '.' > 2019/portfolios-2019.json
 
 ### 2020 updates
-# to pull unique list of school names from downloaded ESPN schedules
-jq -r '.[].home.nameRaw' 2020??.json | sort | uniq
+# to pull unique list of hame team names (which have 1:1 correspondence to FBS teams) from downloaded ESPN schedules, and format as json array
+jq -r '.[].home.nameRaw' 2025??.json | sort | uniq | jq -R -s 'split("\n")[:-1]'
+jq -r '.[].home.nameRaw' 2025??.json | sort | uniq | jq -R -s 'split("\n")[:-1]' > fbs-names.json
 
 ### 2023 update
 To create a histogram of team selections among all portfolios:
