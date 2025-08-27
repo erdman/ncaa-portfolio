@@ -630,19 +630,19 @@
   },
   {
     "startDate": "2025-08-23T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401754516,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -783,36 +783,36 @@
   },
   {
     "startDate": "2025-08-23T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401756846,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "21",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "24",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
     "startDate": "2025-08-23T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401756847,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Kansas",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1021,19 +1021,19 @@
   },
   {
     "startDate": "2025-08-23T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401757218,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Sam Houston",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1242,19 +1242,19 @@
   },
   {
     "startDate": "2025-08-23T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401760371,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Idaho State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
