@@ -52,11 +52,6 @@ cut -f -3 -d ',' fbs-2019.csv | csvjson | jq '.' > 2019/fbs-2019.json
 # need blanks flag here to keep "no team" as "" instead of Null, which breaks the site
 csvjson --blanks portfolios-2019.csv | jq '.' > 2019/portfolios-2019.json
 
-### 2020 updates
-# to pull unique list of hame team names (which have 1:1 correspondence to FBS teams) from downloaded ESPN schedules, and format as json array
-jq -r '.[].home.nameRaw' 2025??.json | sort | uniq | jq -R -s 'split("\n")[:-1]'
-jq -r '.[].home.nameRaw' 2025??.json | sort | uniq | jq -R -s 'split("\n")[:-1]' > fbs-names.json
-
 ### 2023 update
 To create a histogram of team selections among all portfolios:
 jq '.[]  | .[range(1;25) | tostring]' 2023/portfolios-2023.json | vd     # then select and delete all blanks, sort alphabetically, and hit Shift-F to create Frequency Table
@@ -67,3 +62,9 @@ jq '.[].name' fbs-2024.json | while read name; do count=$(grep "$name" 2024*.jso
 
 to add a fake game for marshall for "bowl invite" purposes, which is in marshall.json ... need to automate due to week 17 being overwritten multiple times:
 jq -n '[inputs] | add' 202417.json marshall.json
+
+### 2025 updates
+# to pull unique list of hame team names (which have 1:1 correspondence to FBS teams) from downloaded ESPN schedules, and format as json array
+jq -r '.[].home.nameRaw' 2025??.json | sort | uniq | jq -R -s 'split("\n")[:-1]'
+jq -r '.[].home.nameRaw' 2025??.json | sort | uniq | jq -R -s 'split("\n")[:-1]' > fbs-names.json
+
