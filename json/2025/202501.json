@@ -256,19 +256,19 @@
   },
   {
     "startDate": "2025-08-31T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752680,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "24",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "11",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -732,36 +732,36 @@
   },
   {
     "startDate": "2025-08-31T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401754522,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "27",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "24",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2025-09-02T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401754523,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
