@@ -1,1141 +1,1141 @@
 [
   {
     "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752783,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Arkansas",
-      "description": ""
+      "description": "2-10"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-30T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752784,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "27",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T21:30Z",
+    "gameState": "Final",
     "id": 401752785,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "40",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2025-11-28T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752786,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "9",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "16",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752787,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2025-11-28T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752788,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "38",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752789,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "17",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752790,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752791,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "24",
       "nameRaw": "Tennessee",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "45",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2025-11-29T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752792,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "27",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "17",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2025-11-28T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752916,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "40",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T20:30Z",
+    "gameState": "Final",
     "id": 401752917,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "26",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752918,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Wisconsin",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2025-11-29T21:30Z",
-    "gameState": "Scheduled",
-    "id": 401752919,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "USC",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "UCLA",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
-    "id": 401752920,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Rutgers",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Penn State",
-      "description": ""
-    }
-  },
-  {
-    "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
-    "id": 401752921,
-    "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Michigan",
-      "description": ""
-    },
-    "away": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Ohio State",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2025-11-30T00:30Z",
-    "gameState": "Scheduled",
-    "id": 401752922,
+    "gameState": "Final",
+    "id": 401752919,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "Illinois",
-      "description": ""
+      "teamRank": 17,
+      "currentScore": "29",
+      "nameRaw": "USC",
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
+      "nameRaw": "UCLA",
+      "description": "3-9"
+    }
+  },
+  {
+    "startDate": "2025-11-29T20:30Z",
+    "gameState": "Final",
+    "id": 401752920,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "36",
+      "nameRaw": "Rutgers",
+      "description": "5-7"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "40",
+      "nameRaw": "Penn State",
+      "description": "6-6"
+    }
+  },
+  {
+    "startDate": "2025-11-29T17:00Z",
+    "gameState": "Final",
+    "id": 401752921,
+    "home": {
+      "teamRank": 15,
+      "currentScore": "9",
+      "nameRaw": "Michigan",
+      "description": "9-3"
+    },
+    "away": {
+      "teamRank": 1,
+      "currentScore": "27",
+      "nameRaw": "Ohio State",
+      "description": "12-0"
+    }
+  },
+  {
+    "startDate": "2025-11-30T00:30Z",
+    "gameState": "Final",
+    "id": 401752922,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "20",
+      "nameRaw": "Illinois",
+      "description": "8-4"
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "13",
       "nameRaw": "Northwestern",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2025-11-30T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752923,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Maryland",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2025-11-29T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752924,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "2-10"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "56",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "12-0"
     }
   },
   {
     "startDate": "2025-11-29T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401752946,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "8",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "2-10"
     }
   },
   {
     "startDate": "2025-11-29T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401754608,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "12",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Boston College",
-      "description": ""
+      "description": "2-10"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-30T01:00Z",
+    "gameState": "Final",
     "id": 401754609,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "California",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "35",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T20:30Z",
+    "gameState": "Final",
     "id": 401754610,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T17:00Z",
+    "gameState": "Final",
     "id": 401754611,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "7",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "38",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2025-11-30T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401754612,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-30T00:00Z",
+    "gameState": "Final",
     "id": 401754613,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "27",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2025-11-30T03:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401754614,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "49",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2025-11-29T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401756961,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "7",
       "nameRaw": "Arizona State",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "23",
       "nameRaw": "Arizona",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T17:00Z",
+    "gameState": "Final",
     "id": 401756962,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T18:00Z",
+    "gameState": "Final",
     "id": 401756963,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "41",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2025-11-28T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401756964,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Kansas",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "31",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T17:00Z",
+    "gameState": "Final",
     "id": 401756965,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Colorado",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401756966,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "1-11"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-29T20:30Z",
+    "gameState": "Final",
     "id": 401756967,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401756968,
     "home": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "49",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2025-11-29T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401757310,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "61",
       "nameRaw": "Delaware",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "2-10"
     }
   },
   {
     "startDate": "2025-11-29T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401757311,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "16",
       "nameRaw": "Sam Houston",
-      "description": ""
+      "description": "2-10"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "56",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2025-11-29T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401757312,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401757313,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "Kennesaw State",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2025-11-29T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401757314,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Missouri State",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "7-5"
     }
   },
   {
     "startDate": "2025-11-29T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401757315,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2025-11-28T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401760421,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Colorado State",
-      "description": ""
+      "description": "2-10"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2025-11-28T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401760422,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-30T03:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401760423,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-30T04:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401760424,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2025-11-30T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401760425,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "10-2"
     }
   },
   {
     "startDate": "2025-11-28T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401760426,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "New Mexico",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "9-3"
     }
   },
   {
     "startDate": "2025-11-29T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401761661,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "App State",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2025-11-29T20:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401761662,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "59",
       "nameRaw": "James Madison",
-      "description": ""
+      "description": "11-1"
     }
   },
   {
     "startDate": "2025-11-29T18:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401761663,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "6-6"
     }
   },
   {
     "startDate": "2025-11-29T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401761664,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "1-11"
     }
   },
   {
     "startDate": "2025-11-29T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401761665,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "UL Monroe",
-      "description": ""
+      "description": "3-9"
     }
   },
   {
     "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401761666,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "18",
       "nameRaw": "Southern Miss",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-29T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401761667,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2025-11-29T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762441,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "6-6"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Army",
-      "description": ""
+      "description": "6-5"
     }
   },
   {
     "startDate": "2025-11-28T20:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762442,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "11-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "25",
       "nameRaw": "Temple",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2025-11-28T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762516,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "8-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "9-2"
     }
   },
   {
     "startDate": "2025-11-29T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762517,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
-    "startDate": "2025-11-29T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-11-30T00:30Z",
+    "gameState": "Final",
     "id": 401762518,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "27",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "10-2"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "1-11"
     }
   },
   {
     "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762519,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "42",
       "nameRaw": "East Carolina",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-30T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762520,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "South Florida",
-      "description": ""
+      "description": "9-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2025-11-25T21:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762868,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Massachusetts",
-      "description": ""
+      "description": "0-12"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Bowling Green",
-      "description": ""
+      "description": "4-8"
     }
   },
   {
     "startDate": "2025-11-26T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762869,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "4-8"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-28T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762870,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "5-7"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-28T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762871,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "3-9"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "5-7"
     }
   },
   {
     "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762872,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Central Michigan",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "8-4"
     }
   },
   {
     "startDate": "2025-11-29T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401762875,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "7-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "4-8"
     }
   }
 ]
