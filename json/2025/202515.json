@@ -1,155 +1,155 @@
 [
   {
     "startDate": "2025-12-06T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777324,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "34",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "11-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "21",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2025-12-06T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777325,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "8-5"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "Kennesaw State",
-      "description": ""
+      "description": "10-3"
     }
   },
   {
-    "startDate": "2025-12-05T05:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2025-12-06T01:00Z",
+    "gameState": "Final",
     "id": 401777326,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
+      "currentScore": "38",
+      "nameRaw": "Boise State",
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
-      "nameRaw": "TBD",
-      "description": ""
+      "currentScore": "21",
+      "nameRaw": "UNLV",
+      "description": "10-3"
     }
   },
   {
     "startDate": "2025-12-06T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777327,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "34",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "12-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "7",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "11-2"
     }
   },
   {
     "startDate": "2025-12-07T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777328,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "20",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2025-12-06T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777329,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "7-6"
     }
   },
   {
     "startDate": "2025-12-06T21:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777351,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "7",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "10-3"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "28",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "12-1"
     }
   },
   {
     "startDate": "2025-12-06T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777352,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "31",
       "nameRaw": "James Madison",
-      "description": ""
+      "description": "12-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "8-5"
     }
   },
   {
     "startDate": "2025-12-07T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401777353,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "10",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "12-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "13",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "13-0"
     }
   }
 ]
