@@ -1,9 +1,9 @@
 {
-	"cfp"   : [],
+	"cfp"   : [401779840, 401779841, 401779842, 401779843, 401769070, 401769071, 401769072, 401769073, 401769074, 401769075, 401769076],
 	"_comment1":  "cfp indicates the games that should award a three point bonus to the winner",
-	"first_round"   : [],
+	"first_round"   : [401779840, 401779841, 401779842, 401779843],
 	"_comment2":	"only the losers of these games get their bowl invite bonuses -- all teams in elite eight get their bowl invite bonus there",
-	"championships"   : [],
+	"championships"   : [401769074, 401769075, 401769076],
 	"_comment3":	"indicates the subsequent CFP games that are not eligible for 10pt bowl game invite bonus.",
 	"playoffs":	   [],
 	"new_years_fours": []
