@@ -120,19 +120,19 @@
   },
   {
     "startDate": "2025-12-14T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401778302,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "9-4"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "9-5"
     }
   },
   {
