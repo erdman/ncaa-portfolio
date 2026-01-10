@@ -159,97 +159,128 @@
                 </tfoot>
             </table>
         </div>
-
+        
         <div id="Champions" class="tab-pane fade in container mt-3">
             <table id="champions_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
-                <thead>
-                    <tr>
-                        <th style="text-align:center">Year</th>
-                        <th>Champion</th>
-                     </tr>
-                </thead>
-
-                <tbody>
-                    <tr>
-                        <td style="text-align:center">2024</td>
-                        <td>Will Mueller</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2023</td>
-                        <td>TJ Nolan</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2022</td>
-                        <td>Nate Pitzel</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2021</td>
-                        <td>Travis Erdman</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2020</td>
-                        <td>Adam Cortese</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2019</td>
-                        <td>Trevor Pitzel</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2018</td>
-                        <td>William Hagerman</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2017</td>
-                        <td>Travis Erdman</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2016</td>
-                        <td>Jason Kopka</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2015</td>
-                        <td>Travis Erdman</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2014</td>
-                        <td>Steve Schubert</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2013</td>
-                        <td>TJ Nolan</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2012</td>
-                        <td>Tony Andronaco</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2011</td>
-                        <td>Chris Bly</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2010</td>
-                        <td>TJ Nolan</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2009</td>
-                        <td>Tony Andronaco</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align:center">2008</td>
-                        <td>David Nielsen</td>
-                    </tr>
-
-                </tbody>
             </table>
         </div>
+        <style>
+        /* Scope everything to #Champions */
+        #Champions {
+        /* font-family: Georgia, serif; */
+        background: #ffffff;
+        color: #000000;
+        max-width: 640px;
+        margin: 40px auto;
+        }
 
-        <div id="Rules" class="tab-pane fade in container mt-3">
-            <table id="rules_table" class="display nowrap table table-hover table-bordered table-sm" cellspacing="0" align="center">
-                <tbody>
-                    <tr>
-                        <td>Win vs FBS team (any game -- regular season, conference championships, bowls, playoffs)</td>
-                        <td>10</td>
-                    </tr>
+        #Champions h1 {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 0.25em;
+        font-size: 1.4rem;
+        margin-bottom: 24px;
+        }
+
+        /* ===== TABLE ===== */
+        #Champions table {
+        width: 100%;
+        border-collapse: collapse;
+        table-layout: fixed;
+        }
+
+        #Champions th,
+        #Champions td {
+        padding: 8px 10px;
+        vertical-align: top;
+        font-size: 1.05rem;
+        }
+
+        #Champions .featured th {
+            text-align: center;
+            border-bottom: 2px solid #0a6fac;
+            padding-bottom: 14px;
+        }
+        
+        #Champions .year {
+            font-weight: bold;
+            color: #0a6fac;
+            white-space: nowrap;
+        }
+        
+        #Champions .featured .year {
+            display: block;
+            font-size: 1.2rem;
+        }
+        
+        #Champions .featured .name {
+            display: block;
+            font-size: 1.3rem;
+            margin-top: 4px;
+        }
+        
+        #Champions .entry {
+            display: flex;
+            justify-content: space-between;
+            gap: 12px;
+        }
+        
+        #Champions td + td {
+            border-left: 1px solid #0a6fac;
+        }
+        
+        #Champions #champions_table {
+            width: 100%;
+            border-collapse: collapse;
+            column-count: 2;      /* 2 columns on desktop */
+            column-gap: 20px;
+        }
+        
+        /* ===== MOBILE ===== */
+        @media (max-width: 600px) {
+            #Champions table {
+                table-layout: auto;
+            }
+            #Champions td,
+            #Champions th {
+                display: block;
+                width: 100%;
+                border-left: none;
+                padding-left: 0;
+                padding-right: 0;
+            }
+            #Champions td + td {
+            border-left: none;
+        }
+        
+        #Champions .entry {
+            justify-content: space-between; /* year left, name right */
+            gap: 8px;
+        }
+        
+        #Champions .featured th {
+            text-align: center;
+        }
+        
+        #Champions .featured .name {
+            font-weight: bold;
+            font-size: 1.5rem;
+            display: block;
+            margin-top: 4px;
+        }
+        #Champions #champions_table {
+            column-count: 1;    /* single column on mobile */
+        }
+    }
+    </style>
+
+<div id="Rules" class="tab-pane fade in container mt-3">
+    <table id="rules_table" class="display nowrap table table-hover table-bordered table-sm" cellspacing="0" align="center">
+        <tbody>
+            <tr>
+                <td>Win vs FBS team (any game -- regular season, conference championships, bowls, playoffs)</td>
+                <td>10</td>
+            </tr>
                     <tr>
                         <td>Blowout (win by 30 points or more) vs FBS team</td>
                         <td>+2</td>
@@ -352,7 +383,7 @@
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <!--
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
--->
+    -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
@@ -361,5 +392,53 @@
     <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
     <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/plug-ins/1.10.16/features/scrollResize/dataTables.scrollResize.min.js"></script>
     <script type="text/javascript" language="javascript" src="index.js?v=20250101"></script>
+<!-- generate styled champions_table -->
+    <script>
+        $(document).ready(function() {
+            const winners = [
+                { year: 2025, name: "Alex Morgan" },
+                { year: 2024, name: "Jordan Lee" },
+                { year: 2023, name: "Taylor Smith" },
+                { year: 2022, name: "Riley Chen" },
+                { year: 2021, name: "Morgan Diaz" },
+                { year: 2020, name: "Chris Patel" },
+                { year: 2019, name: "Jamie O’Neil" },
+                { year: 2018, name: "Dana Brooks" },
+                { year: 2017, name: "Sam Nguyen" },
+                { year: 2016, name: "Alex Rivera" },
+                { year: 2015, name: "Pat Johnson" },
+                { year: 2014, name: "Casey Wright" },
+                { year: 2013, name: "Robin Clark" },
+                { year: 2012, name: "Drew Adams" },
+                { year: 2011, name: "Leslie Park" },
+                { year: 2010, name: "Cameron Scott" }
+            ];
+
+            const $table = $("#Champions #champions_table");
+
+            // FEATURED WINNER
+            const featured = winners[0];
+            $table.append(`
+                <tr class="featured">
+                <th colspan="2">
+                    <span class="year">${featured.year}</span>
+                    <span class="name">${featured.name}</span>
+                </th>
+                </tr>
+            `);
+
+            // Insert all remaining winners in order
+            for (let i = 1; i < winners.length; i++) {
+            const w = winners[i];
+            $table.append(`
+                <tr>
+                <td colspan="2">
+                    <div class="entry"><span class="year">${w.year}</span><span>${w.name}</span></div>
+                </td>
+                </tr>
+            `);
+            }
+        });
+    </script>
   </body>
 </html>
