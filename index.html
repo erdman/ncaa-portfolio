@@ -161,118 +161,80 @@
         </div>
         
         <div id="Champions" class="tab-pane fade in container mt-3">
-            <table id="champions_table" class="display nowrap table table-hover table-bordered" cellspacing="0" width="100%">
-            </table>
+            <div id="featured_winner" class="featured_container"></div>
+            <div id="champions_list">
+              </div>
         </div>
+
         <style>
-        /* Scope everything to #Champions */
-        #Champions {
-        /* font-family: Georgia, serif; */
-        background: #ffffff;
-        color: #000000;
-        max-width: 640px;
-        margin: 40px auto;
-        }
+            #Champions {
+            /* font-family: Georgia, serif; */
+            margin-top: 40px;
+            max-width: 800px;
+            }
 
-        #Champions h1 {
-        text-align: center;
-        text-transform: uppercase;
-        letter-spacing: 0.25em;
-        font-size: 1.4rem;
-        margin-bottom: 24px;
-        }
-
-        /* ===== TABLE ===== */
-        #Champions table {
-        width: 100%;
-        border-collapse: collapse;
-        table-layout: fixed;
-        }
-
-        #Champions th,
-        #Champions td {
-        padding: 8px 10px;
-        vertical-align: top;
-        font-size: 1.05rem;
-        }
-
-        #Champions .featured th {
+            /* Featured Section */
+            .featured_container {
             text-align: center;
+            padding: 30px 15px;
             border-bottom: 2px solid #0a6fac;
-            padding-bottom: 14px;
-        }
-        
-        #Champions .year {
+            margin-bottom: 20px;
+            }
+
+            .featured_name {
+            font-size: 2rem;
+            font-weight: bold;
+            /* text-transform: uppercase; */
+            display: block; /* Ensures name is on top */
+            }
+
+            .featured_year {
+            font-size: 1.3rem;
             font-weight: bold;
             color: #0a6fac;
-            white-space: nowrap;
-        }
-        
-        #Champions .featured .year {
-            display: block;
-            font-size: 1.2rem;
-        }
-        
-        #Champions .featured .name {
-            display: block;
-            font-size: 1.3rem;
-            margin-top: 4px;
-        }
-        
-        #Champions .entry {
+            margin-top: 5px;
+            display: block; /* Ensures year is on bottom */
+            }
+
+            /* The Column Logic */
+            #champions_list {
+            column-count: 2;
+            column-gap: 20px; /* Was 40px-50px; smaller gap helps grouping */
+            column-rule: 1px solid #f0f0f0;  /* Optional: Add a vertical line between columns for extra clarity */
+            }
+
+            /* 2. Switch back to space-between but add side padding */
+            .champion_entry {
             display: flex;
-            justify-content: space-between;
-            gap: 12px;
-        }
-        
-        #Champions td + td {
-            border-left: 1px solid #0a6fac;
-        }
-        
-        #Champions #champions_table {
-            width: 100%;
-            border-collapse: collapse;
-            column-count: 2;      /* 2 columns on desktop */
-            column-gap: 20px;
-        }
-        
-        /* ===== MOBILE ===== */
-        @media (max-width: 600px) {
-            #Champions table {
-                table-layout: auto;
+            justify-content: space-between; 
+            padding: 10px 15px; /* Added 15px horizontal padding */
+            border-bottom: 1px solid #eee;
+            break-inside: avoid;
             }
-            #Champions td,
-            #Champions th {
-                display: block;
-                width: 100%;
-                border-left: none;
-                padding-left: 0;
-                padding-right: 0;
-            }
-            #Champions td + td {
-            border-left: none;
-        }
-        
-        #Champions .entry {
-            justify-content: space-between; /* year left, name right */
-            gap: 8px;
-        }
-        
-        #Champions .featured th {
-            text-align: center;
-        }
-        
-        #Champions .featured .name {
+
+            .year {
             font-weight: bold;
-            font-size: 1.5rem;
-            display: block;
-            margin-top: 4px;
-        }
-        #Champions #champions_table {
-            column-count: 1;    /* single column on mobile */
-        }
-    }
-    </style>
+            color: #555;
+            width: 50px; /* Gives every year the same space, lining up the names */
+            flex-shrink: 0; /* Prevents the year from getting squished */
+            }
+
+            .name {
+            color: #000;
+            padding-left: 10px; /* The specific gap between year and name */
+            }
+
+            /* Mobile: Single Column */
+            @media (max-width: 767px) {
+            #champions_list {
+                column-count: 1;
+            }
+            
+            .year {
+                width: 60px; /* Slightly more room for the year on mobile if needed */
+            }
+            }
+        </style>
 
 <div id="Rules" class="tab-pane fade in container mt-3">
     <table id="rules_table" class="display nowrap table table-hover table-bordered table-sm" cellspacing="0" align="center">
@@ -394,50 +356,46 @@
     <script type="text/javascript" language="javascript" src="index.js?v=20250101"></script>
 <!-- generate styled champions_table -->
     <script>
-        $(document).ready(function() {
+        $(function() {
             const winners = [
-                { year: 2025, name: "Alex Morgan" },
-                { year: 2024, name: "Jordan Lee" },
-                { year: 2023, name: "Taylor Smith" },
-                { year: 2022, name: "Riley Chen" },
-                { year: 2021, name: "Morgan Diaz" },
-                { year: 2020, name: "Chris Patel" },
-                { year: 2019, name: "Jamie O’Neil" },
-                { year: 2018, name: "Dana Brooks" },
-                { year: 2017, name: "Sam Nguyen" },
-                { year: 2016, name: "Alex Rivera" },
-                { year: 2015, name: "Pat Johnson" },
-                { year: 2014, name: "Casey Wright" },
-                { year: 2013, name: "Robin Clark" },
-                { year: 2012, name: "Drew Adams" },
-                { year: 2011, name: "Leslie Park" },
-                { year: 2010, name: "Cameron Scott" }
+                { year: 2024, name: "Will Mueller" },
+                { year: 2023, name: "TJ Nolan" },
+                { year: 2022, name: "Nate Pitzel" },
+                { year: 2021, name: "Travis Erdman" },
+                { year: 2020, name: "Adam Cortese" },
+                { year: 2019, name: "Trevor Pitzel" },
+                { year: 2018, name: "William Hagerman" },
+                { year: 2017, name: "Travis Erdman" },
+                { year: 2016, name: "Jason Kopka" },
+                { year: 2015, name: "Travis Erdman" },
+                { year: 2014, name: "Steve Schubert" },
+                { year: 2013, name: "TJ Nolan" },
+                { year: 2012, name: "Tony Andronaco" },
+                { year: 2011, name: "Chris Bly" },
+                { year: 2010, name: "TJ Nolan" },
+                { year: 2009, name: "Tony Andronaco" },
+                { year: 2008, name: "David Nielsen" },
             ];
 
-            const $table = $("#Champions #champions_table");
+            const $list = $("#champions_list");
 
-            // FEATURED WINNER
+            // 1. Featured Champion
             const featured = winners[0];
-            $table.append(`
-                <tr class="featured">
-                <th colspan="2">
-                    <span class="year">${featured.year}</span>
-                    <span class="name">${featured.name}</span>
-                </th>
-                </tr>
+            $("#featured_winner").html(`
+                <div class="featured_name">${featured.name}</div>
+                <div class="featured_year">${featured.year}</div>
             `);
 
-            // Insert all remaining winners in order
-            for (let i = 1; i < winners.length; i++) {
-            const w = winners[i];
-            $table.append(`
-                <tr>
-                <td colspan="2">
-                    <div class="entry"><span class="year">${w.year}</span><span>${w.name}</span></div>
-                </td>
-                </tr>
-            `);
-            }
+            // 2. Remaining Champions
+            const remaining = winners.slice(1);
+            remaining.forEach(winner => {
+                $list.append(`
+                <div class="champion_entry">
+                    <span class="year">${winner.year}</span>
+                    <span class="name">${winner.name}</span>
+                </div>
+                `);
+            });
         });
     </script>
   </body>
