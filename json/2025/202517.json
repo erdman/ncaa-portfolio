@@ -69,36 +69,36 @@
   },
   {
     "startDate": "2026-01-10T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401769074,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "56",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "15-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "22",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "13-2"
     }
   },
   {
     "startDate": "2026-01-09T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401769075,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "27",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "13-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "31",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "13-2"
     }
   },
   {
@@ -108,13 +108,13 @@
     "home": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Indiana",
       "description": ""
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
-      "nameRaw": "TBD",
+      "nameRaw": "Miami",
       "description": ""
     }
   },
