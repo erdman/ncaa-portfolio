@@ -103,19 +103,19 @@
   },
   {
     "startDate": "2026-01-20T00:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401769076,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "27",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "16-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "21",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "13-3"
     }
   },
   {
