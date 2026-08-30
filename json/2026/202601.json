@@ -273,19 +273,19 @@
   },
   {
     "startDate": "2026-08-29T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856766,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
@@ -408,7 +408,7 @@
     }
   },
   {
-    "startDate": "2026-09-06T01:00Z",
+    "startDate": "2026-09-06T02:00Z",
     "gameState": "Scheduled",
     "id": 401856774,
     "home": {
@@ -528,36 +528,36 @@
   },
   {
     "startDate": "2026-08-29T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858201,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Stanford",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2026-08-29T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858202,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "8",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1055,19 +1055,19 @@
   },
   {
     "startDate": "2026-08-30T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401862693,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "0-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
@@ -1259,19 +1259,19 @@
   },
   {
     "startDate": "2026-08-29T19:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864494,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "42",
       "nameRaw": "USC",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1361,53 +1361,53 @@
   },
   {
     "startDate": "2026-08-29T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864570,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2026-08-29T21:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864577,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "North Dakota State",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2026-08-29T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866408,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Sacramento State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
