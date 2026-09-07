@@ -120,19 +120,19 @@
   },
   {
     "startDate": "2026-09-06T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856661,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "41",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "38",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -953,36 +953,36 @@
   },
   {
     "startDate": "2026-09-06T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858437,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "24",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
     "startDate": "2026-09-06T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858438,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "41",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "1-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "0-1"
     }
   },
   {
@@ -1509,7 +1509,7 @@
       "teamRank": 99,
       "currentScore": "14",
       "nameRaw": "Murray State",
-      "description": "0-1"
+      "description": "0-2"
     }
   },
   {
