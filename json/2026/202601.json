@@ -681,19 +681,19 @@
   },
   {
     "startDate": "2026-09-07T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858212,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Florida State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "27",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "1-0"
     }
   },
   {
