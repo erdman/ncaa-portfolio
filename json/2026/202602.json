@@ -1,1464 +1,1464 @@
 [
   {
-    "startDate": "2026-09-13T02:15Z",
-    "gameState": "Scheduled",
+    "startDate": "2026-09-13T02:30Z",
+    "gameState": "Final",
     "id": 401856670,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 20,
+      "currentScore": "43",
       "nameRaw": "Utah",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Arkansas",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
-    "startDate": "2026-09-12T23:45Z",
-    "gameState": "Scheduled",
+    "startDate": "2026-09-13T00:50Z",
+    "gameState": "Final",
     "id": 401856671,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "43",
       "nameRaw": "Auburn",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "8",
       "nameRaw": "Southern Miss",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T21:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856672,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Florida",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Campbell",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T16:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856673,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 2,
+      "currentScore": "70",
       "nameRaw": "Georgia",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Western Kentucky",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856674,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Kentucky",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 12,
+      "currentScore": "45",
       "nameRaw": "Alabama",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T23:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856676,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 9,
+      "currentScore": "41",
       "nameRaw": "Ole Miss",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Charlotte",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856677,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Minnesota",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Mississippi State",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856678,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Kansas",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 23,
+      "currentScore": "38",
       "nameRaw": "Missouri",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856679,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Michigan",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 11,
+      "currentScore": "10",
       "nameRaw": "Oklahoma",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856680,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "South Carolina",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Towson",
-      "description": ""
+      "description": "0-3"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856681,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Georgia Tech",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 18,
+      "currentScore": "45",
       "nameRaw": "Tennessee",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856682,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 4,
+      "currentScore": "24",
       "nameRaw": "Texas",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 1,
+      "currentScore": "23",
       "nameRaw": "Ohio State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856683,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 10,
+      "currentScore": "48",
       "nameRaw": "Texas A&M",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Arizona State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T20:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856684,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Vanderbilt",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Delaware",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856781,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Kansas State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Washington State",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
-    "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2026-09-12T17:30Z",
+    "gameState": "Final",
     "id": 401856782,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "39",
       "nameRaw": "Oklahoma State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 6,
+      "currentScore": "31",
       "nameRaw": "Oregon",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856783,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Oregon State",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 13,
+      "currentScore": "35",
       "nameRaw": "Texas Tech",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
-    "startDate": "2026-09-13T00:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2026-09-13T00:08Z",
+    "gameState": "Final",
     "id": 401856784,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Baylor",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Prairie View A&M",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856785,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Colorado",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Weber State",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856786,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "62",
       "nameRaw": "Cincinnati",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Western Carolina",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856787,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 22,
+      "currentScore": "77",
       "nameRaw": "Houston",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "Southern",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856788,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 21,
+      "currentScore": "16",
       "nameRaw": "Iowa",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Iowa State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-13T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856789,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "63",
       "nameRaw": "TCU",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Grambling",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856790,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "12",
       "nameRaw": "Pittsburgh",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "UCF",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856791,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "West Virginia",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "UT Martin",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401856810,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 15,
+      "currentScore": "28",
       "nameRaw": "BYU",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Arizona",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-11T00:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858213,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 7,
+      "currentScore": "77",
       "nameRaw": "Miami",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Florida A&M",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-11T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858214,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Boston College",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Rutgers",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-11T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858215,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 24,
+      "currentScore": "59",
       "nameRaw": "Louisville",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Villanova",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858216,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "18",
       "nameRaw": "Syracuse",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "California",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858217,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Illinois",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Duke",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858218,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "North Carolina",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "East Tennessee State",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
-    "startDate": "2026-09-12T23:30Z",
-    "gameState": "Scheduled",
+    "startDate": "2026-09-13T01:30Z",
+    "gameState": "Final",
     "id": 401858219,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "22",
       "nameRaw": "Clemson",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Georgia Southern",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-11T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858220,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 25,
+      "currentScore": "59",
       "nameRaw": "Virginia",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Norfolk State",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858221,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "Virginia Tech",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Old Dominion",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-11T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858222,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "73",
       "nameRaw": "NC State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Richmond",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858223,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 17,
+      "currentScore": "56",
       "nameRaw": "SMU",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "UC Davis",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858224,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "36",
       "nameRaw": "Purdue",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Wake Forest",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858439,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 5,
+      "currentScore": "55",
       "nameRaw": "Indiana",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Howard",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858440,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "35",
       "nameRaw": "Michigan State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Eastern Michigan",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858441,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "56",
       "nameRaw": "Nebraska",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Bowling Green",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858442,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Temple",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 16,
+      "currentScore": "27",
       "nameRaw": "Penn State",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T23:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858443,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "UCLA",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "San Diego State",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858444,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "UConn",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Maryland",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-13T03:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858445,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 14,
+      "currentScore": "49",
       "nameRaw": "USC",
-      "description": ""
+      "description": "3-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Louisiana",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858446,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 19,
+      "currentScore": "16",
       "nameRaw": "Washington",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Utah State",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-12T23:15Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401858447,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "36",
       "nameRaw": "Wisconsin",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "9",
       "nameRaw": "Western Illinois",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401859184,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 3,
+      "currentScore": "52",
       "nameRaw": "Notre Dame",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
       "currentScore": "0",
       "nameRaw": "Rice",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401860881,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Boise State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Memphis",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401860882,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "58",
       "nameRaw": "Colorado State",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Southern Utah",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-13T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401860883,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Fresno State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Sacramento State",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401860884,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Texas State",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "UTSA",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401862702,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Army",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "South Florida",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401862703,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "Florida Atlantic",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "Navy",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T19:45Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401862705,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "44",
       "nameRaw": "North Texas",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "6",
       "nameRaw": "UNLV",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401862707,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Sam Houston",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Tulsa",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401862708,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "UAB",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "UL Monroe",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-13T02:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864500,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Nevada",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Montana State",
-      "description": ""
+      "description": "3-0"
     }
   },
   {
     "startDate": "2026-09-13T02:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864502,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "32",
       "nameRaw": "Air Force",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "38",
       "nameRaw": "North Dakota State",
-      "description": ""
+      "description": "3-0"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864503,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Northern Illinois",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Illinois State",
-      "description": ""
+      "description": "3-0"
     }
   },
   {
     "startDate": "2026-09-13T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864504,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "30",
       "nameRaw": "San José State",
-      "description": ""
+      "description": "2-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Cal Poly",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-13T01:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864505,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "51",
       "nameRaw": "UTEP",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Texas Southern",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864506,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "21",
       "nameRaw": "Wyoming",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Northern Colorado",
-      "description": ""
+      "description": "0-3"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864571,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "East Carolina",
-      "description": ""
+      "description": "0-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "App State",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864575,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Tulane",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "South Alabama",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-13T03:59Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401864578,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Hawai'i",
-      "description": ""
+      "description": "1-2"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "19",
       "nameRaw": "New Mexico State",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401865252,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "70",
       "nameRaw": "New Mexico",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Mercyhurst",
-      "description": ""
+      "description": "0-3"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866412,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Akron",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Robert Morris",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T18:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866413,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "41",
       "nameRaw": "Ball State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Stony Brook",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866414,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "33",
       "nameRaw": "Florida International",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "20",
       "nameRaw": "Buffalo",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866415,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "13",
       "nameRaw": "Central Michigan",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Colgate",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T16:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866416,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "36",
       "nameRaw": "Kent State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "15",
       "nameRaw": "Wofford",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T17:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866417,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Miami (OH)",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Holy Cross",
-      "description": ""
+      "description": "0-3"
     }
   },
   {
     "startDate": "2026-09-12T22:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866418,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "29",
       "nameRaw": "Ohio",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "27",
       "nameRaw": "Jacksonville State",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866419,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "63",
       "nameRaw": "Toledo",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Central Connecticut",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866420,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "37",
       "nameRaw": "Massachusetts",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "10",
       "nameRaw": "Sacred Heart",
-      "description": ""
+      "description": "0-2"
     }
   },
   {
     "startDate": "2026-09-12T22:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401866421,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "49",
       "nameRaw": "Western Michigan",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Monmouth",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401867796,
     "home": {
-      "teamRank": 99,
-      "currentScore": "0",
+      "teamRank": 8,
+      "currentScore": "45",
       "nameRaw": "LSU",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Louisiana Tech",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
-    "startDate": "2026-09-12T19:30Z",
-    "gameState": "Scheduled",
+    "startDate": "2026-09-12T16:00Z",
+    "gameState": "Final",
     "id": 401867929,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "87",
       "nameRaw": "James Madison",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "3",
       "nameRaw": "Wagner",
-      "description": ""
+      "description": "1-2"
     }
   },
   {
     "startDate": "2026-09-12T23:30Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401868008,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "45",
       "nameRaw": "Coastal Carolina",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "Fordham",
-      "description": ""
+      "description": "0-3"
     }
   },
   {
-    "startDate": "2026-09-12T22:00Z",
-    "gameState": "Scheduled",
+    "startDate": "2026-09-12T16:00Z",
+    "gameState": "Final",
     "id": 401868187,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "24",
       "nameRaw": "Liberty",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "23",
       "nameRaw": "Gardner-Webb",
-      "description": ""
+      "description": "0-3"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401868241,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "52",
       "nameRaw": "Arkansas State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "7",
       "nameRaw": "West Georgia",
-      "description": ""
+      "description": "0-3"
     }
   },
   {
     "startDate": "2026-09-12T20:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401868326,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "34",
       "nameRaw": "Troy",
-      "description": ""
+      "description": "2-0"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Alabama State",
-      "description": ""
+      "description": "2-1"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401869955,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "17",
       "nameRaw": "Kennesaw State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "31",
       "nameRaw": "Georgia State",
-      "description": ""
+      "description": "2-0"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401871045,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "28",
       "nameRaw": "Marshall",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "26",
       "nameRaw": "Middle Tennessee",
-      "description": ""
+      "description": "1-1"
     }
   },
   {
     "startDate": "2026-09-12T23:00Z",
-    "gameState": "Scheduled",
+    "gameState": "Final",
     "id": 401871046,
     "home": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "48",
       "nameRaw": "Missouri State",
-      "description": ""
+      "description": "1-1"
     },
     "away": {
       "teamRank": 99,
-      "currentScore": "0",
+      "currentScore": "14",
       "nameRaw": "Lindenwood",
-      "description": ""
+      "description": "1-2"
     }
   }
 ]
