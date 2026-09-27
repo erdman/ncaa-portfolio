@@ -780,5 +780,22 @@
       "nameRaw": "TBD",
       "description": ""
     }
+  },
+  {
+    "startDate": "2027-01-02T21:30Z",
+    "gameState": "Scheduled",
+    "id": 401923399,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
   }
 ]
