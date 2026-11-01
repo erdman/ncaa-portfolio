@@ -797,5 +797,22 @@
       "nameRaw": "TBD",
       "description": ""
     }
+  },
+  {
+    "startDate": "2026-12-16T05:00Z",
+    "gameState": "Scheduled",
+    "id": 401932016,
+    "home": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    },
+    "away": {
+      "teamRank": 99,
+      "currentScore": "0",
+      "nameRaw": "TBD",
+      "description": ""
+    }
   }
 ]
